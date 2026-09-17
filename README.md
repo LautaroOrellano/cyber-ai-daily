@@ -69,8 +69,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 ## ⚙️ ¿Cómo funciona este periódico digital?
 
 1. **Disparador Diario:** Cada mañana a las 11:00 UTC, un workflow de GitHub Actions (`.github/workflows/daily_edition.yml`) se inicia automáticamente.
-2. **Extracción Anti-Publicidad:** Un script en Python ingresa a los sitios web originales y extrae el cuerpo puro del artículo, purgando anuncios, menús y pop-ups.
-3. **Traducción y Resumen en Español:** Procesa los puntos clave de cada noticia y los traduce al español en formato de viñetas claras (¿Qué pasó?, Detalles clave, Impacto).
+2. **Traducción y Resumen en Español:** Procesa los puntos clave de cada noticia y los traduce al español en formato de viñetas claras (¿Qué pasó?, Detalles clave, Impacto).
 4. **Publicación Autónoma:** Genera la edición del día en `editions/` y actualiza esta portada (`README.md`), dejando un commit y push automático.
 
 ⭐ *Si te resulta útil para mantenerte al día con IA y Ciberseguridad, déjale una estrella al repositorio.*
