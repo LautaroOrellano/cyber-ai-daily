@@ -9,7 +9,6 @@ def translate_to_spanish(text: str, max_chars: int = 350) -> str:
     
     clean_text = text.strip()
     if len(clean_text) > max_chars:
-        # Cut cleanly at last space
         cut = clean_text[:max_chars]
         last_sp = cut.rfind(" ")
         if last_sp != -1:
@@ -27,14 +26,24 @@ def translate_to_spanish(text: str, max_chars: int = 350) -> str:
         
     return clean_text
 
+def truncate_clean(text: str, max_chars: int = 320) -> str:
+    """Truncates text at the last word cleanly."""
+    if len(text) <= max_chars:
+        return text
+    cut = text[:max_chars]
+    last_sp = cut.rfind(" ")
+    return (cut[:last_sp] if last_sp != -1 else cut) + "..."
+
 def extract_and_summarize(url: str, default_title: str, default_summary: str) -> dict:
     """
     Visits the article webpage, strips 100% of ads, navigation, and banners,
-    extracts the core body paragraphs, and produces a structured 3-bullet Spanish summary.
+    extracts the core body paragraphs, and produces structured bullet summaries
+    in both English (default) and Spanish.
     """
-    print(f"🌐 Extrayendo contenido limpio de: {url}")
+    print(f"🌐 Scraping clean text from: {url}")
     
-    title_es = translate_to_spanish(default_title, max_chars=180) or default_title
+    title_en = default_title.strip()
+    title_es = translate_to_spanish(title_en, max_chars=180) or title_en
     
     body_text = None
     try:
@@ -51,38 +60,51 @@ def extract_and_summarize(url: str, default_title: str, default_summary: str) ->
 
     paragraphs = []
     if body_text:
-        # Filter paragraphs with substantial content (ignore small fragments, author tags, etc.)
         raw_paras = [p.strip() for p in body_text.split("\n") if len(p.strip()) > 60]
-        # Ignore boilerplate lines
         blacklist = ["cookie", "privacy policy", "all rights reserved", "subscribe", "newsletter", "sign up", "terms of use"]
         for p in raw_paras:
             if not any(b in p.lower() for b in blacklist):
                 paragraphs.append(p)
                 
-    bullets = []
-    labels = [
-        ("📌 **¿Qué sucedió?**", "¿Qué sucedió?"),
-        ("🔍 **Detalles clave**", "Detalles clave"),
-        ("💡 **Impacto y contexto**", "Impacto y contexto")
+    bullets_en = []
+    bullets_es = []
+    
+    labels_en = [
+        "📌 **What happened?**",
+        "🔍 **Key details**",
+        "💡 **Context & Impact**"
+    ]
+    labels_es = [
+        "📌 **¿Qué sucedió?**",
+        "🔍 **Detalles clave**",
+        "💡 **Impacto y contexto**"
     ]
     
     if len(paragraphs) >= 2:
-        # Use top 2-3 clean paragraphs
         chosen = paragraphs[:3]
         for idx, para in enumerate(chosen):
-            prefix = labels[idx][0] if idx < len(labels) else "🔹 **Detalle adicional**"
-            translated_p = translate_to_spanish(para, max_chars=320)
-            bullets.append(f"{prefix}: {translated_p}")
-            time.sleep(0.3) # small throttle between calls
+            lbl_en = labels_en[idx] if idx < len(labels_en) else "🔹 **Additional detail**"
+            lbl_es = labels_es[idx] if idx < len(labels_es) else "🔹 **Detalle adicional**"
+            
+            clean_en = truncate_clean(para, max_chars=320)
+            bullets_en.append(f"{lbl_en}: {clean_en}")
+            
+            trans_es = translate_to_spanish(para, max_chars=320)
+            bullets_es.append(f"{lbl_es}: {trans_es}")
+            time.sleep(0.3)
     else:
-        # Fallback to the RSS summary if the page extraction was blocked
-        translated_fallback = translate_to_spanish(default_summary, max_chars=320)
-        bullets.append(f"📌 **¿Qué sucedió?**: {translated_fallback}")
-        bullets.append("🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura extendida.")
+        clean_fallback_en = truncate_clean(default_summary, max_chars=320)
+        bullets_en.append(f"📌 **What happened?**: {clean_fallback_en}")
+        bullets_en.append("🔍 **Key details**: Read the full original coverage in the link below.")
+        
+        fallback_es = translate_to_spanish(default_summary, max_chars=320)
+        bullets_es.append(f"📌 **¿Qué sucedió?**: {fallback_es}")
+        bullets_es.append("🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.")
 
     return {
+        "title_en": title_en,
         "title_es": title_es,
-        "title_en": default_title,
-        "bullets": bullets,
+        "bullets_en": bullets_en,
+        "bullets_es": bullets_es,
         "url": url
     }

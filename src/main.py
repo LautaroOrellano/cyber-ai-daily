@@ -13,6 +13,7 @@ from article_extractor import extract_and_summarize
 from renderer import (
     generate_edition_markdown,
     generate_readme_markdown,
+    generate_readme_es_markdown,
     load_archive_index,
     save_archive_index
 )
@@ -22,6 +23,7 @@ def run():
     editions_dir = os.path.join(base_dir, "editions")
     archive_json_path = os.path.join(editions_dir, "archive.json")
     readme_path = os.path.join(base_dir, "README.md")
+    readme_es_path = os.path.join(base_dir, "README.es.md")
     
     print("🚀 [The CyberAI Gazette] Iniciando pipeline de recopilación diaria...")
     
@@ -50,11 +52,12 @@ def run():
     for i, item in enumerate(news, 1):
         print(f"   [{i}/{len(news)}] Procesando: {item['title'][:60]}...")
         extracted = extract_and_summarize(item["link"], item["title"], item["summary"])
-        item["title_es"] = extracted["title_es"]
         item["title_en"] = extracted["title_en"]
-        item["bullets"] = extracted["bullets"]
+        item["title_es"] = extracted["title_es"]
+        item["bullets_en"] = extracted["bullets_en"]
+        item["bullets_es"] = extracted["bullets_es"]
         
-    # Generate daily edition file
+    # Generate daily edition file (archive)
     target_edition_dir = os.path.join(editions_dir, year_str, month_str)
     os.makedirs(target_edition_dir, exist_ok=True)
     edition_filename = f"{date_str}.md"
@@ -73,8 +76,8 @@ def run():
         "edition": edition_number,
         "date": date_str,
         "rel_path": rel_path,
-        "title": lead_story["title"],
-        "title_es": lead_story.get("title_es", lead_story["title"]),
+        "title_en": lead_story["title_en"],
+        "title_es": lead_story["title_es"],
         "category": lead_story["category"],
         "source": lead_story["source"],
         "lead_link": lead_story["link"]
@@ -90,11 +93,18 @@ def run():
     save_archive_index(archive_json_path, archive)
     print("💾 Hemeroteca / archive.json actualizado.")
     
-    # Generate README
+    # Generate README.md (English - Default)
     readme_content = generate_readme_markdown(edition_number, now, news, archive)
     with open(readme_path, "w", encoding="utf-8") as f:
         f.write(readme_content)
-    print(f"📰 Portada README.md actualizada con la Edición N° {edition_number}.")
+    print(f"📰 Portada principal en inglés (README.md) actualizada.")
+    
+    # Generate README.es.md (Spanish version)
+    readme_es_content = generate_readme_es_markdown(edition_number, now, news, archive)
+    with open(readme_es_path, "w", encoding="utf-8") as f:
+        f.write(readme_es_content)
+    print(f"📰 Portada alternativa en español (README.es.md) actualizada.")
+    
     print("🎉 Pipeline completado con éxito.")
 
 if __name__ == "__main__":
