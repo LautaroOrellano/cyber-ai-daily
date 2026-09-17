@@ -29,6 +29,12 @@ def save_archive_index(archive_path: str, data: list):
     with open(archive_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
+def render_story_bullets(item: dict) -> str:
+    bullets = item.get("bullets", [])
+    if bullets:
+        return "\n\n".join(f"- {b}" for b in bullets)
+    return item.get("summary", "Sin resumen disponible.")
+
 def generate_edition_markdown(edition_number: int, dt: datetime, news: list) -> str:
     """Generates the markdown for a specific edition file."""
     human_date = format_date_human(dt)
@@ -40,7 +46,7 @@ def generate_edition_markdown(edition_number: int, dt: datetime, news: list) -> 
     lines = [
         f"# 🗞️ The CyberAI Gazette — Edición N° {edition_number}",
         f"> **📅 Fecha:** {human_date}",
-        "> **Resumen diario automatizado de Inteligencia Artificial & Ciberseguridad**",
+        "> **Resumen diario automatizado de Inteligencia Artificial & Ciberseguridad (100% en Español)**",
         "",
         "---",
         ""
@@ -48,15 +54,18 @@ def generate_edition_markdown(edition_number: int, dt: datetime, news: list) -> 
     
     if lead:
         cat_badge = CATEGORY_LABELS.get(lead["category"], "🌐 Tecnología")
+        title_es = lead.get("title_es") or lead["title"]
+        title_en = lead.get("title_en") or lead["title"]
         lines.extend([
             "## 📢 TITULAR PRINCIPAL DE PORTADA",
             "",
-            f"### [{lead['title']}]({lead['link']})",
+            f"### [{title_es}]({lead['link']})",
             f"> **Categoría:** {cat_badge} | **Fuente:** {lead['source']}",
+            f"> *Título original:* `{title_en}`",
             "",
-            f"{lead['summary']}",
+            render_story_bullets(lead),
             "",
-            f"👉 **[Leer artículo completo en {lead['source']} ↗]({lead['link']})**",
+            f"👉 **[Ver artículo original en {lead['source']} (inglés) ↗]({lead['link']})**",
             "",
             "---",
             ""
@@ -67,13 +76,16 @@ def generate_edition_markdown(edition_number: int, dt: datetime, news: list) -> 
     for item in [col1, col2]:
         if item:
             cat_badge = CATEGORY_LABELS.get(item["category"], "🌐 Tecnología")
+            title_es = item.get("title_es") or item["title"]
+            title_en = item.get("title_en") or item["title"]
             lines.extend([
-                f"### 🔹 [{item['title']}]({item['link']})",
+                f"### 🔹 [{title_es}]({item['link']})",
                 f"> **Categoría:** {cat_badge} | **Fuente:** {item['source']}",
+                f"> *Título original:* `{title_en}`",
                 "",
-                f"{item['summary']}",
+                render_story_bullets(item),
                 "",
-                f"🔗 **[Leer nota en {item['source']} ↗]({item['link']})**",
+                f"🔗 **[Ver artículo original en {item['source']} (inglés) ↗]({item['link']})**",
                 "",
                 "---",
                 ""
@@ -81,8 +93,8 @@ def generate_edition_markdown(edition_number: int, dt: datetime, news: list) -> 
             
     lines.extend([
         "## ℹ️ Acerca de esta publicación",
-        "Este boletín ha sido generado de forma 100% autónoma mediante un pipeline de **GitHub Actions**.",
-        "Monitorea diariamente los principales feeds y portales de ciberseguridad e inteligencia artificial.",
+        "Este boletín ha sido generado y sintetizado de forma autónoma mediante un pipeline de **GitHub Actions**.",
+        "Extrae el texto completo de las noticias, elimina la publicidad/rastreadores y traduce los puntos esenciales al español.",
         "",
         "[⬅️ Volver a la portada principal](../../../README.md)"
     ])
@@ -92,7 +104,6 @@ def generate_edition_markdown(edition_number: int, dt: datetime, news: list) -> 
 def generate_readme_markdown(edition_number: int, dt: datetime, news: list, archive: list) -> str:
     """Generates the main README.md front page."""
     human_date = format_date_human(dt)
-    date_iso = dt.strftime("%Y-%m-%d")
     
     lead = news[0] if len(news) > 0 else None
     col1 = news[1] if len(news) > 1 else None
@@ -100,16 +111,17 @@ def generate_readme_markdown(edition_number: int, dt: datetime, news: list, arch
     
     lines = [
         "# 🗞️ THE CYBER-AI GAZETTE",
-        "### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Seguridad Digital*",
+        "### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*",
         "",
         f"> **📅 Edición de Hoy: N° {edition_number}** — *{human_date}*",
         "",
         "![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_" + str(edition_number) + "-black?style=for-the-badge)",
+        "![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)",
         "![Noticias](https://img.shields.io/badge/Noticias-3_Diarias-blue?style=for-the-badge)",
         "![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)",
-        "![Status](https://img.shields.io/badge/Estado-100%25_Aut%C3%B3nomo-success?style=for-the-badge)",
+        "![AdFree](https://img.shields.io/badge/Publicidad-0%25_Limpio-success?style=for-the-badge)",
         "",
-        "Bienvenido a **The CyberAI Gazette**, un periódico digital automatizado que se publica todos los días. Un pipeline en **GitHub Actions** rastrea la red, sintetiza las 3 novedades más impactantes sobre Inteligencia Artificial y Ciberseguridad, y emite una nueva tirada de noticias.",
+        "Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada día, un pipeline en **GitHub Actions** rastrea las principales fuentes mundiales de ciberseguridad e inteligencia artificial, extrae los artículos completos sin publicidad ni banners molestos, y genera un resumen ejecutivo **en español** directamente en este repositorio.",
         "",
         "---",
         ""
@@ -117,15 +129,17 @@ def generate_readme_markdown(edition_number: int, dt: datetime, news: list, arch
     
     if lead:
         cat_badge = CATEGORY_LABELS.get(lead["category"], "🌐 Tecnología")
+        title_es = lead.get("title_es") or lead["title"]
+        title_en = lead.get("title_en") or lead["title"]
         lines.extend([
             "## 📢 TITULAR PRINCIPAL (LEAD STORY)",
             "",
-            f"### 📌 [{lead['title']}]({lead['link']})",
-            f"> **Categoría:** {cat_badge} &nbsp;|&nbsp; **Fuente:** {lead['source']}",
+            f"### 📌 [{title_es}]({lead['link']})",
+            f"> **Categoría:** {cat_badge} &nbsp;|&nbsp; **Fuente:** {lead['source']} &nbsp;|&nbsp; *Original:* `{title_en}`",
             "",
-            f"{lead['summary']}",
+            render_story_bullets(lead),
             "",
-            f"👉 **[Leer artículo completo en {lead['source']} ↗]({lead['link']})**",
+            f"👉 **[Ver nota original completa en {lead['source']} (inglés) ↗]({lead['link']})**",
             "",
             "---",
             ""
@@ -136,13 +150,15 @@ def generate_readme_markdown(edition_number: int, dt: datetime, news: list, arch
     columns = [item for item in [col1, col2] if item]
     for idx, item in enumerate(columns, start=2):
         cat_badge = CATEGORY_LABELS.get(item["category"], "🌐 Tecnología")
+        title_es = item.get("title_es") or item["title"]
+        title_en = item.get("title_en") or item["title"]
         lines.extend([
-            f"### 🔹 Columna {idx}: [{item['title']}]({item['link']})",
-            f"> **Categoría:** {cat_badge} &nbsp;|&nbsp; **Fuente:** {item['source']}",
+            f"### 🔹 Columna {idx}: [{title_es}]({item['link']})",
+            f"> **Categoría:** {cat_badge} &nbsp;|&nbsp; **Fuente:** {item['source']} &nbsp;|&nbsp; *Original:* `{title_en}`",
             "",
-            f"{item['summary']}",
+            render_story_bullets(item),
             "",
-            f"🔗 **[Continuar leyendo en {item['source']} ↗]({item['link']})**",
+            f"🔗 **[Ver nota original completa en {item['source']} (inglés) ↗]({item['link']})**",
             "",
             "---",
             ""
@@ -152,19 +168,17 @@ def generate_readme_markdown(edition_number: int, dt: datetime, news: list, arch
     lines.extend([
         "## 🏛️ HEMEROTECA / EDICIONES ANTERIORES",
         "",
-        "Puedes consultar las ediciones publicadas anteriormente en la siguiente tabla:",
+        "Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes consultarlas aquí:",
         "",
-        "| Edición | Fecha | Titular de Portada | Tópico |",
+        "| Edición | Fecha | Titular de Portada (Español) | Tópico |",
         "| :---: | :---: | :--- | :---: |"
     ])
     
-    # Sort archive by edition descending, show up to last 15 in README
     sorted_archive = sorted(archive, key=lambda x: x["edition"], reverse=True)
     for entry in sorted_archive[:15]:
         ed_link = f"[{entry['edition']}]({entry['rel_path']})"
         cat_icon = "🛡️ Ciberseguridad" if entry.get("category") == "cyber" else "🤖 Inteligencia Artificial"
-        # Truncate title in table if too long
-        title = entry.get("title", "")
+        title = entry.get("title_es") or entry.get("title", "")
         if len(title) > 60:
             title = title[:57] + "..."
         lines.append(f"| #{ed_link} | {entry['date']} | [{title}]({entry.get('lead_link', '#')}) | {cat_icon} |")
@@ -172,19 +186,19 @@ def generate_readme_markdown(edition_number: int, dt: datetime, news: list, arch
     if len(sorted_archive) > 15:
         lines.append(f"\n*... y {len(sorted_archive) - 15} ediciones más en la carpeta `/editions`.*")
         
-    # Footer / How it works
+    # How it works section
     lines.extend([
         "",
         "---",
         "",
-        "## ⚙️ ¿Cómo funciona este repositorio?",
+        "## ⚙️ ¿Cómo funciona este periódico digital?",
         "",
-        "1. **Disparador Programado:** Cada día a las 11:00 UTC, un workflow de GitHub Actions (`.github/workflows/daily_edition.yml`) se despierta automáticamente.",
-        "2. **Extracción y Curación:** Un script en Python consulta feeds RSS de fuentes líderes (*The Hacker News, Dark Reading, TechCrunch AI, MIT Tech Review*).",
-        "3. **Selección Inteligente:** Selecciona las 3 noticias más recientes y de mayor impacto, alternando entre ciberseguridad y novedades en modelos/agentes de IA.",
-        "4. **Publicación y Versionado:** Archiva la edición en `editions/` y actualiza esta portada (`README.md`), haciendo un `git commit` y `git push` autónomo.",
+        "1. **Disparador Diario:** Cada mañana a las 11:00 UTC, un workflow de GitHub Actions (`.github/workflows/daily_edition.yml`) se inicia automáticamente.",
+        "2. **Extracción Anti-Publicidad:** Un script en Python ingresa a los sitios web originales y extrae el cuerpo puro del artículo, purgando anuncios, menús y pop-ups.",
+        "3. **Traducción y Resumen en Español:** Procesa los puntos clave de cada noticia y los traduce al español en formato de viñetas claras (¿Qué pasó?, Detalles clave, Impacto).",
+        "4. **Publicación Autónoma:** Genera la edición del día en `editions/` y actualiza esta portada (`README.md`), dejando un commit y push automático.",
         "",
-        "⭐ *Si te resulta útil para mantenerte al día, no dudes en dejarle una estrella al repositorio.*"
+        "⭐ *Si te resulta útil para mantenerte al día con IA y Ciberseguridad, déjale una estrella al repositorio.*"
     ])
     
     return "\n".join(lines)

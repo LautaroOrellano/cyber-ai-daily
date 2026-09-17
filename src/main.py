@@ -9,6 +9,7 @@ if hasattr(sys.stderr, "reconfigure"):
 
 from datetime import datetime, timezone
 from fetcher import get_top_3_news
+from article_extractor import extract_and_summarize
 from renderer import (
     generate_edition_markdown,
     generate_readme_markdown,
@@ -45,9 +46,13 @@ def run():
         print("❌ No se pudieron obtener noticias hoy. Abortando sin modificar archivos.")
         sys.exit(0)
         
-    print(f"✅ Se seleccionaron exitosamente {len(news)} noticias destacadas:")
+    print(f"✅ Se seleccionaron {len(news)} noticias destacadas. Iniciando extracción limpia y traducción...")
     for i, item in enumerate(news, 1):
-        print(f"   {i}. [{item['category'].upper()}] {item['title']} ({item['source']})")
+        print(f"   [{i}/3] Procesando: {item['title'][:60]}...")
+        extracted = extract_and_summarize(item["link"], item["title"], item["summary"])
+        item["title_es"] = extracted["title_es"]
+        item["title_en"] = extracted["title_en"]
+        item["bullets"] = extracted["bullets"]
         
     # Generate daily edition file
     target_edition_dir = os.path.join(editions_dir, year_str, month_str)
@@ -69,6 +74,7 @@ def run():
         "date": date_str,
         "rel_path": rel_path,
         "title": lead_story["title"],
+        "title_es": lead_story.get("title_es", lead_story["title"]),
         "category": lead_story["category"],
         "source": lead_story["source"],
         "lead_link": lead_story["link"]
