@@ -8,7 +8,7 @@ if hasattr(sys.stderr, "reconfigure"):
     sys.stderr.reconfigure(encoding="utf-8")
 
 from datetime import datetime, timezone
-from fetcher import get_top_3_news
+from fetcher import get_top_news
 from article_extractor import extract_and_summarize
 from renderer import (
     generate_edition_markdown,
@@ -40,15 +40,15 @@ def run():
         edition_number = len(archive) + 1
         print(f"✨ Creando nueva edición N° {edition_number} ({date_str})...")
         
-    # Fetch news
-    news = get_top_3_news()
+    # Fetch news (5 daily stories)
+    news = get_top_news(n=5)
     if not news:
         print("❌ No se pudieron obtener noticias hoy. Abortando sin modificar archivos.")
         sys.exit(0)
         
     print(f"✅ Se seleccionaron {len(news)} noticias destacadas. Iniciando extracción limpia y traducción...")
     for i, item in enumerate(news, 1):
-        print(f"   [{i}/3] Procesando: {item['title'][:60]}...")
+        print(f"   [{i}/{len(news)}] Procesando: {item['title'][:60]}...")
         extracted = extract_and_summarize(item["link"], item["title"], item["summary"])
         item["title_es"] = extracted["title_es"]
         item["title_en"] = extracted["title_en"]

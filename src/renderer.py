@@ -40,13 +40,12 @@ def generate_edition_markdown(edition_number: int, dt: datetime, news: list) -> 
     human_date = format_date_human(dt)
     
     lead = news[0] if len(news) > 0 else None
-    col1 = news[1] if len(news) > 1 else None
-    col2 = news[2] if len(news) > 2 else None
+    secondary_stories = news[1:] if len(news) > 1 else []
     
     lines = [
         f"# 🗞️ The CyberAI Gazette — Edición N° {edition_number}",
         f"> **📅 Fecha:** {human_date}",
-        "> **Resumen diario automatizado de Inteligencia Artificial & Ciberseguridad (100% en Español)**",
+        f"> **Resumen diario automatizado ({len(news)} noticias destacadas de IA & Ciberseguridad)**",
         "",
         "---",
         ""
@@ -73,24 +72,23 @@ def generate_edition_markdown(edition_number: int, dt: datetime, news: list) -> 
         
     lines.append("## 📰 OTRAS NOTICIAS DESTACADAS DE ESTA EDICIÓN\n")
     
-    for item in [col1, col2]:
-        if item:
-            cat_badge = CATEGORY_LABELS.get(item["category"], "🌐 Tecnología")
-            title_es = item.get("title_es") or item["title"]
-            title_en = item.get("title_en") or item["title"]
-            lines.extend([
-                f"### 🔹 [{title_es}]({item['link']})",
-                f"> **Categoría:** {cat_badge} | **Fuente:** {item['source']}",
-                f"> *Título original:* `{title_en}`",
-                "",
-                render_story_bullets(item),
-                "",
-                f"🔗 **[Ver artículo original en {item['source']} (inglés) ↗]({item['link']})**",
-                "",
-                "---",
-                ""
-            ])
-            
+    for idx, item in enumerate(secondary_stories, start=2):
+        cat_badge = CATEGORY_LABELS.get(item["category"], "🌐 Tecnología")
+        title_es = item.get("title_es") or item["title"]
+        title_en = item.get("title_en") or item["title"]
+        lines.extend([
+            f"### 🔹 Noticia {idx}: [{title_es}]({item['link']})",
+            f"> **Categoría:** {cat_badge} | **Fuente:** {item['source']}",
+            f"> *Título original:* `{title_en}`",
+            "",
+            render_story_bullets(item),
+            "",
+            f"🔗 **[Ver artículo original en {item['source']} (inglés) ↗]({item['link']})**",
+            "",
+            "---",
+            ""
+        ])
+        
     lines.extend([
         "## ℹ️ Acerca de esta publicación",
         "Este boletín ha sido generado y sintetizado de forma autónoma mediante un pipeline de **GitHub Actions**.",
@@ -106,8 +104,7 @@ def generate_readme_markdown(edition_number: int, dt: datetime, news: list, arch
     human_date = format_date_human(dt)
     
     lead = news[0] if len(news) > 0 else None
-    col1 = news[1] if len(news) > 1 else None
-    col2 = news[2] if len(news) > 2 else None
+    secondary_stories = news[1:] if len(news) > 1 else []
     
     lines = [
         "# 🗞️ THE CYBER-AI GAZETTE",
@@ -117,11 +114,11 @@ def generate_readme_markdown(edition_number: int, dt: datetime, news: list, arch
         "",
         "![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_" + str(edition_number) + "-black?style=for-the-badge)",
         "![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)",
-        "![Noticias](https://img.shields.io/badge/Noticias-3_Diarias-blue?style=for-the-badge)",
+        f"![Noticias](https://img.shields.io/badge/Noticias-{len(news)}_Diarias-blue?style=for-the-badge)",
         "![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)",
         "![AdFree](https://img.shields.io/badge/Publicidad-0%25_Limpio-success?style=for-the-badge)",
         "",
-        "Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada día, un pipeline en **GitHub Actions** rastrea las principales fuentes mundiales de ciberseguridad e inteligencia artificial, extrae los artículos completos sin publicidad ni banners molestos, y genera un resumen ejecutivo **en español** directamente en este repositorio.",
+        "Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada día, un pipeline en **GitHub Actions** rastrea las 10 principales fuentes mundiales de ciberseguridad e inteligencia artificial, extrae los artículos completos sin publicidad ni banners molestos, y genera un resumen ejecutivo **en español** directamente en este repositorio.",
         "",
         "---",
         ""
@@ -145,10 +142,9 @@ def generate_readme_markdown(edition_number: int, dt: datetime, news: list, arch
             ""
         ])
         
-    lines.append("## 📰 COLUMNAS DESTACADAS DEL DÍA\n")
+    lines.append(f"## 📰 COLUMNAS DESTACADAS DEL DÍA ({len(secondary_stories)} Noticias)\n")
     
-    columns = [item for item in [col1, col2] if item]
-    for idx, item in enumerate(columns, start=2):
+    for idx, item in enumerate(secondary_stories, start=2):
         cat_badge = CATEGORY_LABELS.get(item["category"], "🌐 Tecnología")
         title_es = item.get("title_es") or item["title"]
         title_en = item.get("title_en") or item["title"]
@@ -194,9 +190,10 @@ def generate_readme_markdown(edition_number: int, dt: datetime, news: list, arch
         "## ⚙️ ¿Cómo funciona este periódico digital?",
         "",
         "1. **Disparador Diario:** Cada mañana a las 11:00 UTC, un workflow de GitHub Actions (`.github/workflows/daily_edition.yml`) se inicia automáticamente.",
-        "2. **Extracción Anti-Publicidad:** Un script en Python ingresa a los sitios web originales y extrae el cuerpo puro del artículo, purgando anuncios, menús y pop-ups.",
-        "3. **Traducción y Resumen en Español:** Procesa los puntos clave de cada noticia y los traduce al español en formato de viñetas claras (¿Qué pasó?, Detalles clave, Impacto).",
-        "4. **Publicación Autónoma:** Genera la edición del día en `editions/` y actualiza esta portada (`README.md`), dejando un commit y push automático.",
+        "2. **Monitoreo de 10 Fuentes Líderes:** Rastrear medios de referencia como *Dark Reading, The Hacker News, Krebs on Security, CyberScoop, SecurityWeek, Wired AI, TechCrunch AI, The Verge AI, MIT Tech Review y AI News*.",
+        "3. **Extracción Anti-Publicidad:** Un script en Python ingresa a los sitios web originales y extrae el cuerpo puro del artículo, purgando anuncios, menús y pop-ups.",
+        "4. **Traducción y Resumen en Español:** Procesa los puntos clave de las 5 noticias seleccionadas y los traduce al español en formato de viñetas claras (¿Qué pasó?, Detalles clave, Impacto).",
+        "5. **Publicación Autónoma:** Genera la edición del día en `editions/` y actualiza esta portada (`README.md`), dejando un commit y push automático.",
         "",
         "⭐ *Si te resulta útil para mantenerte al día con IA y Ciberseguridad, déjale una estrella al repositorio.*"
     ])

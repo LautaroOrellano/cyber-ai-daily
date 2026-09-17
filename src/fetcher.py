@@ -13,11 +13,15 @@ SOURCES = {
         {"name": "The Hacker News", "url": "https://feeds.feedburner.com/TheHackersNews"},
         {"name": "Dark Reading", "url": "https://www.darkreading.com/rss.xml"},
         {"name": "SecurityWeek", "url": "https://www.securityweek.com/feed/"},
+        {"name": "Krebs on Security", "url": "https://krebsonsecurity.com/feed/"},
+        {"name": "CyberScoop", "url": "https://cyberscoop.com/feed/"},
     ],
     "ai": [
         {"name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/"},
         {"name": "The Verge AI", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"},
         {"name": "MIT Technology Review", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/"},
+        {"name": "Wired AI", "url": "https://www.wired.com/feed/tag/ai/latest/rss"},
+        {"name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml"},
     ]
 }
 
@@ -27,7 +31,6 @@ def clean_html_summary(html_text: str, max_chars: int = 280) -> str:
         return "Sin descripción disponible."
     
     soup = BeautifulSoup(html_text, "html.parser")
-    # Remove script and style elements
     for script in soup(["script", "style", "figure", "img"]):
         script.decompose()
         
@@ -35,7 +38,6 @@ def clean_html_summary(html_text: str, max_chars: int = 280) -> str:
     text = re.sub(r"\s+", " ", text).strip()
     
     if len(text) > max_chars:
-        # Cut at last complete word
         truncated = text[:max_chars]
         last_space = truncated.rfind(" ")
         if last_space != -1:
@@ -53,18 +55,16 @@ def fetch_feed_items(category: str, source_info: dict) -> list:
             return items
             
         feed = feedparser.parse(resp.content)
-        for entry in feed.entries[:8]: # Check top recent entries
+        for entry in feed.entries[:8]:
             title = entry.get("title", "").strip()
             link = entry.get("link", "").strip()
             
-            # Summary can come in 'summary', 'description', or 'content'
             raw_summary = entry.get("summary") or entry.get("description") or ""
             if isinstance(raw_summary, list) and len(raw_summary) > 0:
                 raw_summary = raw_summary[0].get("value", "")
                 
             summary = clean_html_summary(raw_summary)
             
-            # Publication timestamp
             published_ts = time.time()
             if hasattr(entry, "published_parsed") and entry.published_parsed:
                 try:
@@ -86,12 +86,13 @@ def fetch_feed_items(category: str, source_info: dict) -> list:
         
     return items
 
-def get_top_3_news() -> list:
+def get_top_news(n: int = 5) -> list:
     """
-    Fetches news from all sources and picks the 3 most relevant:
-    1. Top story in Cybersecurity & Hacks
-    2. Top story in Artificial Intelligence
-    3. The freshest additional highlight (Wildcard / Feature)
+    Fetches news from all sources and balances between Cyber & AI:
+    - 2 top stories in Cybersecurity & Hacks
+    - 2 top stories in Artificial Intelligence & ML
+    - 1 freshest additional story across both fields
+    Total: 5 curated stories
     """
     cyber_items = []
     for src in SOURCES["cyber"]:
@@ -101,30 +102,34 @@ def get_top_3_news() -> list:
     for src in SOURCES["ai"]:
         ai_items.extend(fetch_feed_items("ai", src))
         
-    # Sort both lists by timestamp descending
     cyber_items.sort(key=lambda x: x["timestamp"], reverse=True)
     ai_items.sort(key=lambda x: x["timestamp"], reverse=True)
     
     selected = []
     seen_links = set()
     
-    # 1. Pick Top Cyber
-    if cyber_items:
-        top_cyber = cyber_items.pop(0)
-        selected.append(top_cyber)
-        seen_links.add(top_cyber["link"])
+    def pick_from(item_list):
+        for it in item_list:
+            if it["link"] not in seen_links:
+                seen_links.add(it["link"])
+                selected.append(it)
+                return True
+        return False
         
-    # 2. Pick Top AI
-    if ai_items:
-        top_ai = ai_items.pop(0)
-        selected.append(top_ai)
-        seen_links.add(top_ai["link"])
-        
-    # 3. Pick 3rd story from remaining items
+    # Select 2 Cyber and 2 AI
+    pick_from(cyber_items)
+    pick_from(ai_items)
+    pick_from(cyber_items)
+    pick_from(ai_items)
+    
+    # Fill remaining up to n (5) from freshest overall
     remaining = [item for item in (cyber_items + ai_items) if item["link"] not in seen_links]
     remaining.sort(key=lambda x: x["timestamp"], reverse=True)
     
-    if remaining:
-        selected.append(remaining[0])
+    for item in remaining:
+        if len(selected) >= n:
+            break
+        selected.append(item)
+        seen_links.add(item["link"])
         
     return selected
