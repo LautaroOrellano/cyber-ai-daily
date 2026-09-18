@@ -8,5 +8,15 @@
     "category": "cyber",
     "source": "CyberScoop",
     "lead_link": "https://cyberscoop.com/cisco-ise-zero-day-cve-2026-76460/"
+  },
+  {
+    "edition": 2,
+    "date": "2026-09-18",
+    "rel_path": "editions/2026/09/2026-09-18.md",
+    "title_en": "[Virtual Event] Cybersecurity Outlook 2027",
+    "title_es": "[Evento virtual] Ciberseguridad Outlook 2027",
+    "category": "cyber",
+    "source": "Dark Reading",
+    "lead_link": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027"
   }
 ]

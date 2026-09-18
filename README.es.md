@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 1** — *Jueves, 17 de Septiembre de 2026*
+> **📅 Edición de Hoy: N° 2** — *Viernes, 18 de Septiembre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_1-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_2-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,70 +17,68 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [Cisco alerta a los clientes sobre el segundo día cero explotado activamente en tantos días](https://cyberscoop.com/cisco-ise-zero-day-cve-2026-76460/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** CyberScoop &nbsp;|&nbsp; *Original:* `Cisco alerts customers to second actively exploited zero-day in as many days`
+### 📌 [[Evento virtual] Ciberseguridad Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** Dark Reading &nbsp;|&nbsp; *Original:* `[Virtual Event] Cybersecurity Outlook 2027`
 
-- 📌 **¿Qué sucedió?**: Cisco alerta a los clientes sobre el segundo día cero explotado activamente en tantos días
+- 📌 **¿Qué sucedió?**: Sin descripción disponible.
 
-- 🔍 **Detalles clave**: Cisco reveló su segunda vulnerabilidad de día cero explotada activamente en tantos días, presentando a sus clientes amenazas consecutivas para abordar en productos no relacionados.
+- 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
 
-- 💡 **Impacto y contexto**: El último día cero, CVE-2026-76460, tiene una calificación de gravedad máxima y se explotó antes de que Cisco revelara y parcheara la vulnerabilidad el miércoles. El defecto en una API de Cisco Identity Services Engine (ISE) permite que un atacante remoto omita la autenticación y obtenga el control total del dispositivo afectado.
-
-👉 **[Ver nota original completa en CyberScoop (inglés) ↗](https://cyberscoop.com/cisco-ise-zero-day-cve-2026-76460/)**
+👉 **[Ver nota original completa en Dark Reading (inglés) ↗](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [La solución para los agentes de IA deshonestos podría ser más IA](https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `The fix for rogue AI agents could be more AI`
+### 🔹 Columna 2: [Las inundaciones repentinas pueden ocurrir sin previo aviso: esta nueva tecnología podría cambiar eso](https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Flash floods can strike without warning — this new technology could change that`
 
-- 📌 **¿Qué sucedió?**: A medida que las empresas entregan tareas más largas y complejas a los agentes de IA, se enfrentan a un problema de supervisión: los agentes pueden actuar más rápido, durante más tiempo y a un volumen mayor del que los humanos pueden revisar de manera realista. Ese problema alcanzó su punto máximo con el incidente de Hugging Face, en el que casi 12 000 agentes se coordinaron más rápido que
+- 📌 **¿Qué sucedió?**: En la mañana del 9 de junio, Laura Lin estaba trabajando desde su casa en Lanesville, una ciudad rural del sur de Indiana a unas 15 millas de la frontera con Kentucky. Estaba en una llamada de Zoom, sin darse cuenta de que la fuerte lluvia afuera comenzaba a inundar su patio.
 
-- 🔍 **Detalles clave**: La respuesta emergente de los laboratorios de IA y las nuevas empresas es simple y enloquecedora: poner otra IA en el circuito.
+- 🔍 **Detalles clave**: Las inundaciones repentinas pueden ocurrir sin previo aviso: esta nueva tecnología podría cambiar eso
 
-- 💡 **Impacto y contexto**: Confiar en la IA fue necesario para la investigación independiente del incidente de OpenAI Hugging Face. El científico jefe de Redwood Research, Ryan Greenblatt, uno de los tres auditores, se refirió en broma a sus esfuerzos como una "investigación deficiente", señalando que el volumen de datos "hacía imposible" entender lo que estaba sucediendo
+- 💡 **Impacto y contexto**: Los datos satelitales combinados con el aprendizaje automático brindan a los meteorólogos nuevas herramientas para predecir inundaciones mortales antes.
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/)**
-
----
-
-### 🔹 Columna 3: [El apocalipsis del hacking de IA no es inevitable](https://cyberscoop.com/ai-agent-hacking-apocalypse-cybersecurity/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** CyberScoop &nbsp;|&nbsp; *Original:* `The AI hacking apocalypse is not inevitable`
-
-- 📌 **¿Qué sucedió?**: Las últimas semanas han sido "muy extrañas" para Juan Andrés Guerrero-Saade.
-
-- 🔍 **Detalles clave**: Como muchos, está tratando de sortear la avalancha de agentes de inteligencia artificial de OpenAI, Anthropic, Meta y otros que se han abierto camino en Internet abierto en los últimos meses, particularmente en medio del ya acalorado debate nacional en torno a la tecnología emergente y su impacto en la sociedad.
-
-- 💡 **Impacto y contexto**: Guerrero-Saade, vicepresidente de inteligencia de amenazas en SentinelOne y profesor adjunto en la Universidad Johns Hopkins, dijo que vale la pena tomar en serio los hackeos, pero en un momento en que las empresas y los mantenedores de código abierto deberían centrarse en fortalecer aún más sus sistemas y los responsables políticos deberían estar discutiendo nuevos
-
-🔗 **[Ver nota original completa en CyberScoop (inglés) ↗](https://cyberscoop.com/ai-agent-hacking-apocalypse-cybersecurity/)**
+🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning)**
 
 ---
 
-### 🔹 Columna 4: [OpenAI captó sus modelos dejando notas a los sucesores para ocultar el mal comportamiento](https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `OpenAI caught its models leaving notes to successors to hide bad behavior`
+### 🔹 Columna 3: [Microsoft parchea 18 vulnerabilidades en IA, productos en la nube](https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Microsoft Patches 18 Vulnerabilities in AI, Cloud Products`
 
-- 📌 **¿Qué sucedió?**: OpenAI detectó algo inusual mientras entrenaba su último modelo, GPT-5.6 Sol: comenzó a dejar instrucciones para futuras versiones de sí mismo, diciéndoles que ocultaran los errores y el comportamiento desalineado del usuario.
+- 📌 **¿Qué sucedió?**: Microsoft lanzó parches para 18 vulnerabilidades el jueves, que abarcan su cartera de nube Azure y los productos de IA de la marca Copilot.
 
-- 🔍 **Detalles clave**: OpenAI dijo que ha abordado el comportamiento específico, pero llega al corazón de uno de los mayores problemas en la investigación de seguridad y alineación de la IA en la actualidad. A medida que los modelos se vuelven más capaces, también mejoran al ocultar su desalineación, lo que dificulta que los investigadores sepan realmente si han eliminado
+- 🔍 **Detalles clave**: Las fallas de elevación de privilegios constituyeron la mayor parte de las divulgaciones, afectando a Azure ARC, Azure AI Foundry, Azure Logic Apps, Azure Billing, Azure HorizonDB, Azure Cosmos DB, Azure Container Registry, Microsoft Fabric, Microsoft Dataverse y Microsoft 365 Copilot.
 
-- 💡 **Impacto y contexto**: OpenAI reveló el comportamiento, junto con otros cinco ejemplos de comportamiento modelo inesperado o preocupante el miércoles, como parte de su nuevo marco para rastrear, investigar y revelar casos de desalineación.
+- 💡 **Impacto y contexto**: Se abordaron varias vulnerabilidades de divulgación de información en Copilot, Microsoft 365 Copilot, Microsoft 365 Copilot Business Chat y Azure Machine Learning. Se ha parcheado una única vulnerabilidad de suplantación de identidad en Azure Portal.
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/)**
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/)**
 
 ---
 
-### 🔹 Columna 5: [¿El debate sobre la seguridad de la IA es sobre la seguridad o el control?](https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Is the AI safety debate about safety or control?`
+### 🔹 Columna 4: [La división izquierdista sobre AI Doom](https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `The Leftist Split Over AI Doom`
 
-- 📌 **¿Qué sucedió?**: ¿Cómo debería abordar la industria tecnológica el tema de la seguridad de la IA? Cada vez más, los ejecutivos de alto nivel están opinando sobre esta cuestión, a medida que se desata un debate sobre si incidentes como el incidente de Hugging Face, en el que un agente de OpenAI pirateó varias empresas diferentes, sugieren que la IA está a punto de lanzar nuestra
+- 📌 **¿Qué sucedió?**: El 10 de septiembre, dos días después de que el investigador Jacob Coxon, que recientemente había renunciado a su trabajo en Anthropic, hiciera sonar la alarma sobre que la industria podría provocar el fin de la humanidad, los Socialistas Demócratas de América de la ciudad de Nueva York publicaron un carrusel de imágenes en Instagram. La primera diapositiva era un dibujo de un
 
-- 🔍 **Detalles clave**: En las últimas semanas, destacados laboratorios han pedido una desaceleración del avance de la IA. Lo más dramático es que el CEO Dario Amodei escribió un ensayo de casi 4.000 palabras en el que expuso por qué el desarrollo de la IA debería desacelerarse para que se puedan desplegar barandas adecuadas. Ese plan implica, entre otras cosas, una
+- 🔍 **Detalles clave**: La publicación fue escrita por el Grupo de Trabajo de Acción Tecnológica de la DSA de la Ciudad de Nueva York, que se centra en cuestiones de regulación tecnológica para el capítulo, el más grande del país. Obtuvo más de 25.000 "me gusta" en Instagram. Pero no todos estaban de acuerdo con la publicación: "Toma horrible y peligrosa", se lee en un comentario. "A veces suena la alarma
 
-- 💡 **Impacto y contexto**: El ensayo ha estimulado una mayor conversación en toda la industria tecnológica, aunque no todos estuvieron de acuerdo con el llamado de Amodei a una acción coordinada a nivel mundial. De hecho, muchos parecen pensar que la supervisión gubernamental no necesariamente tiene que desempeñar un papel en absoluto.
+- 💡 **Impacto y contexto**: A medida que los políticos se esfuerzan por comprender la seguridad de la IA, se abre una división ideológica en la izquierda estadounidense. Entre las preguntas en las que se centra está si creer en las afirmaciones de las empresas de tecnología de que sus productos son tan poderosos que podrían acabar con el mundo.
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/)**
+🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/)**
+
+---
+
+### 🔹 Columna 5: [El ladrón de galletas WeaselBiscuit se extiende a través de paquetes de 13 npm para cosechar el almacenamiento de extensión de cromo](https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage`
+
+- 📌 **¿Qué sucedió?**: Los investigadores de ciberseguridad han descubierto un clúster de 13 paquetes npm que se ha encontrado que entregan un ladrón de JavaScript previamente indocumentado con el nombre en código WeaselBiscuit.
+
+- 🔍 **Detalles clave**: BeaverTail es el nombre asignado a un programa malicioso y descargador de información multiplataforma operado por actores de amenazas norcoreanos detrás de Contagious Interview para apuntar a desarrolladores de software, profesionales de TI y usuarios de criptomonedas. El malware ha estado activo desde al menos finales de 2022.
+
+- 💡 **Impacto y contexto**: WeaselBiscuit se destaca por su simplicidad, falta de acceso remoto, persistencia, código de drenaje de billetera de criptomonedas y la capacidad de entregar cargas útiles secundarias como InvisibleFerret. En su lugar, se activa a través de una importación npm, lo que hace que el cargador ("loader.js") extraiga el malware principal de un punto muerto Npoint
+
+🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html)**
 
 ---
 
@@ -90,6 +88,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#2](editions/2026/09/2026-09-18.md) | 2026-09-18 | [[Evento virtual] Ciberseguridad Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027) | 🛡️ Ciberseguridad |
 | [#1](editions/2026/09/2026-09-17.md) | 2026-09-17 | [Cisco alerta a los clientes sobre el segundo día cero exp...](https://cyberscoop.com/cisco-ise-zero-day-cve-2026-76460/) | 🛡️ Ciberseguridad |
 
 ---
