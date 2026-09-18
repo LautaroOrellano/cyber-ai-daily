@@ -30,55 +30,55 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Las inundaciones repentinas pueden ocurrir sin previo aviso: esta nueva tecnología podría cambiar eso](https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Flash floods can strike without warning — this new technology could change that`
+### 🔹 Columna 2: [Los investigadores utilizaron Claude de Anthropic para hackear OpenAI](https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Researchers used Anthropic’s Claude to hack into OpenAI`
 
-- 📌 **¿Qué sucedió?**: En la mañana del 9 de junio, Laura Lin estaba trabajando desde su casa en Lanesville, una ciudad rural del sur de Indiana a unas 15 millas de la frontera con Kentucky. Estaba en una llamada de Zoom, sin darse cuenta de que la fuerte lluvia afuera comenzaba a inundar su patio.
+- 📌 **¿Qué sucedió?**: En un giro que captura el extraño nuevo estado de la seguridad de la IA, los investigadores de seguridad independientes han utilizado a Claude de Anthropic para entrar en OpenAI, exponiendo grietas en las defensas del fabricante de ChatGPT, informó The Wall Street Journal el jueves por la noche.
 
-- 🔍 **Detalles clave**: Las inundaciones repentinas pueden ocurrir sin previo aviso: esta nueva tecnología podría cambiar eso
+- 🔍 **Detalles clave**: Un equipo de seguridad de tres personas en la startup Hacktron AI llevó a cabo el ataque como parte de un programa de recompensas por errores de OpenAI. Hacktron informó sus hallazgos a OpenAI, que otorgó a la startup un premio de $ 6.500. El equipo logró encadenar dos vulnerabilidades críticas para obtener acceso a múltiples ChatGPT de empleados de OpenAI
 
-- 💡 **Impacto y contexto**: Los datos satelitales combinados con el aprendizaje automático brindan a los meteorólogos nuevas herramientas para predecir inundaciones mortales antes.
+- 💡 **Impacto y contexto**: OpenAI dice que ha resuelto los problemas que Hacktron descubrió, lo que sucede en un momento en que las principales empresas de IA están bajo una creciente presión sobre la seguridad.
 
-🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning)**
-
----
-
-### 🔹 Columna 3: [Microsoft parchea 18 vulnerabilidades en IA, productos en la nube](https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Microsoft Patches 18 Vulnerabilities in AI, Cloud Products`
-
-- 📌 **¿Qué sucedió?**: Microsoft lanzó parches para 18 vulnerabilidades el jueves, que abarcan su cartera de nube Azure y los productos de IA de la marca Copilot.
-
-- 🔍 **Detalles clave**: Las fallas de elevación de privilegios constituyeron la mayor parte de las divulgaciones, afectando a Azure ARC, Azure AI Foundry, Azure Logic Apps, Azure Billing, Azure HorizonDB, Azure Cosmos DB, Azure Container Registry, Microsoft Fabric, Microsoft Dataverse y Microsoft 365 Copilot.
-
-- 💡 **Impacto y contexto**: Se abordaron varias vulnerabilidades de divulgación de información en Copilot, Microsoft 365 Copilot, Microsoft 365 Copilot Business Chat y Azure Machine Learning. Se ha parcheado una única vulnerabilidad de suplantación de identidad en Azure Portal.
-
-🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/)**
 
 ---
 
-### 🔹 Columna 4: [La división izquierdista sobre AI Doom](https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `The Leftist Split Over AI Doom`
+### 🔹 Columna 3: [En otras noticias: Desarrollador de ransomware sentenciado, ataque de IA de Plugin4Shell, falla crítica de SAP](https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw`
 
-- 📌 **¿Qué sucedió?**: El 10 de septiembre, dos días después de que el investigador Jacob Coxon, que recientemente había renunciado a su trabajo en Anthropic, hiciera sonar la alarma sobre que la industria podría provocar el fin de la humanidad, los Socialistas Demócratas de América de la ciudad de Nueva York publicaron un carrusel de imágenes en Instagram. La primera diapositiva era un dibujo de un
+- 📌 **¿Qué sucedió?**: El resumen semanal de noticias de ciberseguridad de SecurityWeek ofrece una descripción concisa de los desarrollos importantes que pueden no recibir una cobertura independiente completa pero que siguen siendo relevantes para el panorama de amenazas en general.
 
-- 🔍 **Detalles clave**: La publicación fue escrita por el Grupo de Trabajo de Acción Tecnológica de la DSA de la Ciudad de Nueva York, que se centra en cuestiones de regulación tecnológica para el capítulo, el más grande del país. Obtuvo más de 25.000 "me gusta" en Instagram. Pero no todos estaban de acuerdo con la publicación: "Toma horrible y peligrosa", se lee en un comentario. "A veces suena la alarma
+- 🔍 **Detalles clave**: Este resumen seleccionado destaca historias clave sobre divulgaciones de vulnerabilidades, métodos de ataque emergentes, actualizaciones de políticas, informes de la industria y otros eventos notables para ayudar a los lectores a mantenerse bien informados sobre el entorno de ciberseguridad en evolución.
 
-- 💡 **Impacto y contexto**: A medida que los políticos se esfuerzan por comprender la seguridad de la IA, se abre una división ideológica en la izquierda estadounidense. Entre las preguntas en las que se centra está si creer en las afirmaciones de las empresas de tecnología de que sus productos son tan poderosos que podrían acabar con el mundo.
+- 💡 **Impacto y contexto**: Raindrop, diseñado para detectar fallas desconocidas en agentes autónomos, anunció una ronda de financiamiento Serie A de $ 35 millones, que se suma a la ronda inicial de $ 15 millones del año pasado. Raindrop analiza continuamente el comportamiento del agente para detectar modos de falla silenciosos y emergentes, y para ayudar a reparar los sistemas de IA y aprender de ellos.
 
-🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/)**
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/)**
 
 ---
 
-### 🔹 Columna 5: [El ladrón de galletas WeaselBiscuit se extiende a través de paquetes de 13 npm para cosechar el almacenamiento de extensión de cromo](https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage`
+### 🔹 Columna 4: [El tiempo corre: últimas 24 horas para exhibir en TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026`
 
-- 📌 **¿Qué sucedió?**: Los investigadores de ciberseguridad han descubierto un clúster de 13 paquetes npm que se ha encontrado que entregan un ladrón de JavaScript previamente indocumentado con el nombre en código WeaselBiscuit.
+- 📌 **¿Qué sucedió?**: Las reservas de mesas de exhibición cierran esta noche, viernes 18 de septiembre, a las 11:59 p. m. PT. Después de eso, no puedes añadir tu startup al Expo Hall.
 
-- 🔍 **Detalles clave**: BeaverTail es el nombre asignado a un programa malicioso y descargador de información multiplataforma operado por actores de amenazas norcoreanos detrás de Contagious Interview para apuntar a desarrolladores de software, profesionales de TI y usuarios de criptomonedas. El malware ha estado activo desde al menos finales de 2022.
+- 🔍 **Detalles clave**: Las mesas son limitadas y por orden de llegada. Las startups que compiten por el centro de atención, los clientes y la inversión estarán allí. ¿Lo hará la tuya?
 
-- 💡 **Impacto y contexto**: WeaselBiscuit se destaca por su simplicidad, falta de acceso remoto, persistencia, código de drenaje de billetera de criptomonedas y la capacidad de entregar cargas útiles secundarias como InvisibleFerret. En su lugar, se activa a través de una importación npm, lo que hace que el cargador ("loader.js") extraiga el malware principal de un punto muerto Npoint
+- 💡 **Impacto y contexto**: Del 13 al 15 de octubre en Moscone West en San Francisco, más de 10.000 fundadores, inversores, operadores y líderes tecnológicos estarán en TechCrunch Disrupt 2026 en busca de nuevas empresas que respaldar, productos que usar y empresas con las que asociarse.
 
-🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/)**
+
+---
+
+### 🔹 Columna 5: [Adopta este plushie del centro de datos y escucha su grito penetrante](https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `Adopt This Data Center Plushie and Hear Its Piercing Scream`
+
+- 📌 **¿Qué sucedió?**: Uh oh, ¡tenemos una linda alerta! ¡Es Bezzy, tu adorable, tierno y antropomorfizado amigo de los servidores y los animales de peluche! Aprieta esta suave muñeca lil’y te cantará su canción reveladora: los chillidos ambientales penetrantes y molidos emitidos desde un verdadero centro de datos de EE. UU.
+
+- 🔍 **Detalles clave**: La muñeca Bezzy es un muñeco de peluche hecho en una colaboración satírica entre el estudio creativo con sede en Nueva York Basura y Big Data, el proyecto musical del productor Alan Wilkis, mejor conocido por la canción "Dangerous", una colaboración de 2013 con la banda Joywave. El proyecto conjunto, que sale el mismo día que un
+
+- 💡 **Impacto y contexto**: Los centros de datos están muy de moda en este momento. Construidos por todas las grandes empresas de IA para impulsar sus herramientas de IA cada vez más hambrientas de energía, los centros de datos se han extendido por miles de acres de tierra en los EE. UU. Han sido muy criticados por su consumo de energía y la expansión de la energía de gas. También han demostrado ser
+
+🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/)**
 
 ---
 
