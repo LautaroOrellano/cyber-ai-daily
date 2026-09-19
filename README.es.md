@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 2** — *Viernes, 18 de Septiembre de 2026*
+> **📅 Edición de Hoy: N° 3** — *Sábado, 19 de Septiembre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_2-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_3-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -30,55 +30,55 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Los investigadores utilizaron Claude de Anthropic para hackear OpenAI](https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Researchers used Anthropic’s Claude to hack into OpenAI`
+### 🔹 Columna 2: [Vals, respaldado por Andreessen Horowitz, busca convertirse en el estándar de oro para la evaluación comparativa de IA](https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking`
 
-- 📌 **¿Qué sucedió?**: En un giro que captura el extraño nuevo estado de la seguridad de la IA, los investigadores de seguridad independientes han utilizado a Claude de Anthropic para entrar en OpenAI, exponiendo grietas en las defensas del fabricante de ChatGPT, informó The Wall Street Journal el jueves por la noche.
+- 📌 **¿Qué sucedió?**: El benchmarking se ha convertido en la norma de la industria sobre cómo las empresas de IA validan las capacidades de sus modelos y, cuando las métricas se inclinan a su favor, se destacan de los competidores y anuncian su superioridad. En otras palabras, los buenos puntos de referencia casi siempre significan buenas relaciones públicas.
 
-- 🔍 **Detalles clave**: Un equipo de seguridad de tres personas en la startup Hacktron AI llevó a cabo el ataque como parte de un programa de recompensas por errores de OpenAI. Hacktron informó sus hallazgos a OpenAI, que otorgó a la startup un premio de $ 6.500. El equipo logró encadenar dos vulnerabilidades críticas para obtener acceso a múltiples ChatGPT de empleados de OpenAI
+- 🔍 **Detalles clave**: Desafortunadamente, las empresas también han descubierto cómo burlar los sistemas de evaluación comparativa heredados, muchos de los cuales son más antiguos y no están diseñados para medir las capacidades de los modelos modernos.
 
-- 💡 **Impacto y contexto**: OpenAI dice que ha resuelto los problemas que Hacktron descubrió, lo que sucede en un momento en que las principales empresas de IA están bajo una creciente presión sobre la seguridad.
+- 💡 **Impacto y contexto**: Vals, una startup formada en 2024, dice que tiene la misión de arreglar este sistema tan imperfecto. En el lapso de menos de dos años, la compañía se ha consolidado como una presencia notable en la industria tecnológica y, el año pasado, logró asegurar una ronda semilla liderada por 8VC y Bloomberg Beta. Luego, el mes pasado, después de un
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/)**
-
----
-
-### 🔹 Columna 3: [En otras noticias: Desarrollador de ransomware sentenciado, ataque de IA de Plugin4Shell, falla crítica de SAP](https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw`
-
-- 📌 **¿Qué sucedió?**: El resumen semanal de noticias de ciberseguridad de SecurityWeek ofrece una descripción concisa de los desarrollos importantes que pueden no recibir una cobertura independiente completa pero que siguen siendo relevantes para el panorama de amenazas en general.
-
-- 🔍 **Detalles clave**: Este resumen seleccionado destaca historias clave sobre divulgaciones de vulnerabilidades, métodos de ataque emergentes, actualizaciones de políticas, informes de la industria y otros eventos notables para ayudar a los lectores a mantenerse bien informados sobre el entorno de ciberseguridad en evolución.
-
-- 💡 **Impacto y contexto**: Raindrop, diseñado para detectar fallas desconocidas en agentes autónomos, anunció una ronda de financiamiento Serie A de $ 35 millones, que se suma a la ronda inicial de $ 15 millones del año pasado. Raindrop analiza continuamente el comportamiento del agente para detectar modos de falla silenciosos y emergentes, y para ayudar a reparar los sistemas de IA y aprender de ellos.
-
-🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/)**
 
 ---
 
-### 🔹 Columna 4: [El tiempo corre: últimas 24 horas para exhibir en TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026`
+### 🔹 Columna 3: [Claude Opus 5 ayudó a los investigadores a hacerse cargo de las cuentas del personal de OpenAI a través de fallas encadenadas](https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws`
 
-- 📌 **¿Qué sucedió?**: Las reservas de mesas de exhibición cierran esta noche, viernes 18 de septiembre, a las 11:59 p. m. PT. Después de eso, no puedes añadir tu startup al Expo Hall.
+- 📌 **¿Qué sucedió?**: Tres investigadores de la empresa de seguridad Hacktron utilizaron Claude Opus 5 de Anthropic para encadenar dos fallas y hacerse cargo de las cuentas de ChatGPT y Codex de varios empleados de OpenAI, y luego llegar a un repositorio de código interno de OpenAI.
 
-- 🔍 **Detalles clave**: Las mesas son limitadas y por orden de llegada. Las startups que compiten por el centro de atención, los clientes y la inversión estarán allí. ¿Lo hará la tuya?
+- 🔍 **Detalles clave**: La cadena comenzó con un error en el software que ejecuta el foro de ayuda pública de OpenAI y superó una debilidad en el propio sistema de inicio de sesión de OpenAI.
 
-- 💡 **Impacto y contexto**: Del 13 al 15 de octubre en Moscone West en San Francisco, más de 10.000 fundadores, inversores, operadores y líderes tecnológicos estarán en TechCrunch Disrupt 2026 en busca de nuevas empresas que respaldar, productos que usar y empresas con las que asociarse.
+- 💡 **Impacto y contexto**: Esta fue una investigación de seguridad, no un ataque del mundo real: el equipo informó las fallas a OpenAI, demostró el acceso con una solicitud de extracción inofensiva y luego se detuvo. Desde el primer vistazo, ese acceso interno tardó menos de 72 horas.
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/)**
+🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html)**
 
 ---
 
-### 🔹 Columna 5: [Adopta este plushie del centro de datos y escucha su grito penetrante](https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `Adopt This Data Center Plushie and Hear Its Piercing Scream`
+### 🔹 Columna 4: [La represión de la regulación de la IA no ha terminado](https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `The AI regulation smackdown isn’t over`
 
-- 📌 **¿Qué sucedió?**: Uh oh, ¡tenemos una linda alerta! ¡Es Bezzy, tu adorable, tierno y antropomorfizado amigo de los servidores y los animales de peluche! Aprieta esta suave muñeca lil’y te cantará su canción reveladora: los chillidos ambientales penetrantes y molidos emitidos desde un verdadero centro de datos de EE. UU.
+- 📌 **¿Qué sucedió?**: A principios de esta semana, el quién es quién de la IA parecía, al menos tentativamente, estar del lado de la regulación de la IA. Durante el fin de semana, el CEO de Anthropic, Dario Amodei, propuso un plan de tres pasos para ralentizar el desarrollo de la IA, que incluye la incorporación de evaluadores externos en los laboratorios, la coordinación en toda la industria nacional y
 
-- 🔍 **Detalles clave**: La muñeca Bezzy es un muñeco de peluche hecho en una colaboración satírica entre el estudio creativo con sede en Nueva York Basura y Big Data, el proyecto musical del productor Alan Wilkis, mejor conocido por la canción "Dangerous", una colaboración de 2013 con la banda Joywave. El proyecto conjunto, que sale el mismo día que un
+- 🔍 **Detalles clave**: Es el CEO de IA contra el CEO de IA, y las cosas están cambiando día a día.
 
-- 💡 **Impacto y contexto**: Los centros de datos están muy de moda en este momento. Construidos por todas las grandes empresas de IA para impulsar sus herramientas de IA cada vez más hambrientas de energía, los centros de datos se han extendido por miles de acres de tierra en los EE. UU. Han sido muy criticados por su consumo de energía y la expansión de la energía de gas. También han demostrado ser
+- 💡 **Impacto y contexto**: Es el CEO de IA contra el CEO de IA, y las cosas están cambiando día a día.
 
-🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/)**
+🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over)**
+
+---
+
+### 🔹 Columna 5: [Olvídate de la desaceleración de la IA: la explosión de la vulnerabilidad ya está ocurriendo](https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening`
+
+- 📌 **¿Qué sucedió?**: Los doomers de IA han cambiado recientemente un peor escenario por otro, dejando de lado un posible apocalipsis de vulnerabilidad de software para centrarse en la posibilidad de que la IA deshonesta cause muertes humanas masivas en la próxima década. Sin embargo, a medida que los líderes de IA consideran una desaceleración cooperativa en el desarrollo de modelos de frontera, un aspecto del
+
+- 🔍 **Detalles clave**: Una marea de vulnerabilidades descubiertas utilizando IA solo se ha acelerado en los últimos meses, acumulando más presión sobre los equipos de TI y seguridad con recursos insuficientes y muy humanos, y esforzando a los voluntarios que mantienen software de código abierto crucial. Los investigadores encontraron y revelaron una amplia gama de vulnerabilidades antes del aumento de
+
+- 💡 **Impacto y contexto**: Microsoft dijo la semana pasada que ha emitido parches para 974 CVE en lo que va de mes, estableciendo un nuevo récord. (CVE, o vulnerabilidades y exposiciones comunes, es la jerga de ciberseguridad para las fallas de software confirmadas.) En julio, Oracle envió 1.448 parches en comparación con 309 en julio de 2025. Las dos versiones principales de Google Chrome
+
+🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/)**
 
 ---
 
@@ -88,6 +88,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#3](editions/2026/09/2026-09-19.md) | 2026-09-19 | [[Evento virtual] Ciberseguridad Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027) | 🛡️ Ciberseguridad |
 | [#2](editions/2026/09/2026-09-18.md) | 2026-09-18 | [[Evento virtual] Ciberseguridad Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027) | 🛡️ Ciberseguridad |
 | [#1](editions/2026/09/2026-09-17.md) | 2026-09-17 | [Cisco alerta a los clientes sobre el segundo día cero exp...](https://cyberscoop.com/cisco-ise-zero-day-cve-2026-76460/) | 🛡️ Ciberseguridad |
 
