@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 3** — *Sábado, 19 de Septiembre de 2026*
+> **📅 Edición de Hoy: N° 4** — *Domingo, 20 de Septiembre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_3-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_4-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -30,16 +30,16 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Vals, respaldado por Andreessen Horowitz, busca convertirse en el estándar de oro para la evaluación comparativa de IA](https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking`
+### 🔹 Columna 2: [Quedan 6 días para salir adelante en TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `6 days left to get ahead at TechCrunch Disrupt 2026`
 
-- 📌 **¿Qué sucedió?**: El benchmarking se ha convertido en la norma de la industria sobre cómo las empresas de IA validan las capacidades de sus modelos y, cuando las métricas se inclinan a su favor, se destacan de los competidores y anuncian su superioridad. En otras palabras, los buenos puntos de referencia casi siempre significan buenas relaciones públicas.
+- 📌 **¿Qué sucedió?**: Tu margen para ahorrar hasta $ 200 se está cerrando rápidamente. El precio actual de los boletos termina el 25 de septiembre a las 11:59 p. m. PT. Después de eso, los precios suben.
 
-- 🔍 **Detalles clave**: Desafortunadamente, las empresas también han descubierto cómo burlar los sistemas de evaluación comparativa heredados, muchos de los cuales son más antiguos y no están diseñados para medir las capacidades de los modelos modernos.
+- 🔍 **Detalles clave**: En Disrupt, salir adelante significa más que sentarse en grandes sesiones. Significa conocer a las personas que necesitas conocer, ver lo que viene antes de que llegue a la corriente principal y obtener información práctica que puedas poner en práctica.
 
-- 💡 **Impacto y contexto**: Vals, una startup formada en 2024, dice que tiene la misión de arreglar este sistema tan imperfecto. En el lapso de menos de dos años, la compañía se ha consolidado como una presencia notable en la industria tecnológica y, el año pasado, logró asegurar una ronda semilla liderada por 8VC y Bloomberg Beta. Luego, el mes pasado, después de un
+- 💡 **Impacto y contexto**: TechCrunch Disrupt 2026 reúne a más de 10.000 fundadores, inversores, operadores y líderes tecnológicos durante tres días de ideas, conexiones y oportunidades en todo el ecosistema de startups.
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/)**
 
 ---
 
@@ -56,29 +56,29 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ---
 
-### 🔹 Columna 4: [La represión de la regulación de la IA no ha terminado](https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `The AI regulation smackdown isn’t over`
+### 🔹 Columna 4: [Los seres humanos, no la IA deshonesta, siguen siendo el mayor riesgo de ciberseguridad para los sistemas energéticos](https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems`
 
-- 📌 **¿Qué sucedió?**: A principios de esta semana, el quién es quién de la IA parecía, al menos tentativamente, estar del lado de la regulación de la IA. Durante el fin de semana, el CEO de Anthropic, Dario Amodei, propuso un plan de tres pasos para ralentizar el desarrollo de la IA, que incluye la incorporación de evaluadores externos en los laboratorios, la coordinación en toda la industria nacional y
+- 📌 **¿Qué sucedió?**: Antes de que los recientes hackeos de alto perfil plantearan la posibilidad de que la IA "matara a todos los humanos", nuestros sistemas de energía ya eran inquietantemente vulnerables a los ciberataques, y el riesgo está creciendo.
 
-- 🔍 **Detalles clave**: Es el CEO de IA contra el CEO de IA, y las cosas están cambiando día a día.
+- 🔍 **Detalles clave**: Los seres humanos, no la IA deshonesta, siguen siendo el mayor riesgo de ciberseguridad para los sistemas energéticos
 
-- 💡 **Impacto y contexto**: Es el CEO de IA contra el CEO de IA, y las cosas están cambiando día a día.
+- 💡 **Impacto y contexto**: "Siempre fuimos presa. Simplemente sobrevivíamos al apetito de nuestros depredadores", me dijo el año pasado Joshua Corman, ejecutivo residente de seguridad pública y resiliencia en el Instituto de Seguridad y Tecnología (IST). En ese momento, estaba preocupado por una advertencia del Departamento de Seguridad Nacional que
 
-🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over)**
+🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure)**
 
 ---
 
-### 🔹 Columna 5: [Olvídate de la desaceleración de la IA: la explosión de la vulnerabilidad ya está ocurriendo](https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening`
+### 🔹 Columna 5: [La musa de Meta es mejor para vigilar que para ayudarme](https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `Meta's Muse Is Better at Surveilling Than Helping Me`
 
-- 📌 **¿Qué sucedió?**: Los doomers de IA han cambiado recientemente un peor escenario por otro, dejando de lado un posible apocalipsis de vulnerabilidad de software para centrarse en la posibilidad de que la IA deshonesta cause muertes humanas masivas en la próxima década. Sin embargo, a medida que los líderes de IA consideran una desaceleración cooperativa en el desarrollo de modelos de frontera, un aspecto del
+- 📌 **¿Qué sucedió?**: Vi la última aplicación de Meta, Muse, promocionada de forma cruzada en otra plataforma propiedad de Meta, Instagram, y decidí descargar el asistente de IA.
 
-- 🔍 **Detalles clave**: Una marea de vulnerabilidades descubiertas utilizando IA solo se ha acelerado en los últimos meses, acumulando más presión sobre los equipos de TI y seguridad con recursos insuficientes y muy humanos, y esforzando a los voluntarios que mantienen software de código abierto crucial. Los investigadores encontraron y revelaron una amplia gama de vulnerabilidades antes del aumento de
+- 🔍 **Detalles clave**: “Deja a un lado las tareas cotidianas, como encontrar ofertas, reservar y administrar tu bandeja de entrada”, se lee en la ventana emergente. "Muse sigue trabajando mientras continúas con tu día.» Es de uso gratuito y se conecta fácilmente a otras fuentes de datos, como mi correo electrónico y mi cuenta bancaria. El avatar predeterminado de Muse es un cruce de color beige entre un ewok
 
-- 💡 **Impacto y contexto**: Microsoft dijo la semana pasada que ha emitido parches para 974 CVE en lo que va de mes, estableciendo un nuevo récord. (CVE, o vulnerabilidades y exposiciones comunes, es la jerga de ciberseguridad para las fallas de software confirmadas.) En julio, Oracle envió 1.448 parches en comparación con 309 en julio de 2025. Las dos versiones principales de Google Chrome
+- 💡 **Impacto y contexto**: Meta's Muse es una versión convencional de los agentes de IA ya populares en Silicon Valley para automatizar tareas personales, como OpenClaw e Instinct. Es un éxito para la empresa: la aplicación Muse se ha descargado más de 900.000 veces en su primera semana, según Sensor Tower. La experiencia del usuario es menos como incitar a un
 
-🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/)**
+🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/)**
 
 ---
 
@@ -88,6 +88,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#4](editions/2026/09/2026-09-20.md) | 2026-09-20 | [[Evento virtual] Ciberseguridad Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027) | 🛡️ Ciberseguridad |
 | [#3](editions/2026/09/2026-09-19.md) | 2026-09-19 | [[Evento virtual] Ciberseguridad Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027) | 🛡️ Ciberseguridad |
 | [#2](editions/2026/09/2026-09-18.md) | 2026-09-18 | [[Evento virtual] Ciberseguridad Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027) | 🛡️ Ciberseguridad |
 | [#1](editions/2026/09/2026-09-17.md) | 2026-09-17 | [Cisco alerta a los clientes sobre el segundo día cero exp...](https://cyberscoop.com/cisco-ise-zero-day-cve-2026-76460/) | 🛡️ Ciberseguridad |
