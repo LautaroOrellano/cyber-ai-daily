@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 4** — *Domingo, 20 de Septiembre de 2026*
+> **📅 Edición de Hoy: N° 5** — *Lunes, 21 de Septiembre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_4-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_5-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,68 +17,70 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [[Evento virtual] Ciberseguridad Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** Dark Reading &nbsp;|&nbsp; *Original:* `[Virtual Event] Cybersecurity Outlook 2027`
+### 📌 [Miembros del equipo Rust y propietarios de cajas populares dirigidos a través de videollamadas](https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Rust Team Members and Popular Crate Owners Targeted via Video Calls`
 
-- 📌 **¿Qué sucedió?**: Sin descripción disponible.
+- 📌 **¿Qué sucedió?**: El proyecto Rust advirtió la semana pasada que una campaña de ingeniería social en curso se dirige a los miembros del equipo de Rust-lang y a los propietarios de cajas populares para secuestrar las credenciales de los desarrolladores e implementar paquetes maliciosos.
 
-- 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
+- 🔍 **Detalles clave**: El equipo de crates.io y el grupo de trabajo de respuesta de seguridad emitieron la advertencia. Según la alerta, los atacantes atraen a los objetivos a las videollamadas con el pretexto de ofertas de trabajo u oportunidades de contrato.
 
-👉 **[Ver nota original completa en Dark Reading (inglés) ↗](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027)**
+- 💡 **Impacto y contexto**: Una vez en la llamada, se engaña al objetivo para que instale software con el pretexto de que falta un códec de audio o ejecute código malicioso pegado en su portapapeles.
+
+👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Quedan 6 días para salir adelante en TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `6 days left to get ahead at TechCrunch Disrupt 2026`
+### 🔹 Columna 2: [Estados Unidos y China discuten alertar mutuamente sobre las amenazas a la seguridad nacional de la IA](https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `US and China Discuss Alerting Each Other to AI National Security Threats`
 
-- 📌 **¿Qué sucedió?**: Tu margen para ahorrar hasta $ 200 se está cerrando rápidamente. El precio actual de los boletos termina el 25 de septiembre a las 11:59 p. m. PT. Después de eso, los precios suben.
+- 📌 **¿Qué sucedió?**: Han comenzado las conversaciones entre funcionarios estadounidenses y chinos para proponer un mecanismo para que los dos países se notifiquen mutuamente los incidentes de inteligencia artificial que podrían amenazar la seguridad nacional.
 
-- 🔍 **Detalles clave**: En Disrupt, salir adelante significa más que sentarse en grandes sesiones. Significa conocer a las personas que necesitas conocer, ver lo que viene antes de que llegue a la corriente principal y obtener información práctica que puedas poner en práctica.
+- 🔍 **Detalles clave**: El marco, llamado Diálogo de IA entre Estados Unidos y China, también vería a representantes de ambos países reunirse nuevamente para discutir la tecnología y tratar de alinearse en objetivos y amenazas comunes, dijo el secretario del Tesoro, Scott Bessent.
 
-- 💡 **Impacto y contexto**: TechCrunch Disrupt 2026 reúne a más de 10.000 fundadores, inversores, operadores y líderes tecnológicos durante tres días de ideas, conexiones y oportunidades en todo el ecosistema de startups.
+- 💡 **Impacto y contexto**: "Creemos que, al igual que con cualquier actividad transfronteriza, es muy importante pasar de la opacidad a una mayor transparencia entre las potencias de IA número uno y número dos del mundo", dijo Bessent a los periodistas el domingo.
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/)**
-
----
-
-### 🔹 Columna 3: [Claude Opus 5 ayudó a los investigadores a hacerse cargo de las cuentas del personal de OpenAI a través de fallas encadenadas](https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws`
-
-- 📌 **¿Qué sucedió?**: Tres investigadores de la empresa de seguridad Hacktron utilizaron Claude Opus 5 de Anthropic para encadenar dos fallas y hacerse cargo de las cuentas de ChatGPT y Codex de varios empleados de OpenAI, y luego llegar a un repositorio de código interno de OpenAI.
-
-- 🔍 **Detalles clave**: La cadena comenzó con un error en el software que ejecuta el foro de ayuda pública de OpenAI y superó una debilidad en el propio sistema de inicio de sesión de OpenAI.
-
-- 💡 **Impacto y contexto**: Esta fue una investigación de seguridad, no un ataque del mundo real: el equipo informó las fallas a OpenAI, demostró el acceso con una solicitud de extracción inofensiva y luego se detuvo. Desde el primer vistazo, ese acceso interno tardó menos de 72 horas.
-
-🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html)**
+🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/)**
 
 ---
 
-### 🔹 Columna 4: [Los seres humanos, no la IA deshonesta, siguen siendo el mayor riesgo de ciberseguridad para los sistemas energéticos](https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems`
+### 🔹 Columna 3: [CrowdSec confirma el robo de código fuente en un ataque a la cadena de suministro](https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `CrowdSec Confirms Source Code Stolen in Supply Chain Attack`
 
-- 📌 **¿Qué sucedió?**: Antes de que los recientes hackeos de alto perfil plantearan la posibilidad de que la IA "matara a todos los humanos", nuestros sistemas de energía ya eran inquietantemente vulnerables a los ciberataques, y el riesgo está creciendo.
+- 📌 **¿Qué sucedió?**: La firma francesa de ciberseguridad CrowdSec ha confirmado que aproximadamente 300 repositorios privados y públicos se vieron comprometidos y les robaron el código fuente.
 
-- 🔍 **Detalles clave**: Los seres humanos, no la IA deshonesta, siguen siendo el mayor riesgo de ciberseguridad para los sistemas energéticos
+- 🔍 **Detalles clave**: La empresa proporciona inteligencia de amenazas de código abierto y crowdsourcing, incluido un motor de seguridad ligero para detectar y bloquear ataques dirigidos a servidores, redes y aplicaciones.
 
-- 💡 **Impacto y contexto**: "Siempre fuimos presa. Simplemente sobrevivíamos al apetito de nuestros depredadores", me dijo el año pasado Joshua Corman, ejecutivo residente de seguridad pública y resiliencia en el Instituto de Seguridad y Tecnología (IST). En ese momento, estaba preocupado por una advertencia del Departamento de Seguridad Nacional que
+- 💡 **Impacto y contexto**: La semana pasada, el equipo francés se enteró de que el código fuente había sido robado de sus repositorios de GitHub en mayo de 2026.
 
-🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure)**
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/)**
 
 ---
 
-### 🔹 Columna 5: [La musa de Meta es mejor para vigilar que para ayudarme](https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `Meta's Muse Is Better at Surveilling Than Helping Me`
+### 🔹 Columna 4: [La ONU dice que las salvaguardias de la IA no pueden esperar a tener certeza](https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `UN says AI safeguards can’t wait for certainty`
 
-- 📌 **¿Qué sucedió?**: Vi la última aplicación de Meta, Muse, promocionada de forma cruzada en otra plataforma propiedad de Meta, Instagram, y decidí descargar el asistente de IA.
+- 📌 **¿Qué sucedió?**: Los gobiernos deben controlar a los agentes de IA cada vez más capaces antes de que se comprendan completamente sus riesgos, advirtió un panel científico de las Naciones Unidas en la primera evaluación importante de la organización global sobre el hack de OpenAI de Hugging Face a principios de este año.
 
-- 🔍 **Detalles clave**: “Deja a un lado las tareas cotidianas, como encontrar ofertas, reservar y administrar tu bandeja de entrada”, se lee en la ventana emergente. "Muse sigue trabajando mientras continúas con tu día.» Es de uso gratuito y se conecta fácilmente a otras fuentes de datos, como mi correo electrónico y mi cuenta bancaria. El avatar predeterminado de Muse es un cruce de color beige entre un ewok
+- 🔍 **Detalles clave**: El informe llega mientras Pekín y Washington se preparan para debatir sobre la IA y los líderes mundiales se reúnen en Nueva York esta semana.
 
-- 💡 **Impacto y contexto**: Meta's Muse es una versión convencional de los agentes de IA ya populares en Silicon Valley para automatizar tareas personales, como OpenClaw e Instinct. Es un éxito para la empresa: la aplicación Muse se ha descargado más de 900.000 veces en su primera semana, según Sensor Tower. La experiencia del usuario es menos como incitar a un
+- 💡 **Impacto y contexto**: El informe consolida el lugar de la IA en la agenda diplomática mundial esta semana, ya que los líderes se reúnen en Nueva York para la Asamblea General de la ONU y Estados Unidos y China mantienen conversaciones sobre la IA. La semana pasada, el secretario general de la ONU, António Guterres, pidió a los gobiernos que cooperen para abordar las amenazas que plantea la IA, advirtiendo que "el mundo
 
-🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/)**
+🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle)**
+
+---
+
+### 🔹 Columna 5: [Servicios públicos de agua de Colorado afectados por ciberataques dirigidos a sistemas OT](https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems`
+
+- 📌 **¿Qué sucedió?**: Los piratas informáticos atacaron los sistemas de tecnología operativa (OT) en dos empresas privadas de agua en Colorado a fines de agosto, aparentemente tratando de causar interrupciones.
+
+- 🔍 **Detalles clave**: Hay pocos detalles técnicos disponibles, pero parece que los atacantes atacaron los sistemas de control industrial (ICS) en las empresas de agua, que atienden a menos de 200 personas.
+
+- 💡 **Impacto y contexto**: Un portavoz del gobernador de Colorado, Jared Polis, dijo a The Denver Post [paywalled] que los atacantes cambiaron la configuración del equipo, desactivaron el acceso remoto y las alarmas, y alteraron los ciclos de bombeo. Sin embargo, las interrupciones fueron breves y no afectaron los servicios de agua ni la seguridad pública.
+
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/)**
 
 ---
 
@@ -88,6 +90,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#5](editions/2026/09/2026-09-21.md) | 2026-09-21 | [Miembros del equipo Rust y propietarios de cajas populare...](https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/) | 🛡️ Ciberseguridad |
 | [#4](editions/2026/09/2026-09-20.md) | 2026-09-20 | [[Evento virtual] Ciberseguridad Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027) | 🛡️ Ciberseguridad |
 | [#3](editions/2026/09/2026-09-19.md) | 2026-09-19 | [[Evento virtual] Ciberseguridad Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027) | 🛡️ Ciberseguridad |
 | [#2](editions/2026/09/2026-09-18.md) | 2026-09-18 | [[Evento virtual] Ciberseguridad Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027) | 🛡️ Ciberseguridad |

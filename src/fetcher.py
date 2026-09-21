@@ -25,6 +25,18 @@ SOURCES = {
     ]
 }
 
+PROMO_KEYWORDS = [
+    "virtual event", "[virtual event]", "webinar", "sponsored",
+    "whitepaper", "register now", "roundtable", "disrupt", "ticket",
+    "exhibit at", "save the date", "summit", "/events/"
+]
+
+def is_promotional(title: str, link: str) -> bool:
+    """Detects if an RSS entry is a webinar, sponsored ad, or event promo."""
+    t = title.lower()
+    l = link.lower()
+    return any(k in t or k in l for k in PROMO_KEYWORDS)
+
 def clean_html_summary(html_text: str, max_chars: int = 280) -> str:
     """Cleans HTML tags and entities, returning a concise plain text summary."""
     if not html_text:
@@ -55,10 +67,14 @@ def fetch_feed_items(category: str, source_info: dict) -> list:
             return items
             
         feed = feedparser.parse(resp.content)
-        for entry in feed.entries[:8]:
+        for entry in feed.entries[:12]:
             title = entry.get("title", "").strip()
             link = entry.get("link", "").strip()
             
+            # Skip promotional posts and webinars
+            if is_promotional(title, link):
+                continue
+                
             raw_summary = entry.get("summary") or entry.get("description") or ""
             if isinstance(raw_summary, list) and len(raw_summary) > 0:
                 raw_summary = raw_summary[0].get("value", "")
@@ -86,14 +102,14 @@ def fetch_feed_items(category: str, source_info: dict) -> list:
         
     return items
 
-def get_top_news(n: int = 5) -> list:
+def get_top_news(n: int = 5, exclude_links: set = None) -> list:
     """
-    Fetches news from all sources and balances between Cyber & AI:
-    - 2 top stories in Cybersecurity & Hacks
-    - 2 top stories in Artificial Intelligence & ML
-    - 1 freshest additional story across both fields
-    Total: 5 curated stories
+    Fetches news from all sources and balances between Cyber & AI.
+    Excludes previously published links to guarantee 100% fresh content daily.
     """
+    if exclude_links is None:
+        exclude_links = set()
+        
     cyber_items = []
     for src in SOURCES["cyber"]:
         cyber_items.extend(fetch_feed_items("cyber", src))
@@ -102,6 +118,10 @@ def get_top_news(n: int = 5) -> list:
     for src in SOURCES["ai"]:
         ai_items.extend(fetch_feed_items("ai", src))
         
+    # Filter out any links already published in previous editions
+    cyber_items = [it for it in cyber_items if it["link"] not in exclude_links and it["link"].rstrip("/") not in exclude_links]
+    ai_items = [it for it in ai_items if it["link"] not in exclude_links and it["link"].rstrip("/") not in exclude_links]
+    
     cyber_items.sort(key=lambda x: x["timestamp"], reverse=True)
     ai_items.sort(key=lambda x: x["timestamp"], reverse=True)
     

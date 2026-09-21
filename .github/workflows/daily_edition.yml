@@ -2,9 +2,9 @@ name: 🗞️ Publish Daily CyberAI Edition
 
 on:
   schedule:
-    # Corre todos los días a las 11:10 AM UTC (08:10 AM ARG/CL/UY, 05:10 AM MX)
-    # Minuto 10 evita la saturación habitual de servidores de GitHub en el minuto :00
-    - cron: '10 11 * * *'
+    # Corre de madrugada: 06:30 AM UTC (03:30 AM Argentina)
+    # Horario con carga nula en servidores de GitHub, garantizando publicación antes de las 08:00 AM
+    - cron: '30 6 * * *'
   workflow_dispatch: # Permite disparar la edición manualmente desde la pestaña Actions en GitHub
 
 jobs:

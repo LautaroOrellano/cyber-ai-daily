@@ -38,5 +38,22 @@
     "category": "cyber",
     "source": "Dark Reading",
     "lead_link": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027"
+  },
+  {
+    "edition": 5,
+    "date": "2026-09-21",
+    "rel_path": "editions/2026/09/2026-09-21.md",
+    "title_en": "Rust Team Members and Popular Crate Owners Targeted via Video Calls",
+    "title_es": "Miembros del equipo Rust y propietarios de cajas populares dirigidos a través de videollamadas",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/",
+    "story_links": [
+      "https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/",
+      "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+      "https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/",
+      "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+      "https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/"
+    ]
   }
 ]
