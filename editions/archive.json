@@ -55,5 +55,22 @@
       "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
       "https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/"
     ]
+  },
+  {
+    "edition": 6,
+    "date": "2026-09-22",
+    "rel_path": "editions/2026/09/2026-09-22.md",
+    "title_en": "Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers",
+    "title_es": "Vulnerabilidad reciente en el switch ZyXEL explotada por hackers chinos",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/",
+    "story_links": [
+      "https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/",
+      "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+      "https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/",
+      "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/"
+    ]
   }
 ]

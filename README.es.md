@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 5** — *Lunes, 21 de Septiembre de 2026*
+> **📅 Edición de Hoy: N° 6** — *Martes, 22 de Septiembre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_5-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_6-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,70 +17,70 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [Miembros del equipo Rust y propietarios de cajas populares dirigidos a través de videollamadas](https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Rust Team Members and Popular Crate Owners Targeted via Video Calls`
+### 📌 [Vulnerabilidad reciente en el switch ZyXEL explotada por hackers chinos](https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers`
 
-- 📌 **¿Qué sucedió?**: El proyecto Rust advirtió la semana pasada que una campaña de ingeniería social en curso se dirige a los miembros del equipo de Rust-lang y a los propietarios de cajas populares para secuestrar las credenciales de los desarrolladores e implementar paquetes maliciosos.
+- 📌 **¿Qué sucedió?**: Un actor de amenazas chino ha estado apuntando a conmutadores vulnerables ZyXEL GS1900 en todo el mundo para la exfiltración de información confidencial, advierte la firma de inteligencia de amenazas GreyNoise.
 
-- 🔍 **Detalles clave**: El equipo de crates.io y el grupo de trabajo de respuesta de seguridad emitieron la advertencia. Según la alerta, los atacantes atraen a los objetivos a las videollamadas con el pretexto de ofertas de trabajo u oportunidades de contrato.
+- 🔍 **Detalles clave**: Seguido como CVE-2026-7273 (puntuación CVSS de 8.8), el defecto de seguridad se describe como un desbordamiento de búfer basado en pila que podría explotarse sin autenticación para ejecutar comandos del sistema operativo a través de solicitudes HTTP manipuladas.
 
-- 💡 **Impacto y contexto**: Una vez en la llamada, se engaña al objetivo para que instale software con el pretexto de que falta un códec de audio o ejecute código malicioso pegado en su portapapeles.
+- 💡 **Impacto y contexto**: ZyXEL lanzó actualizaciones de seguridad que corrigen el error en diez modelos de switches GS1900 en junio. El lunes, GreyNoise advirtió que fue explotado por un grupo de piratería chino en agosto contra dispositivos ZyXEL en 48 países.
 
-👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/)**
+👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Estados Unidos y China discuten alertar mutuamente sobre las amenazas a la seguridad nacional de la IA](https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `US and China Discuss Alerting Each Other to AI National Security Threats`
+### 🔹 Columna 2: [Meta parches Exploit de Muse que permiten a los atacantes controlar el agente de IA](https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Meta patches Muse exploit that let attackers control the AI agent`
 
-- 📌 **¿Qué sucedió?**: Han comenzado las conversaciones entre funcionarios estadounidenses y chinos para proponer un mecanismo para que los dos países se notifiquen mutuamente los incidentes de inteligencia artificial que podrían amenazar la seguridad nacional.
+- 📌 **¿Qué sucedió?**: Meta ha publicado un parche para su aplicación Muse macOS tras el descubrimiento de una vulnerabilidad de día cero que podría permitir a alguien tomar el control del agente de IA. El error encontrado por el investigador de seguridad Patrick Wardle utilizó una configuración de Muse indocumentada que permitía a los posibles atacantes ejecutar código local para redirigir
 
-- 🔍 **Detalles clave**: El marco, llamado Diálogo de IA entre Estados Unidos y China, también vería a representantes de ambos países reunirse nuevamente para discutir la tecnología y tratar de alinearse en objetivos y amenazas comunes, dijo el secretario del Tesoro, Scott Bessent.
+- 🔍 **Detalles clave**: Meta parches Exploit de Muse que permiten a los atacantes controlar el agente de IA
 
-- 💡 **Impacto y contexto**: "Creemos que, al igual que con cualquier actividad transfronteriza, es muy importante pasar de la opacidad a una mayor transparencia entre las potencias de IA número uno y número dos del mundo", dijo Bessent a los periodistas el domingo.
+- 💡 **Impacto y contexto**: "Deberían estar pensando en la seguridad desde el principio, y simplemente no lo están".
 
-🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/)**
-
----
-
-### 🔹 Columna 3: [CrowdSec confirma el robo de código fuente en un ataque a la cadena de suministro](https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `CrowdSec Confirms Source Code Stolen in Supply Chain Attack`
-
-- 📌 **¿Qué sucedió?**: La firma francesa de ciberseguridad CrowdSec ha confirmado que aproximadamente 300 repositorios privados y públicos se vieron comprometidos y les robaron el código fuente.
-
-- 🔍 **Detalles clave**: La empresa proporciona inteligencia de amenazas de código abierto y crowdsourcing, incluido un motor de seguridad ligero para detectar y bloquear ataques dirigidos a servidores, redes y aplicaciones.
-
-- 💡 **Impacto y contexto**: La semana pasada, el equipo francés se enteró de que el código fuente había sido robado de sus repositorios de GitHub en mayo de 2026.
-
-🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/)**
+🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent)**
 
 ---
 
-### 🔹 Columna 4: [La ONU dice que las salvaguardias de la IA no pueden esperar a tener certeza](https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `UN says AI safeguards can’t wait for certainty`
+### 🔹 Columna 3: [El paquete malicioso B-tree NPM acumula millones de descargas](https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Malicious B-tree NPM Package Accumulates Millions of Downloads`
 
-- 📌 **¿Qué sucedió?**: Los gobiernos deben controlar a los agentes de IA cada vez más capaces antes de que se comprendan completamente sus riesgos, advirtió un panel científico de las Naciones Unidas en la primera evaluación importante de la organización global sobre el hack de OpenAI de Hugging Face a principios de este año.
+- 📌 **¿Qué sucedió?**: El ecosistema NPM ha sufrido otro ataque en la cadena de suministro en el que un paquete malicioso ha acumulado millones de descargas, informa Checkmarx.
 
-- 🔍 **Detalles clave**: El informe llega mientras Pekín y Washington se preparan para debatir sobre la IA y los líderes mundiales se reúnen en Nueva York esta semana.
+- 🔍 **Detalles clave**: Aún en curso, la campaña ha logrado eludir las protecciones recientes de NPM ocultando un desencadenante malicioso en el código prototipo de JavaScript del paquete, en lugar de usar un script de instalación que podría ser detectado por las soluciones de seguridad.
 
-- 💡 **Impacto y contexto**: El informe consolida el lugar de la IA en la agenda diplomática mundial esta semana, ya que los líderes se reúnen en Nueva York para la Asamblea General de la ONU y Estados Unidos y China mantienen conversaciones sobre la IA. La semana pasada, el secretario general de la ONU, António Guterres, pidió a los gobiernos que cooperen para abordar las amenazas que plantea la IA, advirtiendo que "el mundo
+- 💡 **Impacto y contexto**: En lugar de dirigirse a paquetes muy populares para una propagación rápida y una probable detección inmediata, el actor de amenazas generó confianza al crear un repositorio de GitHub de aspecto legítimo.
 
-🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle)**
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/)**
 
 ---
 
-### 🔹 Columna 5: [Servicios públicos de agua de Colorado afectados por ciberataques dirigidos a sistemas OT](https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems`
+### 🔹 Columna 4: [No te dejes engañar por este verano de exageraciones sobre la IA](https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** MIT Technology Review &nbsp;|&nbsp; *Original:* `Don’t be fooled by this summer of AI hype`
 
-- 📌 **¿Qué sucedió?**: Los piratas informáticos atacaron los sistemas de tecnología operativa (OT) en dos empresas privadas de agua en Colorado a fines de agosto, aparentemente tratando de causar interrupciones.
+- 📌 **¿Qué sucedió?**: Las afirmaciones sin aliento sobre AGI y las nuevas capacidades se desmoronan bastante rápido bajo escrutinio.
 
-- 🔍 **Detalles clave**: Hay pocos detalles técnicos disponibles, pero parece que los atacantes atacaron los sistemas de control industrial (ICS) en las empresas de agua, que atienden a menos de 200 personas.
+- 🔍 **Detalles clave**: Han sido unos meses muy ocupados para la exageración de la IA. A finales de abril, Anthropic afirmó que su modelo Claude Mythos es mejor para encontrar vulnerabilidades de software que la mayoría de los expertos en seguridad. Luego tuvimos el incidente de piratería OpenAI-Hugging Face, después del cual Anthropic (con orgullo) y Meta (a regañadientes) revelaron incidentes similares
 
-- 💡 **Impacto y contexto**: Un portavoz del gobernador de Colorado, Jared Polis, dijo a The Denver Post [paywalled] que los atacantes cambiaron la configuración del equipo, desactivaron el acceso remoto y las alarmas, y alteraron los ciclos de bombeo. Sin embargo, las interrupciones fueron breves y no afectaron los servicios de agua ni la seguridad pública.
+- 💡 **Impacto y contexto**: Esto fue seguido por la afirmación de Anthropic de que uno de sus modelos había hecho un avance matemático; pronto OpenAI reclamó un avance matemático propio. Más recientemente, el ingeniero de Anthropic, Jacob Coxon, se volvió viral al anunciar su salida de la empresa, afirmando que ella y OpenAI están "corriendo directamente hacia
 
-🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/)**
+🔗 **[Ver nota original completa en MIT Technology Review (inglés) ↗](https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/)**
+
+---
+
+### 🔹 Columna 5: [Construí clones de IA de mis compañeros de trabajo. Las cosas se pusieron raras](https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `I Built AI Clones of My Coworkers. Things Got Weird`
+
+- 📌 **¿Qué sucedió?**: Cuando decidí crear clones de inteligencia artificial de mis editores, mis intenciones eran puras: solo quería que pensaran que era bueno en mi trabajo.
+
+- 🔍 **Detalles clave**: Los asistentes de IA están repentinamente en todas partes en el lugar de trabajo. Cada semana, mi bandeja de entrada se inunda con comunicados de prensa sobre trabajadores digitales, y los CEO se jactan de cómo los ayudantes de robots pronto dominarán su fuerza laboral. Luego están las historias que escucho sobre personas que construyen clones de IA de sus jefes, usándolos para escupir cada
+
+- 💡 **Impacto y contexto**: No necesitaba mis bots para mejorar los resultados de Condé Nast. Solo los necesitaba para que me viera bien. Solo había estado informando sobre el futuro del trabajo en WIRED durante unos meses, y razoné que los bots podrían ayudarme a convertirme en un colega ideal. Podrían ayudarme a navegar por un nuevo lugar de trabajo y mejorar
+
+🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/)**
 
 ---
 
@@ -90,6 +90,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#6](editions/2026/09/2026-09-22.md) | 2026-09-22 | [Vulnerabilidad reciente en el switch ZyXEL explotada por ...](https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/) | 🛡️ Ciberseguridad |
 | [#5](editions/2026/09/2026-09-21.md) | 2026-09-21 | [Miembros del equipo Rust y propietarios de cajas populare...](https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/) | 🛡️ Ciberseguridad |
 | [#4](editions/2026/09/2026-09-20.md) | 2026-09-20 | [[Evento virtual] Ciberseguridad Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027) | 🛡️ Ciberseguridad |
 | [#3](editions/2026/09/2026-09-19.md) | 2026-09-19 | [[Evento virtual] Ciberseguridad Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027) | 🛡️ Ciberseguridad |
