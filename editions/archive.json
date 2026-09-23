@@ -72,5 +72,22 @@
       "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
       "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/"
     ]
+  },
+  {
+    "edition": 7,
+    "date": "2026-09-23",
+    "rel_path": "editions/2026/09/2026-09-23.md",
+    "title_en": "UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks",
+    "title_es": "Emiratos Árabes Unidos y Arabia Saudí se enfrentan a ataques cibernéticos cada vez más complejos",
+    "category": "cyber",
+    "source": "Dark Reading",
+    "lead_link": "https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks",
+    "story_links": [
+      "https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks",
+      "https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/",
+      "https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/",
+      "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/"
+    ]
   }
 ]

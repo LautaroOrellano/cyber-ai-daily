@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 6** — *Martes, 22 de Septiembre de 2026*
+> **📅 Edición de Hoy: N° 7** — *Miércoles, 23 de Septiembre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_6-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_7-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,70 +17,70 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [Vulnerabilidad reciente en el switch ZyXEL explotada por hackers chinos](https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers`
+### 📌 [Emiratos Árabes Unidos y Arabia Saudí se enfrentan a ataques cibernéticos cada vez más complejos](https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** Dark Reading &nbsp;|&nbsp; *Original:* `UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks`
 
-- 📌 **¿Qué sucedió?**: Un actor de amenazas chino ha estado apuntando a conmutadores vulnerables ZyXEL GS1900 en todo el mundo para la exfiltración de información confidencial, advierte la firma de inteligencia de amenazas GreyNoise.
+- 📌 **¿Qué sucedió?**: Últimas noticias de ciberseguridad, análisis de noticias, comentarios y otros contenidos de todo el mundo, con un enfoque inicial en Oriente Medio y África, Asia Pacífico, Europa y América Latina.
 
-- 🔍 **Detalles clave**: Seguido como CVE-2026-7273 (puntuación CVSS de 8.8), el defecto de seguridad se describe como un desbordamiento de búfer basado en pila que podría explotarse sin autenticación para ejecutar comandos del sistema operativo a través de solicitudes HTTP manipuladas.
+- 🔍 **Detalles clave**: Emiratos Árabes Unidos y Arabia Saudí se enfrentan a ataques cibernéticos cada vez más complejos
 
-- 💡 **Impacto y contexto**: ZyXEL lanzó actualizaciones de seguridad que corrigen el error en diez modelos de switches GS1900 en junio. El lunes, GreyNoise advirtió que fue explotado por un grupo de piratería chino en agosto contra dispositivos ZyXEL en 48 países.
+- 💡 **Impacto y contexto**: Los Emiratos Árabes Unidos y el Reino de Arabia Saudita absorbieron juntos el 50% de todos los ciberataques registrados en la región del Golfo en el primer semestre de 2026.
 
-👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/)**
+👉 **[Ver nota original completa en Dark Reading (inglés) ↗](https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Meta parches Exploit de Muse que permiten a los atacantes controlar el agente de IA](https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Meta patches Muse exploit that let attackers control the AI agent`
+### 🔹 Columna 2: [AT&T está automatizando empleos y su antiguo imperio de telecomunicaciones](https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `AT&T Is Automating Away Jobs—and Its Old Telecom Empire`
 
-- 📌 **¿Qué sucedió?**: Meta ha publicado un parche para su aplicación Muse macOS tras el descubrimiento de una vulnerabilidad de día cero que podría permitir a alguien tomar el control del agente de IA. El error encontrado por el investigador de seguridad Patrick Wardle utilizó una configuración de Muse indocumentada que permitía a los posibles atacantes ejecutar código local para redirigir
+- 📌 **¿Qué sucedió?**: AT&T, que ya ha despedido a más de la mitad de su fuerza laboral en la última década, dice que continuará despidiendo personal a medida que se prepara para la era de la IA. El gigante de las telecomunicaciones también está eliminando su servicio de telefonía fija de la vieja escuela y utilizando inteligencia artificial para automatizar algunos procesos internos.
 
-- 🔍 **Detalles clave**: Meta parches Exploit de Muse que permiten a los atacantes controlar el agente de IA
+- 🔍 **Detalles clave**: "No vamos a tener el mismo número de empleados en cinco años como lo hacemos hoy", dice Legg, y agrega que comparar sus niveles de personal con los de sus compañeros juega un papel en su toma de decisiones. Según las revelaciones financieras públicas, AT&T generó menos ingresos por empleado el año pasado que sus competidores Verizon y T-Mobile,
 
-- 💡 **Impacto y contexto**: "Deberían estar pensando en la seguridad desde el principio, y simplemente no lo están".
+- 💡 **Impacto y contexto**: Si AT&T continúa recortando empleos al mismo ritmo que el año pasado, cuando despidió a 8.000 personas, su fuerza laboral podría acercarse a los 85.000 empleados para 2030. Una persona familiarizada con el asunto, que no estaba autorizada a hablar públicamente, describió ese número como el objetivo de la compañía. AT&T calificó la cifra de inexacta. En el primer
 
-🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent)**
-
----
-
-### 🔹 Columna 3: [El paquete malicioso B-tree NPM acumula millones de descargas](https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Malicious B-tree NPM Package Accumulates Millions of Downloads`
-
-- 📌 **¿Qué sucedió?**: El ecosistema NPM ha sufrido otro ataque en la cadena de suministro en el que un paquete malicioso ha acumulado millones de descargas, informa Checkmarx.
-
-- 🔍 **Detalles clave**: Aún en curso, la campaña ha logrado eludir las protecciones recientes de NPM ocultando un desencadenante malicioso en el código prototipo de JavaScript del paquete, en lugar de usar un script de instalación que podría ser detectado por las soluciones de seguridad.
-
-- 💡 **Impacto y contexto**: En lugar de dirigirse a paquetes muy populares para una propagación rápida y una probable detección inmediata, el actor de amenazas generó confianza al crear un repositorio de GitHub de aspecto legítimo.
-
-🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/)**
+🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/)**
 
 ---
 
-### 🔹 Columna 4: [No te dejes engañar por este verano de exageraciones sobre la IA](https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** MIT Technology Review &nbsp;|&nbsp; *Original:* `Don’t be fooled by this summer of AI hype`
+### 🔹 Columna 3: [Adobe corrige defectos críticos en Connect y AEM Forms](https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Adobe Patches Critical Flaws in Connect, AEM Forms`
 
-- 📌 **¿Qué sucedió?**: Las afirmaciones sin aliento sobre AGI y las nuevas capacidades se desmoronan bastante rápido bajo escrutinio.
+- 📌 **¿Qué sucedió?**: Adobe lanzó el martes parches para 36 vulnerabilidades en sus productos, incluidas fallas de gravedad crítica en los formularios Connect y Experience Manager (AEM).
 
-- 🔍 **Detalles clave**: Han sido unos meses muy ocupados para la exageración de la IA. A finales de abril, Anthropic afirmó que su modelo Claude Mythos es mejor para encontrar vulnerabilidades de software que la mayoría de los expertos en seguridad. Luego tuvimos el incidente de piratería OpenAI-Hugging Face, después del cual Anthropic (con orgullo) y Meta (a regañadientes) revelaron incidentes similares
+- 🔍 **Detalles clave**: La actualización de Adobe Connect resuelve nueve defectos de seguridad, incluidos seis problemas críticos que podrían explotarse para la ejecución de código arbitrario y la escalada de privilegios.
 
-- 💡 **Impacto y contexto**: Esto fue seguido por la afirmación de Anthropic de que uno de sus modelos había hecho un avance matemático; pronto OpenAI reclamó un avance matemático propio. Más recientemente, el ingeniero de Anthropic, Jacob Coxon, se volvió viral al anunciar su salida de la empresa, afirmando que ella y OpenAI están "corriendo directamente hacia
+- 💡 **Impacto y contexto**: Rastreados como CVE-2026-75682, CVE-2026-75684, CVE-2026-75686, CVE-2026-75689, CVE-2026-75697 y CVE-2026-75698, se describen como inyección SQL, secuencias de comandos entre sitios (XSS) y fallas de validación de entrada incorrectas.
 
-🔗 **[Ver nota original completa en MIT Technology Review (inglés) ↗](https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/)**
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/)**
 
 ---
 
-### 🔹 Columna 5: [Construí clones de IA de mis compañeros de trabajo. Las cosas se pusieron raras](https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `I Built AI Clones of My Coworkers. Things Got Weird`
+### 🔹 Columna 4: [‘Ya estamos luchando la batalla de ayer’: el primer ministro de Grecia se muestra sincero sobre la IA](https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI`
 
-- 📌 **¿Qué sucedió?**: Cuando decidí crear clones de inteligencia artificial de mis editores, mis intenciones eran puras: solo quería que pensaran que era bueno en mi trabajo.
+- 📌 **¿Qué sucedió?**: El primer ministro griego, Kyriakos Mitsotakis, llegó a San Francisco el lunes por la noche para promocionar a Grecia, pero también hizo algo que los jefes de estado en misiones comerciales no suelen hacer. Frente a aproximadamente 250 fundadores, inversores y operadores, dijo abiertamente que no tiene respuestas a muchas de las preguntas de IA
 
-- 🔍 **Detalles clave**: Los asistentes de IA están repentinamente en todas partes en el lugar de trabajo. Cada semana, mi bandeja de entrada se inunda con comunicados de prensa sobre trabajadores digitales, y los CEO se jactan de cómo los ayudantes de robots pronto dominarán su fuerza laboral. Luego están las historias que escucho sobre personas que construyen clones de IA de sus jefes, usándolos para escupir cada
+- 🔍 **Detalles clave**: El primer ministro, hablando con este editor en un evento organizado por Endeavor Greece, el brazo local de una organización sin fines de lucro global que apoya a empresarios en mercados emergentes y en crecimiento, describió su viaje al Área de la Bahía como en parte una misión de investigación. Había pasado la mañana recorriendo Tesla y Sequoia Capital, entre otras paradas,
 
-- 💡 **Impacto y contexto**: No necesitaba mis bots para mejorar los resultados de Condé Nast. Solo los necesitaba para que me viera bien. Solo había estado informando sobre el futuro del trabajo en WIRED durante unos meses, y razoné que los bots podrían ayudarme a convertirme en un colega ideal. Podrían ayudarme a navegar por un nuevo lugar de trabajo y mejorar
+- 💡 **Impacto y contexto**: "Creo que es otra indicación de que la economía va bien y que Grecia ya no se trata como un caso especial", dijo Mitsotakis.
 
-🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/)**
+
+---
+
+### 🔹 Columna 5: [Vulnerabilidades de los parches 108 de Chrome 154](https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Chrome 154 Patches 108 Vulnerabilities`
+
+- 📌 **¿Qué sucedió?**: Google anunció el martes el lanzamiento de Chrome 154 al canal estable con parches para 108 vulnerabilidades, incluidos 11 errores de gravedad crítica.
+
+- 🔍 **Detalles clave**: Los defectos de seguridad críticos incluyen desbordamientos de búfer (tres en ÁNGULO y uno en WebGL), escrituras fuera de límites (dos en GPU y uno en WebGL) y errores de uso después de liberación en ServiceWorker, Fullscreen, WindowDialog y AdFilter.
+
+- 💡 **Impacto y contexto**: Nueve de los problemas críticos fueron informados por investigadores externos. En total, 32 de las fallas recién parcheadas se informaron externamente, mientras que el resto fueron descubiertas por Google.
+
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/)**
 
 ---
 
@@ -90,6 +90,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#7](editions/2026/09/2026-09-23.md) | 2026-09-23 | [Emiratos Árabes Unidos y Arabia Saudí se enfrentan a ataq...](https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks) | 🛡️ Ciberseguridad |
 | [#6](editions/2026/09/2026-09-22.md) | 2026-09-22 | [Vulnerabilidad reciente en el switch ZyXEL explotada por ...](https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/) | 🛡️ Ciberseguridad |
 | [#5](editions/2026/09/2026-09-21.md) | 2026-09-21 | [Miembros del equipo Rust y propietarios de cajas populare...](https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/) | 🛡️ Ciberseguridad |
 | [#4](editions/2026/09/2026-09-20.md) | 2026-09-20 | [[Evento virtual] Ciberseguridad Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027) | 🛡️ Ciberseguridad |
