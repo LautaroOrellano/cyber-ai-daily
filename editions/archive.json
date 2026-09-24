@@ -89,5 +89,22 @@
       "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
       "https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/"
     ]
+  },
+  {
+    "edition": 8,
+    "date": "2026-09-24",
+    "rel_path": "editions/2026/09/2026-09-24.md",
+    "title_en": "Island Raises $400 Million at $6.4 Billion Valuation",
+    "title_es": "Island recauda $ 400 millones con una valoración de $ 6.4 mil millones",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/island-raises-400-million-at-6-4-billion-valuation/",
+    "story_links": [
+      "https://www.securityweek.com/island-raises-400-million-at-6-4-billion-valuation/",
+      "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+      "https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/",
+      "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+      "https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/"
+    ]
   }
 ]
