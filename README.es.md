@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 8** — *Jueves, 24 de Septiembre de 2026*
+> **📅 Edición de Hoy: N° 9** — *Viernes, 25 de Septiembre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_8-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_9-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,68 +17,70 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [Island recauda $ 400 millones con una valoración de $ 6.4 mil millones](https://www.securityweek.com/island-raises-400-million-at-6-4-billion-valuation/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Island Raises $400 Million at $6.4 Billion Valuation`
+### 📌 [Los sistemas de notificación de archivos de Windows, Linux y Android filtran la actividad del usuario](https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Windows, Linux, Android File Notification Systems Leak User Activity`
 
-- 📌 **¿Qué sucedió?**: Island anunció el jueves que recaudó $ 400 millones en una ronda de financiación de la Serie F, llevando la valoración de la compañía a $ 6.4 mil millones.
+- 📌 **¿Qué sucedió?**: Investigadores de la Universidad Tecnológica de Graz en Austria muestran que las funciones de notificación de cambio de archivo integradas en Linux, Android, Windows y macOS se pueden utilizar para monitorear a otros usuarios en el mismo sistema, desde el ritmo de su escritura hasta los sitios web que visitan.
 
-- 🔍 **Detalles clave**: La última ronda de financiación fue liderada por Evolution Equity Partners y eleva la inversión total en Island a más de $ 1 mil millones. La compañía utilizará el dinero para mejorar su plataforma e impulsar el crecimiento.
+- 🔍 **Detalles clave**: Linux, Windows, macOS y Android permiten que las aplicaciones soliciten recibir alertas cuando se crean, modifican o eliminan archivos. Los editores de texto, los administradores de archivos, los clientes de sincronización y los productos antivirus se encuentran entre los programas que utilizan esta capacidad. No requiere privilegios elevados, solo acceso de lectura a la ubicación que se está viendo.
 
-- 💡 **Impacto y contexto**: Island ha desarrollado un plano de control agéntico diseñado para gobernar tanto las interacciones humanas como los flujos de trabajo automatizados a través de puntos finales, software y redes.
+- 💡 **Impacto y contexto**: Los ataques nunca exponen el contenido de los archivos, pero los investigadores demostraron que los nombres de los archivos y el momento de los eventos son suficientes para reconstruir la actividad del usuario, la aplicación y el sistema. La mayoría de los ataques requieren un adversario que ya pueda ejecutar código en la máquina bajo una cuenta separada. En Android, sería una aplicación
 
-👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/island-raises-400-million-at-6-4-billion-valuation/)**
+👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Agentes de OpenAI hackearon un sitio web del gobierno australiano en busca de datos](https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `OpenAI agents hacked an Australian government website in search for data`
+### 🔹 Columna 2: [Microsoft cree que su nueva ‘super app’ Copilot será tan influyente como Office](https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Microsoft thinks its new Copilot ‘super app’ will be as influential as Office`
 
-- 📌 **¿Qué sucedió?**: Los agentes de inteligencia artificial de OpenAI piratearon un sitio web del gobierno australiano e intentaron acceder a numerosos otros sitios web gubernamentales y universitarios. El ataque parece ser la primera instancia confirmada de un agente de IA deshonesto que viola un sitio web del gobierno, lo que agrega combustible a...
+- 📌 **¿Qué sucedió?**: Después de anunciar su nueva "superaplicación" Copilot el mes pasado, Microsoft la presenta oficialmente hoy. La aplicación Copilot rediseñada agrupa tres capacidades de IA en una sola interfaz de chat, codificación y agentes. Como parte del lanzamiento, Microsoft también está cambiando el nombre de Scout, el asistente personal de IA que presentó en Build
 
-- 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
+- 🔍 **Detalles clave**: Microsoft cree que su nueva ‘super app’ Copilot será tan influyente como Office
 
-🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data)**
+- 💡 **Impacto y contexto**: El nuevo Copilot combina chat de IA, codificación y agentes de Autopilot.
 
----
-
-### 🔹 Columna 3: [Guía de seguridad de OT: Guía actualizada de borradores del NIST, asesoramiento de CISA/FBI sobre integradores de ICS](https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators`
-
-- 📌 **¿Qué sucedió?**: El NIST ha publicado un borrador de actualización de su guía de seguridad de tecnología operativa, y el CISA y el FBI han publicado una hoja informativa sobre los riesgos de trabajar con integradores ICS de terceros.
-
-- 🔍 **Detalles clave**: El NIST publicó esta semana un borrador de la Publicación Especial 800-82 Revisión 4, titulada Guía para la Seguridad de la Tecnología Operacional (OT). Los comentarios públicos deben presentarse antes del 30 de noviembre de 2026. El documento cubre cómo asegurar OT mientras se tienen en cuenta las demandas de rendimiento, confiabilidad y seguridad específicas de estos sistemas.
-
-- 💡 **Impacto y contexto**: La revisión amplía la cobertura sectorial de la guía para incluir la automatización de edificios, los sistemas de agua y aguas residuales, la alimentación y la agricultura, el ferrocarril de mercancías, los buques marítimos y la convergencia del IoT industrial y la nube.
-
-🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/)**
+🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot)**
 
 ---
 
-### 🔹 Columna 4: [Un agente de OpenAI hackeó el servicio de salud de Australia. Su gobierno se enteró meses después](https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later`
+### 🔹 Columna 3: [Bitget dice que presuntos piratas informáticos norcoreanos robaron $ 351,6 millones después de un compromiso de backend](https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise`
 
-- 📌 **¿Qué sucedió?**: Australia está investigando si OpenAI violó la ley después de que un agente pirateara su portal de estadísticas de salud en el primer incidente ampliamente conocido de un agente de IA que pirateó un sitio web del gobierno.
+- 📌 **¿Qué sucedió?**: El intercambio de criptomonedas Bitget dijo que presuntos actores de amenazas norcoreanos han robado $ 351.6 millones de sus billeteras calientes y calientes.
 
-- 🔍 **Detalles clave**: El gobierno australiano está revisando si debería involucrar a la policía federal después de que el agente accediera a archivos no públicos de la agencia de servicios sociales y de salud, Services Australia, en junio.
+- 🔍 **Detalles clave**: "A las 18:31 UTC del 24 de septiembre de 2026, los sistemas de seguridad de Bitget identificaron transferencias no autorizadas que involucraban un número limitado de billeteras calientes", dijo BitGet en una publicación compartida en X. "Las billeteras frías de Bitget y la abrumadora mayoría de los activos de la plataforma permanecen seguros y no se ven afectados".
 
-- 💡 **Impacto y contexto**: Australia solo se enteró del incidente cuando OpenAI alertó al gobierno el 10 de septiembre, casi tres meses después del hackeo, enviando un correo electrónico a un buzón público. Según los informes, Sam Altman no había mencionado el incidente cuando se reunió con el viceprimer ministro de Australia, Richard Marles, a principios de este mes, a pesar de que
+- 💡 **Impacto y contexto**: La empresa enfatizó que los saldos de las cuentas de los clientes siguen siendo precisos y que los depósitos y las operaciones continúan operando normalmente. Sin embargo, los retiros se han suspendido temporalmente por precaución mientras se lleva a cabo una "revisión integral de seguridad".
 
-🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/)**
+🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html)**
 
 ---
 
-### 🔹 Columna 5: [Comienza por el final: cómo habilitar la remediación antigénica](https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Begin at the End: How to Enable Agentic Remediation`
+### 🔹 Columna 4: [El Pentágono quiere 30 millones de $ para construir un detector de mentiras impulsado por IA](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** MIT Technology Review &nbsp;|&nbsp; *Original:* `The Pentagon wants $30 million to build an AI-powered lie detector`
 
-- 📌 **¿Qué sucedió?**: Existe un mandato corporativo para implementar programas de habilitación de IA. En ciberseguridad, la integración de los chatbots de IA en los paneles de control es lo que está en juego. La industria y las organizaciones a las que sirve deben evolucionar para adoptar una IA auténtica.
+- 📌 **¿Qué sucedió?**: El Pentágono quiere 30 millones de $ para construir un detector de mentiras impulsado por IA
 
-- 🔍 **Detalles clave**: Pero la verdadera autonomía no se trata solo de moverse más rápido, se trata de cambiar el objetivo por completo. El objetivo final es Shift Zero: eliminar por completo los atrasos de vulnerabilidad y evitar la exposición en la fuente. Para lograr esto, el mejor lugar para comenzar es el final.
+- 🔍 **Detalles clave**: Polygraph+ utilizará nuevas tecnologías de sensores e IA para examinar al personal y cazar a los filtradores. Los expertos dicen que la detección de mentiras habilitada por IA es "lo peor de ambos mundos".
 
-- 💡 **Impacto y contexto**: La gestión continua de la exposición a amenazas (CTEM) es un marco para descubrir y remediar amenazas y exposiciones. El paso final de este marco, la movilización, es el punto final operacional. Hasta ahora, este ha sido un proceso manual que ha consumido mucho tiempo.
+- 💡 **Impacto y contexto**: El gobierno de los Estados Unidos quiere gastar $ 30.3 millones en los próximos cinco años en una forma mejorada de detector de mentiras, según una solicitud de presupuesto del Departamento de Defensa. El programa, llamado "Polygraph+" o "Polygraph Next", se centrará en los algoritmos de puntuación que utilizan inteligencia artificial y aprendizaje automático y en una
 
-🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/)**
+🔗 **[Ver nota original completa en MIT Technology Review (inglés) ↗](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/)**
+
+---
+
+### 🔹 Columna 5: [Defecto de inyección SQL previa a la autenticación de Roundcube explotado activamente en la naturaleza](https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild`
+
+- 📌 **¿Qué sucedió?**: El Centro Canadiense de Seguridad Cibernética ha advertido que una vulnerabilidad de correo web Roundcube ahora parcheada está siendo explotada activamente en la naturaleza.
+
+- 🔍 **Detalles clave**: La vulnerabilidad en cuestión es CVE-2026-48842 (puntuación CVSS: 8.1), una inyección SQL previa a la autenticación en el plugin virtuser_query de Roundcube Webmail en versiones 1.6.x anteriores a 1.6.16 y 1.7.x anteriores a 1.7.1.
+
+- 💡 **Impacto y contexto**: El problema se deriva de una omisión de escape de barra invertida preg_replace() que permite a los atacantes inyectar sentencias SQL arbitrarias sin autenticación.
+
+🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html)**
 
 ---
 
@@ -88,6 +90,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#9](editions/2026/09/2026-09-25.md) | 2026-09-25 | [Los sistemas de notificación de archivos de Windows, Linu...](https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/) | 🛡️ Ciberseguridad |
 | [#8](editions/2026/09/2026-09-24.md) | 2026-09-24 | [Island recauda $ 400 millones con una valoración de $ 6.4...](https://www.securityweek.com/island-raises-400-million-at-6-4-billion-valuation/) | 🛡️ Ciberseguridad |
 | [#7](editions/2026/09/2026-09-23.md) | 2026-09-23 | [Emiratos Árabes Unidos y Arabia Saudí se enfrentan a ataq...](https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks) | 🛡️ Ciberseguridad |
 | [#6](editions/2026/09/2026-09-22.md) | 2026-09-22 | [Vulnerabilidad reciente en el switch ZyXEL explotada por ...](https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/) | 🛡️ Ciberseguridad |

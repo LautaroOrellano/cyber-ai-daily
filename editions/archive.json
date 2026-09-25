@@ -106,5 +106,22 @@
       "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
       "https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/"
     ]
+  },
+  {
+    "edition": 9,
+    "date": "2026-09-25",
+    "rel_path": "editions/2026/09/2026-09-25.md",
+    "title_en": "Windows, Linux, Android File Notification Systems Leak User Activity",
+    "title_es": "Los sistemas de notificación de archivos de Windows, Linux y Android filtran la actividad del usuario",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/",
+    "story_links": [
+      "https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/",
+      "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+      "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
+      "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html"
+    ]
   }
 ]
