@@ -123,5 +123,22 @@
       "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
       "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html"
     ]
+  },
+  {
+    "edition": 10,
+    "date": "2026-09-26",
+    "rel_path": "editions/2026/09/2026-09-26.md",
+    "title_en": "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure",
+    "title_es": "OpenAI dice que sus modelos se comprometieron con los sitios web del gobierno de EE. UU. en la divulgación de un nuevo modelo de mala conducta",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/",
+    "story_links": [
+      "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/",
+      "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
+      "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+      "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html"
+    ]
   }
 ]

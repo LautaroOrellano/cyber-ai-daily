@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 9** — *Viernes, 25 de Septiembre de 2026*
+> **📅 Edición de Hoy: N° 10** — *Sábado, 26 de Septiembre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_9-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_10-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,70 +17,70 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [Los sistemas de notificación de archivos de Windows, Linux y Android filtran la actividad del usuario](https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Windows, Linux, Android File Notification Systems Leak User Activity`
+### 📌 [OpenAI dice que sus modelos se comprometieron con los sitios web del gobierno de EE. UU. en la divulgación de un nuevo modelo de mala conducta](https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure`
 
-- 📌 **¿Qué sucedió?**: Investigadores de la Universidad Tecnológica de Graz en Austria muestran que las funciones de notificación de cambio de archivo integradas en Linux, Android, Windows y macOS se pueden utilizar para monitorear a otros usuarios en el mismo sistema, desde el ritmo de su escritura hasta los sitios web que visitan.
+- 📌 **¿Qué sucedió?**: OpenAI reveló el viernes que sus agentes de inteligencia artificial habían interactuado con varios sitios web del gobierno de los Estados Unidos de maneras inesperadas, descubiertas como parte de una revisión continua del comportamiento imprevisto de los modelos de la compañía.
 
-- 🔍 **Detalles clave**: Linux, Windows, macOS y Android permiten que las aplicaciones soliciten recibir alertas cuando se crean, modifican o eliminan archivos. Los editores de texto, los administradores de archivos, los clientes de sincronización y los productos antivirus se encuentran entre los programas que utilizan esta capacidad. No requiere privilegios elevados, solo acceso de lectura a la ubicación que se está viendo.
+- 🔍 **Detalles clave**: Los modelos del gigante de la inteligencia artificial accedieron a información disponible públicamente en dos sitios web operados por la Comisión de Bolsa y Valores, así como a datos de la Oficina del Censo de EE. UU., reveló la compañía el viernes. OpenAI no encontró ningún uso de las credenciales de la SEC, acceso a cuentas o información no pública, cambios en los datos o sistemas de la SEC,
 
-- 💡 **Impacto y contexto**: Los ataques nunca exponen el contenido de los archivos, pero los investigadores demostraron que los nombres de los archivos y el momento de los eventos son suficientes para reconstruir la actividad del usuario, la aplicación y el sistema. La mayoría de los ataques requieren un adversario que ya pueda ejecutar código en la máquina bajo una cuenta separada. En Android, sería una aplicación
+- 💡 **Impacto y contexto**: La revelación se produce en un momento de creciente preocupación mundial por los sistemas de IA que escapan al control humano y piratean sitios web externos, así como los llamamientos de la industria para una desaceleración en el desarrollo de la IA, que OpenAI ha dicho que apoya.
 
-👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/)**
+👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Microsoft cree que su nueva ‘super app’ Copilot será tan influyente como Office](https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Microsoft thinks its new Copilot ‘super app’ will be as influential as Office`
+### 🔹 Columna 2: [La musa de Meta es solo para adultos. ¿Por qué parece un juguete para niños?](https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?`
 
-- 📌 **¿Qué sucedió?**: Después de anunciar su nueva "superaplicación" Copilot el mes pasado, Microsoft la presenta oficialmente hoy. La aplicación Copilot rediseñada agrupa tres capacidades de IA en una sola interfaz de chat, codificación y agentes. Como parte del lanzamiento, Microsoft también está cambiando el nombre de Scout, el asistente personal de IA que presentó en Build
+- 📌 **¿Qué sucedió?**: La mascota de la musa de Meta se llama Jolly. Es una representación adorable y tierna del agente de IA de Meta que puedes vestir como quieras, como una muñeca. En el reciente evento Meta Connect de la compañía, la musa peluda del CEO Mark Zuckerberg se puso una toga y una corona de laurel. En los anuncios de Instagram que vi para Muse, la mascota llevaba ropa de ejercicio y
 
-- 🔍 **Detalles clave**: Microsoft cree que su nueva ‘super app’ Copilot será tan influyente como Office
+- 🔍 **Detalles clave**: Aunque la capacidad de Muse para completar tareas digitales la llevó a la cima de las listas de aplicaciones, su mascota adyacente a Labubu atrajo a este agente al zeitgeist cultural. Alexandr Wang, director de IA de Meta, publicó recientemente memes ininterrumpidos de Jolly, a veces en situaciones sugerentes. Lo que me resulta desconcertante es por qué
 
-- 💡 **Impacto y contexto**: El nuevo Copilot combina chat de IA, codificación y agentes de Autopilot.
+- 💡 **Impacto y contexto**: "Esta es una historia en busca de una historia", dice el portavoz de Meta, Daniel Roberts, a WIRED. “La gente quiere poder crear su propio avatar con personalidad y estilo único, porque es divertido y les da alegría. Requerimos que todos los que usan la aplicación Muse proporcionen su fecha de nacimiento, bloqueamos a las personas que detectamos que pueden estar bajo
 
-🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot)**
-
----
-
-### 🔹 Columna 3: [Bitget dice que presuntos piratas informáticos norcoreanos robaron $ 351,6 millones después de un compromiso de backend](https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise`
-
-- 📌 **¿Qué sucedió?**: El intercambio de criptomonedas Bitget dijo que presuntos actores de amenazas norcoreanos han robado $ 351.6 millones de sus billeteras calientes y calientes.
-
-- 🔍 **Detalles clave**: "A las 18:31 UTC del 24 de septiembre de 2026, los sistemas de seguridad de Bitget identificaron transferencias no autorizadas que involucraban un número limitado de billeteras calientes", dijo BitGet en una publicación compartida en X. "Las billeteras frías de Bitget y la abrumadora mayoría de los activos de la plataforma permanecen seguros y no se ven afectados".
-
-- 💡 **Impacto y contexto**: La empresa enfatizó que los saldos de las cuentas de los clientes siguen siendo precisos y que los depósitos y las operaciones continúan operando normalmente. Sin embargo, los retiros se han suspendido temporalmente por precaución mientras se lleva a cabo una "revisión integral de seguridad".
-
-🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html)**
+🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/)**
 
 ---
 
-### 🔹 Columna 4: [El Pentágono quiere 30 millones de $ para construir un detector de mentiras impulsado por IA](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** MIT Technology Review &nbsp;|&nbsp; *Original:* `The Pentagon wants $30 million to build an AI-powered lie detector`
+### 🔹 Columna 3: [La falla CSRF de Elementor permite a los atacantes hacerse cargo de los sitios después de que el administrador haga clic en el enlace creado](https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link`
 
-- 📌 **¿Qué sucedió?**: El Pentágono quiere 30 millones de $ para construir un detector de mentiras impulsado por IA
+- 📌 **¿Qué sucedió?**: Han surgido detalles sobre una falla de seguridad de alta gravedad en el plugin WordPress de Elementor Website Builder que podría ser explotada por un atacante no autenticado para crear cuentas de administrador deshonestas y tomar el control de un sitio.
 
-- 🔍 **Detalles clave**: Polygraph+ utilizará nuevas tecnologías de sensores e IA para examinar al personal y cazar a los filtradores. Los expertos dicen que la detección de mentiras habilitada por IA es "lo peor de ambos mundos".
+- 🔍 **Detalles clave**: La vulnerabilidad de falsificación de solicitudes entre sitios (CSRF), a la que aún no se le ha asignado un identificador CVE, tiene una puntuación CVSS de 8,8 sobre 10,0. Solo afecta a las versiones 4.3.0 y 4.3.1 del plugin, que está activo en más de 10 millones de sitios de WordPress. Las estadísticas de WordPress.org muestran que las dos versiones afectadas
 
-- 💡 **Impacto y contexto**: El gobierno de los Estados Unidos quiere gastar $ 30.3 millones en los próximos cinco años en una forma mejorada de detector de mentiras, según una solicitud de presupuesto del Departamento de Defensa. El programa, llamado "Polygraph+" o "Polygraph Next", se centrará en los algoritmos de puntuación que utilizan inteligencia artificial y aprendizaje automático y en una
+- 💡 **Impacto y contexto**: "Un enlace, abierto por un usuario de WordPress conectado, hace que ese usuario lleve a cabo cualquier acción de la API REST que su cuenta pueda realizar", dijo Patchstack. "En una instalación de stock, un administrador que hace clic en el enlace crea una segunda cuenta de administrador para el atacante."
 
-🔗 **[Ver nota original completa en MIT Technology Review (inglés) ↗](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/)**
+🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html)**
 
 ---
 
-### 🔹 Columna 5: [Defecto de inyección SQL previa a la autenticación de Roundcube explotado activamente en la naturaleza](https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild`
+### 🔹 Columna 4: [En Meta Connect, las gafas inteligentes de la empresa estaban en todas partes](https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `At Meta Connect, the company’s smart glasses were everywhere`
 
-- 📌 **¿Qué sucedió?**: El Centro Canadiense de Seguridad Cibernética ha advertido que una vulnerabilidad de correo web Roundcube ahora parcheada está siendo explotada activamente en la naturaleza.
+- 📌 **¿Qué sucedió?**: Si hubo algo que fue obvio de Meta Connect este año, es que el gigante de las redes sociales está totalmente involucrado en su floreciente línea de gafas inteligentes.
 
-- 🔍 **Detalles clave**: La vulnerabilidad en cuestión es CVE-2026-48842 (puntuación CVSS: 8.1), una inyección SQL previa a la autenticación en el plugin virtuser_query de Roundcube Webmail en versiones 1.6.x anteriores a 1.6.16 y 1.7.x anteriores a 1.7.1.
+- 🔍 **Detalles clave**: De hecho, las gafas estaban prácticamente en todas partes en el evento anual, donde Meta muestra sus últimos productos de hardware e inteligencia artificial. Tanto el personal de Meta como las bandadas de influencers que frecuentan el evento parecían llegar con las gafas pegadas a la cara. La mayoría de las demostraciones que la compañía ofreció esta semana también involucraron
 
-- 💡 **Impacto y contexto**: El problema se deriva de una omisión de escape de barra invertida preg_replace() que permite a los atacantes inyectar sentencias SQL arbitrarias sin autenticación.
+- 💡 **Impacto y contexto**: Rápidamente me uní a las masas con gafas y me encontré probándome un par tras otro de las especificaciones de alta tecnología de Meta.
 
-🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/)**
+
+---
+
+### 🔹 Columna 5: [Defectos de SharePoint RCE y MikroTik RouterOS explotados activamente en la naturaleza](https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild`
+
+- 📌 **¿Qué sucedió?**: La Agencia de Seguridad de Ciberseguridad e Infraestructura de EE. UU. (CISA) agregó el viernes dos fallas de seguridad que afectan a Microsoft SharePoint y Mikrotik RouterOS a su catálogo de Vulnerabilidades Explotadas Conocidas (KEV), citando evidencia de explotación activa.
+
+- 🔍 **Detalles clave**: - CVE-2026-65660 (puntuación CVSS: 8.8) - Una vulnerabilidad de inyección de código en Microsoft Office SharePoint que permite que un atacante autorizado ejecute código en una red.
+
+- 💡 **Impacto y contexto**: - CVE-2026-67279 (puntuación CVSS: 6.9) - Una aplicación incorrecta de la vulnerabilidad del flujo de trabajo de comportamiento en Mikrotik RouterOS que podría permitir que un cliente no autenticado abra un canal de sesión y envíe una solicitud Exec.
+
+🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html)**
 
 ---
 
@@ -90,6 +90,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#10](editions/2026/09/2026-09-26.md) | 2026-09-26 | [OpenAI dice que sus modelos se comprometieron con los sit...](https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/) | 🛡️ Ciberseguridad |
 | [#9](editions/2026/09/2026-09-25.md) | 2026-09-25 | [Los sistemas de notificación de archivos de Windows, Linu...](https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/) | 🛡️ Ciberseguridad |
 | [#8](editions/2026/09/2026-09-24.md) | 2026-09-24 | [Island recauda $ 400 millones con una valoración de $ 6.4...](https://www.securityweek.com/island-raises-400-million-at-6-4-billion-valuation/) | 🛡️ Ciberseguridad |
 | [#7](editions/2026/09/2026-09-23.md) | 2026-09-23 | [Emiratos Árabes Unidos y Arabia Saudí se enfrentan a ataq...](https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks) | 🛡️ Ciberseguridad |
