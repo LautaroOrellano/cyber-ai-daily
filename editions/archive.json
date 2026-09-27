@@ -140,5 +140,22 @@
       "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
       "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html"
     ]
+  },
+  {
+    "edition": 11,
+    "date": "2026-09-27",
+    "rel_path": "editions/2026/09/2026-09-27.md",
+    "title_en": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
+    "title_es": "Vulnerabilidad de Microsoft SharePoint CVE-2026-65660 ahora explotada en ataques",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/",
+    "story_links": [
+      "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/",
+      "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
+      "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html"
+    ]
   }
 ]
