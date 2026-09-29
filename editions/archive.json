@@ -174,5 +174,22 @@
       "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
       "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
     ]
+  },
+  {
+    "edition": 13,
+    "date": "2026-09-29",
+    "rel_path": "editions/2026/09/2026-09-29.md",
+    "title_en": "Hackers Use ChatGPT Custom GPTs in ClickFix Attacks",
+    "title_es": "Los hackers usan GPT personalizados de ChatGPT en los ataques ClickFix",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/",
+    "story_links": [
+      "https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/",
+      "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/",
+      "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+      "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/"
+    ]
   }
 ]

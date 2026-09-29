@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 12** — *Lunes, 28 de Septiembre de 2026*
+> **📅 Edición de Hoy: N° 13** — *Martes, 29 de Septiembre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_12-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_13-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,70 +17,70 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [Resumen ⚡ semanal: Hackeo de criptomonedas por valor de 387 millones de $, exploits de Citrix, agentes de IA que se salen del guion y más amenazas](https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats`
+### 📌 [Los hackers usan GPT personalizados de ChatGPT en los ataques ClickFix](https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Hackers Use ChatGPT Custom GPTs in ClickFix Attacks`
 
-- 📌 **¿Qué sucedió?**: Un dominio utilizado como texto de marcador de posición inofensivo apareció en aproximadamente 1700 repositorios. Entonces alguien lo registró y comenzó a servir señuelos maliciosos. Ese es el tipo de semana que fue: suposiciones olvidadas que se convirtieron en superficie de ataque en vivo.
+- 📌 **¿Qué sucedió?**: Una campaña de ClickFix recientemente descubierta se basa en los GPT personalizados de ChatGPT para hacerse pasar por productos legítimos y atraer a las víctimas para que ejecuten código malicioso en sus máquinas.
 
-- 🔍 **Detalles clave**: En otros lugares, las cuentas de servicio débiles, los errores antiguos, los sistemas expuestos, los kits de phishing y las rutas de explotación extrañamente fáciles seguían haciendo un trabajo útil para los atacantes. Nada exótico. Sobre todo cosas que nadie esperaba que importaran más.
+- 🔍 **Detalles clave**: Los GPT personalizados son versiones personalizadas de ChatGPT que pueden incluir instrucciones y herramientas específicas. Están alojados en ChatGPT.com, y sus páginas presentan sus nombres personalizados en la parte superior, junto con el perfil del constructor.
 
-- 💡 **Impacto y contexto**: Citrix advierte sobre fallas de ADC y Gateway de NetScaler explotadas activamente: Citrix lanzó parches para abordar múltiples vulnerabilidades, incluidos CVE-2026-88771 y CVE-2026-88772, que han sido objeto de explotación activa. CVE-2026-88771 es una vulnerabilidad de validación de entrada incorrecta que podría permitir una
+- 💡 **Impacto y contexto**: Como parte de la campaña maliciosa, un actor de amenazas programó dos GPT personalizados para responder a las solicitudes de los usuarios con un enlace de Google Sites que conduce a una página de ClickFix, informa la firma de ciberseguridad Huntress.
 
-👉 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html)**
+👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Modulate recauda $ 25 MILLONES para sus modelos de voz y conjunto de análisis](https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Modulate raises $25M for its voice models and analysis suite`
+### 🔹 Columna 2: [Obtener la fuente correcta, no solo el hecho: verificación consciente de la fuente para agentes de MCP](https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Hugging Face Blog &nbsp;|&nbsp; *Original:* `Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents`
 
-- 📌 **¿Qué sucedió?**: La startup de inteligencia de voz con sede en Boston Modulate ha recaudado $ 25 en nuevos fondos para su plataforma que utiliza una variedad de modelos pequeños para ofrecer a las empresas transcripción, análisis emocional, detección de música deepfake y AI, y aplicación de políticas para agentes de voz en industrias reguladas.
+- 📌 **¿Qué sucedió?**: Obtener la fuente correcta, no solo el hecho: verificación consciente de la fuente para agentes de MCP
 
-- 🔍 **Detalles clave**: La financiación sigue una tendencia popular entre los inversores en la creciente industria de la IA de voz: respaldar a las empresas que intentan hacer que las voces de IA suenen más humanas.
+- 🔍 **Detalles clave**: Nuestro último documento, ProvenanceGuard: Source-Aware Factuality Verification for MCP-Based LLM Agents (léalo en Hugging Face, o en arXiv mientras tanto), se dirige a esa brecha. El modo de falla que nos importa es uno que llamamos combinación de fuentes cruzadas: una afirmación que es cierta en algún lugar de la evidencia, pero atribuida a lo incorrecto
 
-- 💡 **Impacto y contexto**: También rivaliza con otras empresas que intentan detectar la intención detrás de la conversación humana mediante su análisis, y con aquellas que intentan proteger a las personas y empresas de las llamadas falsas, ya que ahora es fácil clonar voces.
+- 💡 **Impacto y contexto**: El problema: el soporte en algún lugar no es lo mismo que el soporte de la fuente correcta
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/)**
-
----
-
-### 🔹 Columna 3: [Pena de prisión para el ex soldado estadounidense que hackeó AT&T y Verizon](https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Prison Sentence for Former US Soldier Who Hacked AT&T and Verizon`
-
-- 📌 **¿Qué sucedió?**: Un ex soldado estadounidense fue sentenciado a 70 meses de prisión por piratear los sistemas de AT&T y Verizon y filtrar los registros detallados de llamadas de un funcionario del gobierno.
-
-- 🔍 **Detalles clave**: El individuo, Cameron John Wagenius, de 22 años, un ex soldado del Ejército, presuntamente pirateó las bases de datos de los operadores inalámbricos para recuperar información confidencial y extorsionar a las víctimas, según muestran los documentos presentados en la corte.
-
-- 💡 **Impacto y contexto**: Participó en actividades de piratería entre abril de 2023 y diciembre de 2024, mientras estaba en servicio activo.
-
-🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/)**
+🔗 **[Ver nota original completa en Hugging Face Blog (inglés) ↗](https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source)**
 
 ---
 
-### 🔹 Columna 4: [Insuretech Outmarket recauda 34,5 millones de $ solo meses después de la ronda anterior](https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Insuretech Outmarket raises $34.5M just months after prior round`
+### 🔹 Columna 3: [La violación de datos de la agencia de personal del Pentágono afecta a 3 millones de personas](https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Pentagon Personnel Agency Data Breach Impacts 3 Million People`
 
-- 📌 **¿Qué sucedió?**: Vishal Sankhala dirigió el producto en un distribuidor digital de seguros de vida Ethos antes de que se hiciera público a principios de este año. A finales de 2023, el experimentado ejecutivo de ingeniería, que había trabajado anteriormente en Facebook y Uber, dejó Ethos y lanzó Outmarket, una startup que utiliza IA para ayudar a las agencias de seguros y corredores a automatizar
+- 📌 **¿Qué sucedió?**: El Centro de Datos de Recursos Humanos de Defensa de los Estados Unidos (DMDC, por sus siglas en inglés), que mantiene registros de personal para el Pentágono, ha comenzado a notificar a las personas que su información personal fue expuesta.
 
-- 🔍 **Detalles clave**: "El noventa y cinco por ciento de los seguros en los EE. UU. y en todo el mundo todavía se venden a través de agentes [humanos], y cuando nos fijamos en cómo es el proceso hoy en día, es muy manual", dijo Sankhala a TechCrunch. "Esta es una gran oportunidad dado lo grande que es esta industria".
+- 🔍 **Detalles clave**: Según el aviso del DMDC, los usuarios no autorizados tuvieron acceso a uno de sus servidores de intercambio de archivos durante aproximadamente nueve meses.
 
-- 💡 **Impacto y contexto**: Outmarket se centra en los seguros comerciales porque estas pólizas implican matices profundos y personalización para cada negocio. Las empresas deben navegar por una compleja combinación de opciones de cobertura, que van desde la responsabilidad general y la compensación de los trabajadores hasta la responsabilidad de los directores y funcionarios (D&O).
+- 💡 **Impacto y contexto**: Una copia de la carta de notificación, fechada el 18 de septiembre y compartida en línea por un destinatario, dice que el problema se descubrió a mediados de julio.
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/)**
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/)**
 
 ---
 
-### 🔹 Columna 5: [El agente de IA viral Instinct recauda $ 1B Serie C con una valoración de $ 10B](https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Viral AI agent Instinct raises $1B Series C at a $10B valuation`
+### 🔹 Columna 4: [OpenAI se disculpa con Australia después de que sus agentes de IA violaran sitios gubernamentales](https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `OpenAI apologizes to Australia after its AI agents breached government sites`
 
-- 📌 **¿Qué sucedió?**: Solo ha pasado un mes desde que la startup asistente de IA Instinct anunció una recaudación de fondos que la valoró en $ 2.5 mil millones, y ahora la compañía ya ha recaudado otros $ 1 mil millones, de inversores como Sequoia Capital, Benchmark Capital y Coatue, valorando la compañía en $ 10 mil millones.
+- 📌 **¿Qué sucedió?**: OpenAI se disculpó el lunes con el gobierno australiano por no notificar inmediatamente a la administración del país que sus agentes habían violado algunos sitios web de servicios públicos. La compañía también detalló cómo ocurrieron algunas de esas infracciones y describió las medidas adicionales que está tomando para evaluar el impacto de los eventos.
 
-- 🔍 **Detalles clave**: La noticia de los esfuerzos de recaudación de fondos de la compañía fue informada a principios de este mes por The Information. En un comunicado de prensa el lunes, Instinct confirmó que se trataba de una ronda de la Serie C, una ronda de crecimiento bastante rápida para una startup que lanzó su servicio solo por invitación en agosto de 2026.
+- 🔍 **Detalles clave**: "En junio, durante la capacitación y evaluación internas, nuestros modelos accedieron a los sitios web del gobierno australiano de una manera que no estaban autorizados. También deberíamos haber manejado mejor nuestra respuesta. Lo sentimos y trabajamos para mejorar en el futuro", escribió OpenAI en una publicación de blog.
 
-- 💡 **Impacto y contexto**: Las rápidas recaudaciones de fondos demuestran el fervor en torno a una nueva clase de agentes de IA de consumo, que no solo pueden responder preguntas y entablar conversaciones, sino que también pueden hacer cosas para sus usuarios, ya sea reservar planes de viaje o reservas de restaurantes, hacer compras, pagar facturas, cancelar
+- 💡 **Impacto y contexto**: La disculpa se produce aproximadamente una semana después de que el gobierno australiano iniciara una investigación sobre cómo los modelos de OpenAI accedieron a un sistema de Servicios de Australia que contiene información sobre el gasto de Medicare y otras estadísticas de salud.
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/)**
+
+---
+
+### 🔹 Columna 5: [Reco recauda 55 MILLONES de $ a medida que las nuevas empresas de seguridad de agentes de IA abarrotan el mercado](https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Reco raises $55M as AI agent security startups crowd the market`
+
+- 📌 **¿Qué sucedió?**: Términos como "expansión de IA" se han convertido en algo común en las redes sociales tecnológicas y en el liderazgo de pensamiento a medida que las empresas comienzan a desplegar agentes de IA en masa. Pero los CISO preocupados por asegurar enjambres de agentes que operan repentinamente a través de las redes probablemente se encuentren lidiando con un nuevo tipo de expansión: proveedores que se ofrecen a ayudar.
+
+- 🔍 **Detalles clave**: Solo un vistazo rápido a los perfiles públicos de Crunchbase y PitchBook muestra al menos dos docenas de empresas que venden algún tipo de seguridad de agente de IA. Algunos proveedores examinan las herramientas que utilizan los agentes, mientras que otros intentan ayudar a las empresas a controlar a qué datos pueden llegar sus agentes. Algunos otros, como CrowdStrike, están construyendo sistemas de detección y
+
+- 💡 **Impacto y contexto**: Los productos difieren, por supuesto, pero sus promesas de descubrir y gobernar a los agentes suenan bastante similares, lo que implica gráficos de conocimiento, monitoreo continuo, seguridad en tiempo de ejecución, acceso a herramientas, verificación de MCP y similares.
+
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/)**
 
 ---
 
@@ -90,6 +90,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#13](editions/2026/09/2026-09-29.md) | 2026-09-29 | [Los hackers usan GPT personalizados de ChatGPT en los ata...](https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/) | 🛡️ Ciberseguridad |
 | [#12](editions/2026/09/2026-09-28.md) | 2026-09-28 | [Resumen ⚡ semanal: Hackeo de criptomonedas por valor de 3...](https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html) | 🛡️ Ciberseguridad |
 | [#11](editions/2026/09/2026-09-27.md) | 2026-09-27 | [Vulnerabilidad de Microsoft SharePoint CVE-2026-65660 aho...](https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/) | 🛡️ Ciberseguridad |
 | [#10](editions/2026/09/2026-09-26.md) | 2026-09-26 | [OpenAI dice que sus modelos se comprometieron con los sit...](https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/) | 🛡️ Ciberseguridad |
