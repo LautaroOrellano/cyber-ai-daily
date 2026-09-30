@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 13** — *Martes, 29 de Septiembre de 2026*
+> **📅 Edición de Hoy: N° 14** — *Miércoles, 30 de Septiembre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_13-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_14-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,70 +17,70 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [Los hackers usan GPT personalizados de ChatGPT en los ataques ClickFix](https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Hackers Use ChatGPT Custom GPTs in ClickFix Attacks`
+### 📌 [Organizaciones gubernamentales y financieras atacadas en ataques de día cero de NetScaler durante semanas](https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks`
 
-- 📌 **¿Qué sucedió?**: Una campaña de ClickFix recientemente descubierta se basa en los GPT personalizados de ChatGPT para hacerse pasar por productos legítimos y atraer a las víctimas para que ejecuten código malicioso en sus máquinas.
+- 📌 **¿Qué sucedió?**: Mandiant de Google y Threat Intelligence Group (GTIG) han publicado detalles sobre los ataques que explotan los días cero de NetScaler que Citrix parcheó durante el fin de semana.
 
-- 🔍 **Detalles clave**: Los GPT personalizados son versiones personalizadas de ChatGPT que pueden incluir instrucciones y herramientas específicas. Están alojados en ChatGPT.com, y sus páginas presentan sus nombres personalizados en la parte superior, junto con el perfil del constructor.
+- 🔍 **Detalles clave**: Las vulnerabilidades se rastrean como CVE-2026-88771 y CVE-2026-88772, y afectan a las instancias de NetScaler ADC y NetScaler Gateway. Los atacantes pueden explotar estas fallas críticas para la ejecución remota de código no autenticado.
 
-- 💡 **Impacto y contexto**: Como parte de la campaña maliciosa, un actor de amenazas programó dos GPT personalizados para responder a las solicitudes de los usuarios con un enlace de Google Sites que conduce a una página de ClickFix, informa la firma de ciberseguridad Huntress.
+- 💡 **Impacto y contexto**: Antes de que Citrix lanzara los parches, las agencias gubernamentales de ciberseguridad y las empresas de seguridad dieron el raro paso de instar a los administradores a desconectar los dispositivos NetScaler afectados de Internet de inmediato mientras se llevaban a cabo investigaciones de explotación de día cero.
 
-👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/)**
+👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Obtener la fuente correcta, no solo el hecho: verificación consciente de la fuente para agentes de MCP](https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Hugging Face Blog &nbsp;|&nbsp; *Original:* `Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents`
+### 🔹 Columna 2: [Airbnb añade la búsqueda con IA y más funciones sociales](https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Airbnb adds AI search, more social features`
 
-- 📌 **¿Qué sucedió?**: Obtener la fuente correcta, no solo el hecho: verificación consciente de la fuente para agentes de MCP
+- 📌 **¿Qué sucedió?**: Airbnb está evolucionando en dos direcciones: sobre el terreno, quiere competir con los hoteles proporcionando innumerables servicios; en línea, está utilizando la inteligencia artificial y las personas de su red de Airbnb para ayudar a descubrir viajes.
 
-- 🔍 **Detalles clave**: Nuestro último documento, ProvenanceGuard: Source-Aware Factuality Verification for MCP-Based LLM Agents (léalo en Hugging Face, o en arXiv mientras tanto), se dirige a esa brecha. El modo de falla que nos importa es uno que llamamos combinación de fuentes cruzadas: una afirmación que es cierta en algún lugar de la evidencia, pero atribuida a lo incorrecto
+- 🔍 **Detalles clave**: Como parte de su actualización de productos de otoño, la compañía está agregando servicios a la aplicación que lanzó el año pasado, como entrega de comidas, lavandería, alquiler de artículos para bebés, alquiler de esquís y botes en ubicaciones limitadas y entrega ampliada de comestibles.
 
-- 💡 **Impacto y contexto**: El problema: el soporte en algún lugar no es lo mismo que el soporte de la fuente correcta
+- 💡 **Impacto y contexto**: La segunda gran característica es la búsqueda de IA. La compañía ha adoptado un enfoque cauteloso al implementar funciones de IA, y el CEO Brian Chesky optó por mantenerse alejado de una interfaz similar a la de un chatbot. A principios de este año, se burló de la nueva función de búsqueda para el descubrimiento de propiedades.
 
-🔗 **[Ver nota original completa en Hugging Face Blog (inglés) ↗](https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source)**
-
----
-
-### 🔹 Columna 3: [La violación de datos de la agencia de personal del Pentágono afecta a 3 millones de personas](https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Pentagon Personnel Agency Data Breach Impacts 3 Million People`
-
-- 📌 **¿Qué sucedió?**: El Centro de Datos de Recursos Humanos de Defensa de los Estados Unidos (DMDC, por sus siglas en inglés), que mantiene registros de personal para el Pentágono, ha comenzado a notificar a las personas que su información personal fue expuesta.
-
-- 🔍 **Detalles clave**: Según el aviso del DMDC, los usuarios no autorizados tuvieron acceso a uno de sus servidores de intercambio de archivos durante aproximadamente nueve meses.
-
-- 💡 **Impacto y contexto**: Una copia de la carta de notificación, fechada el 18 de septiembre y compartida en línea por un destinatario, dice que el problema se descubrió a mediados de julio.
-
-🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/)**
 
 ---
 
-### 🔹 Columna 4: [OpenAI se disculpa con Australia después de que sus agentes de IA violaran sitios gubernamentales](https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `OpenAI apologizes to Australia after its AI agents breached government sites`
+### 🔹 Columna 3: [Chrome y Firefox corrigen más de 100 vulnerabilidades](https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Chrome, Firefox Updates Patch Over 100 Vulnerabilities`
 
-- 📌 **¿Qué sucedió?**: OpenAI se disculpó el lunes con el gobierno australiano por no notificar inmediatamente a la administración del país que sus agentes habían violado algunos sitios web de servicios públicos. La compañía también detalló cómo ocurrieron algunas de esas infracciones y describió las medidas adicionales que está tomando para evaluar el impacto de los eventos.
+- 📌 **¿Qué sucedió?**: Google y Mozilla anunciaron el martes nuevas actualizaciones de Chrome y Firefox que abordan más de 100 vulnerabilidades.
 
-- 🔍 **Detalles clave**: "En junio, durante la capacitación y evaluación internas, nuestros modelos accedieron a los sitios web del gobierno australiano de una manera que no estaban autorizados. También deberíamos haber manejado mejor nuestra respuesta. Lo sentimos y trabajamos para mejorar en el futuro", escribió OpenAI en una publicación de blog.
+- 🔍 **Detalles clave**: La última versión de Chrome se implementó con correcciones para 32 defectos de seguridad, incluido un problema de desbordamiento de búfer de gravedad crítica en ÁNGULO rastreado como CVE-2026-102331 e informado por un investigador externo.
 
-- 💡 **Impacto y contexto**: La disculpa se produce aproximadamente una semana después de que el gobierno australiano iniciara una investigación sobre cómo los modelos de OpenAI accedieron a un sistema de Servicios de Australia que contiene información sobre el gasto de Medicare y otras estadísticas de salud.
+- 💡 **Impacto y contexto**: Google abordó 25 debilidades de seguridad de alta gravedad, la mayoría de las cuales son vulnerabilidades de recursos no inicializados y de uso después de la liberación. También resolvió cinco fallas de confusión de tipo de alta gravedad en el motor V8 JavaScript y WebAssembly.
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/)**
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/)**
 
 ---
 
-### 🔹 Columna 5: [Reco recauda 55 MILLONES de $ a medida que las nuevas empresas de seguridad de agentes de IA abarrotan el mercado](https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Reco raises $55M as AI agent security startups crowd the market`
+### 🔹 Columna 4: ["No vamos a dispararnos en el pie" por las consecuencias del hackeo, dice el director de investigación de OpenAI](https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** MIT Technology Review &nbsp;|&nbsp; *Original:* `“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer`
 
-- 📌 **¿Qué sucedió?**: Términos como "expansión de IA" se han convertido en algo común en las redes sociales tecnológicas y en el liderazgo de pensamiento a medida que las empresas comienzan a desplegar agentes de IA en masa. Pero los CISO preocupados por asegurar enjambres de agentes que operan repentinamente a través de las redes probablemente se encuentren lidiando con un nuevo tipo de expansión: proveedores que se ofrecen a ayudar.
+- 📌 **¿Qué sucedió?**: "No vamos a dispararnos en el pie" por las consecuencias del hackeo, dice el director de investigación de OpenAI
 
-- 🔍 **Detalles clave**: Solo un vistazo rápido a los perfiles públicos de Crunchbase y PitchBook muestra al menos dos docenas de empresas que venden algún tipo de seguridad de agente de IA. Algunos proveedores examinan las herramientas que utilizan los agentes, mientras que otros intentan ayudar a las empresas a controlar a qué datos pueden llegar sus agentes. Algunos otros, como CrowdStrike, están construyendo sistemas de detección y
+- 🔍 **Detalles clave**: Mark Chen sobre lo que la empresa está haciendo para que sus modelos sean seguros, cómo funcionaría una desaceleración y por qué el mundo está mejor con OpenAI.
 
-- 💡 **Impacto y contexto**: Los productos difieren, por supuesto, pero sus promesas de descubrir y gobernar a los agentes suenan bastante similares, lo que implica gráficos de conocimiento, monitoreo continuo, seguridad en tiempo de ejecución, acceso a herramientas, verificación de MCP y similares.
+- 💡 **Impacto y contexto**: Dos meses después de la noticia explosiva de que un enjambre de sus agentes había roto su contención y hackeado los ordenadores de la empresa de inteligencia artificial Hugging Face, OpenAI sigue apagando incendios. Un goteo constante de revelaciones sobre otros hackeos en las semanas posteriores ha mantenido a OpenAI en el centro de atención y ha planteado serias preguntas
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/)**
+🔗 **[Ver nota original completa en MIT Technology Review (inglés) ↗](https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/)**
+
+---
+
+### 🔹 Columna 5: [Conoce a tu enemigo: técnicas de ataque basadas en navegador en 2026](https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Know Your Enemy: Browser-Based Attack Techniques in 2026`
+
+- 📌 **¿Qué sucedió?**: Dado que el navegador es donde se accede y se utilizan las aplicaciones empresariales, tiene sentido que también se produzcan ataques allí. La mayoría de las infracciones hoy en día comienzan en una sesión de navegador. A menudo, nunca lo abandonan, y toda la cadena de ataque, desde el acceso inicial hasta la exfiltración, se desarrolla en el navegador.
+
+- 🔍 **Detalles clave**: Estas son las seis técnicas más peligrosas que deberían estar en el radar de todos los equipos de seguridad en 2026.
+
+- 💡 **Impacto y contexto**: Los kits de phishing modernos no solo roban contraseñas, sino que también interceptan sesiones en vivo. Los kits de adversario en el medio (AiTM) de proxy inverso como Tycoon2FA, Sneaky2FA y Evilginx transmiten credenciales y tokens de sesión en tiempo real, evitando la mayoría de las formas de MFA. Estos kits se venden como plataformas llave en mano de Phishing-as-a-Service con
+
+🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html)**
 
 ---
 
@@ -90,6 +90,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#14](editions/2026/09/2026-09-30.md) | 2026-09-30 | [Organizaciones gubernamentales y financieras atacadas en ...](https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/) | 🛡️ Ciberseguridad |
 | [#13](editions/2026/09/2026-09-29.md) | 2026-09-29 | [Los hackers usan GPT personalizados de ChatGPT en los ata...](https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/) | 🛡️ Ciberseguridad |
 | [#12](editions/2026/09/2026-09-28.md) | 2026-09-28 | [Resumen ⚡ semanal: Hackeo de criptomonedas por valor de 3...](https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html) | 🛡️ Ciberseguridad |
 | [#11](editions/2026/09/2026-09-27.md) | 2026-09-27 | [Vulnerabilidad de Microsoft SharePoint CVE-2026-65660 aho...](https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/) | 🛡️ Ciberseguridad |

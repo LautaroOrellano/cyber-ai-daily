@@ -191,5 +191,22 @@
       "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
       "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/"
     ]
+  },
+  {
+    "edition": 14,
+    "date": "2026-09-30",
+    "rel_path": "editions/2026/09/2026-09-30.md",
+    "title_en": "Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks",
+    "title_es": "Organizaciones gubernamentales y financieras atacadas en ataques de día cero de NetScaler durante semanas",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/",
+    "story_links": [
+      "https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/",
+      "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+      "https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/",
+      "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html"
+    ]
   }
 ]
