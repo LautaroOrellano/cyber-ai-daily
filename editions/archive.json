@@ -208,5 +208,22 @@
       "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
       "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html"
     ]
+  },
+  {
+    "edition": 15,
+    "date": "2026-10-01",
+    "rel_path": "editions/2026/10/2026-10-01.md",
+    "title_en": "AI Has Changed Attack Speed, Not Security Fundamentals",
+    "title_es": "La IA ha cambiado la velocidad de ataque, no los fundamentos de seguridad",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/",
+    "story_links": [
+      "https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/",
+      "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+      "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese",
+      "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/"
+    ]
   }
 ]

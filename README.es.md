@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 14** — *Miércoles, 30 de Septiembre de 2026*
+> **📅 Edición de Hoy: N° 15** — *Jueves, 1 de Octubre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_14-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_15-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,70 +17,70 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [Organizaciones gubernamentales y financieras atacadas en ataques de día cero de NetScaler durante semanas](https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks`
+### 📌 [La IA ha cambiado la velocidad de ataque, no los fundamentos de seguridad](https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `AI Has Changed Attack Speed, Not Security Fundamentals`
 
-- 📌 **¿Qué sucedió?**: Mandiant de Google y Threat Intelligence Group (GTIG) han publicado detalles sobre los ataques que explotan los días cero de NetScaler que Citrix parcheó durante el fin de semana.
+- 📌 **¿Qué sucedió?**: Las personas que me conocen bien saben que soy una persona muy directa y, como tal, no disfruto de los términos excesivamente complicados utilizados para describir cosas sencillas. En los últimos meses, Frontier AI y otras herramientas han permitido a atacantes y defensores por igual acortar el tiempo necesario para identificar vulnerabilidades y desarrollar exploits
 
-- 🔍 **Detalles clave**: Las vulnerabilidades se rastrean como CVE-2026-88771 y CVE-2026-88772, y afectan a las instancias de NetScaler ADC y NetScaler Gateway. Los atacantes pueden explotar estas fallas críticas para la ejecución remota de código no autenticado.
+- 🔍 **Detalles clave**: Estaba en una llamada con un colega el otro día y me preguntó: "¿Me he vuelto loco o los parches virtuales no son algo nuevo?" A lo que respondí: "No, no te has vuelto loco, los parches virtuales no son nada particularmente nuevo, la gente solía llamarlo defensa en profundidad, entre otras cosas." En otras palabras, la prensa reciente
 
-- 💡 **Impacto y contexto**: Antes de que Citrix lanzara los parches, las agencias gubernamentales de ciberseguridad y las empresas de seguridad dieron el raro paso de instar a los administradores a desconectar los dispositivos NetScaler afectados de Internet de inmediato mientras se llevaban a cabo investigaciones de explotación de día cero.
+- 💡 **Impacto y contexto**: No es sorprendente que una buena higiene de seguridad y unos buenos fundamentos de seguridad contribuyan en gran medida a prevenir incidentes de seguridad y a proteger las aplicaciones, incluso en la era de la "inteligencia artificial de frontera". "Con tanta publicidad en torno a los" parches virtuales ", ¿en qué deberían centrarse las empresas cuando se trata de proteger sus
 
-👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/)**
+👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Airbnb añade la búsqueda con IA y más funciones sociales](https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Airbnb adds AI search, more social features`
+### 🔹 Columna 2: [La startup de tecnología auditiva Legato lanza sus gafas auditivas con IA](https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Hearing tech startup Legato launches its AI hearing glasses`
 
-- 📌 **¿Qué sucedió?**: Airbnb está evolucionando en dos direcciones: sobre el terreno, quiere competir con los hoteles proporcionando innumerables servicios; en línea, está utilizando la inteligencia artificial y las personas de su red de Airbnb para ayudar a descubrir viajes.
+- 📌 **¿Qué sucedió?**: La startup de tecnología auditiva Legato anunció el jueves que sus gafas auditivas insignia basadas en IA ya están disponibles para su compra. Las gafas, llamadas Legato Frames, integran la tecnología patentada de asistencia auditiva de la compañía en los brazos de las monturas de las gafas. A partir de $ 999, los marcos Legato están diseñados para adultos con
 
-- 🔍 **Detalles clave**: Como parte de su actualización de productos de otoño, la compañía está agregando servicios a la aplicación que lanzó el año pasado, como entrega de comidas, lavandería, alquiler de artículos para bebés, alquiler de esquís y botes en ubicaciones limitadas y entrega ampliada de comestibles.
+- 🔍 **Detalles clave**: Las gafas provienen del objetivo de la startup de hacer que la atención auditiva sea más accesible al abordar el costo, la comodidad y el estigma asociado con los audífonos tradicionales.
 
-- 💡 **Impacto y contexto**: La segunda gran característica es la búsqueda de IA. La compañía ha adoptado un enfoque cauteloso al implementar funciones de IA, y el CEO Brian Chesky optó por mantenerse alejado de una interfaz similar a la de un chatbot. A principios de este año, se burló de la nueva función de búsqueda para el descubrimiento de propiedades.
+- 💡 **Impacto y contexto**: A diferencia de los audífonos tradicionales, que a menudo usan micrófonos direccionales para centrarse en los sonidos que provienen de una dirección en particular y pueden tener dificultades en entornos ruidosos, Legato adopta un enfoque diferente. Su sistema impulsado por IA distingue las voces del ruido de fondo y amplifica las voces al tiempo que reduce los sonidos no deseados.
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/)**
-
----
-
-### 🔹 Columna 3: [Chrome y Firefox corrigen más de 100 vulnerabilidades](https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Chrome, Firefox Updates Patch Over 100 Vulnerabilities`
-
-- 📌 **¿Qué sucedió?**: Google y Mozilla anunciaron el martes nuevas actualizaciones de Chrome y Firefox que abordan más de 100 vulnerabilidades.
-
-- 🔍 **Detalles clave**: La última versión de Chrome se implementó con correcciones para 32 defectos de seguridad, incluido un problema de desbordamiento de búfer de gravedad crítica en ÁNGULO rastreado como CVE-2026-102331 e informado por un investigador externo.
-
-- 💡 **Impacto y contexto**: Google abordó 25 debilidades de seguridad de alta gravedad, la mayoría de las cuales son vulnerabilidades de recursos no inicializados y de uso después de la liberación. También resolvió cinco fallas de confusión de tipo de alta gravedad en el motor V8 JavaScript y WebAssembly.
-
-🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/)**
 
 ---
 
-### 🔹 Columna 4: ["No vamos a dispararnos en el pie" por las consecuencias del hackeo, dice el director de investigación de OpenAI](https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** MIT Technology Review &nbsp;|&nbsp; *Original:* `“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer`
+### 🔹 Columna 3: [El ransomware Warlock afecta a grandes organizaciones españolas y portuguesas](https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** Dark Reading &nbsp;|&nbsp; *Original:* `Warlock Ransomware Hits Large Spanish, Portuguese Orgs`
 
-- 📌 **¿Qué sucedió?**: "No vamos a dispararnos en el pie" por las consecuencias del hackeo, dice el director de investigación de OpenAI
+- 📌 **¿Qué sucedió?**: Últimas noticias de ciberseguridad, análisis de noticias, comentarios y otros contenidos de todo el mundo, con un enfoque inicial en Oriente Medio y África, Asia Pacífico, Europa y América Latina.
 
-- 🔍 **Detalles clave**: Mark Chen sobre lo que la empresa está haciendo para que sus modelos sean seguros, cómo funcionaría una desaceleración y por qué el mundo está mejor con OpenAI.
+- 🔍 **Detalles clave**: Un actor chino de amenazas de un año de edad parece una pandilla de ciberdelincuentes, actúa como una APT asociada al estado y ataca a las organizaciones en lugares inesperados.
 
-- 💡 **Impacto y contexto**: Dos meses después de la noticia explosiva de que un enjambre de sus agentes había roto su contención y hackeado los ordenadores de la empresa de inteligencia artificial Hugging Face, OpenAI sigue apagando incendios. Un goteo constante de revelaciones sobre otros hackeos en las semanas posteriores ha mantenido a OpenAI en el centro de atención y ha planteado serias preguntas
+- 💡 **Impacto y contexto**: Un equipo chino de ransomware está explotando las tecnologías de Microsoft para extorsionar a organizaciones grandes y críticas en el mundo de habla hispana y portuguesa.
 
-🔗 **[Ver nota original completa en MIT Technology Review (inglés) ↗](https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/)**
+🔗 **[Ver nota original completa en Dark Reading (inglés) ↗](https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese)**
 
 ---
 
-### 🔹 Columna 5: [Conoce a tu enemigo: técnicas de ataque basadas en navegador en 2026](https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Know Your Enemy: Browser-Based Attack Techniques in 2026`
+### 🔹 Columna 4: [Satlyt, fundada por un ex gerente de producto de Google y SpaceX, recauda $ 8 millones para ejecutar IA en satélites](https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites`
 
-- 📌 **¿Qué sucedió?**: Dado que el navegador es donde se accede y se utilizan las aplicaciones empresariales, tiene sentido que también se produzcan ataques allí. La mayoría de las infracciones hoy en día comienzan en una sesión de navegador. A menudo, nunca lo abandonan, y toda la cadena de ataque, desde el acceso inicial hasta la exfiltración, se desarrolla en el navegador.
+- 📌 **¿Qué sucedió?**: De la forma en que Rama Afullo lo cuenta, vio venir los centros de datos orbitales.
 
-- 🔍 **Detalles clave**: Estas son las seis técnicas más peligrosas que deberían estar en el radar de todos los equipos de seguridad en 2026.
+- 🔍 **Detalles clave**: El ingeniero keniano-estadounidense trabajó anteriormente en el negocio de computación en la nube de Google antes de un breve período en la red de comunicaciones Starlink de SpaceX en 2024. Sus experiencias lo convencieron de que había un potencial sin explotar para los ordenadores en el espacio.
 
-- 💡 **Impacto y contexto**: Los kits de phishing modernos no solo roban contraseñas, sino que también interceptan sesiones en vivo. Los kits de adversario en el medio (AiTM) de proxy inverso como Tycoon2FA, Sneaky2FA y Evilginx transmiten credenciales y tokens de sesión en tiempo real, evitando la mayoría de las formas de MFA. Estos kits se venden como plataformas llave en mano de Phishing-as-a-Service con
+- 💡 **Impacto y contexto**: “Cuando estaba en SpaceX, intenté lanzar esto internamente. Dijeron que no. Cuando estaba en Google, intenté lanzar esto internamente. Dijeron que no", le dice a TechCrunch.
 
-🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/)**
+
+---
+
+### 🔹 Columna 5: [Vulnerabilidad de Zimbra explotada en la naturaleza antes de la divulgación pública](https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Zimbra Vulnerability Exploited in the Wild Prior to Public Disclosure`
+
+- 📌 **¿Qué sucedió?**: Los hackers comenzaron a explotar una vulnerabilidad de inyección de comandos del sistema operativo de alta gravedad en Zimbra Collaboration Suite (ZCS) poco después de que se implementaran los parches, antes de la divulgación pública, informa Microsoft.
+
+- 🔍 **Detalles clave**: Rastreada como CVE-2026-73570 (puntuación CVSS de 8.9), la falla existe porque, en ZCS anterior a 10.1.20, la entrada no confiable durante el procesamiento de notificaciones SNMP se desinfecta incorrectamente.
+
+- 💡 **Impacto y contexto**: Por lo tanto, si se ha instalado el paquete zimbra-snmp y se han habilitado las notificaciones SNMP, un atacante podría desencadenar el defecto de seguridad a través de solicitudes SMTP especialmente diseñadas.
+
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/)**
 
 ---
 
@@ -90,6 +90,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#15](editions/2026/10/2026-10-01.md) | 2026-10-01 | [La IA ha cambiado la velocidad de ataque, no los fundamen...](https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/) | 🛡️ Ciberseguridad |
 | [#14](editions/2026/09/2026-09-30.md) | 2026-09-30 | [Organizaciones gubernamentales y financieras atacadas en ...](https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/) | 🛡️ Ciberseguridad |
 | [#13](editions/2026/09/2026-09-29.md) | 2026-09-29 | [Los hackers usan GPT personalizados de ChatGPT en los ata...](https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/) | 🛡️ Ciberseguridad |
 | [#12](editions/2026/09/2026-09-28.md) | 2026-09-28 | [Resumen ⚡ semanal: Hackeo de criptomonedas por valor de 3...](https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html) | 🛡️ Ciberseguridad |
