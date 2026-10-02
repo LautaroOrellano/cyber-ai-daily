@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 15** — *Jueves, 1 de Octubre de 2026*
+> **📅 Edición de Hoy: N° 16** — *Viernes, 2 de Octubre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_15-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_16-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,70 +17,70 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [La IA ha cambiado la velocidad de ataque, no los fundamentos de seguridad](https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `AI Has Changed Attack Speed, Not Security Fundamentals`
+### 📌 [OpenAI recambia formas con tres investigadores de seguridad sobre el mal manejo de la información sensible](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling`
 
-- 📌 **¿Qué sucedió?**: Las personas que me conocen bien saben que soy una persona muy directa y, como tal, no disfruto de los términos excesivamente complicados utilizados para describir cosas sencillas. En los últimos meses, Frontier AI y otras herramientas han permitido a atacantes y defensores por igual acortar el tiempo necesario para identificar vulnerabilidades y desarrollar exploits
+- 📌 **¿Qué sucedió?**: OpenAI se ha separado de tres miembros de su equipo de seguridad después de que filtraron información privada en violación de las políticas de la empresa, informó The Wall Street Journal.
 
-- 🔍 **Detalles clave**: Estaba en una llamada con un colega el otro día y me preguntó: "¿Me he vuelto loco o los parches virtuales no son algo nuevo?" A lo que respondí: "No, no te has vuelto loco, los parches virtuales no son nada particularmente nuevo, la gente solía llamarlo defensa en profundidad, entre otras cosas." En otras palabras, la prensa reciente
+- 🔍 **Detalles clave**: "Nos hemos separado de tres personas por violar nuestras políticas de acceso y manejo de información confidencial de la empresa", dijo un portavoz de la compañía. "Nuestra investigación confirmó que estas personas manejaron mal la información confidencial fuera de los procedimientos establecidos de la empresa, violando
 
-- 💡 **Impacto y contexto**: No es sorprendente que una buena higiene de seguridad y unos buenos fundamentos de seguridad contribuyan en gran medida a prevenir incidentes de seguridad y a proteger las aplicaciones, incluso en la era de la "inteligencia artificial de frontera". "Con tanta publicidad en torno a los" parches virtuales ", ¿en qué deberían centrarse las empresas cuando se trata de proteger sus
+- 💡 **Impacto y contexto**: Los empleados afectados son Jasmine Wang, Tomek Korbak y Mikita Balesni, informó el Journal, citando a personas familiarizadas con el asunto. Los tres investigadores han expresado previamente su preocupación por el ritmo de desarrollo de la inteligencia artificial (IA).
 
-👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/)**
+👉 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [La startup de tecnología auditiva Legato lanza sus gafas auditivas con IA](https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Hearing tech startup Legato launches its AI hearing glasses`
+### 🔹 Columna 2: [Las alucinaciones de la IA están empeorando aún más a los clientes con derecho](https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `AI hallucinations are making entitled customers even worse`
 
-- 📌 **¿Qué sucedió?**: La startup de tecnología auditiva Legato anunció el jueves que sus gafas auditivas insignia basadas en IA ya están disponibles para su compra. Las gafas, llamadas Legato Frames, integran la tecnología patentada de asistencia auditiva de la compañía en los brazos de las monturas de las gafas. A partir de $ 999, los marcos Legato están diseñados para adultos con
+- 📌 **¿Qué sucedió?**: Madison, una mesera en la ciudad de Nueva York, saluda a cada mesa preguntando sobre las alergias de cada comensal. Últimamente, ha habido algunas llamadas cercanas. "A veces la gente me dice que tiene alergia a los mariscos, y volveré, y no me harán ninguna pregunta", dice Madison, quien pidió que se ocultara su apellido a
 
-- 🔍 **Detalles clave**: Las gafas provienen del objetivo de la startup de hacer que la atención auditiva sea más accesible al abordar el costo, la comodidad y el estigma asociado con los audífonos tradicionales.
+- 🔍 **Detalles clave**: Cuando les dice que un plato contiene un alérgeno, los huéspedes la rechazan y dicen que ChatGPT no está de acuerdo. "Solo quieren hablar con ChatGPT", explica Madison. "Eres alérgico a los mariscos, y ChatGPT dice que no hay mariscos en esto, ¡y te estamos diciendo que sí los hay!"
 
-- 💡 **Impacto y contexto**: A diferencia de los audífonos tradicionales, que a menudo usan micrófonos direccionales para centrarse en los sonidos que provienen de una dirección en particular y pueden tener dificultades en entornos ruidosos, Legato adopta un enfoque diferente. Su sistema impulsado por IA distingue las voces del ruido de fondo y amplifica las voces al tiempo que reduce los sonidos no deseados.
+- 💡 **Impacto y contexto**: La adopción masiva de herramientas generativas de IA está reescribiendo el viejo adagio que durante mucho tiempo ha sido una espina en el costado de los trabajadores de restaurantes y minoristas: "El cliente siempre tiene la razón." Pero, ¿qué sucede cuando el cliente espera que sigas el juego con algo inventado por la IA?
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/)**
-
----
-
-### 🔹 Columna 3: [El ransomware Warlock afecta a grandes organizaciones españolas y portuguesas](https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** Dark Reading &nbsp;|&nbsp; *Original:* `Warlock Ransomware Hits Large Spanish, Portuguese Orgs`
-
-- 📌 **¿Qué sucedió?**: Últimas noticias de ciberseguridad, análisis de noticias, comentarios y otros contenidos de todo el mundo, con un enfoque inicial en Oriente Medio y África, Asia Pacífico, Europa y América Latina.
-
-- 🔍 **Detalles clave**: Un actor chino de amenazas de un año de edad parece una pandilla de ciberdelincuentes, actúa como una APT asociada al estado y ataca a las organizaciones en lugares inesperados.
-
-- 💡 **Impacto y contexto**: Un equipo chino de ransomware está explotando las tecnologías de Microsoft para extorsionar a organizaciones grandes y críticas en el mundo de habla hispana y portuguesa.
-
-🔗 **[Ver nota original completa en Dark Reading (inglés) ↗](https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese)**
+🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents)**
 
 ---
 
-### 🔹 Columna 4: [Satlyt, fundada por un ex gerente de producto de Google y SpaceX, recauda $ 8 millones para ejecutar IA en satélites](https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites`
+### 🔹 Columna 3: [Estafadores de criptomonedas secuestran la cuenta oficial X de Microsoft](https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Crypto Scammers Hijack Microsoft’s Official X Account`
 
-- 📌 **¿Qué sucedió?**: De la forma en que Rama Afullo lo cuenta, vio venir los centros de datos orbitales.
+- 📌 **¿Qué sucedió?**: Microsoft ha confirmado que su cuenta oficial X fue tomada el jueves y utilizada para amplificar una cuenta de criptomoneda con temática Clippy.
 
-- 🔍 **Detalles clave**: El ingeniero keniano-estadounidense trabajó anteriormente en el negocio de computación en la nube de Google antes de un breve período en la red de comunicaciones Starlink de SpaceX en 2024. Sus experiencias lo convencieron de que había un potencial sin explotar para los ordenadores en el espacio.
+- 🔍 **Detalles clave**: Según The Verge, la cuenta de la compañía, que tiene más de 13 millones de seguidores, comenzó a seguir la cuenta de criptomonedas y compartió uno de sus mensajes. La imagen de perfil de Microsoft también fue reemplazada por una imagen de Clippy, el asistente animado de clips de papel que se enviaba con versiones anteriores de Office.
 
-- 💡 **Impacto y contexto**: “Cuando estaba en SpaceX, intenté lanzar esto internamente. Dijeron que no. Cuando estaba en Google, intenté lanzar esto internamente. Dijeron que no", le dice a TechCrunch.
+- 💡 **Impacto y contexto**: La cuenta detrás del mensaje reenviado, @ clippymsftcto, se hizo pasar por Clippy y desde entonces ha sido suspendida. Una segunda cuenta involucrada en el incidente siguió empujando un token $Clippy, diciendo que su fondo de liquidez estaba emparejado con $MSFT.
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/)**
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/)**
 
 ---
 
-### 🔹 Columna 5: [Vulnerabilidad de Zimbra explotada en la naturaleza antes de la divulgación pública](https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Zimbra Vulnerability Exploited in the Wild Prior to Public Disclosure`
+### 🔹 Columna 4: [Si un centro de datos está camuflado en el bosque, ¿alguien lo odiará?](https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `If a data center is camouflaged in the woods, will anyone hate it?`
 
-- 📌 **¿Qué sucedió?**: Los hackers comenzaron a explotar una vulnerabilidad de inyección de comandos del sistema operativo de alta gravedad en Zimbra Collaboration Suite (ZCS) poco después de que se implementaran los parches, antes de la divulgación pública, informa Microsoft.
+- 📌 **¿Qué sucedió?**: El concejal de la ciudad de San Antonio, Ric Galvan, recuerda cuando los centros de datos llegaron por primera vez a su ciudad en la década de 2000, pareciendo edificios de oficinas relativamente modestos. Pero eso ha cambiado en los últimos años, ya que los centros de datos se han convertido en instalaciones masivas de "hiperescala" que abarcan millones de pies cuadrados y albergan
 
-- 🔍 **Detalles clave**: Rastreada como CVE-2026-73570 (puntuación CVSS de 8.9), la falla existe porque, en ZCS anterior a 10.1.20, la entrada no confiable durante el procesamiento de notificaciones SNMP se desinfecta incorrectamente.
+- 🔍 **Detalles clave**: Si un centro de datos está camuflado en el bosque, ¿alguien lo odiará?
 
-- 💡 **Impacto y contexto**: Por lo tanto, si se ha instalado el paquete zimbra-snmp y se han habilitado las notificaciones SNMP, un atacante podría desencadenar el defecto de seguridad a través de solicitudes SMTP especialmente diseñadas.
+- 💡 **Impacto y contexto**: Microsoft está expandiendo la "biomímesis" en sus centros de datos a medida que se enfrenta a un mayor rechazo de los lugareños por la construcción, la contaminación y el ruido.
 
-🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/)**
+🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry)**
+
+---
+
+### 🔹 Columna 5: [Amazon escribe un blog aterrador advirtiendo a las comunidades que no bloqueen los centros de datos](https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Amazon writes scary blog warning communities not to block data centers`
+
+- 📌 **¿Qué sucedió?**: Amazon está pidiendo a las personas que apoyen los proyectos de centros de datos de IA, o se arriesgan a un daño irreparable a la economía y la seguridad nacional de EE. UU. En un blog de más de 3000 palabras publicado hoy, el CEO de servicios web de Amazon, Matt Garman, rechazó las preocupaciones públicas sobre el impacto que los centros de datos pueden tener en los empleos, las demandas de energía y la
+
+- 🔍 **Detalles clave**: Amazon escribe un blog aterrador advirtiendo a las comunidades que no bloqueen los centros de datos
+
+- 💡 **Impacto y contexto**: "Con cualquier cambio, surgirán preguntas importantes, pero también habrá desinformación y mentiras descaradas, y en la era de las redes sociales y las noticias 24/7, los mitos se afianzan más rápido que nunca", dijo Garman. "De hecho, esta construcción es tan importante geopolíticamente que hay informes generalizados de varios
+
+🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning)**
 
 ---
 
@@ -90,6 +90,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#16](editions/2026/10/2026-10-02.md) | 2026-10-02 | [OpenAI recambia formas con tres investigadores de segurid...](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html) | 🛡️ Ciberseguridad |
 | [#15](editions/2026/10/2026-10-01.md) | 2026-10-01 | [La IA ha cambiado la velocidad de ataque, no los fundamen...](https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/) | 🛡️ Ciberseguridad |
 | [#14](editions/2026/09/2026-09-30.md) | 2026-09-30 | [Organizaciones gubernamentales y financieras atacadas en ...](https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/) | 🛡️ Ciberseguridad |
 | [#13](editions/2026/09/2026-09-29.md) | 2026-09-29 | [Los hackers usan GPT personalizados de ChatGPT en los ata...](https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/) | 🛡️ Ciberseguridad |
@@ -104,7 +105,8 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 | [#4](editions/2026/09/2026-09-20.md) | 2026-09-20 | [[Evento virtual] Ciberseguridad Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027) | 🛡️ Ciberseguridad |
 | [#3](editions/2026/09/2026-09-19.md) | 2026-09-19 | [[Evento virtual] Ciberseguridad Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027) | 🛡️ Ciberseguridad |
 | [#2](editions/2026/09/2026-09-18.md) | 2026-09-18 | [[Evento virtual] Ciberseguridad Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027) | 🛡️ Ciberseguridad |
-| [#1](editions/2026/09/2026-09-17.md) | 2026-09-17 | [Cisco alerta a los clientes sobre el segundo día cero exp...](https://cyberscoop.com/cisco-ise-zero-day-cve-2026-76460/) | 🛡️ Ciberseguridad |
+
+*... y 1 ediciones más en la carpeta `/editions`.*
 
 ---
 

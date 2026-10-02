@@ -225,5 +225,22 @@
       "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
       "https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/"
     ]
+  },
+  {
+    "edition": 16,
+    "date": "2026-10-02",
+    "rel_path": "editions/2026/10/2026-10-02.md",
+    "title_en": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
+    "title_es": "OpenAI recambia formas con tres investigadores de seguridad sobre el mal manejo de la información sensible",
+    "category": "cyber",
+    "source": "The Hacker News",
+    "lead_link": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
+    "story_links": [
+      "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
+      "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+      "https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/",
+      "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+      "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning"
+    ]
   }
 ]
