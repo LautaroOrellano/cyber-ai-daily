@@ -242,5 +242,22 @@
       "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
       "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning"
     ]
+  },
+  {
+    "edition": 17,
+    "date": "2026-10-03",
+    "rel_path": "editions/2026/10/2026-10-03.md",
+    "title_en": "doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures",
+    "title_es": "doxx.net recauda 38 millones de $ para prevenir las desventuras de los agentes de IA en Internet",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/",
+    "story_links": [
+      "https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/",
+      "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/",
+      "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html"
+    ]
   }
 ]

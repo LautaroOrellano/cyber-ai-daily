@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 16** — *Viernes, 2 de Octubre de 2026*
+> **📅 Edición de Hoy: N° 17** — *Sábado, 3 de Octubre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_16-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_17-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,70 +17,70 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [OpenAI recambia formas con tres investigadores de seguridad sobre el mal manejo de la información sensible](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling`
+### 📌 [doxx.net recauda 38 millones de $ para prevenir las desventuras de los agentes de IA en Internet](https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures`
 
-- 📌 **¿Qué sucedió?**: OpenAI se ha separado de tres miembros de su equipo de seguridad después de que filtraron información privada en violación de las políticas de la empresa, informó The Wall Street Journal.
+- 📌 **¿Qué sucedió?**: Doxx.net, con sede en Miami, FL, ha recaudado $ 38 millones en una ronda de financiación de la Serie A dirigida por Andreessen Horowitz, con la participación de Animo Ventures y Focal.vc. La firma fue fundada en 2025 por el fundador en serie y hacker Barrett Lyon, y opera en seis continentes.
 
-- 🔍 **Detalles clave**: "Nos hemos separado de tres personas por violar nuestras políticas de acceso y manejo de información confidencial de la empresa", dijo un portavoz de la compañía. "Nuestra investigación confirmó que estas personas manejaron mal la información confidencial fuera de los procedimientos establecidos de la empresa, violando
+- 🔍 **Detalles clave**: La nueva financiación se anunció al mismo tiempo que se anunciaba la plataforma Agentic Defined Networking (ADN) de doxx.net, actualmente en beta abierta. Esta plataforma brinda a los agentes un entorno con conectividad definida y protección contra amenazas incorporada, lo que ayuda a evitar que lleguen a destinos maliciosos conocidos mientras
 
-- 💡 **Impacto y contexto**: Los empleados afectados son Jasmine Wang, Tomek Korbak y Mikita Balesni, informó el Journal, citando a personas familiarizadas con el asunto. Los tres investigadores han expresado previamente su preocupación por el ritmo de desarrollo de la inteligencia artificial (IA).
+- 💡 **Impacto y contexto**: Hoy en día, los agentes navegan por Internet, se comunican, acceden a los servicios y actúan en nombre de su usuario. Pero estos agentes no pueden distinguir necesariamente entre información y acciones seguras e información y acciones inseguras mientras operan con las cuentas y la autoridad de sus usuarios. Este es el problema de seguridad abordado por ADN.
 
-👉 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html)**
+👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Las alucinaciones de la IA están empeorando aún más a los clientes con derecho](https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `AI hallucinations are making entitled customers even worse`
+### 🔹 Columna 2: [Meta quiere que tu próximo gadget tenga una infusión de Muse](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Meta wants your next gadget to be Muse-infused`
 
-- 📌 **¿Qué sucedió?**: Madison, una mesera en la ciudad de Nueva York, saluda a cada mesa preguntando sobre las alergias de cada comensal. Últimamente, ha habido algunas llamadas cercanas. "A veces la gente me dice que tiene alergia a los mariscos, y volveré, y no me harán ninguna pregunta", dice Madison, quien pidió que se ocultara su apellido a
+- 📌 **¿Qué sucedió?**: Meta's Muse, un agente personal de IA que reserva viajes, rellena formularios y compra en nombre de un usuario, ya ha demostrado ser popular entre las masas, pero un nuevo proyecto paralelo podría ser particularmente atractivo para los manipuladores y los piratas informáticos.
 
-- 🔍 **Detalles clave**: Cuando les dice que un plato contiene un alérgeno, los huéspedes la rechazan y dicen que ChatGPT no está de acuerdo. "Solo quieren hablar con ChatGPT", explica Madison. "Eres alérgico a los mariscos, y ChatGPT dice que no hay mariscos en esto, ¡y te estamos diciendo que sí los hay!"
+- 🔍 **Detalles clave**: El viernes, la compañía presentó Muse Gadgets, un proyecto de código abierto que permite a los desarrolladores construir su propio hardware que se conecta a Muse.
 
-- 💡 **Impacto y contexto**: La adopción masiva de herramientas generativas de IA está reescribiendo el viejo adagio que durante mucho tiempo ha sido una espina en el costado de los trabajadores de restaurantes y minoristas: "El cliente siempre tiene la razón." Pero, ¿qué sucede cuando el cliente espera que sigas el juego con algo inventado por la IA?
+- 💡 **Impacto y contexto**: Meta proporciona firmware de código abierto (el software de bajo nivel que ejecuta un dispositivo) y un kit de desarrollo de software (SDK) de Linux, junto con algunas ideas de proyectos para que los usuarios comiencen. Estos incluyen darle a Muse una pantalla de tinta electrónica a color o cargarla en un stick que se conecta al puerto HDMI de un televisor.
 
-🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents)**
-
----
-
-### 🔹 Columna 3: [Estafadores de criptomonedas secuestran la cuenta oficial X de Microsoft](https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Crypto Scammers Hijack Microsoft’s Official X Account`
-
-- 📌 **¿Qué sucedió?**: Microsoft ha confirmado que su cuenta oficial X fue tomada el jueves y utilizada para amplificar una cuenta de criptomoneda con temática Clippy.
-
-- 🔍 **Detalles clave**: Según The Verge, la cuenta de la compañía, que tiene más de 13 millones de seguidores, comenzó a seguir la cuenta de criptomonedas y compartió uno de sus mensajes. La imagen de perfil de Microsoft también fue reemplazada por una imagen de Clippy, el asistente animado de clips de papel que se enviaba con versiones anteriores de Office.
-
-- 💡 **Impacto y contexto**: La cuenta detrás del mensaje reenviado, @ clippymsftcto, se hizo pasar por Clippy y desde entonces ha sido suspendida. Una segunda cuenta involucrada en el incidente siguió empujando un token $Clippy, diciendo que su fondo de liquidez estaba emparejado con $MSFT.
-
-🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/)**
 
 ---
 
-### 🔹 Columna 4: [Si un centro de datos está camuflado en el bosque, ¿alguien lo odiará?](https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `If a data center is camouflaged in the woods, will anyone hate it?`
+### 🔹 Columna 3: [Vulnerabilidades críticas de los parches Fortra en BoKS](https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Fortra Patches Critical Vulnerabilities in BoKS`
 
-- 📌 **¿Qué sucedió?**: El concejal de la ciudad de San Antonio, Ric Galvan, recuerda cuando los centros de datos llegaron por primera vez a su ciudad en la década de 2000, pareciendo edificios de oficinas relativamente modestos. Pero eso ha cambiado en los últimos años, ya que los centros de datos se han convertido en instalaciones masivas de "hiperescala" que abarcan millones de pies cuadrados y albergan
+- 📌 **¿Qué sucedió?**: Fortra ha publicado parches para ocho vulnerabilidades en Core Privileged Access Manager (BoKS), incluidos tres errores de gravedad crítica.
 
-- 🔍 **Detalles clave**: Si un centro de datos está camuflado en el bosque, ¿alguien lo odiará?
+- 🔍 **Detalles clave**: BoKS proporciona a las organizaciones una gestión centralizada de las flotas de Unix y Linux, lo que permite la aplicación de políticas y el control de acceso en todas las cuentas.
 
-- 💡 **Impacto y contexto**: Microsoft está expandiendo la "biomímesis" en sus centros de datos a medida que se enfrenta a un mayor rechazo de los lugareños por la construcción, la contaminación y el ruido.
+- 💡 **Impacto y contexto**: El jueves, la compañía advirtió que las implementaciones de BoKS Manager que dependen de la tecla BoKS para la administración de cuentas de servicio de Active Directory se ven afectadas por una falla crítica que conduce a la omisión de autenticación.
 
-🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry)**
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/)**
 
 ---
 
-### 🔹 Columna 5: [Amazon escribe un blog aterrador advirtiendo a las comunidades que no bloqueen los centros de datos](https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Amazon writes scary blog warning communities not to block data centers`
+### 🔹 Columna 4: [Sean Parker está reconstruyendo Stability AI en torno a la música](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Sean Parker is rebuilding Stability AI around music`
 
-- 📌 **¿Qué sucedió?**: Amazon está pidiendo a las personas que apoyen los proyectos de centros de datos de IA, o se arriesgan a un daño irreparable a la economía y la seguridad nacional de EE. UU. En un blog de más de 3000 palabras publicado hoy, el CEO de servicios web de Amazon, Matt Garman, rechazó las preocupaciones públicas sobre el impacto que los centros de datos pueden tener en los empleos, las demandas de energía y la
+- 📌 **¿Qué sucedió?**: Sean Parker, el cofundador de Napster, ha vuelto a la industria de la música y le dice a The Information que esta vez está siguiendo las reglas. (Pedir perdón en lugar de permiso no funcionó tan bien la última vez, admite fácilmente).
 
-- 🔍 **Detalles clave**: Amazon escribe un blog aterrador advirtiendo a las comunidades que no bloqueen los centros de datos
+- 🔍 **Detalles clave**: Hace dos años, se unió a un rescate de $ 80 millones de Stability AI, la startup de generación de imágenes que casi se derrumbó después de un gasto excesivo y una agitación interna que llevó a la destitución del fundador Emad Mostaque. Ahora Parker y su viejo amigo Prem Akkaraju, que se convirtió en CEO, están terminando lo que han estado construyendo.
 
-- 💡 **Impacto y contexto**: "Con cualquier cambio, surgirán preguntas importantes, pero también habrá desinformación y mentiras descaradas, y en la era de las redes sociales y las noticias 24/7, los mitos se afianzan más rápido que nunca", dijo Garman. "De hecho, esta construcción es tan importante geopolíticamente que hay informes generalizados de varios
+- 💡 **Impacto y contexto**: La gran idea, dice Parker, es convertir a Stability en el fabricante de herramientas de IA de referencia para los profesionales de la música. Con ese fin, a fines de agosto, la compañía anunció $ 76 millones en fondos de, entre otros, Sony, Warner y Universal, que también licenciaron sus catálogos para capacitación como parte del acuerdo.
 
-🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/)**
+
+---
+
+### 🔹 Columna 5: [El estado de la ciberseguridad en 2026: segmentos clave, perspectivas e innovaciones](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations`
+
+- 📌 **¿Qué sucedió?**: La ciberseguridad está siendo remodelada por la expansión de la infraestructura en la nube, la inteligencia artificial, los sistemas distribuidos y los entornos digitales cada vez más complejos. A medida que las organizaciones administran más identidades, dispositivos, datos e infraestructura orientada a Internet, la seguridad está cambiando hacia la visibilidad continua, el control y la capacidad de
+
+- 🔍 **Detalles clave**: Este informe examina cómo están evolucionando las áreas centrales de la ciberseguridad en respuesta a ese cambio. En seguridad de identidad, gestión de telemetría, seguridad humana, gestión de endpoints, inteligencia de riesgo humano, gestión de exposición, seguridad de correo electrónico y dominio, seguridad de dispositivos conectados, operaciones de seguridad nativas de IA y nube
+
+- 💡 **Impacto y contexto**: Lea el informe completo aquí: https://report.papryon.com/thehackernews
+
+🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html)**
 
 ---
 
@@ -90,6 +90,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#17](editions/2026/10/2026-10-03.md) | 2026-10-03 | [doxx.net recauda 38 millones de $ para prevenir las desve...](https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/) | 🛡️ Ciberseguridad |
 | [#16](editions/2026/10/2026-10-02.md) | 2026-10-02 | [OpenAI recambia formas con tres investigadores de segurid...](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html) | 🛡️ Ciberseguridad |
 | [#15](editions/2026/10/2026-10-01.md) | 2026-10-01 | [La IA ha cambiado la velocidad de ataque, no los fundamen...](https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/) | 🛡️ Ciberseguridad |
 | [#14](editions/2026/09/2026-09-30.md) | 2026-09-30 | [Organizaciones gubernamentales y financieras atacadas en ...](https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/) | 🛡️ Ciberseguridad |
@@ -104,9 +105,8 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 | [#5](editions/2026/09/2026-09-21.md) | 2026-09-21 | [Miembros del equipo Rust y propietarios de cajas populare...](https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/) | 🛡️ Ciberseguridad |
 | [#4](editions/2026/09/2026-09-20.md) | 2026-09-20 | [[Evento virtual] Ciberseguridad Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027) | 🛡️ Ciberseguridad |
 | [#3](editions/2026/09/2026-09-19.md) | 2026-09-19 | [[Evento virtual] Ciberseguridad Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027) | 🛡️ Ciberseguridad |
-| [#2](editions/2026/09/2026-09-18.md) | 2026-09-18 | [[Evento virtual] Ciberseguridad Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027) | 🛡️ Ciberseguridad |
 
-*... y 1 ediciones más en la carpeta `/editions`.*
+*... y 2 ediciones más en la carpeta `/editions`.*
 
 ---
 
