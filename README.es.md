@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 17** — *Sábado, 3 de Octubre de 2026*
+> **📅 Edición de Hoy: N° 18** — *Domingo, 4 de Octubre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_17-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_18-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,70 +17,70 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [doxx.net recauda 38 millones de $ para prevenir las desventuras de los agentes de IA en Internet](https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures`
+### 📌 [Sospechoso de ShinyHunters Rey supuestamente detenido en Jordania, ayudando al FBI a identificar a los miembros del grupo](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members`
 
-- 📌 **¿Qué sucedió?**: Doxx.net, con sede en Miami, FL, ha recaudado $ 38 millones en una ronda de financiación de la Serie A dirigida por Andreessen Horowitz, con la participación de Animo Ventures y Focal.vc. La firma fue fundada en 2025 por el fundador en serie y hacker Barrett Lyon, y opera en seis continentes.
+- 📌 **¿Qué sucedió?**: Un presunto miembro del grupo de extorsión digital ShinyHunters, que utiliza el alias en línea "Rey", ha sido presuntamente detenido por las autoridades de Jordania, informó Reuters, citando a tres personas familiarizadas con el asunto.
 
-- 🔍 **Detalles clave**: La nueva financiación se anunció al mismo tiempo que se anunciaba la plataforma Agentic Defined Networking (ADN) de doxx.net, actualmente en beta abierta. Esta plataforma brinda a los agentes un entorno con conectividad definida y protección contra amenazas incorporada, lo que ayuda a evitar que lleguen a destinos maliciosos conocidos mientras
+- 🔍 **Detalles clave**: Se dice que Rey, cuyo nombre real es Saif al-Din Khader, fue detenido el 29 de septiembre de 2026, cooperando con el FBI y la policía para identificar a otros miembros del grupo.
 
-- 💡 **Impacto y contexto**: Hoy en día, los agentes navegan por Internet, se comunican, acceden a los servicios y actúan en nombre de su usuario. Pero estos agentes no pueden distinguir necesariamente entre información y acciones seguras e información y acciones inseguras mientras operan con las cuentas y la autoridad de sus usuarios. Este es el problema de seguridad abordado por ADN.
+- 💡 **Impacto y contexto**: "Su cooperación es fundamental para los esfuerzos en curso para arrestar a estos piratas informáticos", dijo una fuente a la agencia de noticias.
 
-👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/)**
+👉 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Meta quiere que tu próximo gadget tenga una infusión de Muse](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Meta wants your next gadget to be Muse-infused`
+### 🔹 Columna 2: [Los centros de datos rurales se enfrentan a una gran reducción de impuestos federales](https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `Rural Data Centers Are in for a Big Federal Tax Break`
 
-- 📌 **¿Qué sucedió?**: Meta's Muse, un agente personal de IA que reserva viajes, rellena formularios y compra en nombre de un usuario, ya ha demostrado ser popular entre las masas, pero un nuevo proyecto paralelo podría ser particularmente atractivo para los manipuladores y los piratas informáticos.
+- 📌 **¿Qué sucedió?**: ¡Bienvenido de nuevo a Power Play! Cada semana, la escritora principal Molly Taft aborda un tema en torno al mayor problema de esta temporada intermedia: los centros de datos. Si tienes alguna pregunta o idea para la columna, no dudes en enviarle un correo electrónico a Molly a [email protected] o comunicarte con ellos de forma segura a través de Signal en mollytaft.76.
 
-- 🔍 **Detalles clave**: El viernes, la compañía presentó Muse Gadgets, un proyecto de código abierto que permite a los desarrolladores construir su propio hardware que se conecta a Muse.
+- 🔍 **Detalles clave**: El 1 de enero, se generará una nueva ganancia inesperada de impuestos que podría beneficiar a decenas de proyectos de centros de datos rurales, todo gracias a la Ley One Big Beautiful Bill.
 
-- 💡 **Impacto y contexto**: Meta proporciona firmware de código abierto (el software de bajo nivel que ejecuta un dispositivo) y un kit de desarrollo de software (SDK) de Linux, junto con algunas ideas de proyectos para que los usuarios comiencen. Estos incluyen darle a Muse una pantalla de tinta electrónica a color o cargarla en un stick que se conecta al puerto HDMI de un televisor.
+- 💡 **Impacto y contexto**: A partir del próximo año, los proyectos ubicados en extensiones de tierra rural en todo el país serán recientemente elegibles para un conjunto de beneficios fiscales corporativos específicos bajo un programa ampliado por el proyecto de ley. Las nuevas reglas "pueden reducir significativamente las barreras para proyectos a gran escala e intensivos en capital en áreas rurales, especialmente los datos a hiperescala
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/)**
-
----
-
-### 🔹 Columna 3: [Vulnerabilidades críticas de los parches Fortra en BoKS](https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Fortra Patches Critical Vulnerabilities in BoKS`
-
-- 📌 **¿Qué sucedió?**: Fortra ha publicado parches para ocho vulnerabilidades en Core Privileged Access Manager (BoKS), incluidos tres errores de gravedad crítica.
-
-- 🔍 **Detalles clave**: BoKS proporciona a las organizaciones una gestión centralizada de las flotas de Unix y Linux, lo que permite la aplicación de políticas y el control de acceso en todas las cuentas.
-
-- 💡 **Impacto y contexto**: El jueves, la compañía advirtió que las implementaciones de BoKS Manager que dependen de la tecla BoKS para la administración de cuentas de servicio de Active Directory se ven afectadas por una falla crítica que conduce a la omisión de autenticación.
-
-🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/)**
+🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/)**
 
 ---
 
-### 🔹 Columna 4: [Sean Parker está reconstruyendo Stability AI en torno a la música](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Sean Parker is rebuilding Stability AI around music`
+### 🔹 Columna 3: [El TA419 alineado con China apunta a expertos en políticas de IA de EE. UU. con Microsoft AitM Phishing](https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing`
 
-- 📌 **¿Qué sucedió?**: Sean Parker, el cofundador de Napster, ha vuelto a la industria de la música y le dice a The Information que esta vez está siguiendo las reglas. (Pedir perdón en lugar de permiso no funcionó tan bien la última vez, admite fácilmente).
+- 📌 **¿Qué sucedió?**: Un nuevo grupo de ciberespionaje de China conocido como TA419 se ha atribuido a múltiples campañas de phishing de credenciales dirigidas a expertos en inteligencia artificial (IA) que trabajan para think tanks, universidades y organizaciones del sector legal de EE. UU.
 
-- 🔍 **Detalles clave**: Hace dos años, se unió a un rescate de $ 80 millones de Stability AI, la startup de generación de imágenes que casi se derrumbó después de un gasto excesivo y una agitación interna que llevó a la destitución del fundador Emad Mostaque. Ahora Parker y su viejo amigo Prem Akkaraju, que se convirtió en CEO, están terminando lo que han estado construyendo.
+- 🔍 **Detalles clave**: Las campañas han suplantado a destacados economistas y responsables políticos de IA, así como a un destacado empleado de Anthropic, para seleccionar a un experto en políticas de IA en un grupo de expertos de EE. UU. en febrero de 2026. El correo electrónico de phishing llevaba el asunto "Solicitud de comentarios sobre la integración militar de Claude".
 
-- 💡 **Impacto y contexto**: La gran idea, dice Parker, es convertir a Stability en el fabricante de herramientas de IA de referencia para los profesionales de la música. Con ese fin, a fines de agosto, la compañía anunció $ 76 millones en fondos de, entre otros, Sony, Warner y Universal, que también licenciaron sus catálogos para capacitación como parte del acuerdo.
+- 💡 **Impacto y contexto**: "Esta actividad probablemente apoya objetivos de inteligencia chinos más amplios para comprender mejor los desarrollos en curso dentro de la política y el panorama regulatorio de la IA de EE. UU. y se produce en medio de una intensa competencia estratégica, acusaciones de destilación de modelos y controles de exportación que involucran a EE. UU. y China", dijo Proofpoint en un comunicado.
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/)**
+🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html)**
 
 ---
 
-### 🔹 Columna 5: [El estado de la ciberseguridad en 2026: segmentos clave, perspectivas e innovaciones](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations`
+### 🔹 Columna 4: [El agente dijo que estaba hecho. La base de datos no está de acuerdo.](https://huggingface.co/blog/microsoft/thinkingbox)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Hugging Face Blog &nbsp;|&nbsp; *Original:* `The Agent Said It Was Done. The Database Disagreed.`
 
-- 📌 **¿Qué sucedió?**: La ciberseguridad está siendo remodelada por la expansión de la infraestructura en la nube, la inteligencia artificial, los sistemas distribuidos y los entornos digitales cada vez más complejos. A medida que las organizaciones administran más identidades, dispositivos, datos e infraestructura orientada a Internet, la seguridad está cambiando hacia la visibilidad continua, el control y la capacidad de
+- 📌 **¿Qué sucedió?**: Figura 1: ThinkingBox ejecuta un agente contra sesiones de herramientas MCP aisladas, luego califica el estado del backend terminal y los efectos secundarios que deja atrás. De nuestro documento ThinkingBox.
 
-- 🔍 **Detalles clave**: Este informe examina cómo están evolucionando las áreas centrales de la ciberseguridad en respuesta a ese cambio. En seguridad de identidad, gestión de telemetría, seguridad humana, gestión de endpoints, inteligencia de riesgo humano, gestión de exposición, seguridad de correo electrónico y dominio, seguridad de dispositivos conectados, operaciones de seguridad nativas de IA y nube
+- 🔍 **Detalles clave**: Este es un blog conjunto de Microsoft y Hugging Face, un agradecimiento especial a Tommy Guy (fundador de Enderis AI, anteriormente Microsoft), Sergio Paniego de Hugging Face y nuestros ex pasantes Zhuochun Li (Universidad de Pittsburgh), Ali Keramati (UC Irvine), Youngmin Ko (Northwestern) por los esfuerzos de coautoría/revisión.
 
-- 💡 **Impacto y contexto**: Lea el informe completo aquí: https://report.papryon.com/thehackernews
+- 💡 **Impacto y contexto**: Un cliente escribe. Su electrodoméstico de cocina de $ 745 se ha quedado atascado en una "excepción" de mensajería en un centro de distribución de Nashville, quince días después de la fecha de entrega estimada.
 
-🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html)**
+🔗 **[Ver nota original completa en Hugging Face Blog (inglés) ↗](https://huggingface.co/blog/microsoft/thinkingbox)**
+
+---
+
+### 🔹 Columna 5: [Amazon responde a la reacción violenta del centro de datos, dice que ya no usa NDA](https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Amazon responds to data center backlash, says it no longer uses NDAs`
+
+- 📌 **¿Qué sucedió?**: El CEO de Amazon Web Services, Matt Garman, dijo que la compañía ha dejado de usar acuerdos de confidencialidad (NDA) en sus tratos con agencias gubernamentales mientras busca la aprobación para construir nuevos centros de datos.
+
+- 🔍 **Detalles clave**: La declaración de Garman es solo una oración en una publicación de blog más larga en la que intentó rechazar la sospecha generalizada de los centros de datos y argumentar que en realidad son buenos para las comunidades.
+
+- 💡 **Impacto y contexto**: Las NDA son una parte importante de la reacción más amplia del centro de datos. Por ejemplo, la activista ambiental Erin Brockovich dijo recientemente que la queja número uno que ha escuchado sobre los centros de datos es la transparencia, y estos proyectos siguen un patrón común: "proyectos anunciados después de que los permisos ya están asegurados,
+
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/)**
 
 ---
 
@@ -90,6 +90,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#18](editions/2026/10/2026-10-04.md) | 2026-10-04 | [Sospechoso de ShinyHunters Rey supuestamente detenido en ...](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html) | 🛡️ Ciberseguridad |
 | [#17](editions/2026/10/2026-10-03.md) | 2026-10-03 | [doxx.net recauda 38 millones de $ para prevenir las desve...](https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/) | 🛡️ Ciberseguridad |
 | [#16](editions/2026/10/2026-10-02.md) | 2026-10-02 | [OpenAI recambia formas con tres investigadores de segurid...](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html) | 🛡️ Ciberseguridad |
 | [#15](editions/2026/10/2026-10-01.md) | 2026-10-01 | [La IA ha cambiado la velocidad de ataque, no los fundamen...](https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/) | 🛡️ Ciberseguridad |
@@ -104,9 +105,8 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 | [#6](editions/2026/09/2026-09-22.md) | 2026-09-22 | [Vulnerabilidad reciente en el switch ZyXEL explotada por ...](https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/) | 🛡️ Ciberseguridad |
 | [#5](editions/2026/09/2026-09-21.md) | 2026-09-21 | [Miembros del equipo Rust y propietarios de cajas populare...](https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/) | 🛡️ Ciberseguridad |
 | [#4](editions/2026/09/2026-09-20.md) | 2026-09-20 | [[Evento virtual] Ciberseguridad Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027) | 🛡️ Ciberseguridad |
-| [#3](editions/2026/09/2026-09-19.md) | 2026-09-19 | [[Evento virtual] Ciberseguridad Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027) | 🛡️ Ciberseguridad |
 
-*... y 2 ediciones más en la carpeta `/editions`.*
+*... y 3 ediciones más en la carpeta `/editions`.*
 
 ---
 

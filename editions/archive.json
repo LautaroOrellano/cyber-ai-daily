@@ -259,5 +259,22 @@
       "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
       "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html"
     ]
+  },
+  {
+    "edition": 18,
+    "date": "2026-10-04",
+    "rel_path": "editions/2026/10/2026-10-04.md",
+    "title_en": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
+    "title_es": "Sospechoso de ShinyHunters Rey supuestamente detenido en Jordania, ayudando al FBI a identificar a los miembros del grupo",
+    "category": "cyber",
+    "source": "The Hacker News",
+    "lead_link": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
+    "story_links": [
+      "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
+      "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+      "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
+      "https://huggingface.co/blog/microsoft/thinkingbox",
+      "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
+    ]
   }
 ]
