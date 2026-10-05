@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 18** — *Domingo, 4 de Octubre de 2026*
+> **📅 Edición de Hoy: N° 19** — *Lunes, 5 de Octubre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_18-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_19-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,70 +17,70 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [Sospechoso de ShinyHunters Rey supuestamente detenido en Jordania, ayudando al FBI a identificar a los miembros del grupo](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members`
+### 📌 [Google reduce la recompensa por errores de código abierto en medio de una ola de informes automatizados no válidos](https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports`
 
-- 📌 **¿Qué sucedió?**: Un presunto miembro del grupo de extorsión digital ShinyHunters, que utiliza el alias en línea "Rey", ha sido presuntamente detenido por las autoridades de Jordania, informó Reuters, citando a tres personas familiarizadas con el asunto.
+- 📌 **¿Qué sucedió?**: Google ha cerrado temporalmente su Programa de Recompensas por Vulnerabilidad de Software de Código Abierto (OSS VRP) a los envíos de vulnerabilidades de productos, diciendo que un número creciente de informes automatizados, la mayoría de ellos inválidos, impulsaron la medida.
 
-- 🔍 **Detalles clave**: Se dice que Rey, cuyo nombre real es Saif al-Din Khader, fue detenido el 29 de septiembre de 2026, cooperando con el FBI y la policía para identificar a otros miembros del grupo.
+- 🔍 **Detalles clave**: "Esta pausa se debe a un aumento significativo en los envíos automatizados, la gran mayoría de los cuales no son válidos", dijo Google.
 
-- 💡 **Impacto y contexto**: "Su cooperación es fundamental para los esfuerzos en curso para arrestar a estos piratas informáticos", dijo una fuente a la agencia de noticias.
+- 💡 **Impacto y contexto**: Solo las vulnerabilidades de los productos están cubiertas por la pausa. Según Google, no tiene ningún impacto en los informes de la cadena de suministro del programa ni en los informes pendientes.
 
-👉 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html)**
+👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Los centros de datos rurales se enfrentan a una gran reducción de impuestos federales](https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `Rural Data Centers Are in for a Big Federal Tax Break`
+### 🔹 Columna 2: [Los investigadores están rastreando una 'flota de agentes‘ de IA china](https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Researchers are tracking a Chinese AI ‘agent fleet’`
 
-- 📌 **¿Qué sucedió?**: ¡Bienvenido de nuevo a Power Play! Cada semana, la escritora principal Molly Taft aborda un tema en torno al mayor problema de esta temporada intermedia: los centros de datos. Si tienes alguna pregunta o idea para la columna, no dudes en enviarle un correo electrónico a Molly a [email protected] o comunicarte con ellos de forma segura a través de Signal en mollytaft.76.
+- 📌 **¿Qué sucedió?**: Una nueva flota de agentes de IA está haciendo sentir su presencia en Internet. El domingo, un grupo de investigadores independientes publicó hallazgos preliminares sobre los agentes, observando que parecen estar funcionando en la infraestructura de Tencent y apuntando al servicio de mapas de Alibaba, Amap.
 
-- 🔍 **Detalles clave**: El 1 de enero, se generará una nueva ganancia inesperada de impuestos que podría beneficiar a decenas de proyectos de centros de datos rurales, todo gracias a la Ley One Big Beautiful Bill.
+- 🔍 **Detalles clave**: Sin embargo, los investigadores se resistieron al término "enjambre" y señalaron que parece haber poca coordinación entre sus diferentes consultas. "‘Flota de agentes’, no ‘enjambre’", escribió un investigador en el informe preliminar, "muchos agentes paralelos en el mismo tipo de tarea, sin signos de comunicación entre ellos".
 
-- 💡 **Impacto y contexto**: A partir del próximo año, los proyectos ubicados en extensiones de tierra rural en todo el país serán recientemente elegibles para un conjunto de beneficios fiscales corporativos específicos bajo un programa ampliado por el proyecto de ley. Las nuevas reglas "pueden reducir significativamente las barreras para proyectos a gran escala e intensivos en capital en áreas rurales, especialmente los datos a hiperescala
+- 💡 **Impacto y contexto**: Los agentes se descubrieron mediante el monitoreo del tráfico al servicio de escaneo de dominios, URLquery, una técnica que anteriormente revelaba una actividad de larga duración por parte de los agentes de OpenAI. Los agentes de IA a menudo usan URLquery para cargar sitios web a los que no pueden acceder directamente, dejando un registro de sus actividades que puede ser valioso para
 
-🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/)**
-
----
-
-### 🔹 Columna 3: [El TA419 alineado con China apunta a expertos en políticas de IA de EE. UU. con Microsoft AitM Phishing](https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing`
-
-- 📌 **¿Qué sucedió?**: Un nuevo grupo de ciberespionaje de China conocido como TA419 se ha atribuido a múltiples campañas de phishing de credenciales dirigidas a expertos en inteligencia artificial (IA) que trabajan para think tanks, universidades y organizaciones del sector legal de EE. UU.
-
-- 🔍 **Detalles clave**: Las campañas han suplantado a destacados economistas y responsables políticos de IA, así como a un destacado empleado de Anthropic, para seleccionar a un experto en políticas de IA en un grupo de expertos de EE. UU. en febrero de 2026. El correo electrónico de phishing llevaba el asunto "Solicitud de comentarios sobre la integración militar de Claude".
-
-- 💡 **Impacto y contexto**: "Esta actividad probablemente apoya objetivos de inteligencia chinos más amplios para comprender mejor los desarrollos en curso dentro de la política y el panorama regulatorio de la IA de EE. UU. y se produce en medio de una intensa competencia estratégica, acusaciones de destilación de modelos y controles de exportación que involucran a EE. UU. y China", dijo Proofpoint en un comunicado.
-
-🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/)**
 
 ---
 
-### 🔹 Columna 4: [El agente dijo que estaba hecho. La base de datos no está de acuerdo.](https://huggingface.co/blog/microsoft/thinkingbox)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Hugging Face Blog &nbsp;|&nbsp; *Original:* `The Agent Said It Was Done. The Database Disagreed.`
+### 🔹 Columna 3: [Need for Speed: los ataques impulsados por IA están cambiando las estrategias de seguridad](https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** Dark Reading &nbsp;|&nbsp; *Original:* `Need for Speed: AI-Driven Attacks Are Changing Security Strategies`
 
-- 📌 **¿Qué sucedió?**: Figura 1: ThinkingBox ejecuta un agente contra sesiones de herramientas MCP aisladas, luego califica el estado del backend terminal y los efectos secundarios que deja atrás. De nuestro documento ThinkingBox.
+- 📌 **¿Qué sucedió?**: Need for Speed: los ataques impulsados por IA están cambiando las estrategias de seguridad
 
-- 🔍 **Detalles clave**: Este es un blog conjunto de Microsoft y Hugging Face, un agradecimiento especial a Tommy Guy (fundador de Enderis AI, anteriormente Microsoft), Sergio Paniego de Hugging Face y nuestros ex pasantes Zhuochun Li (Universidad de Pittsburgh), Ali Keramati (UC Irvine), Youngmin Ko (Northwestern) por los esfuerzos de coautoría/revisión.
+- 🔍 **Detalles clave**: Los ataques impulsados por IA son rápidos, implacables y automatizados. La forma en que los equipos de seguridad pueden mantenerse al día es lo más importante, según la última encuesta de lectores de Dark Reading.
 
-- 💡 **Impacto y contexto**: Un cliente escribe. Su electrodoméstico de cocina de $ 745 se ha quedado atascado en una "excepción" de mensajería en un centro de distribución de Nashville, quince días después de la fecha de entrega estimada.
+- 💡 **Impacto y contexto**: Las preocupaciones sobre los ataques impulsados por IA son lo más importante para las organizaciones, ya que los equipos de seguridad compiten para mantenerse al día con las amenazas que operan a la velocidad de la máquina.
 
-🔗 **[Ver nota original completa en Hugging Face Blog (inglés) ↗](https://huggingface.co/blog/microsoft/thinkingbox)**
+🔗 **[Ver nota original completa en Dark Reading (inglés) ↗](https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies)**
 
 ---
 
-### 🔹 Columna 5: [Amazon responde a la reacción violenta del centro de datos, dice que ya no usa NDA](https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Amazon responds to data center backlash, says it no longer uses NDAs`
+### 🔹 Columna 4: [El senador Adam Schiff habla sobre la regulación de la IA, la libertad de expresión y el juicio político a Trump una vez más](https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time`
 
-- 📌 **¿Qué sucedió?**: El CEO de Amazon Web Services, Matt Garman, dijo que la compañía ha dejado de usar acuerdos de confidencialidad (NDA) en sus tratos con agencias gubernamentales mientras busca la aprobación para construir nuevos centros de datos.
+- 📌 **¿Qué sucedió?**: Hoy, estoy hablando con el senador Adam Schiff, un demócrata de California. El senador Schiff forma parte de una serie de comités con supervisión en tecnología e inteligencia artificial: propiedad intelectual, antimonopolio, privacidad y tecnología, todo está ahí. Realmente quería preguntarle cómo podríamos regular cualquier cosa relacionada con la industria tecnológica en
 
-- 🔍 **Detalles clave**: La declaración de Garman es solo una oración en una publicación de blog más larga en la que intentó rechazar la sospecha generalizada de los centros de datos y argumentar que en realidad son buenos para las comunidades.
+- 🔍 **Detalles clave**: El senador Adam Schiff habla sobre la regulación de la IA, la libertad de expresión y el juicio político a Trump una vez más
 
-- 💡 **Impacto y contexto**: Las NDA son una parte importante de la reacción más amplia del centro de datos. Por ejemplo, la activista ambiental Erin Brockovich dijo recientemente que la queja número uno que ha escuchado sobre los centros de datos es la transparencia, y estos proyectos siguen un patrón común: "proyectos anunciados después de que los permisos ya están asegurados,
+- 💡 **Impacto y contexto**: El Congreso perdió su oportunidad en las redes sociales. ¿Puede actuar sobre la IA?
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/)**
+🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption)**
+
+---
+
+### 🔹 Columna 5: [Una herramienta de código abierto le permite eliminar 12 GB de datos de Apple Intelligence en macOS](https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `An open-source tool lets you delete 12GB of Apple Intelligence data on macOS`
+
+- 📌 **¿Qué sucedió?**: Obtener algo de espacio de almacenamiento adicional en tu Mac podría ser tan fácil como eliminar las funciones de IA de Apple con una nueva herramienta de línea de comandos de código abierto llamada RemoveMacAI. Solía haber un solo interruptor de configuración para deshabilitar Apple Intelligence, pero se eliminó en macOS 27. Ahora, los modelos permanecen en su disco y las funciones
+
+- 🔍 **Detalles clave**: Una herramienta de código abierto le permite eliminar 12 GB de datos de Apple Intelligence en macOS
+
+- 💡 **Impacto y contexto**: ‘RemoveMacAI’ desactiva las funciones de IA de Apple, elimina sus modelos de IA y evita que se vuelvan a descargar.
+
+🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool)**
 
 ---
 
@@ -90,6 +90,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#19](editions/2026/10/2026-10-05.md) | 2026-10-05 | [Google reduce la recompensa por errores de código abierto...](https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/) | 🛡️ Ciberseguridad |
 | [#18](editions/2026/10/2026-10-04.md) | 2026-10-04 | [Sospechoso de ShinyHunters Rey supuestamente detenido en ...](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html) | 🛡️ Ciberseguridad |
 | [#17](editions/2026/10/2026-10-03.md) | 2026-10-03 | [doxx.net recauda 38 millones de $ para prevenir las desve...](https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/) | 🛡️ Ciberseguridad |
 | [#16](editions/2026/10/2026-10-02.md) | 2026-10-02 | [OpenAI recambia formas con tres investigadores de segurid...](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html) | 🛡️ Ciberseguridad |
@@ -104,9 +105,8 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 | [#7](editions/2026/09/2026-09-23.md) | 2026-09-23 | [Emiratos Árabes Unidos y Arabia Saudí se enfrentan a ataq...](https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks) | 🛡️ Ciberseguridad |
 | [#6](editions/2026/09/2026-09-22.md) | 2026-09-22 | [Vulnerabilidad reciente en el switch ZyXEL explotada por ...](https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/) | 🛡️ Ciberseguridad |
 | [#5](editions/2026/09/2026-09-21.md) | 2026-09-21 | [Miembros del equipo Rust y propietarios de cajas populare...](https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/) | 🛡️ Ciberseguridad |
-| [#4](editions/2026/09/2026-09-20.md) | 2026-09-20 | [[Evento virtual] Ciberseguridad Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027) | 🛡️ Ciberseguridad |
 
-*... y 3 ediciones más en la carpeta `/editions`.*
+*... y 4 ediciones más en la carpeta `/editions`.*
 
 ---
 

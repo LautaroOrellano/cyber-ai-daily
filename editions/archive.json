@@ -276,5 +276,22 @@
       "https://huggingface.co/blog/microsoft/thinkingbox",
       "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
     ]
+  },
+  {
+    "edition": 19,
+    "date": "2026-10-05",
+    "rel_path": "editions/2026/10/2026-10-05.md",
+    "title_en": "Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports",
+    "title_es": "Google reduce la recompensa por errores de código abierto en medio de una ola de informes automatizados no válidos",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/",
+    "story_links": [
+      "https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/",
+      "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+      "https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies",
+      "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+      "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool"
+    ]
   }
 ]
