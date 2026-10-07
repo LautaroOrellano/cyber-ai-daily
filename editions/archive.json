@@ -310,5 +310,22 @@
       "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
       "https://www.securityweek.com/apple-to-tighten-full-disk-access-controls-in-macos-amid-ai-risks/"
     ]
+  },
+  {
+    "edition": 21,
+    "date": "2026-10-07",
+    "rel_path": "editions/2026/10/2026-10-07.md",
+    "title_en": "Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform",
+    "title_es": "Hadrian recauda $ 40 millones para expandir la plataforma de seguridad ofensiva autónoma",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/",
+    "story_links": [
+      "https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/",
+      "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/",
+      "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+      "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html"
+    ]
   }
 ]
