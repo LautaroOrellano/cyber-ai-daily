@@ -327,5 +327,22 @@
       "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
       "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html"
     ]
+  },
+  {
+    "edition": 22,
+    "date": "2026-10-08",
+    "rel_path": "editions/2026/10/2026-10-08.md",
+    "title_en": "US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward",
+    "title_es": "Estados Unidos busca a un presunto hacker chino de hafnio con una recompensa de $ 10 millones",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/",
+    "story_links": [
+      "https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/",
+      "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+      "https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/",
+      "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+      "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter"
+    ]
   }
 ]

@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 21** — *Miércoles, 7 de Octubre de 2026*
+> **📅 Edición de Hoy: N° 22** — *Jueves, 8 de Octubre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_21-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_22-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,70 +17,70 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [Hadrian recauda $ 40 millones para expandir la plataforma de seguridad ofensiva autónoma](https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform`
+### 📌 [Estados Unidos busca a un presunto hacker chino de hafnio con una recompensa de $ 10 millones](https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward`
 
-- 📌 **¿Qué sucedió?**: Los atacantes utilizan la IA para localizar y explotar vulnerabilidades a la velocidad de la máquina; Hadrian ofrece una plataforma de seguridad ofensiva auténtica que permite a los defensores operar a la misma velocidad.
+- 📌 **¿Qué sucedió?**: El Departamento de Estado de Estados Unidos ofrece hasta 10 millones de $ por información sobre Zhang Yu, un ciudadano chino acusado de participar en la campaña Hafnium contra los servidores de Microsoft Exchange.
 
-- 🔍 **Detalles clave**: Hadrian, con sede en Ámsterdam, ha recaudado $ 40 millones adicionales en una ronda de Serie B, para llevar su financiación total a $ 65 millones. La nueva financiación fue codirigida por Forgepoint Capital International y SmartFin, con la participación de los inversores existentes HV Capital, Motive Partners, Picus Capital y Oetker Ventures.
+- 🔍 **Detalles clave**: El programa de Recompensas por la Justicia (RFJ, por sus siglas en inglés) del Departamento de Estado anunció la recompensa el miércoles. Zhang está acusado junto con Xu Zewei, quien fue extraditado de Italia a los Estados Unidos en abril de 2026.
 
-- 💡 **Impacto y contexto**: Este nuevo capital se utilizará para financiar la expansión en EMEA y EE. UU., Y profundizar la inversión en los equipos de ingeniería e investigación de la empresa.
+- 💡 **Impacto y contexto**: Según RFJ, Zhang es director de Shanghai Firetech Information Science and Technology Company. Supuestamente trabajó en nombre de la Oficina de Seguridad del Estado de Shanghai (SSSB), parte del Ministerio de Seguridad del Estado de China (MSS).
 
-👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/)**
+👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Una familia de modelos, dos resultados de nivel dorado: nemotrón de ajuste fino para IOI e IMO](https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Hugging Face Blog &nbsp;|&nbsp; *Original:* `One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO`
+### 🔹 Columna 2: [Google lanza un nuevo competidor local de Granola](https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Google releases a new local-first Granola competitor`
 
-- 📌 **¿Qué sucedió?**: Una familia de modelos, dos resultados de nivel dorado: nemotrón de ajuste fino para IOI e IMO
+- 📌 **¿Qué sucedió?**: A principios de abril, Google lanzó una herramienta de dictado impulsada por IA que funcionaba con modelos locales. Ahora, el mismo equipo ha lanzado un nuevo competidor para el tomador de notas de IA Granola y otros, al que llama Google AI Edge Foresight.
 
-- 🔍 **Detalles clave**: Nuestros resultados recientes muestran que Nemotron es una base sólida y adaptable para construir modelos especializados de clase mundial. A partir de Nemotron 3, nuestros equipos utilizaron el ajuste fino supervisado (SFT), el aprendizaje por refuerzo (RL) y la inferencia basada en la retroalimentación para crear sistemas que alcanzaron el nivel de medalla de oro tanto en IMO 2026 como en IOI
+- 🔍 **Detalles clave**: La aplicación Mac puede funcionar completamente sin conexión, utilizando el modelo EmbeddingGemma 2 en el dispositivo, con 740 millones de parámetros, para capturar notas de reuniones en todas las aplicaciones, incluidas las de reuniones en persona.
 
-- 💡 **Impacto y contexto**: El resultado del IOI provino de una ejecución en vivo y prospectiva bajo las mismas limitaciones de tiempo, acceso a Internet y presentación que los concursantes humanos. Era un punto de referencia no oficial y no supervisado y no estaba incluido en el ranking oficial del IOI. Las pruebas presentadas por el sistema de la OMI fueron calificadas por los clasificadores oficiales de la OMI.
+- 💡 **Impacto y contexto**: La aplicación es similar al popular tomador de notas AI Granola porque tiene una vista de pantalla dividida con la capacidad de escribir notas abreviadas en un lado y notas generadas por AI en el otro lado.
 
-🔗 **[Ver nota original completa en Hugging Face Blog (inglés) ↗](https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026)**
-
----
-
-### 🔹 Columna 3: [Advantest revela una filtración de datos meses después del ataque de ransomware](https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Advantest Discloses Data Breach Months After Ransomware Attack`
-
-- 📌 **¿Qué sucedió?**: El gigante japonés de pruebas de chips Advantest informa a las personas que los piratas informáticos robaron información personal en el ataque de ransomware revelado en febrero de 2026.
-
-- 🔍 **Detalles clave**: Advantest, que fabrica equipos de prueba automáticos para fabricantes de chips como Intel y Samsung, dijo en febrero que los piratas informáticos habían violado su red y desplegado ransomware.
-
-- 💡 **Impacto y contexto**: En ese momento, todavía estaba trabajando para determinar si se había exfiltrado alguna información confidencial.
-
-🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/)**
 
 ---
 
-### 🔹 Columna 4: [La IA podría poner patas arriba la entrega de comida](https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `AI could upend food delivery`
+### 🔹 Columna 3: [Vulnerabilidades críticas de SonicWall y Splunk Patch](https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `SonicWall and Splunk Patch Critical Vulnerabilities`
 
-- 📌 **¿Qué sucedió?**: DoorDash, la aplicación líder de entrega de alimentos, procesó 970 millones de pedidos en su segundo trimestre de este año y generó $ 4,5 mil millones en ingresos. Una startup de 10 personas llamada Bites es un punto débil en comparación: tiene solo alrededor de 300 restaurantes inscritos en el Área de la Bahía, donde opera como una startup pre-semilla. Pero esto
+- 📌 **¿Qué sucedió?**: Splunk y SonicWall anunciaron el miércoles parches para múltiples vulnerabilidades críticas y de alta gravedad en sus productos, incluidas fallas que podrían conducir a la ejecución de código arbitrario.
 
-- 🔍 **Detalles clave**: Las apps de entrega a domicilio como DoorDash y Uber Eats han cambiado la forma de comer de los comensales y el funcionamiento de los restaurantes. La IA podría forzar un nuevo tipo de ajuste de cuentas para la industria.
+- 🔍 **Detalles clave**: SonicWall implementó correcciones para cuatro vulnerabilidades en sus dispositivos SMA1000, instando a los usuarios a actualizar a las versiones 12.5.0-03082 y 12.4.3-03670 lo antes posible.
 
-- 💡 **Impacto y contexto**: En agosto, una gran cantidad de restaurantes en el Área de la Bahía recibieron un extraño correo electrónico de DoorDash, advirtiendo a las empresas que podrían aparecer en la lista sin su consentimiento en Bites.
+- 💡 **Impacto y contexto**: El más grave de los problemas, rastreado como CVE-2026-102255 (puntuación CVSS de 10), es un error SSRF preautenticado que existe debido a una ruta de acceso alternativa no deseada.
 
-🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites)**
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/)**
 
 ---
 
-### 🔹 Columna 5: [La sexta voz de los datos del CISO muestra que el riesgo cibernético se ha movido dentro del flujo de trabajo](https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow`
+### 🔹 Columna 4: [Manus de China recauda más de 500 MILLONES de $ en su primera ronda de financiación desde que se separó de Meta](https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `China’s Manus raises over $500M in first funding round since split with Meta`
 
-- 📌 **¿Qué sucedió?**: Los resultados de 2026 no son solo un cambio año tras año. Marcan el último punto en un arco de cinco años donde la resiliencia, la gobernanza de la IA, el riesgo humano y el escrutinio de la junta convergen dentro de los sistemas donde el trabajo realmente ocurre.
+- 📌 **¿Qué sucedió?**: La empresa matriz del laboratorio chino de inteligencia artificial Manus, Butterfly Effect, dijo el jueves en una publicación de WeChat que ha recaudado más de $ 500 millones, la primera ronda de financiación de la compañía desde que Meta se vio obligada a cancelar su adquisición de la startup por $ 2 mil millones.
 
-- 🔍 **Detalles clave**: Durante años, la historia de la ciberseguridad empresarial se ha contado como una línea recta de escalada: más ataques, más pérdida de datos, más presión y más urgencia. Esa narrativa todavía es familiar, pero comparar los cinco años más recientes de investigación de la Voz del CISO sugiere una lectura más útil. El rol de CISO no ha
+- 🔍 **Detalles clave**: Boyu Capital e IDG Capital lideraron la ronda de financiación, y los accionistas existentes Tencent, HSG (anteriormente conocida como Sequoia China), ZhenFund y otros también participaron. La compañía de IA dijo que continuará contratando tanto en el país como en el extranjero.
 
-- 💡 **Impacto y contexto**: Los últimos hallazgos de 2026 muestran signos de progreso. Menos CISO esperan un ciberataque material en los próximos 12 meses, y menos informan de la pérdida material de información sensible que en 2025. Pero esas mejoras se encuentran dentro de una línea de tendencia más larga que está mucho menos establecida. En cinco años, las expectativas de ataque han aumentado,
+- 💡 **Impacto y contexto**: Manus no reveló su valoración, pero el mes pasado se dijo que estaba en conversaciones con inversores para recaudar $ 500 millones con una valoración de $ 4 mil millones.
 
-🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/)**
+
+---
+
+### 🔹 Columna 5: [Escribiendo el siguiente capítulo](https://www.darkreading.com/cybersecurity-operations/writing-next-chapter)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** Dark Reading &nbsp;|&nbsp; *Original:* `Writing the Next Chapter`
+
+- 📌 **¿Qué sucedió?**: Dark Reading está a punto de comenzar una nueva década en su historia, y tenemos algunas noticias de última hora para compartir.
+
+- 🔍 **Detalles clave**: Una de mis tareas favoritas en Dark Reading, cuando me uní por primera vez al sitio de medios recién lanzado en 2006, fue entrevistar y escribir historias de perfil humano sobre pioneros de la industria de la ciberseguridad. Aunque ya había estado cubriendo la industria durante algunos años, esto representaba una oportunidad única para rastrear las raíces de su
+
+- 💡 **Impacto y contexto**: Celebrar el vigésimo aniversario de Dark Reading este año, con todo el contenido retrospectivo y con visión de futuro que produjo el equipo, me dio la oportunidad de contemplar cómo podría ser la próxima década para la ciberseguridad, para Dark Reading y para mi carrera. Dark Reading ha crecido mucho desde nuestros días como
+
+🔗 **[Ver nota original completa en Dark Reading (inglés) ↗](https://www.darkreading.com/cybersecurity-operations/writing-next-chapter)**
 
 ---
 
@@ -90,6 +90,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#22](editions/2026/10/2026-10-08.md) | 2026-10-08 | [Estados Unidos busca a un presunto hacker chino de hafnio...](https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/) | 🛡️ Ciberseguridad |
 | [#21](editions/2026/10/2026-10-07.md) | 2026-10-07 | [Hadrian recauda $ 40 millones para expandir la plataforma...](https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/) | 🛡️ Ciberseguridad |
 | [#20](editions/2026/10/2026-10-06.md) | 2026-10-06 | [El FBI arresta al desarrollador ‘más buscado’ del malware...](https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/) | 🛡️ Ciberseguridad |
 | [#19](editions/2026/10/2026-10-05.md) | 2026-10-05 | [Google reduce la recompensa por errores de código abierto...](https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/) | 🛡️ Ciberseguridad |
@@ -104,9 +105,8 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 | [#10](editions/2026/09/2026-09-26.md) | 2026-09-26 | [OpenAI dice que sus modelos se comprometieron con los sit...](https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/) | 🛡️ Ciberseguridad |
 | [#9](editions/2026/09/2026-09-25.md) | 2026-09-25 | [Los sistemas de notificación de archivos de Windows, Linu...](https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/) | 🛡️ Ciberseguridad |
 | [#8](editions/2026/09/2026-09-24.md) | 2026-09-24 | [Island recauda $ 400 millones con una valoración de $ 6.4...](https://www.securityweek.com/island-raises-400-million-at-6-4-billion-valuation/) | 🛡️ Ciberseguridad |
-| [#7](editions/2026/09/2026-09-23.md) | 2026-09-23 | [Emiratos Árabes Unidos y Arabia Saudí se enfrentan a ataq...](https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks) | 🛡️ Ciberseguridad |
 
-*... y 6 ediciones más en la carpeta `/editions`.*
+*... y 7 ediciones más en la carpeta `/editions`.*
 
 ---
 
