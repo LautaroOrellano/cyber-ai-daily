@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 22** — *Jueves, 8 de Octubre de 2026*
+> **📅 Edición de Hoy: N° 23** — *Viernes, 9 de Octubre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_22-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_23-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,70 +17,70 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [Estados Unidos busca a un presunto hacker chino de hafnio con una recompensa de $ 10 millones](https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward`
+### 📌 [Agentes de IA de ingeniería social: el nuevo BEC para 2026](https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** Dark Reading &nbsp;|&nbsp; *Original:* `Social Engineering AI Agents: The New BEC for 2026`
 
-- 📌 **¿Qué sucedió?**: El Departamento de Estado de Estados Unidos ofrece hasta 10 millones de $ por información sobre Zhang Yu, un ciudadano chino acusado de participar en la campaña Hafnium contra los servidores de Microsoft Exchange.
+- 📌 **¿Qué sucedió?**: A medida que los agentes de IA ganan autoridad sobre los sistemas empresariales, los atacantes pueden manipularlos como víctimas del compromiso del correo electrónico empresarial (BEC).
 
-- 🔍 **Detalles clave**: El programa de Recompensas por la Justicia (RFJ, por sus siglas en inglés) del Departamento de Estado anunció la recompensa el miércoles. Zhang está acusado junto con Xu Zewei, quien fue extraditado de Italia a los Estados Unidos en abril de 2026.
+- 🔍 **Detalles clave**: El Mes de Concientización sobre la Ciberseguridad se centra tradicionalmente en enseñar a los empleados cómo reconocer los esfuerzos de ingeniería social y cómo evitar las consecuencias asociadas con el compromiso del correo electrónico empresarial (BEC). Pero a medida que las empresas otorgan a los agentes de IA la autoridad para interactuar con los sistemas comerciales, los actores de amenazas pueden atacar a los agentes de IA y
 
-- 💡 **Impacto y contexto**: Según RFJ, Zhang es director de Shanghai Firetech Information Science and Technology Company. Supuestamente trabajó en nombre de la Oficina de Seguridad del Estado de Shanghai (SSSB), parte del Ministerio de Seguridad del Estado de China (MSS).
+- 💡 **Impacto y contexto**: Considere un escenario BEC clásico: un empleado de cuentas por pagar recibe lo que parece ser un mensaje legítimo de un proveedor que dice que su información bancaria ha cambiado. El empleado cree en la solicitud y, utilizando su propio acceso legítimo, redirige un pago futuro a una cuenta controlada por el atacante. El atacante
 
-👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/)**
+👉 **[Ver nota original completa en Dark Reading (inglés) ↗](https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Google lanza un nuevo competidor local de Granola](https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Google releases a new local-first Granola competitor`
+### 🔹 Columna 2: [Incluso la ‘Ley y el Orden’ está aterrorizada por la IA](https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `Even ‘Law & Order’ Is Terrified of AI`
 
-- 📌 **¿Qué sucedió?**: A principios de abril, Google lanzó una herramienta de dictado impulsada por IA que funcionaba con modelos locales. Ahora, el mismo equipo ha lanzado un nuevo competidor para el tomador de notas de IA Granola y otros, al que llama Google AI Edge Foresight.
+- 📌 **¿Qué sucedió?**: Los fanáticos desde hace mucho tiempo del procedimiento de NBC Law & Order saben que las historias a menudo se centran en temas candentes en el ciclo de noticias, a menudo con un efecto absurdo (ver: el episodio lo suficientemente valiente como para preguntar: "¿Y si Paula Deen disparó a Trayvon Martin?").
 
-- 🔍 **Detalles clave**: La aplicación Mac puede funcionar completamente sin conexión, utilizando el modelo EmbeddingGemma 2 en el dispositivo, con 740 millones de parámetros, para capturar notas de reuniones en todas las aplicaciones, incluidas las de reuniones en persona.
+- 🔍 **Detalles clave**: Era inevitable, entonces, que la franquicia se metiera de lleno en el loco mundo de la inteligencia artificial. Con su cultura mercenaria, sus CEO hambrientos de poder y sus enormes implicaciones éticas y filosóficas, la industria de la IA en rápida evolución es el forraje ideal para la serie. Pero mientras que la apertura de la temporada de esta semana es
 
-- 💡 **Impacto y contexto**: La aplicación es similar al popular tomador de notas AI Granola porque tiene una vista de pantalla dividida con la capacidad de escribir notas abreviadas en un lado y notas generadas por AI en el otro lado.
+- 💡 **Impacto y contexto**: El episodio, titulado "Ghost in the Machine", se abre de la manera típica de L&O con un asesinato. Esta vez, se trata de Steve Kelly, un hombre identificado por los detectives Theo Walker (David Ajala) y Vincent Riley (Reid Scott) como ingeniero de alto rango en una empresa llamada Advanced Alignment. En todo momento, los detectives parecen completamente perplejos por
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/)**
-
----
-
-### 🔹 Columna 3: [Vulnerabilidades críticas de SonicWall y Splunk Patch](https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `SonicWall and Splunk Patch Critical Vulnerabilities`
-
-- 📌 **¿Qué sucedió?**: Splunk y SonicWall anunciaron el miércoles parches para múltiples vulnerabilidades críticas y de alta gravedad en sus productos, incluidas fallas que podrían conducir a la ejecución de código arbitrario.
-
-- 🔍 **Detalles clave**: SonicWall implementó correcciones para cuatro vulnerabilidades en sus dispositivos SMA1000, instando a los usuarios a actualizar a las versiones 12.5.0-03082 y 12.4.3-03670 lo antes posible.
-
-- 💡 **Impacto y contexto**: El más grave de los problemas, rastreado como CVE-2026-102255 (puntuación CVSS de 10), es un error SSRF preautenticado que existe debido a una ruta de acceso alternativa no deseada.
-
-🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/)**
+🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/)**
 
 ---
 
-### 🔹 Columna 4: [Manus de China recauda más de 500 MILLONES de $ en su primera ronda de financiación desde que se separó de Meta](https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `China’s Manus raises over $500M in first funding round since split with Meta`
+### 🔹 Columna 3: [El tifón de lino explota cinco defectos mientras CISA establece la fecha límite del 11 de octubre para las agencias federales](https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies`
 
-- 📌 **¿Qué sucedió?**: La empresa matriz del laboratorio chino de inteligencia artificial Manus, Butterfly Effect, dijo el jueves en una publicación de WeChat que ha recaudado más de $ 500 millones, la primera ronda de financiación de la compañía desde que Meta se vio obligada a cancelar su adquisición de la startup por $ 2 mil millones.
+- 📌 **¿Qué sucedió?**: La Agencia de Seguridad de Ciberseguridad e Infraestructura de EE. UU. (CISA, por sus siglas en inglés) agregó el jueves cinco fallas de seguridad a su catálogo de Vulnerabilidades Explotadas Conocidas (KEV, por sus siglas en inglés), luego de su abuso por parte de un actor de amenazas vinculado a China conocido como Flax Typhoon.
 
-- 🔍 **Detalles clave**: Boyu Capital e IDG Capital lideraron la ronda de financiación, y los accionistas existentes Tencent, HSG (anteriormente conocida como Sequoia China), ZhenFund y otros también participaron. La compañía de IA dijo que continuará contratando tanto en el país como en el extranjero.
+- 🔍 **Detalles clave**: - CVE-2015-3306 (puntuación CVSS: 10.0) - Una vulnerabilidad de control de acceso incorrecto en ProFTPD que podría permitir a atacantes remotos leer y escribir en archivos arbitrarios a través de los comandos site cpfr y site cpto.
 
-- 💡 **Impacto y contexto**: Manus no reveló su valoración, pero el mes pasado se dijo que estaba en conversaciones con inversores para recaudar $ 500 millones con una valoración de $ 4 mil millones.
+- 💡 **Impacto y contexto**: - CVE-2021-3199 (puntuación CVSS: 9.8) - Una vulnerabilidad de salto de ruta en ONLYOFFICE Docs que puede ocurrir cuando se utiliza JSON Web Token (JWT), a través de una secuencia "/.." en un parámetro de carga de imágenes y podría permitir la ejecución remota de código.
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/)**
+🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html)**
 
 ---
 
-### 🔹 Columna 5: [Escribiendo el siguiente capítulo](https://www.darkreading.com/cybersecurity-operations/writing-next-chapter)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** Dark Reading &nbsp;|&nbsp; *Original:* `Writing the Next Chapter`
+### 🔹 Columna 4: [OpenAI refuerza su decisión de despedir a tres investigadores de seguridad de IA](https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `OpenAI doubles down on decision to fire three AI safety researchers`
 
-- 📌 **¿Qué sucedió?**: Dark Reading está a punto de comenzar una nueva década en su historia, y tenemos algunas noticias de última hora para compartir.
+- 📌 **¿Qué sucedió?**: OpenAI se mantiene firme en su decisión de despedir a tres investigadores de seguridad después de que una investigación descubriera que cometieron "un abuso de confianza significativo".
 
-- 🔍 **Detalles clave**: Una de mis tareas favoritas en Dark Reading, cuando me uní por primera vez al sitio de medios recién lanzado en 2006, fue entrevistar y escribir historias de perfil humano sobre pioneros de la industria de la ciberseguridad. Aunque ya había estado cubriendo la industria durante algunos años, esto representaba una oportunidad única para rastrear las raíces de su
+- 🔍 **Detalles clave**: OpenAI refuerza su decisión de despedir a tres investigadores de seguridad de IA
 
-- 💡 **Impacto y contexto**: Celebrar el vigésimo aniversario de Dark Reading este año, con todo el contenido retrospectivo y con visión de futuro que produjo el equipo, me dio la oportunidad de contemplar cómo podría ser la próxima década para la ciberseguridad, para Dark Reading y para mi carrera. Dark Reading ha crecido mucho desde nuestros días como
+- 💡 **Impacto y contexto**: El laboratorio de IA insistió en que la decisión se trataba de un "abuso de confianza", no de problemas de seguridad.
 
-🔗 **[Ver nota original completa en Dark Reading (inglés) ↗](https://www.darkreading.com/cybersecurity-operations/writing-next-chapter)**
+🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers)**
+
+---
+
+### 🔹 Columna 5: [En otras noticias: IA utilizada en infracciones bancarias coreanas, botnet guiada por poemas, administración de Empire cumple 40 años](https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years`
+
+- 📌 **¿Qué sucedió?**: El resumen semanal de noticias de ciberseguridad de SecurityWeek ofrece una descripción concisa de los desarrollos importantes que pueden no recibir una cobertura independiente completa pero que siguen siendo relevantes para el panorama de amenazas en general.
+
+- 🔍 **Detalles clave**: Este resumen seleccionado destaca historias clave sobre divulgaciones de vulnerabilidades, métodos de ataque emergentes, actualizaciones de políticas, informes de la industria y otros eventos notables para ayudar a los lectores a mantenerse bien informados sobre el entorno de ciberseguridad en evolución.
+
+- 💡 **Impacto y contexto**: Black Lotus Labs ha detallado PoeLLM, un malware activo desde al menos abril de 2026 que apunta a la IA expuesta y a los servicios de código abierto (principalmente LiteLLM, Ollama, Gotenberg y Gitea) para extraer criptomonedas y expandir su botnet. Las máquinas infectadas extraen cuatro palabras clave de un poema alojado en GitHub y las convierten en IP
+
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/)**
 
 ---
 
@@ -90,6 +90,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#23](editions/2026/10/2026-10-09.md) | 2026-10-09 | [Agentes de IA de ingeniería social: el nuevo BEC para 2026](https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026) | 🛡️ Ciberseguridad |
 | [#22](editions/2026/10/2026-10-08.md) | 2026-10-08 | [Estados Unidos busca a un presunto hacker chino de hafnio...](https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/) | 🛡️ Ciberseguridad |
 | [#21](editions/2026/10/2026-10-07.md) | 2026-10-07 | [Hadrian recauda $ 40 millones para expandir la plataforma...](https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/) | 🛡️ Ciberseguridad |
 | [#20](editions/2026/10/2026-10-06.md) | 2026-10-06 | [El FBI arresta al desarrollador ‘más buscado’ del malware...](https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/) | 🛡️ Ciberseguridad |
@@ -104,9 +105,8 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 | [#11](editions/2026/09/2026-09-27.md) | 2026-09-27 | [Vulnerabilidad de Microsoft SharePoint CVE-2026-65660 aho...](https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/) | 🛡️ Ciberseguridad |
 | [#10](editions/2026/09/2026-09-26.md) | 2026-09-26 | [OpenAI dice que sus modelos se comprometieron con los sit...](https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/) | 🛡️ Ciberseguridad |
 | [#9](editions/2026/09/2026-09-25.md) | 2026-09-25 | [Los sistemas de notificación de archivos de Windows, Linu...](https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/) | 🛡️ Ciberseguridad |
-| [#8](editions/2026/09/2026-09-24.md) | 2026-09-24 | [Island recauda $ 400 millones con una valoración de $ 6.4...](https://www.securityweek.com/island-raises-400-million-at-6-4-billion-valuation/) | 🛡️ Ciberseguridad |
 
-*... y 7 ediciones más en la carpeta `/editions`.*
+*... y 8 ediciones más en la carpeta `/editions`.*
 
 ---
 

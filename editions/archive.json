@@ -344,5 +344,22 @@
       "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
       "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter"
     ]
+  },
+  {
+    "edition": 23,
+    "date": "2026-10-09",
+    "rel_path": "editions/2026/10/2026-10-09.md",
+    "title_en": "Social Engineering AI Agents: The New BEC for 2026",
+    "title_es": "Agentes de IA de ingeniería social: el nuevo BEC para 2026",
+    "category": "cyber",
+    "source": "Dark Reading",
+    "lead_link": "https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026",
+    "story_links": [
+      "https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026",
+      "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+      "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
+      "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/"
+    ]
   }
 ]
