@@ -361,5 +361,22 @@
       "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
       "https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/"
     ]
+  },
+  {
+    "edition": 24,
+    "date": "2026-10-10",
+    "rel_path": "editions/2026/10/2026-10-10.md",
+    "title_en": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+    "title_es": "El problema de los agentes de terceros: por qué la seguridad creada para la IA que eligió echa de menos a los agentes que no eligió",
+    "category": "cyber",
+    "source": "The Hacker News",
+    "lead_link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+    "story_links": [
+      "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+      "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+      "https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/",
+      "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html"
+    ]
   }
 ]
