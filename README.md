@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #24** — *Saturday, October 10, 2026*
+> **📅 Today's Edition: Issue #25** — *Sunday, October 11, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2324-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2325-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,135 +17,135 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html)
+### 📌 [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
 
-- 📌 **What happened?**: In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity infrastructure by default, not because anyone hid them, but because an identity stack can only govern what...
+- 📌 **What happened?**: Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword.
 
-- 🔍 **Key details**: That gap is the clearest expression of a shift the security industry is only starting to name. For several years, "AI security" solved a first-party problem: the company decided to use AI, procured licenses, deployed a model behind a gateway, and security pointed controls at the thing the business had chosen. Agents...
+- 🔍 **Key details**: "Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication with the attacker's infrastructure," iVerify said in a new report published Thursday.
 
-- 💡 **Context & Impact**: Every control in the first-party toolkit assumes a moment exists: model scanning assumes a model was selected, prompt inspection assumes a gateway was deployed, an acceptable-use policy assumes there was an adoption to accept. That moment gave security a review, a surface to instrument, and an owner to name.
+- 💡 **Context & Impact**: The name "P7" is a nod to the threat actor's use of the "p7_" variable prefix in changes made to the original DarkSword code.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *El problema de los agentes de terceros: por qué la seguridad creada para la IA que eligió echa de menos a los agentes que no eligió*
+> **Título en español:** *P7 DarkSword iOS Exploit Kit añade robo de datos de billetera criptográfica y comandos remotos*
 
-- 📌 **¿Qué sucedió?**: En los entornos estudiados para el Informe de seguridad del estado del agente de 2026, aproximadamente 1280 productos de terceros ahora incorporan IA. Alrededor de 282 de ellos se sientan detrás del inicio de sesión único. Los otros mil son invisibles para la infraestructura de identidad por defecto, no porque alguien los haya ocultado, sino porque una pila de identidades solo puede gobernar lo que
+- 📌 **¿Qué sucedió?**: Los investigadores de ciberseguridad han revelado detalles de una variante nunca antes vista del kit de explotación de DarkSword iOS llamada P7 DarkSword.
 
-- 🔍 **Detalles clave**: Esa brecha es la expresión más clara de un cambio que la industria de la seguridad apenas está comenzando a nombrar. Durante varios años, la "seguridad de la IA" resolvió un problema de primera mano: la empresa decidió usar la IA, adquirió licencias, implementó un modelo detrás de una puerta de enlace y los controles de seguridad apuntaron a lo que la empresa había elegido.
+- 🔍 **Detalles clave**: "En comparación con las variantes que solemos observar, P7 reduce su huella en el dispositivo, añade robo de llavero y billetera criptográfica en el dispositivo y añade comunicación C2 bidireccional con la infraestructura del atacante", dijo iVerify en un nuevo informe publicado el jueves.
 
-- 💡 **Impacto y contexto**: Cada control en el kit de herramientas de primera parte asume que existe un momento: el escaneo del modelo asume que se seleccionó un modelo, la inspección inmediata asume que se implementó una puerta de enlace, una política de uso aceptable asume que hubo una adopción para aceptar. Ese momento le dio a la seguridad una revisión, una superficie para instrumentar y un propietario para nombrar.
+- 💡 **Impacto y contexto**: El nombre "P7" es un guiño al uso por parte del actor de amenazas del prefijo de la variable "p7_" en los cambios realizados en el código original de DarkSword.
 
 </details>
 
-👉 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html)**
+👉 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html)**
 
 ---
 
 ## 📰 TOP HIGHLIGHTS (4 Stories)
 
-### 🔹 Column 2: [AI Is Getting Really Good at Messing With Cybercriminals](https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/)
+### 🔹 Column 2: [I Made Terrible Games With Google’s AI Playground](https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/)
 > **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
 
-- 📌 **What happened?**: Even as AI supercharges digital scamming and cybercrime, it’s also being recruited in the fight to protect potential victims. Governments around the world have consistently struggled to address the global crisis of online crime, grappling with the limitations of attempting to crack down on criminals beyond their...
+- 📌 **What happened?**: Neon Don is really pissed at his ex-wife’s lawyer. He’ll tell you any chance he gets while he shotguns lines of pixelated bad guys. He’s also not real—his likeness has only existed for a few minutes in a top-down cyberpunk-style shooter game, generated in the Google Labs service, Playground.
 
-- 🔍 **Key details**: For the last two years, the Australian company Apate, named after the Greek goddess of deception, has been building a system that diverts phone scammers onto calls with AI bots that are trained to keep conversations going as long as possible without, of course, ever actually falling for the scam. The goal is to give...
+- 🔍 **Key details**: “Keep shooting!” Neon Don says as he mows enemies down. “Brenda took everything else away!”
 
-- 💡 **Context & Impact**: “What we really like to think is that we’re building the perfect victims for scammers,” Dali Kaafar, the founder and CEO of Apate, tells us. “A minute that a scammer is talking to a bot or an agent is a minute where you’re probably saving hundreds, if not thousands of possible people being reached out to by that exact...
+- 💡 **Context & Impact**: Playground, which Google launched this week, is part of Google Labs, the company’s landing page for its various AI experiments that haven’t made it into an app or official service quite yet. (Google has done this before with things like music production). It works similarly to Horizon Create, the game generation...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *La IA se está volviendo muy buena para meterse con los ciberdelincuentes*
+> **Título en español:** *Hice juegos terribles con el patio de recreo de IA de Google*
 
-- 📌 **¿Qué sucedió?**: A pesar de que la IA potencia la estafa digital y el cibercrimen, también se está reclutando en la lucha para proteger a las víctimas potenciales. Los gobiernos de todo el mundo han luchado constantemente para abordar la crisis mundial de la delincuencia en línea, lidiando con las limitaciones de intentar reprimir a los delincuentes más allá de sus
+- 📌 **¿Qué sucedió?**: Neon Don está realmente enojado con el abogado de su ex esposa. Te dirá cualquier posibilidad que tenga mientras dispara líneas de tipos malos pixelados. Tampoco es real: su imagen solo ha existido durante unos minutos en un juego de disparos de estilo cyberpunk de arriba hacia abajo, generado en el servicio Google Labs, Playground.
 
-- 🔍 **Detalles clave**: Durante los últimos dos años, la empresa australiana Apate, que lleva el nombre de la diosa griega del engaño, ha estado construyendo un sistema que desvía a los estafadores telefónicos a llamadas con robots de IA que están entrenados para mantener conversaciones el mayor tiempo posible sin, por supuesto, caer en la estafa. El objetivo es dar
+- 🔍 **Detalles clave**: - ¡Sigue disparando! -dice Neon Don mientras corta a los enemigos. "¡Brenda se llevó todo lo demás!"
 
-- 💡 **Impacto y contexto**: "Lo que realmente nos gusta pensar es que estamos construyendo las víctimas perfectas para los estafadores", nos dice Dali Kaafar, fundador y CEO de Apate. "Un minuto en el que un estafador está hablando con un bot o un agente es un minuto en el que probablemente esté ahorrando cientos, si no miles, de posibles personas contactadas por ese
+- 💡 **Impacto y contexto**: Playground, que Google lanzó esta semana, es parte de Google Labs, la página de inicio de la compañía para sus diversos experimentos de IA que aún no se han convertido en una aplicación o servicio oficial. (Google ha hecho esto antes con cosas como la producción musical). Funciona de manera similar a Horizon Create, la generación de juegos
 
 </details>
 
-🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/)**
+🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/)**
 
 ---
 
-### 🔹 Column 3: [Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison](https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
+### 🔹 Column 3: [Canadian cybersecurity executive arrested in federal extortion case](https://cyberscoop.com/edward-dubrovsky-cypfer-arrested-fbi-extortion-charges/)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** CyberScoop
 
-- 📌 **What happened?**: A Kansas City, Missouri man has been sentenced to 32 months in jail for crimes related to a ransom attack against his own company.
+- 📌 **What happened?**: Canadian cybersecurity executive arrested in federal extortion case
 
-- 🔍 **Key details**: The DOJ has announced the sentencing of Daniel Rhyne. He had already pleaded guilty to ‘extortion in relation to a threat to cause damage to a protected computer’ and ‘intentional damage to a protected computer’.
+- 🔍 **Key details**: Federal authorities arrested a Canadian cybersecurity executive Thursday in Pennsylvania on charges of conspiracy of extortion, according to federal court records posted Friday.
 
-- 💡 **Context & Impact**: Fifty-nine-year-old Rhyne had been a core infrastructure engineer at an industrial firm headquartered in Somerset County, New Jersey. The firm provides services to industries involved in aquaculture, biopharmaceuticals, chemistry, electronics, food and beverage, healthcare, hydrogen mobility, manufacturing and...
+- 💡 **Context & Impact**: Edward Dubrovsky, 54, is a former chief operating officer and founder of CYPFER, a firm that helps organizations negotiate with ransomware operators. He is charged with conspiring to threaten the confidentiality of information in order to extort money, a violation of federal computer fraud law, and with conspiring to...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Conspiración de extorsión cibernética contra un ingeniero de tierras de una empresa industrial en prisión*
+> **Título en español:** *Detenido un ejecutivo canadiense de ciberseguridad en un caso federal de extorsión*
 
-- 📌 **¿Qué sucedió?**: Un hombre de Kansas City, Missouri, ha sido condenado a 32 meses de cárcel por delitos relacionados con un ataque de rescate contra su propia empresa.
+- 📌 **¿Qué sucedió?**: Detenido un ejecutivo canadiense de ciberseguridad en un caso federal de extorsión
 
-- 🔍 **Detalles clave**: El Departamento de Justicia ha anunciado la sentencia de Daniel Rhyne. Ya se había declarado culpable de "extorsión en relación con una amenaza de causar daños a un ordenador protegido" y "daños intencionales a un ordenador protegido".
+- 🔍 **Detalles clave**: Las autoridades federales arrestaron a un ejecutivo canadiense de ciberseguridad el jueves en Pensilvania por cargos de conspiración de extorsión, según los registros judiciales federales publicados el viernes.
 
-- 💡 **Impacto y contexto**: Rhyne, de 59 años, había sido ingeniero principal de infraestructura en una empresa industrial con sede en el condado de Somerset, Nueva Jersey. La firma brinda servicios a industrias involucradas en acuicultura, productos biofarmacéuticos, química, electrónica, alimentos y bebidas, atención médica, movilidad de hidrógeno, fabricación y
+- 💡 **Impacto y contexto**: Edward Dubrovsky, de 54 años, es un ex director de operaciones y fundador de CYPFER, una empresa que ayuda a las organizaciones a negociar con los operadores de ransomware. Está acusado de conspirar para amenazar la confidencialidad de la información con el fin de extorsionar dinero, una violación de la ley federal de fraude informático, y de conspirar para
 
 </details>
 
-🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/)**
+🔗 **[Read full article on CyberScoop ↗](https://cyberscoop.com/edward-dubrovsky-cypfer-arrested-fbi-extortion-charges/)**
 
 ---
 
-### 🔹 Column 4: [Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
+### 🔹 Column 4: [Learning to use local AI is exciting, overwhelming, and frustrating](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** The Verge AI
 
-- 📌 **What happened?**: Anthropic said its models exploited websites on the internet, including some run by U.S. government agencies, and it will turn off live internet access for all of its internal evaluations until the frontier lab is sure it can monitor and control its AI agents.
+- 📌 **What happened?**: I’m embarking on a journey I’ve so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it’s increasingly possible to run powerful models locally to see what they’re capable of. Is this tech so useful that it’s worth throwing...
 
-- 🔍 **Key details**: The incidents, disclosed in a blog post, involved AI agents tasked to solve problems seeking resources on the internet. In the process, they exploited software flaws, accessed databases without paying fees, used URL shortening services to smuggle information past restrictions, and even submitted a false murder tip to...
+- 🔍 **Key details**: Learning to use local AI is exciting, overwhelming, and frustrating
 
-- 💡 **Context & Impact**: Anthropic said it discovered these new issues in a review of its model’s activities that began in July, demonstrating the lab’s lack of awareness of its software’s behavior in real time.
+- 💡 **Context & Impact**: It’s like using cloud-based AI tools, but the privacy makes it more appealing.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Anthropic no puede controlar de forma fiable a sus agentes de IA. En su lugar, está cortando sus evales internos de Internet en vivo*
+> **Título en español:** *Aprender a usar la IA local es emocionante, abrumador y frustrante*
 
-- 📌 **¿Qué sucedió?**: Anthropic dijo que sus modelos explotan sitios web en Internet, incluidos algunos administrados por agencias del gobierno de EE. UU., y desactivará el acceso a Internet en vivo para todas sus evaluaciones internas hasta que el laboratorio fronterizo esté seguro de que puede monitorear y controlar a sus agentes de IA.
+- 📌 **¿Qué sucedió?**: Me estoy embarcando en un viaje que hasta ahora he dudado en seguir: usar la IA de forma regular. Dar mis datos más personales a los servicios en la nube ha sido un obstáculo importante para mí, pero cada vez es más posible ejecutar modelos potentes a nivel local para ver de qué son capaces. ¿Es esta tecnología tan útil que vale la pena tirarla
 
-- 🔍 **Detalles clave**: Los incidentes, revelados en una publicación de blog, involucraron a agentes de IA encargados de resolver problemas que buscaban recursos en Internet. En el proceso, explotaron fallas de software, accedieron a bases de datos sin pagar tarifas, utilizaron servicios de acortamiento de URL para contrabandear información más allá de las restricciones e incluso enviaron una falsa sugerencia de asesinato a
+- 🔍 **Detalles clave**: Aprender a usar la IA local es emocionante, abrumador y frustrante
 
-- 💡 **Impacto y contexto**: Anthropic dijo que descubrió estos nuevos problemas en una revisión de las actividades de su modelo que comenzó en julio, lo que demuestra la falta de conocimiento del laboratorio sobre el comportamiento de su software en tiempo real.
+- 💡 **Impacto y contexto**: Es como usar herramientas de IA basadas en la nube, pero la privacidad lo hace más atractivo.
 
 </details>
 
-🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/)**
+🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress)**
 
 ---
 
-### 🔹 Column 5: [Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws](https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
+### 🔹 Column 5: [Satya Nadella says we should assume all AI models are ‘compromised’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** The Verge AI
 
-- 📌 **What happened?**: Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites.
+- 📌 **What happened?**: In a lengthy post on X, Microsoft’s CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a “set of nested black boxes” whose advice and actions we simply accept or reject. He calls for building a...
 
-- 🔍 **Key details**: The AI company said it identified four broad categories of unintended model actions during evaluations and internal use of Claude -
+- 🔍 **Key details**: Satya Nadella says we should assume all AI models are ‘compromised’
 
-- 💡 **Context & Impact**: - Claude Mythos Preview exploiting SQL or command injection flaws in unspecified third-party software to run commands on a university server, either because its own tools were intentionally limited or because an outside service it needed was unavailable, causing it to use other tools hosted on a third party's site to...
+- 💡 **Context & Impact**: Microsoft’s CEO calls for putting an ‘emergency brake’ on AI.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Anthropic corta el acceso a Internet en vivo para las pruebas internas de IA después de que Claude explota las fallas de inyección*
+> **Título en español:** *Satya Nadella dice que deberíamos asumir que todos los modelos de IA están ‘comprometidos’*
 
-- 📌 **¿Qué sucedió?**: Anthropic dijo el viernes que está cortando el acceso a Internet en vivo para todas sus evaluaciones internas tras el descubrimiento de nuevos incidentes en los que sus modelos de inteligencia artificial (IA) exhibieron un comportamiento desalineado y se dirigieron a sitios web reales.
+- 📌 **¿Qué sucedió?**: En una larga publicación en X, el CEO de Microsoft expuso sus puntos de vista sobre los peligros que plantean los modelos de IA altamente avanzados y cómo enfrentar esos riesgos. Nadella dice que ya no podemos aceptar un mundo donde la IA se trata como un "conjunto de cajas negras anidadas" cuyos consejos y acciones simplemente aceptamos o rechazamos. Él llama a construir una
 
-- 🔍 **Detalles clave**: La compañía de IA dijo que identificó cuatro categorías generales de acciones modelo no deseadas durante las evaluaciones y el uso interno de Claude:
+- 🔍 **Detalles clave**: Satya Nadella dice que deberíamos asumir que todos los modelos de IA están ‘comprometidos’
 
-- 💡 **Impacto y contexto**: - Claude Mythos Preview explota fallas de SQL o inyección de comandos en software de terceros no especificado para ejecutar comandos en un servidor universitario, ya sea porque sus propias herramientas estaban limitadas intencionalmente o porque un servicio externo que necesitaba no estaba disponible, lo que hacía que usara otras herramientas alojadas en el sitio de un tercero para
+- 💡 **Impacto y contexto**: El CEO de Microsoft pide poner un ‘freno de emergencia’ a la IA.
 
 </details>
 
-🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html)**
+🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)**
 
 ---
 
@@ -155,6 +155,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#25](editions/2026/10/2026-10-11.md) | 2026-10-11 | [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and...](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html) | 🛡️ Cybersecurity |
 | [#24](editions/2026/10/2026-10-10.md) | 2026-10-10 | [The Third-Party Agent Problem: Why Security Built for AI You C...](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html) | 🛡️ Cybersecurity |
 | [#23](editions/2026/10/2026-10-09.md) | 2026-10-09 | [Social Engineering AI Agents: The New BEC for 2026](https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026) | 🛡️ Cybersecurity |
 | [#22](editions/2026/10/2026-10-08.md) | 2026-10-08 | [US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward](https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/) | 🛡️ Cybersecurity |
@@ -169,9 +170,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#13](editions/2026/09/2026-09-29.md) | 2026-09-29 | [Hackers Use ChatGPT Custom GPTs in ClickFix Attacks](https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/) | 🛡️ Cybersecurity |
 | [#12](editions/2026/09/2026-09-28.md) | 2026-09-28 | [⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents ...](https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html) | 🛡️ Cybersecurity |
 | [#11](editions/2026/09/2026-09-27.md) | 2026-09-27 | [Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks](https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/) | 🛡️ Cybersecurity |
-| [#10](editions/2026/09/2026-09-26.md) | 2026-09-26 | [OpenAI Says Its Models Engaged With US Government Websites in ...](https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/) | 🛡️ Cybersecurity |
 
-*... and 9 more archived editions in `/editions` directory.*
+*... and 10 more archived editions in `/editions` directory.*
 
 ---
 

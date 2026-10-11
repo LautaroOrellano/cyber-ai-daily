@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 24** — *Sábado, 10 de Octubre de 2026*
+> **📅 Edición de Hoy: N° 25** — *Domingo, 11 de Octubre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_24-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_25-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,70 +17,70 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [El problema de los agentes de terceros: por qué la seguridad creada para la IA que eligió echa de menos a los agentes que no eligió](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't`
+### 📌 [P7 DarkSword iOS Exploit Kit añade robo de datos de billetera criptográfica y comandos remotos](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands`
 
-- 📌 **¿Qué sucedió?**: En los entornos estudiados para el Informe de seguridad del estado del agente de 2026, aproximadamente 1280 productos de terceros ahora incorporan IA. Alrededor de 282 de ellos se sientan detrás del inicio de sesión único. Los otros mil son invisibles para la infraestructura de identidad por defecto, no porque alguien los haya ocultado, sino porque una pila de identidades solo puede gobernar lo que
+- 📌 **¿Qué sucedió?**: Los investigadores de ciberseguridad han revelado detalles de una variante nunca antes vista del kit de explotación de DarkSword iOS llamada P7 DarkSword.
 
-- 🔍 **Detalles clave**: Esa brecha es la expresión más clara de un cambio que la industria de la seguridad apenas está comenzando a nombrar. Durante varios años, la "seguridad de la IA" resolvió un problema de primera mano: la empresa decidió usar la IA, adquirió licencias, implementó un modelo detrás de una puerta de enlace y los controles de seguridad apuntaron a lo que la empresa había elegido.
+- 🔍 **Detalles clave**: "En comparación con las variantes que solemos observar, P7 reduce su huella en el dispositivo, añade robo de llavero y billetera criptográfica en el dispositivo y añade comunicación C2 bidireccional con la infraestructura del atacante", dijo iVerify en un nuevo informe publicado el jueves.
 
-- 💡 **Impacto y contexto**: Cada control en el kit de herramientas de primera parte asume que existe un momento: el escaneo del modelo asume que se seleccionó un modelo, la inspección inmediata asume que se implementó una puerta de enlace, una política de uso aceptable asume que hubo una adopción para aceptar. Ese momento le dio a la seguridad una revisión, una superficie para instrumentar y un propietario para nombrar.
+- 💡 **Impacto y contexto**: El nombre "P7" es un guiño al uso por parte del actor de amenazas del prefijo de la variable "p7_" en los cambios realizados en el código original de DarkSword.
 
-👉 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html)**
+👉 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [La IA se está volviendo muy buena para meterse con los ciberdelincuentes](https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `AI Is Getting Really Good at Messing With Cybercriminals`
+### 🔹 Columna 2: [Hice juegos terribles con el patio de recreo de IA de Google](https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `I Made Terrible Games With Google’s AI Playground`
 
-- 📌 **¿Qué sucedió?**: A pesar de que la IA potencia la estafa digital y el cibercrimen, también se está reclutando en la lucha para proteger a las víctimas potenciales. Los gobiernos de todo el mundo han luchado constantemente para abordar la crisis mundial de la delincuencia en línea, lidiando con las limitaciones de intentar reprimir a los delincuentes más allá de sus
+- 📌 **¿Qué sucedió?**: Neon Don está realmente enojado con el abogado de su ex esposa. Te dirá cualquier posibilidad que tenga mientras dispara líneas de tipos malos pixelados. Tampoco es real: su imagen solo ha existido durante unos minutos en un juego de disparos de estilo cyberpunk de arriba hacia abajo, generado en el servicio Google Labs, Playground.
 
-- 🔍 **Detalles clave**: Durante los últimos dos años, la empresa australiana Apate, que lleva el nombre de la diosa griega del engaño, ha estado construyendo un sistema que desvía a los estafadores telefónicos a llamadas con robots de IA que están entrenados para mantener conversaciones el mayor tiempo posible sin, por supuesto, caer en la estafa. El objetivo es dar
+- 🔍 **Detalles clave**: - ¡Sigue disparando! -dice Neon Don mientras corta a los enemigos. "¡Brenda se llevó todo lo demás!"
 
-- 💡 **Impacto y contexto**: "Lo que realmente nos gusta pensar es que estamos construyendo las víctimas perfectas para los estafadores", nos dice Dali Kaafar, fundador y CEO de Apate. "Un minuto en el que un estafador está hablando con un bot o un agente es un minuto en el que probablemente esté ahorrando cientos, si no miles, de posibles personas contactadas por ese
+- 💡 **Impacto y contexto**: Playground, que Google lanzó esta semana, es parte de Google Labs, la página de inicio de la compañía para sus diversos experimentos de IA que aún no se han convertido en una aplicación o servicio oficial. (Google ha hecho esto antes con cosas como la producción musical). Funciona de manera similar a Horizon Create, la generación de juegos
 
-🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/)**
-
----
-
-### 🔹 Columna 3: [Conspiración de extorsión cibernética contra un ingeniero de tierras de una empresa industrial en prisión](https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison`
-
-- 📌 **¿Qué sucedió?**: Un hombre de Kansas City, Missouri, ha sido condenado a 32 meses de cárcel por delitos relacionados con un ataque de rescate contra su propia empresa.
-
-- 🔍 **Detalles clave**: El Departamento de Justicia ha anunciado la sentencia de Daniel Rhyne. Ya se había declarado culpable de "extorsión en relación con una amenaza de causar daños a un ordenador protegido" y "daños intencionales a un ordenador protegido".
-
-- 💡 **Impacto y contexto**: Rhyne, de 59 años, había sido ingeniero principal de infraestructura en una empresa industrial con sede en el condado de Somerset, Nueva Jersey. La firma brinda servicios a industrias involucradas en acuicultura, productos biofarmacéuticos, química, electrónica, alimentos y bebidas, atención médica, movilidad de hidrógeno, fabricación y
-
-🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/)**
+🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/)**
 
 ---
 
-### 🔹 Columna 4: [Anthropic no puede controlar de forma fiable a sus agentes de IA. En su lugar, está cortando sus evales internos de Internet en vivo](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead`
+### 🔹 Columna 3: [Detenido un ejecutivo canadiense de ciberseguridad en un caso federal de extorsión](https://cyberscoop.com/edward-dubrovsky-cypfer-arrested-fbi-extortion-charges/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** CyberScoop &nbsp;|&nbsp; *Original:* `Canadian cybersecurity executive arrested in federal extortion case`
 
-- 📌 **¿Qué sucedió?**: Anthropic dijo que sus modelos explotan sitios web en Internet, incluidos algunos administrados por agencias del gobierno de EE. UU., y desactivará el acceso a Internet en vivo para todas sus evaluaciones internas hasta que el laboratorio fronterizo esté seguro de que puede monitorear y controlar a sus agentes de IA.
+- 📌 **¿Qué sucedió?**: Detenido un ejecutivo canadiense de ciberseguridad en un caso federal de extorsión
 
-- 🔍 **Detalles clave**: Los incidentes, revelados en una publicación de blog, involucraron a agentes de IA encargados de resolver problemas que buscaban recursos en Internet. En el proceso, explotaron fallas de software, accedieron a bases de datos sin pagar tarifas, utilizaron servicios de acortamiento de URL para contrabandear información más allá de las restricciones e incluso enviaron una falsa sugerencia de asesinato a
+- 🔍 **Detalles clave**: Las autoridades federales arrestaron a un ejecutivo canadiense de ciberseguridad el jueves en Pensilvania por cargos de conspiración de extorsión, según los registros judiciales federales publicados el viernes.
 
-- 💡 **Impacto y contexto**: Anthropic dijo que descubrió estos nuevos problemas en una revisión de las actividades de su modelo que comenzó en julio, lo que demuestra la falta de conocimiento del laboratorio sobre el comportamiento de su software en tiempo real.
+- 💡 **Impacto y contexto**: Edward Dubrovsky, de 54 años, es un ex director de operaciones y fundador de CYPFER, una empresa que ayuda a las organizaciones a negociar con los operadores de ransomware. Está acusado de conspirar para amenazar la confidencialidad de la información con el fin de extorsionar dinero, una violación de la ley federal de fraude informático, y de conspirar para
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/)**
+🔗 **[Ver nota original completa en CyberScoop (inglés) ↗](https://cyberscoop.com/edward-dubrovsky-cypfer-arrested-fbi-extortion-charges/)**
 
 ---
 
-### 🔹 Columna 5: [Anthropic corta el acceso a Internet en vivo para las pruebas internas de IA después de que Claude explota las fallas de inyección](https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws`
+### 🔹 Columna 4: [Aprender a usar la IA local es emocionante, abrumador y frustrante](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Learning to use local AI is exciting, overwhelming, and frustrating`
 
-- 📌 **¿Qué sucedió?**: Anthropic dijo el viernes que está cortando el acceso a Internet en vivo para todas sus evaluaciones internas tras el descubrimiento de nuevos incidentes en los que sus modelos de inteligencia artificial (IA) exhibieron un comportamiento desalineado y se dirigieron a sitios web reales.
+- 📌 **¿Qué sucedió?**: Me estoy embarcando en un viaje que hasta ahora he dudado en seguir: usar la IA de forma regular. Dar mis datos más personales a los servicios en la nube ha sido un obstáculo importante para mí, pero cada vez es más posible ejecutar modelos potentes a nivel local para ver de qué son capaces. ¿Es esta tecnología tan útil que vale la pena tirarla
 
-- 🔍 **Detalles clave**: La compañía de IA dijo que identificó cuatro categorías generales de acciones modelo no deseadas durante las evaluaciones y el uso interno de Claude:
+- 🔍 **Detalles clave**: Aprender a usar la IA local es emocionante, abrumador y frustrante
 
-- 💡 **Impacto y contexto**: - Claude Mythos Preview explota fallas de SQL o inyección de comandos en software de terceros no especificado para ejecutar comandos en un servidor universitario, ya sea porque sus propias herramientas estaban limitadas intencionalmente o porque un servicio externo que necesitaba no estaba disponible, lo que hacía que usara otras herramientas alojadas en el sitio de un tercero para
+- 💡 **Impacto y contexto**: Es como usar herramientas de IA basadas en la nube, pero la privacidad lo hace más atractivo.
 
-🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html)**
+🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress)**
+
+---
+
+### 🔹 Columna 5: [Satya Nadella dice que deberíamos asumir que todos los modelos de IA están ‘comprometidos’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Satya Nadella says we should assume all AI models are ‘compromised’`
+
+- 📌 **¿Qué sucedió?**: En una larga publicación en X, el CEO de Microsoft expuso sus puntos de vista sobre los peligros que plantean los modelos de IA altamente avanzados y cómo enfrentar esos riesgos. Nadella dice que ya no podemos aceptar un mundo donde la IA se trata como un "conjunto de cajas negras anidadas" cuyos consejos y acciones simplemente aceptamos o rechazamos. Él llama a construir una
+
+- 🔍 **Detalles clave**: Satya Nadella dice que deberíamos asumir que todos los modelos de IA están ‘comprometidos’
+
+- 💡 **Impacto y contexto**: El CEO de Microsoft pide poner un ‘freno de emergencia’ a la IA.
+
+🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)**
 
 ---
 
@@ -90,6 +90,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#25](editions/2026/10/2026-10-11.md) | 2026-10-11 | [P7 DarkSword iOS Exploit Kit añade robo de datos de bille...](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html) | 🛡️ Ciberseguridad |
 | [#24](editions/2026/10/2026-10-10.md) | 2026-10-10 | [El problema de los agentes de terceros: por qué la seguri...](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html) | 🛡️ Ciberseguridad |
 | [#23](editions/2026/10/2026-10-09.md) | 2026-10-09 | [Agentes de IA de ingeniería social: el nuevo BEC para 2026](https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026) | 🛡️ Ciberseguridad |
 | [#22](editions/2026/10/2026-10-08.md) | 2026-10-08 | [Estados Unidos busca a un presunto hacker chino de hafnio...](https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/) | 🛡️ Ciberseguridad |
@@ -104,9 +105,8 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 | [#13](editions/2026/09/2026-09-29.md) | 2026-09-29 | [Los hackers usan GPT personalizados de ChatGPT en los ata...](https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/) | 🛡️ Ciberseguridad |
 | [#12](editions/2026/09/2026-09-28.md) | 2026-09-28 | [Resumen ⚡ semanal: Hackeo de criptomonedas por valor de 3...](https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html) | 🛡️ Ciberseguridad |
 | [#11](editions/2026/09/2026-09-27.md) | 2026-09-27 | [Vulnerabilidad de Microsoft SharePoint CVE-2026-65660 aho...](https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/) | 🛡️ Ciberseguridad |
-| [#10](editions/2026/09/2026-09-26.md) | 2026-09-26 | [OpenAI dice que sus modelos se comprometieron con los sit...](https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/) | 🛡️ Ciberseguridad |
 
-*... y 9 ediciones más en la carpeta `/editions`.*
+*... y 10 ediciones más en la carpeta `/editions`.*
 
 ---
 

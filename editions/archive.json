@@ -378,5 +378,22 @@
       "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
       "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html"
     ]
+  },
+  {
+    "edition": 25,
+    "date": "2026-10-11",
+    "rel_path": "editions/2026/10/2026-10-11.md",
+    "title_en": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+    "title_es": "P7 DarkSword iOS Exploit Kit añade robo de datos de billetera criptográfica y comandos remotos",
+    "category": "cyber",
+    "source": "The Hacker News",
+    "lead_link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+    "story_links": [
+      "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "https://cyberscoop.com/edward-dubrovsky-cypfer-arrested-fbi-extortion-charges/",
+      "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
+    ]
   }
 ]
