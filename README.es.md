@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 25** — *Domingo, 11 de Octubre de 2026*
+> **📅 Edición de Hoy: N° 26** — *Lunes, 12 de Octubre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_25-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_26-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,70 +17,70 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [P7 DarkSword iOS Exploit Kit añade robo de datos de billetera criptográfica y comandos remotos](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands`
+### 📌 [IonQ adquirirá Zero Trust Firm Elisity por hasta 1.300 millones de $](https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion`
 
-- 📌 **¿Qué sucedió?**: Los investigadores de ciberseguridad han revelado detalles de una variante nunca antes vista del kit de explotación de DarkSword iOS llamada P7 DarkSword.
+- 📌 **¿Qué sucedió?**: IonQ dijo el lunes que firmó un acuerdo definitivo para comprar Elisity en una transacción de solo acciones por un valor de hasta $ 1.3 mil millones.
 
-- 🔍 **Detalles clave**: "En comparación con las variantes que solemos observar, P7 reduce su huella en el dispositivo, añade robo de llavero y billetera criptográfica en el dispositivo y añade comunicación C2 bidireccional con la infraestructura del atacante", dijo iVerify en un nuevo informe publicado el jueves.
+- 🔍 **Detalles clave**: Hasta $ 150 millones de esa cantidad es una contraprestación por ganancias, dependiendo de cómo se desempeñe el negocio de Elisity. IonQ espera completar la adquisición en el cuarto trimestre de 2026.
 
-- 💡 **Impacto y contexto**: El nombre "P7" es un guiño al uso por parte del actor de amenazas del prefijo de la variable "p7_" en los cambios realizados en el código original de DarkSword.
+- 💡 **Impacto y contexto**: El número de acciones de IonQ emitidas dependerá del precio promedio ponderado por volumen de la empresa durante 20 días hábiles que finalizan poco antes del cierre, pero el precio se mantendrá entre $ 33.07 y $ 49.61.
 
-👉 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html)**
+👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Hice juegos terribles con el patio de recreo de IA de Google](https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `I Made Terrible Games With Google’s AI Playground`
+### 🔹 Columna 2: [El presidente de Microsoft dice que el Reino Unido está en la mejor posición para impulsar la regulación de la IA](https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Microsoft president says UK is best placed to drive AI regulation`
 
-- 📌 **¿Qué sucedió?**: Neon Don está realmente enojado con el abogado de su ex esposa. Te dirá cualquier posibilidad que tenga mientras dispara líneas de tipos malos pixelados. Tampoco es real: su imagen solo ha existido durante unos minutos en un juego de disparos de estilo cyberpunk de arriba hacia abajo, generado en el servicio Google Labs, Playground.
+- 📌 **¿Qué sucedió?**: El presidente de Microsoft, Brad Smith, está pidiendo una regulación urgente de la IA, y su argumento es que los productos de consumo como la leche y las lavadoras tienen más supervisión que las empresas que construyen inteligencia artificial.
 
-- 🔍 **Detalles clave**: - ¡Sigue disparando! -dice Neon Don mientras corta a los enemigos. "¡Brenda se llevó todo lo demás!"
+- 🔍 **Detalles clave**: En un reciente podcast de la BBC, Smith calificó a la IA como un "arma y una herramienta" que está poniendo en riesgo la ciberseguridad mundial, y dijo que "ha llegado el momento" de instituir reglas de seguridad globales.
 
-- 💡 **Impacto y contexto**: Playground, que Google lanzó esta semana, es parte de Google Labs, la página de inicio de la compañía para sus diversos experimentos de IA que aún no se han convertido en una aplicación o servicio oficial. (Google ha hecho esto antes con cosas como la producción musical). Funciona de manera similar a Horizon Create, la generación de juegos
+- 💡 **Impacto y contexto**: Smith también dijo que el Reino Unido, y no los Estados Unidos o la Unión Europea, está en la mejor posición para liderar las normas de seguridad global. El Instituto de Seguridad de IA de Gran Bretaña, lanzado en 2023, recibe acceso a los principales modelos de los laboratorios fronterizos de EE. UU. antes de que se implementen y se ha convertido rápidamente en un líder en pruebas de seguridad de IA.
 
-🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/)**
-
----
-
-### 🔹 Columna 3: [Detenido un ejecutivo canadiense de ciberseguridad en un caso federal de extorsión](https://cyberscoop.com/edward-dubrovsky-cypfer-arrested-fbi-extortion-charges/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** CyberScoop &nbsp;|&nbsp; *Original:* `Canadian cybersecurity executive arrested in federal extortion case`
-
-- 📌 **¿Qué sucedió?**: Detenido un ejecutivo canadiense de ciberseguridad en un caso federal de extorsión
-
-- 🔍 **Detalles clave**: Las autoridades federales arrestaron a un ejecutivo canadiense de ciberseguridad el jueves en Pensilvania por cargos de conspiración de extorsión, según los registros judiciales federales publicados el viernes.
-
-- 💡 **Impacto y contexto**: Edward Dubrovsky, de 54 años, es un ex director de operaciones y fundador de CYPFER, una empresa que ayuda a las organizaciones a negociar con los operadores de ransomware. Está acusado de conspirar para amenazar la confidencialidad de la información con el fin de extorsionar dinero, una violación de la ley federal de fraude informático, y de conspirar para
-
-🔗 **[Ver nota original completa en CyberScoop (inglés) ↗](https://cyberscoop.com/edward-dubrovsky-cypfer-arrested-fbi-extortion-charges/)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/)**
 
 ---
 
-### 🔹 Columna 4: [Aprender a usar la IA local es emocionante, abrumador y frustrante](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Learning to use local AI is exciting, overwhelming, and frustrating`
+### 🔹 Columna 3: [Vulnerabilidad del plugin de WordPress de Bricksforge explotada en la naturaleza](https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Bricksforge WordPress Plugin Vulnerability Exploited in the Wild`
 
-- 📌 **¿Qué sucedió?**: Me estoy embarcando en un viaje que hasta ahora he dudado en seguir: usar la IA de forma regular. Dar mis datos más personales a los servicios en la nube ha sido un obstáculo importante para mí, pero cada vez es más posible ejecutar modelos potentes a nivel local para ver de qué son capaces. ¿Es esta tecnología tan útil que vale la pena tirarla
+- 📌 **¿Qué sucedió?**: Según la empresa de seguridad de WordPress Patchstack, se está explotando una vulnerabilidad crítica en el plugin de WordPress Bricksforge.
 
-- 🔍 **Detalles clave**: Aprender a usar la IA local es emocionante, abrumador y frustrante
+- 🔍 **Detalles clave**: La vulnerabilidad se rastrea como CVE-2026-85097 y tiene una puntuación CVSS de 9,8. Los atacantes no autenticados pueden explotarlo para cargar archivos arbitrarios y ejecutar código malicioso.
 
-- 💡 **Impacto y contexto**: Es como usar herramientas de IA basadas en la nube, pero la privacidad lo hace más atractivo.
+- 💡 **Impacto y contexto**: Esto puede permitir a los actores de amenazas tomar el control total de los sitios web de WordPress objetivo.
 
-🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress)**
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/)**
 
 ---
 
-### 🔹 Columna 5: [Satya Nadella dice que deberíamos asumir que todos los modelos de IA están ‘comprometidos’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Satya Nadella says we should assume all AI models are ‘compromised’`
+### 🔹 Columna 4: [Esta startup de IA dice que puede generar planos listos para permisos en minutos](https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `This AI startup says it can generate permit-ready blueprints in minutes`
 
-- 📌 **¿Qué sucedió?**: En una larga publicación en X, el CEO de Microsoft expuso sus puntos de vista sobre los peligros que plantean los modelos de IA altamente avanzados y cómo enfrentar esos riesgos. Nadella dice que ya no podemos aceptar un mundo donde la IA se trata como un "conjunto de cajas negras anidadas" cuyos consejos y acciones simplemente aceptamos o rechazamos. Él llama a construir una
+- 📌 **¿Qué sucedió?**: Hace casi dos décadas, un joven estudiante universitario escribió su tesis final sobre un software capaz de generar documentos de diseño para edificios escolares. Al Drams estudiaba arquitectura, siguiendo los pasos de sus padres y su abuelo, pero era la tecnología lo que realmente le intrigaba.
 
-- 🔍 **Detalles clave**: Satya Nadella dice que deberíamos asumir que todos los modelos de IA están ‘comprometidos’
+- 🔍 **Detalles clave**: Solo había un problema: la tecnología que requería su idea aún no existía.
 
-- 💡 **Impacto y contexto**: El CEO de Microsoft pide poner un ‘freno de emergencia’ a la IA.
+- 💡 **Impacto y contexto**: "Entonces apareció ChatGPT", dijo Drams, recordando cuando OpenAI lanzó el chatbot de IA generativo que utiliza modelos de lenguaje grandes (LLM) en noviembre de 2022.
 
-🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/)**
+
+---
+
+### 🔹 Columna 5: [El nuevo chip de IA de Microsoft lo hace menos dependiente de las GPU de Nvidia](https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs`
+
+- 📌 **¿Qué sucedió?**: Microsoft anuncia hoy su chip de IA interno Maia de tercera generación, diseñado para ser el "sistema de inferencia de IA principal" para los productos y servicios de Microsoft. Maia 300 no solo mejora el coste y la eficiencia de ejecutar cargas de trabajo de IA en la nube, sino que también es más capaz de manejar los últimos modelos de razonamiento y
+
+- 🔍 **Detalles clave**: El nuevo chip de IA de Microsoft lo hace menos dependiente de las GPU de Nvidia
+
+- 💡 **Impacto y contexto**: El nuevo chip Maia 300 comenzará a implementarse en las cargas de trabajo de producción de IA en 2027.
+
+🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout)**
 
 ---
 
@@ -90,6 +90,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#26](editions/2026/10/2026-10-12.md) | 2026-10-12 | [IonQ adquirirá Zero Trust Firm Elisity por hasta 1.300 mi...](https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/) | 🛡️ Ciberseguridad |
 | [#25](editions/2026/10/2026-10-11.md) | 2026-10-11 | [P7 DarkSword iOS Exploit Kit añade robo de datos de bille...](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html) | 🛡️ Ciberseguridad |
 | [#24](editions/2026/10/2026-10-10.md) | 2026-10-10 | [El problema de los agentes de terceros: por qué la seguri...](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html) | 🛡️ Ciberseguridad |
 | [#23](editions/2026/10/2026-10-09.md) | 2026-10-09 | [Agentes de IA de ingeniería social: el nuevo BEC para 2026](https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026) | 🛡️ Ciberseguridad |
@@ -104,9 +105,8 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 | [#14](editions/2026/09/2026-09-30.md) | 2026-09-30 | [Organizaciones gubernamentales y financieras atacadas en ...](https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/) | 🛡️ Ciberseguridad |
 | [#13](editions/2026/09/2026-09-29.md) | 2026-09-29 | [Los hackers usan GPT personalizados de ChatGPT en los ata...](https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/) | 🛡️ Ciberseguridad |
 | [#12](editions/2026/09/2026-09-28.md) | 2026-09-28 | [Resumen ⚡ semanal: Hackeo de criptomonedas por valor de 3...](https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html) | 🛡️ Ciberseguridad |
-| [#11](editions/2026/09/2026-09-27.md) | 2026-09-27 | [Vulnerabilidad de Microsoft SharePoint CVE-2026-65660 aho...](https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/) | 🛡️ Ciberseguridad |
 
-*... y 10 ediciones más en la carpeta `/editions`.*
+*... y 11 ediciones más en la carpeta `/editions`.*
 
 ---
 

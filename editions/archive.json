@@ -395,5 +395,22 @@
       "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
       "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
     ]
+  },
+  {
+    "edition": 26,
+    "date": "2026-10-12",
+    "rel_path": "editions/2026/10/2026-10-12.md",
+    "title_en": "IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion",
+    "title_es": "IonQ adquirirá Zero Trust Firm Elisity por hasta 1.300 millones de $",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/",
+    "story_links": [
+      "https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/",
+      "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/",
+      "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout"
+    ]
   }
 ]
