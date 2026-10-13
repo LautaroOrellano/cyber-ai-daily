@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #26** — *Monday, October 12, 2026*
+> **📅 Today's Edition: Issue #27** — *Tuesday, October 13, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2326-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2327-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,135 +17,135 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion](https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/)
+### 📌 [Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns](https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
 
-- 📌 **What happened?**: IonQ on Monday said it signed a definitive agreement to buy Elisity in a stock-only transaction worth up to $1.3 billion.
+- 📌 **What happened?**: Small AI models may be only months away from being able to self-replicate across commercial IoT devices, without needing a data center, according to research from Anthropic’s Frontier Red Team.
 
-- 🔍 **Key details**: Up to $150 million of that amount is earnout consideration, contingent on how Elisity’s business performs. IonQ expects to complete the acquisition in the fourth quarter of 2026.
+- 🔍 **Key details**: The study looks at AI worms that run their own model directly on the devices they compromise. Such malware would be hard to shut down because it has no central point to switch off, though it would likely spread slowly.
 
-- 💡 **Context & Impact**: The number of IonQ shares issued will depend on the company’s volume-weighted average price over 20 trading days ending shortly before closing, but the price will be kept between $33.07 and $49.61.
+- 💡 **Context & Impact**: The researchers bought 15 off-brand Android-based TV boxes for about $55 each. A 26-billion-parameter open-weight model split across them ran at 0.39 tokens per second.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *IonQ adquirirá Zero Trust Firm Elisity por hasta 1.300 millones de $*
+> **Título en español:** *Los pequeños modelos de IA pronto podrían autorreplicarse en dispositivos IoT, advierte Anthropic*
 
-- 📌 **¿Qué sucedió?**: IonQ dijo el lunes que firmó un acuerdo definitivo para comprar Elisity en una transacción de solo acciones por un valor de hasta $ 1.3 mil millones.
+- 📌 **¿Qué sucedió?**: Los pequeños modelos de IA pueden estar a solo unos meses de poder autorreplicarse en dispositivos comerciales de IoT, sin necesidad de un centro de datos, según una investigación del Frontier Red Team de Anthropic.
 
-- 🔍 **Detalles clave**: Hasta $ 150 millones de esa cantidad es una contraprestación por ganancias, dependiendo de cómo se desempeñe el negocio de Elisity. IonQ espera completar la adquisición en el cuarto trimestre de 2026.
+- 🔍 **Detalles clave**: El estudio analiza los gusanos de IA que ejecutan su propio modelo directamente en los dispositivos que comprometen. Este tipo de malware sería difícil de apagar porque no tiene un punto central para apagarse, aunque es probable que se propague lentamente.
 
-- 💡 **Impacto y contexto**: El número de acciones de IonQ emitidas dependerá del precio promedio ponderado por volumen de la empresa durante 20 días hábiles que finalizan poco antes del cierre, pero el precio se mantendrá entre $ 33.07 y $ 49.61.
+- 💡 **Impacto y contexto**: Los investigadores compraron 15 cajas de TV sin marca basadas en Android por alrededor de $ 55 cada una. Un modelo de peso abierto de 26 mil millones de parámetros dividido a través de ellos funcionó a 0.39 tokens por segundo.
 
 </details>
 
-👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/)**
+👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/)**
 
 ---
 
 ## 📰 TOP HIGHLIGHTS (4 Stories)
 
-### 🔹 Column 2: [Microsoft president says UK is best placed to drive AI regulation](https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
-
-- 📌 **What happened?**: Microsoft President Brad Smith is calling for urgent regulation of AI, and his argument is that consumer products like milk and washing machines have more oversight than the companies building artificial intelligence.
-
-- 🔍 **Key details**: On a recent BBC podcast, Smith called AI both a “weapon and a tool” that is putting the world’s cybersecurity at risk, and said the “moment has arrived” to institute global safety rules.
-
-- 💡 **Context & Impact**: Smith also said the U.K., and not the U.S. or European Union, is best placed to lead on global safety rules. Britain’s AI Security Institute, launched in 2023, receives access to major models from U.S. frontier labs before they are deployed and has quickly become a leader in AI safety testing.
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *El presidente de Microsoft dice que el Reino Unido está en la mejor posición para impulsar la regulación de la IA*
-
-- 📌 **¿Qué sucedió?**: El presidente de Microsoft, Brad Smith, está pidiendo una regulación urgente de la IA, y su argumento es que los productos de consumo como la leche y las lavadoras tienen más supervisión que las empresas que construyen inteligencia artificial.
-
-- 🔍 **Detalles clave**: En un reciente podcast de la BBC, Smith calificó a la IA como un "arma y una herramienta" que está poniendo en riesgo la ciberseguridad mundial, y dijo que "ha llegado el momento" de instituir reglas de seguridad globales.
-
-- 💡 **Impacto y contexto**: Smith también dijo que el Reino Unido, y no los Estados Unidos o la Unión Europea, está en la mejor posición para liderar las normas de seguridad global. El Instituto de Seguridad de IA de Gran Bretaña, lanzado en 2023, recibe acceso a los principales modelos de los laboratorios fronterizos de EE. UU. antes de que se implementen y se ha convertido rápidamente en un líder en pruebas de seguridad de IA.
-
-</details>
-
-🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/)**
-
----
-
-### 🔹 Column 3: [Bricksforge WordPress Plugin Vulnerability Exploited in the Wild](https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
-
-- 📌 **What happened?**: A critical vulnerability in the Bricksforge WordPress plugin is being exploited in the wild, according to WordPress security company Patchstack.
-
-- 🔍 **Key details**: The vulnerability is tracked as CVE-2026-85097 and it has a CVSS score of 9.8. Unauthenticated attackers can exploit it to upload arbitrary files and execute malicious code.
-
-- 💡 **Context & Impact**: This can allow threat actors to take full control of the targeted WordPress websites.
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *Vulnerabilidad del plugin de WordPress de Bricksforge explotada en la naturaleza*
-
-- 📌 **¿Qué sucedió?**: Según la empresa de seguridad de WordPress Patchstack, se está explotando una vulnerabilidad crítica en el plugin de WordPress Bricksforge.
-
-- 🔍 **Detalles clave**: La vulnerabilidad se rastrea como CVE-2026-85097 y tiene una puntuación CVSS de 9,8. Los atacantes no autenticados pueden explotarlo para cargar archivos arbitrarios y ejecutar código malicioso.
-
-- 💡 **Impacto y contexto**: Esto puede permitir a los actores de amenazas tomar el control total de los sitios web de WordPress objetivo.
-
-</details>
-
-🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/)**
-
----
-
-### 🔹 Column 4: [This AI startup says it can generate permit-ready blueprints in minutes](https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
-
-- 📌 **What happened?**: Nearly two decades ago, a young college student wrote his final thesis about software capable of generating design documents for school buildings. Al Drams was studying architecture — following in the footsteps of his parents and grandfather — but it was technology that really intrigued him.
-
-- 🔍 **Key details**: There was just one problem: the technology his idea required didn’t exist yet.
-
-- 💡 **Context & Impact**: “Then ChatGPT came along,” said Drams, recalling when OpenAI released the generative AI chatbot that uses large language models (LLMs) in November 2022.
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *Esta startup de IA dice que puede generar planos listos para permisos en minutos*
-
-- 📌 **¿Qué sucedió?**: Hace casi dos décadas, un joven estudiante universitario escribió su tesis final sobre un software capaz de generar documentos de diseño para edificios escolares. Al Drams estudiaba arquitectura, siguiendo los pasos de sus padres y su abuelo, pero era la tecnología lo que realmente le intrigaba.
-
-- 🔍 **Detalles clave**: Solo había un problema: la tecnología que requería su idea aún no existía.
-
-- 💡 **Impacto y contexto**: "Entonces apareció ChatGPT", dijo Drams, recordando cuando OpenAI lanzó el chatbot de IA generativo que utiliza modelos de lenguaje grandes (LLM) en noviembre de 2022.
-
-</details>
-
-🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/)**
-
----
-
-### 🔹 Column 5: [Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs](https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout)
+### 🔹 Column 2: [DLSS 5 gets toned down for its Hogwarts Legacy debut next month](https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements)
 > **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** The Verge AI
 
-- 📌 **What happened?**: Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the “primary AI inference system” for Microsoft’s products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it’s also more capable of handling the latest reasoning models and...
+- 📌 **What happened?**: When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot. I personally couldn’t get over how faces were transformed using DLSS 5. The 15-year-old student from Hogwarts Legacy suddenly looked much older, and Grace...
 
-- 🔍 **Key details**: Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs
+- 🔍 **Key details**: DLSS 5 gets toned down for its Hogwarts Legacy debut next month
 
-- 💡 **Context & Impact**: The new Maia 300 chip will start rolling out to production AI workloads in 2027.
+- 💡 **Context & Impact**: DLSS 5 debuts in Hogwarts Legacy and Where Winds Meet next month.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *El nuevo chip de IA de Microsoft lo hace menos dependiente de las GPU de Nvidia*
+> **Título en español:** *DLSS 5 se atenúa para su debut en Hogwarts Legacy el próximo mes*
 
-- 📌 **¿Qué sucedió?**: Microsoft anuncia hoy su chip de IA interno Maia de tercera generación, diseñado para ser el "sistema de inferencia de IA principal" para los productos y servicios de Microsoft. Maia 300 no solo mejora el coste y la eficiencia de ejecutar cargas de trabajo de IA en la nube, sino que también es más capaz de manejar los últimos modelos de razonamiento y
+- 📌 **¿Qué sucedió?**: Cuando Nvidia mostró originalmente DLSS 5 a principios de este año, la tecnología se calificó inmediatamente como IA de generación para videojuegos. Para los jugadores, Nvidia había perdido la trama. Personalmente, no pude superar cómo se transformaron las caras con DLSS 5. La estudiante de 15 años de Hogwarts Legacy de repente parecía mucho mayor, y Grace
 
-- 🔍 **Detalles clave**: El nuevo chip de IA de Microsoft lo hace menos dependiente de las GPU de Nvidia
+- 🔍 **Detalles clave**: DLSS 5 se atenúa para su debut en Hogwarts Legacy el próximo mes
 
-- 💡 **Impacto y contexto**: El nuevo chip Maia 300 comenzará a implementarse en las cargas de trabajo de producción de IA en 2027.
+- 💡 **Impacto y contexto**: DLSS 5 debuta en Hogwarts Legacy y Where Winds Meet el próximo mes.
 
 </details>
 
-🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout)**
+🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements)**
+
+---
+
+### 🔹 Column 3: [XWorm RAT Evolves Into Surveillance Platform](https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
+
+- 📌 **What happened?**: The XWorm RAT developers have expanded the malware’s capabilities with fresh plugins that turn it into a surveillance platform, cybersecurity firm Netskope reports.
+
+- 🔍 **Key details**: A sophisticated, multi-functional Windows RAT first observed in 2022, XWorm provides attackers with full control over the infected systems, offering keylogging, screenshot capture, webcam access, and payload execution capabilities.
+
+- 💡 **Context & Impact**: The malware’s developers have been constantly updating its codebase and adding new functionality, and the threat has remained highly active, with Netskope observing over 1,200 incidents across 100 organizations during the third quarter of the year.
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *XWorm RAT evoluciona hacia una plataforma de vigilancia*
+
+- 📌 **¿Qué sucedió?**: Los desarrolladores de XWORM RAT han ampliado las capacidades del malware con nuevos plugins que lo convierten en una plataforma de vigilancia, informa la firma de ciberseguridad Netskope.
+
+- 🔍 **Detalles clave**: XWorm, una sofisticada y multifuncional RAT de Windows observada por primera vez en 2022, proporciona a los atacantes un control total sobre los sistemas infectados, ofreciendo capacidades de registro de teclas, captura de pantalla, acceso a la cámara web y ejecución de carga útil.
+
+- 💡 **Impacto y contexto**: Los desarrolladores del malware han estado actualizando constantemente su base de código y añadiendo nuevas funcionalidades, y la amenaza se ha mantenido muy activa, con Netskope observando más de 1.200 incidentes en 100 organizaciones durante el tercer trimestre del año.
+
+</details>
+
+🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/)**
+
+---
+
+### 🔹 Column 4: [SpaceXSI bundles X Premium, Grok and Cursor into one subscription](https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
+
+- 📌 **What happened?**: With the X Subscription, users can gain access to Grok for AI-powered chat, with support for voice, images, video and the API. Grok’s agentic AI Bot is also available, as is Cursor for AI coding and the paid features that come with an X Premium subscription, like the blue verified checkmark, creator tools, and fewer...
+
+- 🔍 **Key details**: There are five plans available on the new subscription: free, Plus ($8/month), Premium ($30/month), Super ($100/month) and Ultra ($200/month), with AI usage caps increasing as you move up through the tiers. The free plan will only offer limited chat and agent usage, and Premium or higher is required to access the...
+
+- 💡 **Context & Impact**: Existing users can either switch from their subscription settings on X to upgrade to the new bundle, or maintain their current plan. The option to upgrade will roll out gradually, so interested customers will need to keep an eye on their billing settings for the offer to upgrade.
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *SpaceXSI agrupa X Premium, Grok y Cursor en una sola suscripción*
+
+- 📌 **¿Qué sucedió?**: Con la Suscripción X, los usuarios pueden acceder a Grok para chatear con IA, con soporte para voz, imágenes, video y API. El bot de IA auténtico de Grok también está disponible, al igual que Cursor para la codificación de IA y las funciones de pago que vienen con una suscripción X Premium, como la marca de verificación azul verificada, las herramientas de creador y menos
+
+- 🔍 **Detalles clave**: Hay cinco planes disponibles en la nueva suscripción: gratis, Plus ($ 8/mes), Premium ($ 30/mes), Super ($ 100/mes) y Ultra ($ 200/mes), con límites de uso de IA que aumentan a medida que avanzas en los niveles. El plan gratuito solo ofrecerá un uso limitado del chat y del agente, y se requiere Premium o superior para acceder al
+
+- 💡 **Impacto y contexto**: Los usuarios existentes pueden cambiar desde su configuración de suscripción en X para actualizar al nuevo paquete o mantener su plan actual. La opción de actualización se implementará gradualmente, por lo que los clientes interesados deberán vigilar su configuración de facturación para que la oferta se actualice.
+
+</details>
+
+🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/)**
+
+---
+
+### 🔹 Column 5: [Amex introduces a framework to prevent AI agents from making unauthorized purchases](https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
+
+- 📌 **What happened?**: Personal AI agents are increasingly making transactions on their users’ behalf, but given the nondeterministic nature of large language models, AI bots are prone to doing what they’re not supposed to. Which, in this case, raises the possibility of AI misfiring and making unauthorized transactions.
+
+- 🔍 **Key details**: To get ahead of this problem, American Express is introducing a new framework designed to capture and authenticate a customer’s purchase intent before an AI agent completes the transaction.
+
+- 💡 **Context & Impact**: The idea is that there should be a way to ensure that the customer’s purchase instructions are carried throughout the transaction lifecycle, Amex says, from the purchase to everything that follows.
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Amex introduce un marco para evitar que los agentes de IA realicen compras no autorizadas*
+
+- 📌 **¿Qué sucedió?**: Los agentes personales de IA realizan cada vez más transacciones en nombre de sus usuarios, pero dada la naturaleza no determinista de los grandes modelos de lenguaje, los bots de IA son propensos a hacer lo que no se supone que deben hacer. Lo que, en este caso, plantea la posibilidad de que la IA falle y realice transacciones no autorizadas.
+
+- 🔍 **Detalles clave**: Para adelantarse a este problema, American Express está introduciendo un nuevo marco diseñado para capturar y autenticar la intención de compra de un cliente antes de que un agente de IA complete la transacción.
+
+- 💡 **Impacto y contexto**: La idea es que debería haber una forma de garantizar que las instrucciones de compra del cliente se lleven a cabo durante todo el ciclo de vida de la transacción, dice Amex, desde la compra hasta todo lo que sigue.
+
+</details>
+
+🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/)**
 
 ---
 
@@ -155,6 +155,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#27](editions/2026/10/2026-10-13.md) | 2026-10-13 | [Small AI Models Could Soon Self-Replicate on IoT Devices, Anth...](https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/) | 🛡️ Cybersecurity |
 | [#26](editions/2026/10/2026-10-12.md) | 2026-10-12 | [IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion](https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/) | 🛡️ Cybersecurity |
 | [#25](editions/2026/10/2026-10-11.md) | 2026-10-11 | [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and...](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html) | 🛡️ Cybersecurity |
 | [#24](editions/2026/10/2026-10-10.md) | 2026-10-10 | [The Third-Party Agent Problem: Why Security Built for AI You C...](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html) | 🛡️ Cybersecurity |
@@ -169,9 +170,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#15](editions/2026/10/2026-10-01.md) | 2026-10-01 | [AI Has Changed Attack Speed, Not Security Fundamentals](https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/) | 🛡️ Cybersecurity |
 | [#14](editions/2026/09/2026-09-30.md) | 2026-09-30 | [Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero...](https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/) | 🛡️ Cybersecurity |
 | [#13](editions/2026/09/2026-09-29.md) | 2026-09-29 | [Hackers Use ChatGPT Custom GPTs in ClickFix Attacks](https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/) | 🛡️ Cybersecurity |
-| [#12](editions/2026/09/2026-09-28.md) | 2026-09-28 | [⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents ...](https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html) | 🛡️ Cybersecurity |
 
-*... and 11 more archived editions in `/editions` directory.*
+*... and 12 more archived editions in `/editions` directory.*
 
 ---
 

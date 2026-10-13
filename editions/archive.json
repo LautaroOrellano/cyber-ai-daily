@@ -412,5 +412,22 @@
       "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
       "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout"
     ]
+  },
+  {
+    "edition": 27,
+    "date": "2026-10-13",
+    "rel_path": "editions/2026/10/2026-10-13.md",
+    "title_en": "Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns",
+    "title_es": "Los pequeños modelos de IA pronto podrían autorreplicarse en dispositivos IoT, advierte Anthropic",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/",
+    "story_links": [
+      "https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/",
+      "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
+      "https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/",
+      "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+      "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/"
+    ]
   }
 ]
