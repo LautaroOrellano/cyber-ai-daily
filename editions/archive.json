@@ -429,5 +429,22 @@
       "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
       "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/"
     ]
+  },
+  {
+    "edition": 28,
+    "date": "2026-10-14",
+    "rel_path": "editions/2026/10/2026-10-14.md",
+    "title_en": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+    "title_es": "Los investigadores utilizaron un modelo público de OpenAI para crear un exploit de cadena completa de Chrome de $ 250.000 en seis días",
+    "category": "cyber",
+    "source": "The Hacker News",
+    "lead_link": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+    "story_links": [
+      "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+      "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+      "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+      "https://www.wired.com/story/my-friend-has-no-soul/",
+      "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html"
+    ]
   }
 ]

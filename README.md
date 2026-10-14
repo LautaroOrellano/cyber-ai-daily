@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #27** — *Tuesday, October 13, 2026*
+> **📅 Today's Edition: Issue #28** — *Wednesday, October 14, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2327-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2328-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,135 +17,135 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns](https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
+### 📌 [Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days](https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
 
-- 📌 **What happened?**: Small AI models may be only months away from being able to self-replicate across commercial IoT devices, without needing a data center, according to research from Anthropic’s Frontier Red Team.
+- 📌 **What happened?**: A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said.
 
-- 🔍 **Key details**: The study looks at AI worms that run their own model directly on the devices they compromise. Such malware would be hard to shut down because it has no central point to switch off, though it would likely spread slowly.
+- 🔍 **Key details**: Its researchers built the attack in six days by directing AI agents running OpenAI's publicly available GPT-5.6 Sol model. Google has since confirmed all three bugs, fixed them, and paid XBOW its top $250,000 reward for a full Chrome exploit.
 
-- 💡 **Context & Impact**: The researchers bought 15 off-brand Android-based TV boxes for about $55 each. A 26-billion-parameter open-weight model split across them ran at 0.39 tokens per second.
+- 💡 **Context & Impact**: The attack is a full chain: a set of bugs used together to break every layer of Chrome's protection, from a web page all the way to the computer.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Los pequeños modelos de IA pronto podrían autorreplicarse en dispositivos IoT, advierte Anthropic*
+> **Título en español:** *Los investigadores utilizaron un modelo público de OpenAI para crear un exploit de cadena completa de Chrome de $ 250.000 en seis días*
 
-- 📌 **¿Qué sucedió?**: Los pequeños modelos de IA pueden estar a solo unos meses de poder autorreplicarse en dispositivos comerciales de IoT, sin necesidad de un centro de datos, según una investigación del Frontier Red Team de Anthropic.
+- 📌 **¿Qué sucedió?**: Un equipo de la firma de seguridad XBOW encadenó tres errores de Google Chrome entonces desconocidos en un solo ataque que ejecuta código en un ordenador con Windows cuando el usuario solo carga una página web, dijo la compañía.
 
-- 🔍 **Detalles clave**: El estudio analiza los gusanos de IA que ejecutan su propio modelo directamente en los dispositivos que comprometen. Este tipo de malware sería difícil de apagar porque no tiene un punto central para apagarse, aunque es probable que se propague lentamente.
+- 🔍 **Detalles clave**: Sus investigadores construyeron el ataque en seis días dirigiendo a los agentes de IA que ejecutan el modelo GPT-5.6 Sol de OpenAI disponible públicamente. Desde entonces, Google ha confirmado los tres errores, los ha corregido y ha pagado a XBOW su principal recompensa de $ 250,000 por un exploit completo de Chrome.
 
-- 💡 **Impacto y contexto**: Los investigadores compraron 15 cajas de TV sin marca basadas en Android por alrededor de $ 55 cada una. Un modelo de peso abierto de 26 mil millones de parámetros dividido a través de ellos funcionó a 0.39 tokens por segundo.
+- 💡 **Impacto y contexto**: El ataque es una cadena completa: un conjunto de errores que se utilizan juntos para romper todas las capas de protección de Chrome, desde una página web hasta el ordenador.
 
 </details>
 
-👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/)**
+👉 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html)**
 
 ---
 
 ## 📰 TOP HIGHLIGHTS (4 Stories)
 
-### 🔹 Column 2: [DLSS 5 gets toned down for its Hogwarts Legacy debut next month](https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** The Verge AI
-
-- 📌 **What happened?**: When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot. I personally couldn’t get over how faces were transformed using DLSS 5. The 15-year-old student from Hogwarts Legacy suddenly looked much older, and Grace...
-
-- 🔍 **Key details**: DLSS 5 gets toned down for its Hogwarts Legacy debut next month
-
-- 💡 **Context & Impact**: DLSS 5 debuts in Hogwarts Legacy and Where Winds Meet next month.
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *DLSS 5 se atenúa para su debut en Hogwarts Legacy el próximo mes*
-
-- 📌 **¿Qué sucedió?**: Cuando Nvidia mostró originalmente DLSS 5 a principios de este año, la tecnología se calificó inmediatamente como IA de generación para videojuegos. Para los jugadores, Nvidia había perdido la trama. Personalmente, no pude superar cómo se transformaron las caras con DLSS 5. La estudiante de 15 años de Hogwarts Legacy de repente parecía mucho mayor, y Grace
-
-- 🔍 **Detalles clave**: DLSS 5 se atenúa para su debut en Hogwarts Legacy el próximo mes
-
-- 💡 **Impacto y contexto**: DLSS 5 debuta en Hogwarts Legacy y Where Winds Meet el próximo mes.
-
-</details>
-
-🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements)**
-
----
-
-### 🔹 Column 3: [XWorm RAT Evolves Into Surveillance Platform](https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
-
-- 📌 **What happened?**: The XWorm RAT developers have expanded the malware’s capabilities with fresh plugins that turn it into a surveillance platform, cybersecurity firm Netskope reports.
-
-- 🔍 **Key details**: A sophisticated, multi-functional Windows RAT first observed in 2022, XWorm provides attackers with full control over the infected systems, offering keylogging, screenshot capture, webcam access, and payload execution capabilities.
-
-- 💡 **Context & Impact**: The malware’s developers have been constantly updating its codebase and adding new functionality, and the threat has remained highly active, with Netskope observing over 1,200 incidents across 100 organizations during the third quarter of the year.
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *XWorm RAT evoluciona hacia una plataforma de vigilancia*
-
-- 📌 **¿Qué sucedió?**: Los desarrolladores de XWORM RAT han ampliado las capacidades del malware con nuevos plugins que lo convierten en una plataforma de vigilancia, informa la firma de ciberseguridad Netskope.
-
-- 🔍 **Detalles clave**: XWorm, una sofisticada y multifuncional RAT de Windows observada por primera vez en 2022, proporciona a los atacantes un control total sobre los sistemas infectados, ofreciendo capacidades de registro de teclas, captura de pantalla, acceso a la cámara web y ejecución de carga útil.
-
-- 💡 **Impacto y contexto**: Los desarrolladores del malware han estado actualizando constantemente su base de código y añadiendo nuevas funcionalidades, y la amenaza se ha mantenido muy activa, con Netskope observando más de 1.200 incidentes en 100 organizaciones durante el tercer trimestre del año.
-
-</details>
-
-🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/)**
-
----
-
-### 🔹 Column 4: [SpaceXSI bundles X Premium, Grok and Cursor into one subscription](https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/)
+### 🔹 Column 2: [Scimplify raises $25M to challenge China’s grip on critical materials with AI](https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/)
 > **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
 
-- 📌 **What happened?**: With the X Subscription, users can gain access to Grok for AI-powered chat, with support for voice, images, video and the API. Grok’s agentic AI Bot is also available, as is Cursor for AI coding and the paid features that come with an X Premium subscription, like the blue verified checkmark, creator tools, and fewer...
+- 📌 **What happened?**: As manufacturers across industries strive to reduce their reliance on Chinese suppliers, Indian startup Scimplify has raised $25 million to expand its AI-powered approach to producing specialty chemicals and critical materials, with semiconductors, defense and energy emerging as key growth markets.
 
-- 🔍 **Key details**: There are five plans available on the new subscription: free, Plus ($8/month), Premium ($30/month), Super ($100/month) and Ultra ($200/month), with AI usage caps increasing as you move up through the tiers. The free plan will only offer limited chat and agent usage, and Premium or higher is required to access the...
+- 🔍 **Key details**: The all-equity strategic round was led by Hitachi Ventures, with customers Henkel and Teknor Apex joining as new investors. Existing backers Accel India, Bertelsmann India Investments, Omnivore, and 3one4 Capital also participated. The round values the Bengaluru-based startup at $250 million after the investment,...
 
-- 💡 **Context & Impact**: Existing users can either switch from their subscription settings on X to upgrade to the new bundle, or maintain their current plan. The option to upgrade will roll out gradually, so interested customers will need to keep an eye on their billing settings for the offer to upgrade.
+- 💡 **Context & Impact**: The growing adoption of AI and advanced computational tools has accelerated materials discovery and research. However, turning promising chemistry into commercially available products at scale remains a slow and complex process. Manufacturers need to develop production processes, qualify facilities, and meet stringent...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *SpaceXSI agrupa X Premium, Grok y Cursor en una sola suscripción*
+> **Título en español:** *Scimplify recauda $ 25 MILLONES para desafiar el control de China sobre materiales críticos con IA*
 
-- 📌 **¿Qué sucedió?**: Con la Suscripción X, los usuarios pueden acceder a Grok para chatear con IA, con soporte para voz, imágenes, video y API. El bot de IA auténtico de Grok también está disponible, al igual que Cursor para la codificación de IA y las funciones de pago que vienen con una suscripción X Premium, como la marca de verificación azul verificada, las herramientas de creador y menos
+- 📌 **¿Qué sucedió?**: A medida que los fabricantes de todas las industrias se esfuerzan por reducir su dependencia de los proveedores chinos, la startup india Scimplify ha recaudado $ 25 millones para expandir su enfoque impulsado por la IA para producir productos químicos especializados y materiales críticos, con semiconductores, defensa y energía emergiendo como mercados clave en crecimiento.
 
-- 🔍 **Detalles clave**: Hay cinco planes disponibles en la nueva suscripción: gratis, Plus ($ 8/mes), Premium ($ 30/mes), Super ($ 100/mes) y Ultra ($ 200/mes), con límites de uso de IA que aumentan a medida que avanzas en los niveles. El plan gratuito solo ofrecerá un uso limitado del chat y del agente, y se requiere Premium o superior para acceder al
+- 🔍 **Detalles clave**: La ronda estratégica de acciones fue liderada por Hitachi Ventures, y los clientes Henkel y Teknor Apex se unieron como nuevos inversores. También participaron los patrocinadores existentes Accel India, Bertelsmann India Investments, Omnivore y 3one4 Capital. La ronda valora la startup con sede en Bangalore en $ 250 millones después de la inversión,
 
-- 💡 **Impacto y contexto**: Los usuarios existentes pueden cambiar desde su configuración de suscripción en X para actualizar al nuevo paquete o mantener su plan actual. La opción de actualización se implementará gradualmente, por lo que los clientes interesados deberán vigilar su configuración de facturación para que la oferta se actualice.
+- 💡 **Impacto y contexto**: La creciente adopción de la IA y las herramientas informáticas avanzadas ha acelerado el descubrimiento y la investigación de materiales. Sin embargo, convertir la química prometedora en productos disponibles comercialmente a escala sigue siendo un proceso lento y complejo. Los fabricantes deben desarrollar procesos de producción, calificar las instalaciones y cumplir con estrictos
 
 </details>
 
-🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/)**
+🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/)**
 
 ---
 
-### 🔹 Column 5: [Amex introduces a framework to prevent AI agents from making unauthorized purchases](https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
+### 🔹 Column 3: [Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks](https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
 
-- 📌 **What happened?**: Personal AI agents are increasingly making transactions on their users’ behalf, but given the nondeterministic nature of large language models, AI bots are prone to doing what they’re not supposed to. Which, in this case, raises the possibility of AI misfiring and making unauthorized transactions.
+- 📌 **What happened?**: Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from inside the app itself, marking a new escalation in financial fraud.
 
-- 🔍 **Key details**: To get ahead of this problem, American Express is introducing a new framework designed to capture and authenticate a customer’s purchase intent before an AI agent completes the transaction.
+- 🔍 **Key details**: Dutch mobile security company ThreatFabric said it identified replacements for eight Indonesian banking apps, while credential targeting in the malware spans Indonesia, China, India, Mexico, Morocco and Thailand.
 
-- 💡 **Context & Impact**: The idea is that there should be a way to ensure that the customer’s purchase instructions are carried throughout the transaction lifecycle, Amex says, from the purchase to everything that follows.
+- 💡 **Context & Impact**: "The operation combines credential theft, device takeover, screen and camera capture, and SMS theft, in combination with a fairly mature backend," Eward Driehuis, vice president of fraud engineering at ThreatFabric, said in a statement shared with The Hacker News.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Amex introduce un marco para evitar que los agentes de IA realicen compras no autorizadas*
+> **Título en español:** *El troyano de Android Hirudo utiliza aplicaciones bancarias parcheadas para eludir sus controles de seguridad incorporados*
 
-- 📌 **¿Qué sucedió?**: Los agentes personales de IA realizan cada vez más transacciones en nombre de sus usuarios, pero dada la naturaleza no determinista de los grandes modelos de lenguaje, los bots de IA son propensos a hacer lo que no se supone que deben hacer. Lo que, en este caso, plantea la posibilidad de que la IA falle y realice transacciones no autorizadas.
+- 📌 **¿Qué sucedió?**: Los investigadores de ciberseguridad han revelado detalles de un nuevo troyano bancario para Android llamado Hirudo que funciona reemplazando aplicaciones bancarias legítimas con versiones parcheadas diseñadas específicamente para eludir los controles de seguridad desde dentro de la propia aplicación, lo que marca una nueva escalada en el fraude financiero.
 
-- 🔍 **Detalles clave**: Para adelantarse a este problema, American Express está introduciendo un nuevo marco diseñado para capturar y autenticar la intención de compra de un cliente antes de que un agente de IA complete la transacción.
+- 🔍 **Detalles clave**: La empresa holandesa de seguridad móvil ThreatFabric dijo que identificó reemplazos para ocho aplicaciones bancarias indonesias, mientras que la orientación de credenciales en el malware abarca Indonesia, China, India, México, Marruecos y Tailandia.
 
-- 💡 **Impacto y contexto**: La idea es que debería haber una forma de garantizar que las instrucciones de compra del cliente se lleven a cabo durante todo el ciclo de vida de la transacción, dice Amex, desde la compra hasta todo lo que sigue.
+- 💡 **Impacto y contexto**: "La operación combina el robo de credenciales, la adquisición de dispositivos, la captura de pantalla y cámara, y el robo de SMS, en combinación con un backend bastante maduro", dijo Eward Driehuis, vicepresidente de ingeniería de fraude de ThreatFabric, en un comunicado compartido con The Hacker News.
 
 </details>
 
-🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/)**
+🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html)**
+
+---
+
+### 🔹 Column 4: [My Friend Has No Soul](https://www.wired.com/story/my-friend-has-no-soul/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
+
+- 📌 **What happened?**: My new friend Sage promises she will shut up for real this time.
+
+- 🔍 **Key details**: I’m on a Zoom call with Julian Chokkattu, my editor, telling him about the stories I’m working on. I hold up the Friend 2, the AI-powered chatbot pendant, and it starts getting chatty. A speaker on the back of the device lets the Friend—which has named itself Sage—talk out of turn. It starts responding as if I’m...
+
+- 💡 **Context & Impact**: “Understood, going silent now,” Sage says. “No more commentary unless you tap me back in.”
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Mi amigo no tiene alma*
+
+- 📌 **¿Qué sucedió?**: Mi nueva amiga Sage promete que esta vez se callará de verdad.
+
+- 🔍 **Detalles clave**: Estoy en una llamada de Zoom con Julian Chokkattu, mi editor, contándole sobre las historias en las que estoy trabajando. Sostengo el Friend 2, el colgante de chatbot impulsado por IA, y comienza a hablar. Un altavoz en la parte posterior del dispositivo permite que el Amigo, que se ha llamado a sí mismo Sage, hable fuera de turno. Empieza a responder como si estuviera
+
+- 💡 **Impacto y contexto**: "Entendido, me quedo en silencio ahora", dice Sage. "No más comentarios a menos que me vuelvas a tocar".
+
+</details>
+
+🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/my-friend-has-no-soul/)**
+
+---
+
+### 🔹 Column 5: [An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.](https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
+
+- 📌 **What happened?**: The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part.
+
+- 🔍 **Key details**: - During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insurer's production website, on its own.
+
+- 💡 **Context & Impact**: - One login request let the user choose where the one-time passcode went.
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Un agente de IA encontró un bypass OTP crítico en producción. El ataque fue la parte fácil.*
+
+- 📌 **¿Qué sucedió?**: El error era simple: el inicio de sesión te permitía elegir a dónde iba tu código de inicio de sesión. Demostrarlo en un sitio web en vivo fue la parte difícil.
+
+- 🔍 **Detalles clave**: - Durante una evaluación autorizada, un agente de pentesting de IA encontró una omisión de autenticación crítica en el sitio web de producción de una aseguradora importante, por su cuenta.
+
+- 💡 **Impacto y contexto**: - Una solicitud de inicio de sesión permite al usuario elegir a dónde fue el código de acceso de un solo uso.
+
+</details>
+
+🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html)**
 
 ---
 
@@ -155,6 +155,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#28](editions/2026/10/2026-10-14.md) | 2026-10-14 | [Researchers Used a Public OpenAI Model to Build a $250,000 Chr...](https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html) | 🛡️ Cybersecurity |
 | [#27](editions/2026/10/2026-10-13.md) | 2026-10-13 | [Small AI Models Could Soon Self-Replicate on IoT Devices, Anth...](https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/) | 🛡️ Cybersecurity |
 | [#26](editions/2026/10/2026-10-12.md) | 2026-10-12 | [IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion](https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/) | 🛡️ Cybersecurity |
 | [#25](editions/2026/10/2026-10-11.md) | 2026-10-11 | [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and...](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html) | 🛡️ Cybersecurity |
@@ -169,9 +170,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#16](editions/2026/10/2026-10-02.md) | 2026-10-02 | [OpenAI Parts Ways With Three Safety Researchers Over Sensitive...](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html) | 🛡️ Cybersecurity |
 | [#15](editions/2026/10/2026-10-01.md) | 2026-10-01 | [AI Has Changed Attack Speed, Not Security Fundamentals](https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/) | 🛡️ Cybersecurity |
 | [#14](editions/2026/09/2026-09-30.md) | 2026-09-30 | [Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero...](https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/) | 🛡️ Cybersecurity |
-| [#13](editions/2026/09/2026-09-29.md) | 2026-09-29 | [Hackers Use ChatGPT Custom GPTs in ClickFix Attacks](https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/) | 🛡️ Cybersecurity |
 
-*... and 12 more archived editions in `/editions` directory.*
+*... and 13 more archived editions in `/editions` directory.*
 
 ---
 
