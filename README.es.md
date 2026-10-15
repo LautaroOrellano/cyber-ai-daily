@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 28** — *Miércoles, 14 de Octubre de 2026*
+> **📅 Edición de Hoy: N° 29** — *Jueves, 15 de Octubre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_28-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_29-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,70 +17,70 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [Los investigadores utilizaron un modelo público de OpenAI para crear un exploit de cadena completa de Chrome de $ 250.000 en seis días](https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days`
+### 📌 [CikaBika Bot RAT utiliza Discord para C&C](https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `CikaBika Bot RAT Uses Discord for C&C`
 
-- 📌 **¿Qué sucedió?**: Un equipo de la firma de seguridad XBOW encadenó tres errores de Google Chrome entonces desconocidos en un solo ataque que ejecuta código en un ordenador con Windows cuando el usuario solo carga una página web, dijo la compañía.
+- 📌 **¿Qué sucedió?**: Darktrace ha descubierto una nueva campaña de malware que distribuye un RAT basado en Rust que se basa en Discord para el comando y control (C&C).
 
-- 🔍 **Detalles clave**: Sus investigadores construyeron el ataque en seis días dirigiendo a los agentes de IA que ejecutan el modelo GPT-5.6 Sol de OpenAI disponible públicamente. Desde entonces, Google ha confirmado los tres errores, los ha corregido y ha pagado a XBOW su principal recompensa de $ 250,000 por un exploit completo de Chrome.
+- 🔍 **Detalles clave**: Apodado CikaBika Bot, el malware se ha distribuido a través de señuelos con temática de documentos, probablemente como parte de ataques de phishing, y proporciona a los atacantes capacidades de reconocimiento, ejecución remota y exfiltración de datos en sistemas infectados.
 
-- 💡 **Impacto y contexto**: El ataque es una cadena completa: un conjunto de errores que se utilizan juntos para romper todas las capas de protección de Chrome, desde una página web hasta el ordenador.
+- 💡 **Impacto y contexto**: Las víctimas reciben un archivo PDF que contiene una imagen de disco con un acceso directo a Windows (LNK) que se hace pasar por un documento de Word. Una vez abierto, muestra un documento señuelo y lanza un proceso oculto de PowerShell para decodificar y ejecutar un ejecutable incrustado.
 
-👉 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html)**
+👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Scimplify recauda $ 25 MILLONES para desafiar el control de China sobre materiales críticos con IA](https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Scimplify raises $25M to challenge China’s grip on critical materials with AI`
+### 🔹 Columna 2: [Tus secretos no están seguros con este lindo juguete robot: están en servidores chinos listos para ser pirateados](https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked`
 
-- 📌 **¿Qué sucedió?**: A medida que los fabricantes de todas las industrias se esfuerzan por reducir su dependencia de los proveedores chinos, la startup india Scimplify ha recaudado $ 25 millones para expandir su enfoque impulsado por la IA para producir productos químicos especializados y materiales críticos, con semiconductores, defensa y energía emergiendo como mercados clave en crecimiento.
+- 📌 **¿Qué sucedió?**: Hay una nueva mascota digital en la ciudad: un lindo malvavisco de robot que puede cambiar sus expresiones de dibujos animados para adaptarse a tu estado de ánimo. Pero si tú o tus hijos hablan con "Eiliko" por Wi-Fi, llamará a casa a China. Su compañero de IA puede almacenar literalmente todo lo que le dices en servidores chinos, donde los hackers pueden fácilmente
 
-- 🔍 **Detalles clave**: La ronda estratégica de acciones fue liderada por Hitachi Ventures, y los clientes Henkel y Teknor Apex se unieron como nuevos inversores. También participaron los patrocinadores existentes Accel India, Bertelsmann India Investments, Omnivore y 3one4 Capital. La ronda valora la startup con sede en Bangalore en $ 250 millones después de la inversión,
+- 🔍 **Detalles clave**: Tus secretos no están seguros con este lindo juguete robot: están en servidores chinos listos para ser pirateados
 
-- 💡 **Impacto y contexto**: La creciente adopción de la IA y las herramientas informáticas avanzadas ha acelerado el descubrimiento y la investigación de materiales. Sin embargo, convertir la química prometedora en productos disponibles comercialmente a escala sigue siendo un proceso lento y complejo. Los fabricantes deben desarrollar procesos de producción, calificar las instalaciones y cumplir con estrictos
+- 💡 **Impacto y contexto**: Eiliko y su fabricante, Energize Lab, aparentemente no son de fiar.
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/)**
-
----
-
-### 🔹 Columna 3: [El troyano de Android Hirudo utiliza aplicaciones bancarias parcheadas para eludir sus controles de seguridad incorporados](https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks`
-
-- 📌 **¿Qué sucedió?**: Los investigadores de ciberseguridad han revelado detalles de un nuevo troyano bancario para Android llamado Hirudo que funciona reemplazando aplicaciones bancarias legítimas con versiones parcheadas diseñadas específicamente para eludir los controles de seguridad desde dentro de la propia aplicación, lo que marca una nueva escalada en el fraude financiero.
-
-- 🔍 **Detalles clave**: La empresa holandesa de seguridad móvil ThreatFabric dijo que identificó reemplazos para ocho aplicaciones bancarias indonesias, mientras que la orientación de credenciales en el malware abarca Indonesia, China, India, México, Marruecos y Tailandia.
-
-- 💡 **Impacto y contexto**: "La operación combina el robo de credenciales, la adquisición de dispositivos, la captura de pantalla y cámara, y el robo de SMS, en combinación con un backend bastante maduro", dijo Eward Driehuis, vicepresidente de ingeniería de fraude de ThreatFabric, en un comunicado compartido con The Hacker News.
-
-🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html)**
+🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab)**
 
 ---
 
-### 🔹 Columna 4: [Mi amigo no tiene alma](https://www.wired.com/story/my-friend-has-no-soul/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `My Friend Has No Soul`
+### 🔹 Columna 3: [India exige que se muestre el nombre de la persona que llama registrada en las redes 4G y más nuevas a partir del 1 de noviembre](https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1`
 
-- 📌 **¿Qué sucedió?**: Mi nueva amiga Sage promete que esta vez se callará de verdad.
+- 📌 **¿Qué sucedió?**: El gobierno indio ha ordenado a los proveedores de servicios de telecomunicaciones (TSP) en el país que muestren obligatoriamente los nombres registrados de las personas que llaman junto con sus números para las llamadas entrantes a partir del 1 de noviembre de 2026, en un esfuerzo por ayudar a las personas a identificar las llamadas de números desconocidos y hacer frente al spam o las llamadas fraudulentas.
 
-- 🔍 **Detalles clave**: Estoy en una llamada de Zoom con Julian Chokkattu, mi editor, contándole sobre las historias en las que estoy trabajando. Sostengo el Friend 2, el colgante de chatbot impulsado por IA, y comienza a hablar. Un altavoz en la parte posterior del dispositivo permite que el Amigo, que se ha llamado a sí mismo Sage, hable fuera de turno. Empieza a responder como si estuviera
+- 🔍 **Detalles clave**: Con ese fin, el Departamento de Telecomunicaciones ha emitido una circular instando a los proveedores de servicios a implementar el servicio de Presentación de Nombres de Llamada (CNAP).
 
-- 💡 **Impacto y contexto**: "Entendido, me quedo en silencio ahora", dice Sage. "No más comentarios a menos que me vuelvas a tocar".
+- 💡 **Impacto y contexto**: "En el momento en que se recibe una llamada, el servicio de presentación del nombre que llama presenta la identidad del nombre que llama del usuario que llama en el terminal de usuario del usuario llamado", según una circular emitida por el Ministerio de Comunicaciones de la India con fecha 13 de octubre de 2026.
 
-🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/my-friend-has-no-soul/)**
+🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html)**
 
 ---
 
-### 🔹 Columna 5: [Un agente de IA encontró un bypass OTP crítico en producción. El ataque fue la parte fácil.](https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.`
+### 🔹 Columna 4: [Figma anuncia nuevas funcionalidades para definir cómo trabajan los agentes en su plataforma](https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Figma announces new features to define how agents work on its platform`
 
-- 📌 **¿Qué sucedió?**: El error era simple: el inicio de sesión te permitía elegir a dónde iba tu código de inicio de sesión. Demostrarlo en un sitio web en vivo fue la parte difícil.
+- 📌 **¿Qué sucedió?**: La plataforma de diseño Figma anunció un nuevo editor basado en Markdown para ayudar a definir el diseño de una empresa, incorporar bibliotecas de diseño y código e integrarse con el sistema de gestión de contenido sin cabeza Payload durante el primer evento Config de la empresa en la India. A través de algunas de estas características, la compañía tiene como objetivo proporcionar una definición
 
-- 🔍 **Detalles clave**: - Durante una evaluación autorizada, un agente de pentesting de IA encontró una omisión de autenticación crítica en el sitio web de producción de una aseguradora importante, por su cuenta.
+- 🔍 **Detalles clave**: La compañía presentó una nueva función llamada Figma Specs, que es un editor de rebajas que permite a los usuarios definir su lenguaje de diseño de una manera sencilla. El documento puede servir de referencia para equipos y agentes a la hora de diseñar en Figma. Las especificaciones pueden existir como un archivo independiente en Figma o pueden coexistir dentro del lienzo. Aparte de
 
-- 💡 **Impacto y contexto**: - Una solicitud de inicio de sesión permite al usuario elegir a dónde fue el código de acceso de un solo uso.
+- 💡 **Impacto y contexto**: Además, los equipos pueden aportar más contexto sobre el diseño, incluidas bibliotecas de diseño, bibliotecas de código y pautas para administrar el contexto del sistema de diseño. Los agentes también pueden consultar este sistema centralizado para cumplir con las reglas.
 
-🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/)**
+
+---
+
+### 🔹 Columna 5: [Novela Android RAT ‘Hirudo’ reemplaza aplicaciones bancarias con copias troyanas](https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Novel Android RAT ‘Hirudo’ Replaces Banking Apps With Trojanized Copies`
+
+- 📌 **¿Qué sucedió?**: Una novedosa RAT utiliza reemplazos troyanos de aplicaciones bancarias legítimas para neutralizar los controles de seguridad desde su interior.
+
+- 🔍 **Detalles clave**: Hirudo es un troyano bancario de acceso remoto para Android que combina elementos de un troyano bancario tradicional y una RAT con todas las funciones: incluye robo de credenciales en el dispositivo con control remoto en vivo del mismo teléfono. El control remoto proporciona visualización de pantalla en vivo a través de WebRTC, acceso remoto a la cámara e interacción remota
+
+- 💡 **Impacto y contexto**: El malware, rastreado y analizado por ThreatFabric, se entrega a través de un cuentagotas contenido en contenido descargado de aspecto genuino (una aplicación de compras, una aplicación de video para adultos o una aplicación de drama corto anunciada a través de las redes sociales). Las víctimas instalan lo que parece ser una aplicación legítima, pero una vez instalada, el cuentagotas contenido
+
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/)**
 
 ---
 
@@ -90,6 +90,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#29](editions/2026/10/2026-10-15.md) | 2026-10-15 | [CikaBika Bot RAT utiliza Discord para C&C](https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/) | 🛡️ Ciberseguridad |
 | [#28](editions/2026/10/2026-10-14.md) | 2026-10-14 | [Los investigadores utilizaron un modelo público de OpenAI...](https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html) | 🛡️ Ciberseguridad |
 | [#27](editions/2026/10/2026-10-13.md) | 2026-10-13 | [Los pequeños modelos de IA pronto podrían autorreplicarse...](https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/) | 🛡️ Ciberseguridad |
 | [#26](editions/2026/10/2026-10-12.md) | 2026-10-12 | [IonQ adquirirá Zero Trust Firm Elisity por hasta 1.300 mi...](https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/) | 🛡️ Ciberseguridad |
@@ -104,9 +105,8 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 | [#17](editions/2026/10/2026-10-03.md) | 2026-10-03 | [doxx.net recauda 38 millones de $ para prevenir las desve...](https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/) | 🛡️ Ciberseguridad |
 | [#16](editions/2026/10/2026-10-02.md) | 2026-10-02 | [OpenAI recambia formas con tres investigadores de segurid...](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html) | 🛡️ Ciberseguridad |
 | [#15](editions/2026/10/2026-10-01.md) | 2026-10-01 | [La IA ha cambiado la velocidad de ataque, no los fundamen...](https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/) | 🛡️ Ciberseguridad |
-| [#14](editions/2026/09/2026-09-30.md) | 2026-09-30 | [Organizaciones gubernamentales y financieras atacadas en ...](https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/) | 🛡️ Ciberseguridad |
 
-*... y 13 ediciones más en la carpeta `/editions`.*
+*... y 14 ediciones más en la carpeta `/editions`.*
 
 ---
 

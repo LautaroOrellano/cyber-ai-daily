@@ -446,5 +446,22 @@
       "https://www.wired.com/story/my-friend-has-no-soul/",
       "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html"
     ]
+  },
+  {
+    "edition": 29,
+    "date": "2026-10-15",
+    "rel_path": "editions/2026/10/2026-10-15.md",
+    "title_en": "CikaBika Bot RAT Uses Discord for C&C",
+    "title_es": "CikaBika Bot RAT utiliza Discord para C&C",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/",
+    "story_links": [
+      "https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/",
+      "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
+      "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/"
+    ]
   }
 ]
