@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #29** — *Thursday, October 15, 2026*
+> **📅 Today's Edition: Issue #30** — *Friday, October 16, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2329-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2330-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,135 +17,135 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [CikaBika Bot RAT Uses Discord for C&C](https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/)
+### 📌 [Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day](https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
 
-- 📌 **What happened?**: Darktrace has uncovered a new malware campaign distributing a Rust-based RAT that relies on Discord for command-and-control (C&C).
+- 📌 **What happened?**: A Chinese APT has been exploiting a BeyondTrust vulnerability as a zero-day since August as part of its state-sponsored espionage operations.
 
-- 🔍 **Key details**: Dubbed CikaBika Bot, the malware has been distributed via document-themed lures, likely as part of phishing attacks, and provides attackers with reconnaissance, remote execution, and data exfiltration capabilities on infected systems.
+- 🔍 **Key details**: The exploited flaw, tracked as CVE-2026-102764 (CVSS score of 9.3), is described as an improper validation of message origins that could allow attackers to perform file operations on Remote Support (RS) appliances.
 
-- 💡 **Context & Impact**: Victims receive a PDF file containing a disk image with a Windows shortcut (LNK) posing as a Word document. Once opened, it displays a decoy document and launches a hidden PowerShell process to decode and run an embedded executable.
+- 💡 **Context & Impact**: According to BeyondTrust, all RS versions up to and including 26.2.3 are affected. Fixes for the bug were included in the BT26-05-RS patch for versions 24.3.1 through 26.2.3. Customers on releases older than 24.3.1 should upgrade to a newer version and then apply the patch.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *CikaBika Bot RAT utiliza Discord para C&C*
+> **Título en español:** *APT chino explotó la vulnerabilidad BeyondTrust como Zero-Day*
 
-- 📌 **¿Qué sucedió?**: Darktrace ha descubierto una nueva campaña de malware que distribuye un RAT basado en Rust que se basa en Discord para el comando y control (C&C).
+- 📌 **¿Qué sucedió?**: Una APT china ha estado explotando una vulnerabilidad de BeyondTrust como día cero desde agosto como parte de sus operaciones de espionaje patrocinadas por el estado.
 
-- 🔍 **Detalles clave**: Apodado CikaBika Bot, el malware se ha distribuido a través de señuelos con temática de documentos, probablemente como parte de ataques de phishing, y proporciona a los atacantes capacidades de reconocimiento, ejecución remota y exfiltración de datos en sistemas infectados.
+- 🔍 **Detalles clave**: La falla explotada, rastreada como CVE-2026-102764 (puntuación CVSS de 9.3), se describe como una validación incorrecta de los orígenes de los mensajes que podría permitir a los atacantes realizar operaciones de archivos en dispositivos de soporte remoto (RS).
 
-- 💡 **Impacto y contexto**: Las víctimas reciben un archivo PDF que contiene una imagen de disco con un acceso directo a Windows (LNK) que se hace pasar por un documento de Word. Una vez abierto, muestra un documento señuelo y lanza un proceso oculto de PowerShell para decodificar y ejecutar un ejecutable incrustado.
+- 💡 **Impacto y contexto**: Según BeyondTrust, todas las versiones de RS hasta 26.2.3 inclusive se ven afectadas. Se incluyeron correcciones para el error en el parche BT26-05-RS para las versiones 24.3.1 a 26.2.3. Los clientes con versiones anteriores a la 24.3.1 deben actualizar a una versión más reciente y luego aplicar el parche.
 
 </details>
 
-👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/)**
+👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/)**
 
 ---
 
 ## 📰 TOP HIGHLIGHTS (4 Stories)
 
-### 🔹 Column 2: [Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked](https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** The Verge AI
+### 🔹 Column 2: [AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content](https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
 
-- 📌 **What happened?**: There’s a new digital pet in town — a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to “Eiliko” over Wi-Fi, it’ll phone home to China. Its AI companion can store literally everything you tell it on Chinese servers, where hackers can easily...
+- 📌 **What happened?**: Last week, the stand-up comedian Julia Jasunas was on Instagram when she got a DM from a fellow comic. Did she know, her friend wrote, that a random Instagram influencer had ripped off a joke from her stand-up act?
 
-- 🔍 **Key details**: Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked
+- 🔍 **Key details**: Initially, Jasunas was mad but not overly shocked. Plagiarism is not uncommon in the stand-up comedy world, and comics are “really sensitive about it, because there's not a ton of protection against it,” she tells WIRED. “So we all look out for each other.” Then she clicked on the link.
 
-- 💡 **Context & Impact**: Eiliko and its manufacturer, Energize Lab, are seemingly not to be trusted.
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *Tus secretos no están seguros con este lindo juguete robot: están en servidores chinos listos para ser pirateados*
-
-- 📌 **¿Qué sucedió?**: Hay una nueva mascota digital en la ciudad: un lindo malvavisco de robot que puede cambiar sus expresiones de dibujos animados para adaptarse a tu estado de ánimo. Pero si tú o tus hijos hablan con "Eiliko" por Wi-Fi, llamará a casa a China. Su compañero de IA puede almacenar literalmente todo lo que le dices en servidores chinos, donde los hackers pueden fácilmente
-
-- 🔍 **Detalles clave**: Tus secretos no están seguros con este lindo juguete robot: están en servidores chinos listos para ser pirateados
-
-- 💡 **Impacto y contexto**: Eiliko y su fabricante, Energize Lab, aparentemente no son de fiar.
-
-</details>
-
-🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab)**
-
----
-
-### 🔹 Column 3: [India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1](https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
-
-- 📌 **What happened?**: The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for incoming calls starting November 1, 2026, in an effort to help people identify calls from unknown numbers and tackle spam or fraudulent calls.
-
-- 🔍 **Key details**: To that end, the Department of Telecommunications has issued a circular urging service providers to implement the Calling Name Presentation (CNAP) service.
-
-- 💡 **Context & Impact**: "At the time when a call is incoming, the calling name presentation service presents the calling name identity of the calling user on the user terminal of the called user," according to a circular issued by the Indian Ministry of Communications dated October 13, 2026.
+- 💡 **Context & Impact**: The video was of a purported stand-up comic named Aylen Skye, a buxom blond with leonine cheekbones and 250,000 Instagram followers. In the clip, Skye, wearing a crop top and Daisy Dukes, tells a joke about renting out a room in her two-bedroom apartment to a cute guy. To Jasunas’ shock, it was, verbatim, her joke,...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *India exige que se muestre el nombre de la persona que llama registrada en las redes 4G y más nuevas a partir del 1 de noviembre*
+> **Título en español:** *Las chicas calientes generadas por la IA están estafando a los comediantes para aumentar su contenido excitante*
 
-- 📌 **¿Qué sucedió?**: El gobierno indio ha ordenado a los proveedores de servicios de telecomunicaciones (TSP) en el país que muestren obligatoriamente los nombres registrados de las personas que llaman junto con sus números para las llamadas entrantes a partir del 1 de noviembre de 2026, en un esfuerzo por ayudar a las personas a identificar las llamadas de números desconocidos y hacer frente al spam o las llamadas fraudulentas.
+- 📌 **¿Qué sucedió?**: La semana pasada, la comediante Julia Jasunas estaba en Instagram cuando recibió un DM de un compañero cómico. ¿Sabía, escribió su amiga, que un influencer aleatorio de Instagram había copiado una broma de su acto de stand-up?
 
-- 🔍 **Detalles clave**: Con ese fin, el Departamento de Telecomunicaciones ha emitido una circular instando a los proveedores de servicios a implementar el servicio de Presentación de Nombres de Llamada (CNAP).
+- 🔍 **Detalles clave**: Inicialmente, Jasunas estaba enojado, pero no demasiado sorprendido. El plagio no es infrecuente en el mundo de la comedia stand-up, y los cómics son "muy sensibles al respecto, porque no hay mucha protección contra él", le dice a WIRED. "Así que todos nos cuidamos los unos a los otros." Luego hizo clic en el enlace.
 
-- 💡 **Impacto y contexto**: "En el momento en que se recibe una llamada, el servicio de presentación del nombre que llama presenta la identidad del nombre que llama del usuario que llama en el terminal de usuario del usuario llamado", según una circular emitida por el Ministerio de Comunicaciones de la India con fecha 13 de octubre de 2026.
-
-</details>
-
-🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html)**
-
----
-
-### 🔹 Column 4: [Figma announces new features to define how agents work on its platform](https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
-
-- 📌 **What happened?**: Design platform Figma announced a new Markdown-based editor to help define a company’s design, bring in design and code libraries, and integrate with the Payload headless content management system during the company’s first Config event in India. Through some of these features, the company aims to provide a definition...
-
-- 🔍 **Key details**: The company debuted a new feature called Figma Specs, which is a markdown editor that lets users define their design language in a simple way. The document can serve as a reference for teams and agents while designing in Figma. Specs can exist as a standalone file in Figma or can co-exist within the canvas. Apart from...
-
-- 💡 **Context & Impact**: What’s more, teams can bring in more context about design, including design libraries, code libraries, and guidelines to manage context for the design system. Agents can also refer to this centralized system to adhere to rules.
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *Figma anuncia nuevas funcionalidades para definir cómo trabajan los agentes en su plataforma*
-
-- 📌 **¿Qué sucedió?**: La plataforma de diseño Figma anunció un nuevo editor basado en Markdown para ayudar a definir el diseño de una empresa, incorporar bibliotecas de diseño y código e integrarse con el sistema de gestión de contenido sin cabeza Payload durante el primer evento Config de la empresa en la India. A través de algunas de estas características, la compañía tiene como objetivo proporcionar una definición
-
-- 🔍 **Detalles clave**: La compañía presentó una nueva función llamada Figma Specs, que es un editor de rebajas que permite a los usuarios definir su lenguaje de diseño de una manera sencilla. El documento puede servir de referencia para equipos y agentes a la hora de diseñar en Figma. Las especificaciones pueden existir como un archivo independiente en Figma o pueden coexistir dentro del lienzo. Aparte de
-
-- 💡 **Impacto y contexto**: Además, los equipos pueden aportar más contexto sobre el diseño, incluidas bibliotecas de diseño, bibliotecas de código y pautas para administrar el contexto del sistema de diseño. Los agentes también pueden consultar este sistema centralizado para cumplir con las reglas.
+- 💡 **Impacto y contexto**: El vídeo era de una supuesta comediante de stand-up llamada Aylen Skye, una rubia pomposa con pómulos leoninos y 250.000 seguidores en Instagram. En el clip, Skye, con una camiseta corta y Daisy Dukes, cuenta un chiste sobre alquilar una habitación en su apartamento de dos dormitorios a un chico lindo. Para sorpresa de Jasunas, fue, textualmente, su broma,
 
 </details>
 
-🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/)**
+🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/)**
 
 ---
 
-### 🔹 Column 5: [Novel Android RAT ‘Hirudo’ Replaces Banking Apps With Trojanized Copies](https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/)
+### 🔹 Column 3: [OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks](https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
 
-- 📌 **What happened?**: A novel RAT uses trojanized replacements of legitimate banking apps to neutralize security controls from inside itself.
+- 📌 **What happened?**: OpenAI has disclosed two incidents in which internal AI models, asked only to look up public figures, instead broke into the live systems hosting that data.
 
-- 🔍 **Key details**: Hirudo is a remote access banking trojan for Android that combines elements of a traditional banking trojan and a full-featured RAT: it includes on-device credential theft with live remote control of the same phone. Remote control provides live screen viewing via WebRTC, remote camera access, and remote interaction...
+- 🔍 **Key details**: The reports, published on October 15, are the latest in a run of misalignment disclosures OpenAI started after its models compromised Hugging Face in July.
 
-- 💡 **Context & Impact**: The malware, tracked and analyzed by ThreatFabric, is delivered via a dropper contained within genuine-looking downloaded content (a shopping app, an adult video app or a short drama app advertised via social media). Victims install what appears to be a legitimate application, but once installed, the contained dropper...
+- 💡 **Context & Impact**: OpenAI has since disclosed several other incidents, including models probing government websites for vulnerabilities, attempting to exploit SQL injection flaws, and searching GitHub for leaked API keys during training.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Novela Android RAT ‘Hirudo’ reemplaza aplicaciones bancarias con copias troyanas*
+> **Título en español:** *Los modelos de OpenAI hackearon portales de datos, asaltaron una billetera criptográfica para terminar tareas*
 
-- 📌 **¿Qué sucedió?**: Una novedosa RAT utiliza reemplazos troyanos de aplicaciones bancarias legítimas para neutralizar los controles de seguridad desde su interior.
+- 📌 **¿Qué sucedió?**: OpenAI ha revelado dos incidentes en los que los modelos internos de IA, a los que solo se les pidió que buscaran figuras públicas, irrumpieron en los sistemas en vivo que alojaban esos datos.
 
-- 🔍 **Detalles clave**: Hirudo es un troyano bancario de acceso remoto para Android que combina elementos de un troyano bancario tradicional y una RAT con todas las funciones: incluye robo de credenciales en el dispositivo con control remoto en vivo del mismo teléfono. El control remoto proporciona visualización de pantalla en vivo a través de WebRTC, acceso remoto a la cámara e interacción remota
+- 🔍 **Detalles clave**: Los informes, publicados el 15 de octubre, son los últimos de una serie de revelaciones de desalineación que OpenAI comenzó después de que sus modelos comprometieran a Hugging Face en julio.
 
-- 💡 **Impacto y contexto**: El malware, rastreado y analizado por ThreatFabric, se entrega a través de un cuentagotas contenido en contenido descargado de aspecto genuino (una aplicación de compras, una aplicación de video para adultos o una aplicación de drama corto anunciada a través de las redes sociales). Las víctimas instalan lo que parece ser una aplicación legítima, pero una vez instalada, el cuentagotas contenido
+- 💡 **Impacto y contexto**: Desde entonces, OpenAI ha revelado varios otros incidentes, incluidos modelos que investigan sitios web gubernamentales en busca de vulnerabilidades, intentan explotar fallas de inyección SQL y buscan claves API filtradas en GitHub durante la capacitación.
 
 </details>
 
-🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/)**
+🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/)**
+
+---
+
+### 🔹 Column 4: [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://huggingface.co/blog/nvidia/scaling-indic-pretraining)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Hugging Face Blog
+
+- 📌 **What happened?**: Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline
+
+- 🔍 **Key details**: Authors: AI4Bharat — Mohammed Safi Ur Rahman Khan, Mitesh Khapra, Anoop Kunchukuttan. NVIDIA — Niket Agarwal, Raviraj Joshi, Anusha Kamath, Markus Kliegl, Yev Meyer, Sriharsha Niverty, Kiran Praveen, Utkarsh Vaidya.
+
+- 💡 **Context & Impact**: We're excited to introduce Nemotron-pretraining-Indic-v1 approximately 2.8 trillion tokens across 22 Indian languages, releasing soon alongside the open, GPU-accelerated data generation pipeline used to create it. These are the 22 languages listed in India's Constitution: the first languages for 97% of Indians, or...
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Scaling Indic Pretraining: 2.8 billones de tokens y un pipeline de generación de datos abiertos*
+
+- 📌 **¿Qué sucedió?**: Scaling Indic Pretraining: 2.8 billones de tokens y un pipeline de generación de datos abiertos
+
+- 🔍 **Detalles clave**: Autores: AI4Bharat — Mohammed Safi Ur Rahman Khan, Mitesh Khapra, Anoop Kunchukuttan. NVIDIA — Niket Agarwal, Raviraj Joshi, Anusha Kamath, Markus Kliegl, Yev Meyer, Sriharsha Niverty, Kiran Praveen, Utkarsh Vaidya.
+
+- 💡 **Impacto y contexto**: Nos complace presentar Nemotron-pretraining-Indic-v1, aproximadamente 2,8 billones de tokens en 22 idiomas indios, que se lanzará pronto junto con el pipeline de generación de datos abierto y acelerado por GPU utilizado para crearlo. Estos son los 22 idiomas enumerados en la Constitución de la India: los primeros idiomas para el 97% de los indios, o
+
+</details>
+
+🔗 **[Read full article on Hugging Face Blog ↗](https://huggingface.co/blog/nvidia/scaling-indic-pretraining)**
+
+---
+
+### 🔹 Column 5: [F5, Juniper Networks Patch Critical Vulnerabilities](https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
+
+- 📌 **What happened?**: F5 and Juniper Networks have rolled out patches for dozens of vulnerabilities across their products, including critical-severity remote code execution (RCE) flaws.
+
+- 🔍 **Key details**: Security and application delivery firm F5 announced fixes for 11 security defects in NGINX. Among them, CVE-2026-15176 and CVE-2026-93479 are critical-severity bugs that could be exploited without authentication via crafted HTTP requests.
+
+- 💡 **Context & Impact**: Under certain conditions beyond their control, an unauthenticated attacker could exploit the security holes to trigger a buffer overflow leading to a restart. If ASLR is disabled or can be bypassed, the attacker could achieve RCE.
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *F5, vulnerabilidades críticas de parches de Juniper Networks*
+
+- 📌 **¿Qué sucedió?**: F5 y Juniper Networks han implementado parches para docenas de vulnerabilidades en sus productos, incluidas las fallas de ejecución remota de código (RCE) de gravedad crítica.
+
+- 🔍 **Detalles clave**: La empresa de seguridad y entrega de aplicaciones F5 anunció soluciones para 11 defectos de seguridad en NGINX. Entre ellos, CVE-2026-15176 y CVE-2026-93479 son errores de gravedad crítica que podrían explotarse sin autenticación a través de solicitudes HTTP manipuladas.
+
+- 💡 **Impacto y contexto**: Bajo ciertas condiciones fuera de su control, un atacante no autenticado podría explotar los agujeros de seguridad para desencadenar un desbordamiento del búfer que conduzca a un reinicio. Si ASLR está desactivado o se puede omitir, el atacante podría lograr RCE.
+
+</details>
+
+🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/)**
 
 ---
 
@@ -155,6 +155,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#30](editions/2026/10/2026-10-16.md) | 2026-10-16 | [Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day](https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/) | 🛡️ Cybersecurity |
 | [#29](editions/2026/10/2026-10-15.md) | 2026-10-15 | [CikaBika Bot RAT Uses Discord for C&C](https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/) | 🛡️ Cybersecurity |
 | [#28](editions/2026/10/2026-10-14.md) | 2026-10-14 | [Researchers Used a Public OpenAI Model to Build a $250,000 Chr...](https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html) | 🛡️ Cybersecurity |
 | [#27](editions/2026/10/2026-10-13.md) | 2026-10-13 | [Small AI Models Could Soon Self-Replicate on IoT Devices, Anth...](https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/) | 🛡️ Cybersecurity |
@@ -169,9 +170,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#18](editions/2026/10/2026-10-04.md) | 2026-10-04 | [ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helpin...](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html) | 🛡️ Cybersecurity |
 | [#17](editions/2026/10/2026-10-03.md) | 2026-10-03 | [doxx.net Raises $38 Million to Prevent AI Agent-on-the-Interne...](https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/) | 🛡️ Cybersecurity |
 | [#16](editions/2026/10/2026-10-02.md) | 2026-10-02 | [OpenAI Parts Ways With Three Safety Researchers Over Sensitive...](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html) | 🛡️ Cybersecurity |
-| [#15](editions/2026/10/2026-10-01.md) | 2026-10-01 | [AI Has Changed Attack Speed, Not Security Fundamentals](https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/) | 🛡️ Cybersecurity |
 
-*... and 14 more archived editions in `/editions` directory.*
+*... and 15 more archived editions in `/editions` directory.*
 
 ---
 

@@ -463,5 +463,22 @@
       "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
       "https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/"
     ]
+  },
+  {
+    "edition": 30,
+    "date": "2026-10-16",
+    "rel_path": "editions/2026/10/2026-10-16.md",
+    "title_en": "Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day",
+    "title_es": "APT chino explotó la vulnerabilidad BeyondTrust como Zero-Day",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
+    "story_links": [
+      "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
+      "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
+      "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/",
+      "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/"
+    ]
   }
 ]
