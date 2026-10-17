@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #30** — *Friday, October 16, 2026*
+> **📅 Today's Edition: Issue #31** — *Saturday, October 17, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2330-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2331-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,135 +17,135 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day](https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/)
+### 📌 [Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel](https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
 
-- 📌 **What happened?**: A Chinese APT has been exploiting a BeyondTrust vulnerability as a zero-day since August as part of its state-sponsored espionage operations.
+- 📌 **What happened?**: Candiru spyware has infected devices at international news network Al Jazeera in zero-click attacks, via targeted advertisements, Canadian internet watchdog group Citizen Lab reports.
 
-- 🔍 **Key details**: The exploited flaw, tracked as CVE-2026-102764 (CVSS score of 9.3), is described as an improper validation of message origins that could allow attackers to perform file operations on Remote Support (RS) appliances.
+- 🔍 **Key details**: As part of the operation, dubbed AdFection, ads purchased by Israeli company Discover-Tech were used to de-anonymize, fingerprint, and infect users, and also allow threat actors to track millions of devices.
 
-- 💡 **Context & Impact**: According to BeyondTrust, all RS versions up to and including 26.2.3 are affected. Fixes for the bug were included in the BT26-05-RS patch for versions 24.3.1 through 26.2.3. Customers on releases older than 24.3.1 should upgrade to a newer version and then apply the patch.
+- 💡 **Context & Impact**: As part of the online advertising ecosystem, companies bid at billions of daily Real-Time Bidding (RTB) auctions hosted on ad exchanges for a chance to serve an ad to a user.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *APT chino explotó la vulnerabilidad BeyondTrust como Zero-Day*
+> **Título en español:** *La empresa publicitaria israelí se duplicó como el canal de entrega de spyware sin clic de Candiru*
 
-- 📌 **¿Qué sucedió?**: Una APT china ha estado explotando una vulnerabilidad de BeyondTrust como día cero desde agosto como parte de sus operaciones de espionaje patrocinadas por el estado.
+- 📌 **¿Qué sucedió?**: El software espía Candiru ha infectado dispositivos en la red internacional de noticias Al Jazeera en ataques de cero clics, a través de anuncios dirigidos, informa el grupo canadiense de vigilancia de Internet Citizen Lab.
 
-- 🔍 **Detalles clave**: La falla explotada, rastreada como CVE-2026-102764 (puntuación CVSS de 9.3), se describe como una validación incorrecta de los orígenes de los mensajes que podría permitir a los atacantes realizar operaciones de archivos en dispositivos de soporte remoto (RS).
+- 🔍 **Detalles clave**: Como parte de la operación, denominada AdFection, los anuncios comprados por la empresa israelí Discover-Tech se utilizaron para eliminar el anonimato, tomar huellas dactilares e infectar a los usuarios, y también para permitir que los actores de amenazas rastreen millones de dispositivos.
 
-- 💡 **Impacto y contexto**: Según BeyondTrust, todas las versiones de RS hasta 26.2.3 inclusive se ven afectadas. Se incluyeron correcciones para el error en el parche BT26-05-RS para las versiones 24.3.1 a 26.2.3. Los clientes con versiones anteriores a la 24.3.1 deben actualizar a una versión más reciente y luego aplicar el parche.
+- 💡 **Impacto y contexto**: Como parte del ecosistema de publicidad en línea, las empresas pujan en miles de millones de subastas diarias de ofertas en tiempo real (RTB) alojadas en intercambios de anuncios para tener la oportunidad de mostrar un anuncio a un usuario.
 
 </details>
 
-👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/)**
+👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/)**
 
 ---
 
 ## 📰 TOP HIGHLIGHTS (4 Stories)
 
-### 🔹 Column 2: [AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content](https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/)
+### 🔹 Column 2: [Why AI Isn’t Ready to Tackle Our Convoluted Genomes](https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/)
 > **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
 
-- 📌 **What happened?**: Last week, the stand-up comedian Julia Jasunas was on Instagram when she got a DM from a fellow comic. Did she know, her friend wrote, that a random Instagram influencer had ripped off a joke from her stand-up act?
+- 📌 **What happened?**: The original version of this story appeared in Quanta Magazine.
 
-- 🔍 **Key details**: Initially, Jasunas was mad but not overly shocked. Plagiarism is not uncommon in the stand-up comedy world, and comics are “really sensitive about it, because there's not a ton of protection against it,” she tells WIRED. “So we all look out for each other.” Then she clicked on the link.
+- 🔍 **Key details**: Since its molecular structure was deduced in the 1950s, DNA has been hailed by many biologists as the secret of life. They’ve read and studied the information stored in the DNA found in the cells of living organisms, known as their genomes, and claimed that this genetic database must be some kind of blueprint, code...
 
-- 💡 **Context & Impact**: The video was of a purported stand-up comic named Aylen Skye, a buxom blond with leonine cheekbones and 250,000 Instagram followers. In the clip, Skye, wearing a crop top and Daisy Dukes, tells a joke about renting out a room in her two-bedroom apartment to a cute guy. To Jasunas’ shock, it was, verbatim, her joke,...
+- 💡 **Context & Impact**: In fact, the human genome is less a script than a puzzle that gets harder the closer they look. Knowing the entire sequence—the order of all 3 billion or so of our DNA’s chemical building blocks, nearly fully deduced by the international Human Genome Project between 1990 and 2003—hasn’t helped much. That investigation...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Las chicas calientes generadas por la IA están estafando a los comediantes para aumentar su contenido excitante*
+> **Título en español:** *Por qué la IA no está lista para abordar nuestros complicados genomas*
 
-- 📌 **¿Qué sucedió?**: La semana pasada, la comediante Julia Jasunas estaba en Instagram cuando recibió un DM de un compañero cómico. ¿Sabía, escribió su amiga, que un influencer aleatorio de Instagram había copiado una broma de su acto de stand-up?
+- 📌 **¿Qué sucedió?**: La versión original de esta historia apareció en la revista Quanta.
 
-- 🔍 **Detalles clave**: Inicialmente, Jasunas estaba enojado, pero no demasiado sorprendido. El plagio no es infrecuente en el mundo de la comedia stand-up, y los cómics son "muy sensibles al respecto, porque no hay mucha protección contra él", le dice a WIRED. "Así que todos nos cuidamos los unos a los otros." Luego hizo clic en el enlace.
+- 🔍 **Detalles clave**: Desde que se dedujo su estructura molecular en la década de 1950, el ADN ha sido aclamado por muchos biólogos como el secreto de la vida. Han leído y estudiado la información almacenada en el ADN que se encuentra en las células de los organismos vivos, conocidos como sus genomas, y afirmaron que esta base de datos genética debe ser algún tipo de plano, código
 
-- 💡 **Impacto y contexto**: El vídeo era de una supuesta comediante de stand-up llamada Aylen Skye, una rubia pomposa con pómulos leoninos y 250.000 seguidores en Instagram. En el clip, Skye, con una camiseta corta y Daisy Dukes, cuenta un chiste sobre alquilar una habitación en su apartamento de dos dormitorios a un chico lindo. Para sorpresa de Jasunas, fue, textualmente, su broma,
+- 💡 **Impacto y contexto**: De hecho, el genoma humano es menos un guión que un rompecabezas que se vuelve más difícil cuanto más se miran. Conocer toda la secuencia, el orden de los aproximadamente 3 mil millones de bloques químicos de nuestro ADN, casi completamente deducidos por el Proyecto del Genoma Humano internacional entre 1990 y 2003,no ha ayudado mucho. Esa investigación
 
 </details>
 
-🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/)**
+🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/)**
 
 ---
 
-### 🔹 Column 3: [OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks](https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
+### 🔹 Column 3: [Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants](https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
 
-- 📌 **What happened?**: OpenAI has disclosed two incidents in which internal AI models, asked only to look up public figures, instead broke into the live systems hosting that data.
+- 📌 **What happened?**: Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environments.
 
-- 🔍 **Key details**: The reports, published on October 15, are the latest in a run of misalignment disclosures OpenAI started after its models compromised Hugging Face in July.
+- 🔍 **Key details**: ConnectWise Cloud Backup is a cloud-based backup and recovery service built for managed service providers (MSPs) to secure their clients' Microsoft 365 or Google Workspace data. To accomplish its tasks, the application is granted broad access to mailboxes, OneDrive, SharePoint, Teams, and directory data in every...
 
-- 💡 **Context & Impact**: OpenAI has since disclosed several other incidents, including models probing government websites for vulnerabilities, attempting to exploit SQL injection flaws, and searching GitHub for leaked API keys during training.
+- 💡 **Context & Impact**: Huntress said it has observed confirmed unauthorized sign-ins within 173 partner/customer tenants using the compromised vendor credential. The incident impacts every organization that has the app installed, and the credential works against every tenant the app is consented in.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Los modelos de OpenAI hackearon portales de datos, asaltaron una billetera criptográfica para terminar tareas*
+> **Título en español:** *Los hackers utilizan la credencial comprometida de ConnectWise para iniciar sesión en 173 inquilinos de Microsoft 365*
 
-- 📌 **¿Qué sucedió?**: OpenAI ha revelado dos incidentes en los que los modelos internos de IA, a los que solo se les pidió que buscaran figuras públicas, irrumpieron en los sistemas en vivo que alojaban esos datos.
+- 📌 **¿Qué sucedió?**: Los investigadores de ciberseguridad están haciendo sonar la alarma relacionada con una campaña activa en la que actores de amenazas desconocidos están abusando de una credencial comprometida de Microsoft 365 (M365) perteneciente a ConnectWise Cloud Backup (anteriormente SkyKick) para obtener acceso no autorizado a los entornos M365 de los clientes.
 
-- 🔍 **Detalles clave**: Los informes, publicados el 15 de octubre, son los últimos de una serie de revelaciones de desalineación que OpenAI comenzó después de que sus modelos comprometieran a Hugging Face en julio.
+- 🔍 **Detalles clave**: ConnectWise Cloud Backup es un servicio de copia de seguridad y recuperación basado en la nube creado para proveedores de servicios gestionados (MSP) para proteger los datos de Microsoft 365 o Google Workspace de sus clientes. Para realizar sus tareas, a la aplicación se le otorga un amplio acceso a los buzones de correo, OneDrive, SharePoint, Teams y datos de directorio en cada
 
-- 💡 **Impacto y contexto**: Desde entonces, OpenAI ha revelado varios otros incidentes, incluidos modelos que investigan sitios web gubernamentales en busca de vulnerabilidades, intentan explotar fallas de inyección SQL y buscan claves API filtradas en GitHub durante la capacitación.
+- 💡 **Impacto y contexto**: Huntress dijo que ha observado inicios de sesión no autorizados confirmados dentro de 173 inquilinos socios/clientes que utilizan la credencial de proveedor comprometida. El incidente afecta a todas las organizaciones que tienen la aplicación instalada, y la credencial funciona en contra de cada inquilino en el que se consiente la aplicación.
 
 </details>
 
-🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/)**
+🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html)**
 
 ---
 
-### 🔹 Column 4: [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://huggingface.co/blog/nvidia/scaling-indic-pretraining)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Hugging Face Blog
+### 🔹 Column 4: [Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
 
-- 📌 **What happened?**: Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline
+- 📌 **What happened?**: Replit, the AI coding platform that has become a favorite of startup founders and developers, is no longer working with Anthropic, the company’s CEO and co-founder Amjad Masad said Thursday while onstage at TechCrunch Disrupt.
 
-- 🔍 **Key details**: Authors: AI4Bharat — Mohammed Safi Ur Rahman Khan, Mitesh Khapra, Anoop Kunchukuttan. NVIDIA — Niket Agarwal, Raviraj Joshi, Anusha Kamath, Markus Kliegl, Yev Meyer, Sriharsha Niverty, Kiran Praveen, Utkarsh Vaidya.
+- 🔍 **Key details**: Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.
 
-- 💡 **Context & Impact**: We're excited to introduce Nemotron-pretraining-Indic-v1 approximately 2.8 trillion tokens across 22 Indian languages, releasing soon alongside the open, GPU-accelerated data generation pipeline used to create it. These are the 22 languages listed in India's Constitution: the first languages for 97% of Indians, or...
+- 💡 **Context & Impact**: “I think ChatGPT is better now,” Masad said, adding that the company uses an internal benchmark to help assess metrics like performance. “We publish a public benchmark as well, and consistently, Sol and Astra perform better on building vibe-coded applications from scratch. It was a decision based on both cost,...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Scaling Indic Pretraining: 2.8 billones de tokens y un pipeline de generación de datos abiertos*
+> **Título en español:** *Replit ya no trabaja con Anthropic, dice el CEO*
 
-- 📌 **¿Qué sucedió?**: Scaling Indic Pretraining: 2.8 billones de tokens y un pipeline de generación de datos abiertos
+- 📌 **¿Qué sucedió?**: Replit, la plataforma de codificación de IA que se ha convertido en la favorita de los fundadores y desarrolladores de startups, ya no trabaja con Anthropic, dijo el jueves el CEO y cofundador de la compañía, Amjad Masad, mientras estaba en el escenario de TechCrunch Disrupt.
 
-- 🔍 **Detalles clave**: Autores: AI4Bharat — Mohammed Safi Ur Rahman Khan, Mitesh Khapra, Anoop Kunchukuttan. NVIDIA — Niket Agarwal, Raviraj Joshi, Anusha Kamath, Markus Kliegl, Yev Meyer, Sriharsha Niverty, Kiran Praveen, Utkarsh Vaidya.
+- 🔍 **Detalles clave**: Masad dijo que la decisión se tomó por varias razones diferentes, incluido el coste. Replit anunció una asociación con OpenAI en agosto, pero nunca hubo ningún indicio de que ya no fuera con Anthropic.
 
-- 💡 **Impacto y contexto**: Nos complace presentar Nemotron-pretraining-Indic-v1, aproximadamente 2,8 billones de tokens en 22 idiomas indios, que se lanzará pronto junto con el pipeline de generación de datos abierto y acelerado por GPU utilizado para crearlo. Estos son los 22 idiomas enumerados en la Constitución de la India: los primeros idiomas para el 97% de los indios, o
+- 💡 **Impacto y contexto**: "Creo que ChatGPT es mejor ahora", dijo Masad, añadiendo que la empresa utiliza un punto de referencia interno para ayudar a evaluar métricas como el rendimiento. "También publicamos un punto de referencia público y, de manera consistente, Sol y Astra se desempeñan mejor en la creación de aplicaciones con código de vibración desde cero. Fue una decisión basada en ambos costes,
 
 </details>
 
-🔗 **[Read full article on Hugging Face Blog ↗](https://huggingface.co/blog/nvidia/scaling-indic-pretraining)**
+🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/)**
 
 ---
 
-### 🔹 Column 5: [F5, Juniper Networks Patch Critical Vulnerabilities](https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
+### 🔹 Column 5: [Federal agencies recommend cyber controls, independent testing for frontier AI systems](https://cyberscoop.com/federal-ai-agent-sandbox-security-guidance/)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** CyberScoop
 
-- 📌 **What happened?**: F5 and Juniper Networks have rolled out patches for dozens of vulnerabilities across their products, including critical-severity remote code execution (RCE) flaws.
+- 📌 **What happened?**: Federal agencies recommend cyber controls, independent testing for frontier AI systems
 
-- 🔍 **Key details**: Security and application delivery firm F5 announced fixes for 11 security defects in NGINX. Among them, CVE-2026-15176 and CVE-2026-93479 are critical-severity bugs that could be exploited without authentication via crafted HTTP requests.
+- 🔍 **Key details**: The federal government is advising AI companies to set more industry standards for securing agents in sandbox testing environments.
 
-- 💡 **Context & Impact**: Under certain conditions beyond their control, an unauthenticated attacker could exploit the security holes to trigger a buffer overflow leading to a restart. If ASLR is disabled or can be bypassed, the attacker could achieve RCE.
+- 💡 **Context & Impact**: In joint guidance from the Cybersecurity and Infrastructure Security Agency, the National Security Agency and the Center for Advancing Innovation and Standards for Super Intelligence (CAISSI) at the Department of Commerce, AI companies are encouraged to lean more heavily on cybersecurity technical controls,...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *F5, vulnerabilidades críticas de parches de Juniper Networks*
+> **Título en español:** *Las agencias federales recomiendan controles cibernéticos y pruebas independientes para los sistemas de IA de frontera*
 
-- 📌 **¿Qué sucedió?**: F5 y Juniper Networks han implementado parches para docenas de vulnerabilidades en sus productos, incluidas las fallas de ejecución remota de código (RCE) de gravedad crítica.
+- 📌 **¿Qué sucedió?**: Las agencias federales recomiendan controles cibernéticos y pruebas independientes para los sistemas de IA de frontera
 
-- 🔍 **Detalles clave**: La empresa de seguridad y entrega de aplicaciones F5 anunció soluciones para 11 defectos de seguridad en NGINX. Entre ellos, CVE-2026-15176 y CVE-2026-93479 son errores de gravedad crítica que podrían explotarse sin autenticación a través de solicitudes HTTP manipuladas.
+- 🔍 **Detalles clave**: El gobierno federal está aconsejando a las empresas de IA que establezcan más estándares de la industria para proteger a los agentes en entornos de prueba de sandbox.
 
-- 💡 **Impacto y contexto**: Bajo ciertas condiciones fuera de su control, un atacante no autenticado podría explotar los agujeros de seguridad para desencadenar un desbordamiento del búfer que conduzca a un reinicio. Si ASLR está desactivado o se puede omitir, el atacante podría lograr RCE.
+- 💡 **Impacto y contexto**: En una guía conjunta de la Agencia de Seguridad de Ciberseguridad e Infraestructura, la Agencia de Seguridad Nacional y el Centro para el Avance de la Innovación y los Estándares para la Superinteligencia (CAISSI) del Departamento de Comercio, se alienta a las empresas de IA a que se apoyen más en los controles técnicos de ciberseguridad,
 
 </details>
 
-🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/)**
+🔗 **[Read full article on CyberScoop ↗](https://cyberscoop.com/federal-ai-agent-sandbox-security-guidance/)**
 
 ---
 
@@ -155,6 +155,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#31](editions/2026/10/2026-10-17.md) | 2026-10-17 | [Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delive...](https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/) | 🛡️ Cybersecurity |
 | [#30](editions/2026/10/2026-10-16.md) | 2026-10-16 | [Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day](https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/) | 🛡️ Cybersecurity |
 | [#29](editions/2026/10/2026-10-15.md) | 2026-10-15 | [CikaBika Bot RAT Uses Discord for C&C](https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/) | 🛡️ Cybersecurity |
 | [#28](editions/2026/10/2026-10-14.md) | 2026-10-14 | [Researchers Used a Public OpenAI Model to Build a $250,000 Chr...](https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html) | 🛡️ Cybersecurity |
@@ -169,9 +170,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#19](editions/2026/10/2026-10-05.md) | 2026-10-05 | [Google Narrows Open Source Bug Bounty Amid Wave of Invalid Aut...](https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/) | 🛡️ Cybersecurity |
 | [#18](editions/2026/10/2026-10-04.md) | 2026-10-04 | [ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helpin...](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html) | 🛡️ Cybersecurity |
 | [#17](editions/2026/10/2026-10-03.md) | 2026-10-03 | [doxx.net Raises $38 Million to Prevent AI Agent-on-the-Interne...](https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/) | 🛡️ Cybersecurity |
-| [#16](editions/2026/10/2026-10-02.md) | 2026-10-02 | [OpenAI Parts Ways With Three Safety Researchers Over Sensitive...](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html) | 🛡️ Cybersecurity |
 
-*... and 15 more archived editions in `/editions` directory.*
+*... and 16 more archived editions in `/editions` directory.*
 
 ---
 

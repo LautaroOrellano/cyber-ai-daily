@@ -480,5 +480,22 @@
       "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
       "https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/"
     ]
+  },
+  {
+    "edition": 31,
+    "date": "2026-10-17",
+    "rel_path": "editions/2026/10/2026-10-17.md",
+    "title_en": "Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel",
+    "title_es": "La empresa publicitaria israelí se duplicó como el canal de entrega de spyware sin clic de Candiru",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
+    "story_links": [
+      "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
+      "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+      "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+      "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "https://cyberscoop.com/federal-ai-agent-sandbox-security-guidance/"
+    ]
   }
 ]
