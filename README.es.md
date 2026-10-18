@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 31** — *Sábado, 17 de Octubre de 2026*
+> **📅 Edición de Hoy: N° 32** — *Domingo, 18 de Octubre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_31-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_32-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,70 +17,70 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [La empresa publicitaria israelí se duplicó como el canal de entrega de spyware sin clic de Candiru](https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel`
+### 📌 [Las ofertas de trabajo de ciberseguridad en EE. UU. caen un 26% a medida que aumenta la demanda de ingenieros de seguridad de IA](https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars`
 
-- 📌 **¿Qué sucedió?**: El software espía Candiru ha infectado dispositivos en la red internacional de noticias Al Jazeera en ataques de cero clics, a través de anuncios dirigidos, informa el grupo canadiense de vigilancia de Internet Citizen Lab.
+- 📌 **¿Qué sucedió?**: El Informe de empleos de ciberseguridad de CyberSN proporciona visibilidad del mercado laboral de ciberseguridad de EE. UU. Es una bolsa mixta.
 
-- 🔍 **Detalles clave**: Como parte de la operación, denominada AdFection, los anuncios comprados por la empresa israelí Discover-Tech se utilizaron para eliminar el anonimato, tomar huellas dactilares e infectar a los usuarios, y también para permitir que los actores de amenazas rastreen millones de dispositivos.
+- 🔍 **Detalles clave**: Los datos para el informe de trabajos de CyberSN se agregan desde JobSpikr (con duplicados eliminados). Los diversos títulos de trabajo se analizan y asignan a la taxonomía de CyberSN de 45 roles funcionales de ciberseguridad en diez categorías. El resultado es una evaluación del mercado laboral por las habilidades requeridas en lugar de por el reclutamiento
 
-- 💡 **Impacto y contexto**: Como parte del ecosistema de publicidad en línea, las empresas pujan en miles de millones de subastas diarias de ofertas en tiempo real (RTB) alojadas en intercambios de anuncios para tener la oportunidad de mostrar un anuncio a un usuario.
+- 💡 **Impacto y contexto**: El análisis de este conjunto de datos muestra la demanda actual de habilidades de ciberseguridad. La comparación de 2026 con los mismos meses de años anteriores destaca la demanda emergente (o en declive) de roles específicos.
 
-👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/)**
+👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Por qué la IA no está lista para abordar nuestros complicados genomas](https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `Why AI Isn’t Ready to Tackle Our Convoluted Genomes`
+### 🔹 Columna 2: [Los creadores de OnlyFans están molestos porque el meta permite que las musas hablen sucio](https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty`
 
-- 📌 **¿Qué sucedió?**: La versión original de esta historia apareció en la revista Quanta.
+- 📌 **¿Qué sucedió?**: La revolución de la IA generativa no ha sido amable con Vanniall, un creador de OnlyFans que vive en la ciudad de Nueva York. Ahora encuentra constantemente deepfakes hiperrealistas (imágenes y videos generados por IA que copian todo sobre ella) que circulan en línea y, a menudo, no es capaz de eliminarlos.
 
-- 🔍 **Detalles clave**: Desde que se dedujo su estructura molecular en la década de 1950, el ADN ha sido aclamado por muchos biólogos como el secreto de la vida. Han leído y estudiado la información almacenada en el ADN que se encuentra en las células de los organismos vivos, conocidos como sus genomas, y afirmaron que esta base de datos genética debe ser algún tipo de plano, código
+- 🔍 **Detalles clave**: Además de eso, Vanniall lucha por construir una audiencia en plataformas de redes sociales populares, como Instagram, sin meterse en problemas. "Siempre hay algún tipo de informe o apelación que estoy llevando a cabo con ellos", le dice a WIRED. La cuenta de Instagram de Vanniall, que tiene más de 100.000 seguidores, está actualmente
 
-- 💡 **Impacto y contexto**: De hecho, el genoma humano es menos un guión que un rompecabezas que se vuelve más difícil cuanto más se miran. Conocer toda la secuencia, el orden de los aproximadamente 3 mil millones de bloques químicos de nuestro ADN, casi completamente deducidos por el Proyecto del Genoma Humano internacional entre 1990 y 2003,no ha ayudado mucho. Esa investigación
+- 💡 **Impacto y contexto**: Entonces, cuando le digo que Meta permite que su agente de IA, llamado Muse, participe en sexting explícito con usuarios adultos, parece frustrada por la decisión: "No es justo que puedan sacar dinero de las personas con su agente de IA sexualmente activo, pero no permitirán que personas reales, adultos reales, participen en ningún tipo de
 
-🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/)**
-
----
-
-### 🔹 Columna 3: [Los hackers utilizan la credencial comprometida de ConnectWise para iniciar sesión en 173 inquilinos de Microsoft 365](https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants`
-
-- 📌 **¿Qué sucedió?**: Los investigadores de ciberseguridad están haciendo sonar la alarma relacionada con una campaña activa en la que actores de amenazas desconocidos están abusando de una credencial comprometida de Microsoft 365 (M365) perteneciente a ConnectWise Cloud Backup (anteriormente SkyKick) para obtener acceso no autorizado a los entornos M365 de los clientes.
-
-- 🔍 **Detalles clave**: ConnectWise Cloud Backup es un servicio de copia de seguridad y recuperación basado en la nube creado para proveedores de servicios gestionados (MSP) para proteger los datos de Microsoft 365 o Google Workspace de sus clientes. Para realizar sus tareas, a la aplicación se le otorga un amplio acceso a los buzones de correo, OneDrive, SharePoint, Teams y datos de directorio en cada
-
-- 💡 **Impacto y contexto**: Huntress dijo que ha observado inicios de sesión no autorizados confirmados dentro de 173 inquilinos socios/clientes que utilizan la credencial de proveedor comprometida. El incidente afecta a todas las organizaciones que tienen la aplicación instalada, y la credencial funciona en contra de cada inquilino en el que se consiente la aplicación.
-
-🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html)**
+🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/)**
 
 ---
 
-### 🔹 Columna 4: [Replit ya no trabaja con Anthropic, dice el CEO](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Replit is no longer working with Anthropic, CEO says`
+### 🔹 Columna 3: [ConnectWise suspende la copia de seguridad en la nube después de que los atacantes comprometan a los inquilinos de Microsoft 365](https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants`
 
-- 📌 **¿Qué sucedió?**: Replit, la plataforma de codificación de IA que se ha convertido en la favorita de los fundadores y desarrolladores de startups, ya no trabaja con Anthropic, dijo el jueves el CEO y cofundador de la compañía, Amjad Masad, mientras estaba en el escenario de TechCrunch Disrupt.
+- 📌 **¿Qué sucedió?**: ConnectWise dijo el sábado que ha desactivado siete identidades de aplicaciones ConnectWise mientras continúa su investigación sobre un incidente en el que actores de amenazas desconocidos obtuvieron acceso no autorizado a las identidades de las aplicaciones y comprometieron a los inquilinos de Microsoft 365.
 
-- 🔍 **Detalles clave**: Masad dijo que la decisión se tomó por varias razones diferentes, incluido el coste. Replit anunció una asociación con OpenAI en agosto, pero nunca hubo ningún indicio de que ya no fuera con Anthropic.
+- 🔍 **Detalles clave**: - ConnectWise Cloud Backup - 506e08f9-6e9a-4da4-942b-a099a03644ae
 
-- 💡 **Impacto y contexto**: "Creo que ChatGPT es mejor ahora", dijo Masad, añadiendo que la empresa utiliza un punto de referencia interno para ayudar a evaluar métricas como el rendimiento. "También publicamos un punto de referencia público y, de manera consistente, Sol y Astra se desempeñan mejor en la creación de aplicaciones con código de vibración desde cero. Fue una decisión basada en ambos costes,
+- 💡 **Impacto y contexto**: - Gestión de la nube ConnectWise - 2399d300-6fca-4e6a-a686-399fefe75b83
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/)**
+🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html)**
 
 ---
 
-### 🔹 Columna 5: [Las agencias federales recomiendan controles cibernéticos y pruebas independientes para los sistemas de IA de frontera](https://cyberscoop.com/federal-ai-agent-sandbox-security-guidance/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** CyberScoop &nbsp;|&nbsp; *Original:* `Federal agencies recommend cyber controls, independent testing for frontier AI systems`
+### 🔹 Columna 4: [Los centros de datos tienen un nuevo plan de relaciones públicas: la excursión de su hijo](https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `Data Centers Have a New PR Plan: Your Kid’s Field Trip`
 
-- 📌 **¿Qué sucedió?**: Las agencias federales recomiendan controles cibernéticos y pruebas independientes para los sistemas de IA de frontera
+- 📌 **¿Qué sucedió?**: ¡Bienvenido de nuevo a Power Play! Cada semana, la escritora principal Molly Taft aborda un tema en torno al mayor problema de esta temporada intermedia: los centros de datos. Salen esta semana, así que Caroline Haskins se presenta para el servicio. Si tienes alguna pregunta o idea para la columna, no dudes en enviarle un correo electrónico a Caroline a [email protected] o
 
-- 🔍 **Detalles clave**: El gobierno federal está aconsejando a las empresas de IA que establezcan más estándares de la industria para proteger a los agentes en entornos de prueba de sandbox.
+- 🔍 **Detalles clave**: La organización sin fines de lucro 7x24 Exchange International quiere promover los centros de datos, que creen que son una infraestructura de "misión crítica". Como parte de este trabajo, el grupo recomienda una historia infantil, "¿Qué es un centro de datos?", que sigue a un tejón de miel llamado Honey que recibe una visita guiada de un trabajador a un centro de datos
 
-- 💡 **Impacto y contexto**: En una guía conjunta de la Agencia de Seguridad de Ciberseguridad e Infraestructura, la Agencia de Seguridad Nacional y el Centro para el Avance de la Innovación y los Estándares para la Superinteligencia (CAISSI) del Departamento de Comercio, se alienta a las empresas de IA a que se apoyen más en los controles técnicos de ciberseguridad,
+- 💡 **Impacto y contexto**: "¿Como cuando mi mamá compra en línea a altas horas de la noche porque mi papá está durmiendo y no lo sabe? -pregunta la miel.
 
-🔗 **[Ver nota original completa en CyberScoop (inglés) ↗](https://cyberscoop.com/federal-ai-agent-sandbox-security-guidance/)**
+🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/)**
+
+---
+
+### 🔹 Columna 5: [Meta elimina el lenguaje que planteó preocupaciones sobre el scraping y la capacitación en IA](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Meta removes language that raised scraping and AI training concerns`
+
+- 📌 **¿Qué sucedió?**: Según los expertos legales entrevistados por Nieman Lab, esto parecía una "disposición notable" que podría dar permiso a Meta para raspar el sitio web de cualquier editor con una cuenta comercial de Meta y usar el contenido para capacitar a los modelos de IA de la empresa. (Mientras que Meta derrotó una demanda de alto perfil sobre supuestos derechos de autor
+
+- 🔍 **Detalles clave**: Sin embargo, un portavoz de Meta insistió en que los términos actualizados no reflejaban un cambio en la forma en que Meta rastrea la web. Y ahora, The Verge informa que la disposición ha sido eliminada.
+
+- 💡 **Impacto y contexto**: "Los hemos escuchado y queremos aclarar: los términos de rastreo que consolidamos solo se aplicaban a nuestros anuncios y productos comerciales, y lo hemos aclarado en los propios términos", dijo la compañía en un comunicado. "No cambia la forma en que Meta usa los rastreadores web".
+
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/)**
 
 ---
 
@@ -90,6 +90,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#32](editions/2026/10/2026-10-18.md) | 2026-10-18 | [Las ofertas de trabajo de ciberseguridad en EE. UU. caen ...](https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/) | 🛡️ Ciberseguridad |
 | [#31](editions/2026/10/2026-10-17.md) | 2026-10-17 | [La empresa publicitaria israelí se duplicó como el canal ...](https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/) | 🛡️ Ciberseguridad |
 | [#30](editions/2026/10/2026-10-16.md) | 2026-10-16 | [APT chino explotó la vulnerabilidad BeyondTrust como Zero...](https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/) | 🛡️ Ciberseguridad |
 | [#29](editions/2026/10/2026-10-15.md) | 2026-10-15 | [CikaBika Bot RAT utiliza Discord para C&C](https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/) | 🛡️ Ciberseguridad |
@@ -104,9 +105,8 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 | [#20](editions/2026/10/2026-10-06.md) | 2026-10-06 | [El FBI arresta al desarrollador ‘más buscado’ del malware...](https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/) | 🛡️ Ciberseguridad |
 | [#19](editions/2026/10/2026-10-05.md) | 2026-10-05 | [Google reduce la recompensa por errores de código abierto...](https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/) | 🛡️ Ciberseguridad |
 | [#18](editions/2026/10/2026-10-04.md) | 2026-10-04 | [Sospechoso de ShinyHunters Rey supuestamente detenido en ...](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html) | 🛡️ Ciberseguridad |
-| [#17](editions/2026/10/2026-10-03.md) | 2026-10-03 | [doxx.net recauda 38 millones de $ para prevenir las desve...](https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/) | 🛡️ Ciberseguridad |
 
-*... y 16 ediciones más en la carpeta `/editions`.*
+*... y 17 ediciones más en la carpeta `/editions`.*
 
 ---
 
