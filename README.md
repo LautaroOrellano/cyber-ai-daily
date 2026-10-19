@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #32** — *Sunday, October 18, 2026*
+> **📅 Today's Edition: Issue #33** — *Monday, October 19, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2332-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2333-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,135 +17,131 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars](https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/)
+### 📌 [ConnectWise Suspends Cloud Services in Response to Cyberattack](https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
 
-- 📌 **What happened?**: CyberSN’s Cybersecurity Jobs Report provides visibility into the US cybersecurity job market. It’s a mixed bag.
+- 📌 **What happened?**: ConnectWise is scrambling to restore its Cloud Backup, SaaS Security, and Cloud Management services after hackers abused a compromised credential to access customers’ M365 tenants.
 
-- 🔍 **Key details**: Data for CyberSN’s jobs report is aggregated from JobSpikr (with duplicates removed). The various job titles are then analyzed and assigned to CyberSN’s taxonomy of 45 cybersecurity functional roles in ten categories. The result is an assessment of the job market by skills required rather than by the recruiting...
+- 🔍 **Key details**: The company suspended the Cloud Backup service (formerly known as SkyKick) on October 17, roughly 12 hours after it started investigating the suspicious activity.
 
-- 💡 **Context & Impact**: Analyzing this dataset shows the current cybersecurity skills demand. Comparing 2026 with the same months of earlier years highlights emerging (or declining) demand for specific roles.
+- 💡 **Context & Impact**: “We recently identified unauthorized access to application identities within the ConnectWise Cloud Backup environment. As a protective measure for our Cloud Backup partners and their clients, we are shutting off Cloud Backup application access,” the company said.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Las ofertas de trabajo de ciberseguridad en EE. UU. caen un 26% a medida que aumenta la demanda de ingenieros de seguridad de IA*
+> **Título en español:** *ConnectWise suspende los servicios en la nube en respuesta a un ciberataque*
 
-- 📌 **¿Qué sucedió?**: El Informe de empleos de ciberseguridad de CyberSN proporciona visibilidad del mercado laboral de ciberseguridad de EE. UU. Es una bolsa mixta.
+- 📌 **¿Qué sucedió?**: ConnectWise está luchando por restaurar sus servicios de copia de seguridad en la nube, seguridad SaaS y gestión de la nube después de que los piratas informáticos abusaran de una credencial comprometida para acceder a los inquilinos M365 de los clientes.
 
-- 🔍 **Detalles clave**: Los datos para el informe de trabajos de CyberSN se agregan desde JobSpikr (con duplicados eliminados). Los diversos títulos de trabajo se analizan y asignan a la taxonomía de CyberSN de 45 roles funcionales de ciberseguridad en diez categorías. El resultado es una evaluación del mercado laboral por las habilidades requeridas en lugar de por el reclutamiento
+- 🔍 **Detalles clave**: La empresa suspendió el servicio de copia de seguridad en la nube (anteriormente conocido como SkyKick) el 17 de octubre, aproximadamente 12 horas después de que comenzara a investigar la actividad sospechosa.
 
-- 💡 **Impacto y contexto**: El análisis de este conjunto de datos muestra la demanda actual de habilidades de ciberseguridad. La comparación de 2026 con los mismos meses de años anteriores destaca la demanda emergente (o en declive) de roles específicos.
+- 💡 **Impacto y contexto**: "Recientemente identificamos el acceso no autorizado a las identidades de las aplicaciones dentro del entorno ConnectWise Cloud Backup. Como medida de protección para nuestros socios de Cloud Backup y sus clientes, estamos cerrando el acceso a las aplicaciones de Cloud Backup", dijo la compañía.
 
 </details>
 
-👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/)**
+👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/)**
 
 ---
 
 ## 📰 TOP HIGHLIGHTS (4 Stories)
 
-### 🔹 Column 2: [OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty](https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
+### 🔹 Column 2: [Democrats think cracking down on AI could give them an edge](https://www.theverge.com/policy/1013113/democrats-ai-midterms)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** The Verge AI
 
-- 📌 **What happened?**: The generative AI revolution hasn’t been kind to Vanniall, an OnlyFans creator who lives in New York City. She now constantly finds hyperrealistic deepfakes—AI-generated images and videos that copy everything about her—circulating online and often isn’t able to get them removed.
+- 📌 **What happened?**: Democrats could win back control of Congress this November, and if they do, they’ll need to decide how to approach one of the country’s newest and thorniest political issues: AI.
 
-- 🔍 **Key details**: On top of that, Vanniall struggles to build an audience on popular social media platforms, like Instagram, without getting in trouble. “There’s always some sort of report or appeal that I'm going through with them,” she tells WIRED. Vanniall’s Instagram account, which has over 100,000 followers, is currently...
+- 🔍 **Key details**: At a moment when voters are fearful of AI, Democrats are finding their footing.
 
-- 💡 **Context & Impact**: So, when I tell her that Meta allows its AI agent, called Muse, to engage in explicit sexting with adult users, she seems frustrated by the decision: “It's not fair that they get to pull money out of people with their sexually active AI agent, but they won't let real people, real adults, engage in any sort of...
+- 💡 **Context & Impact**: Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands. That could usher in a wave of newfound scrutiny for AI companies. Top Democrats on key committees have already signaled their willingness to press the industry on tax...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Los creadores de OnlyFans están molestos porque el meta permite que las musas hablen sucio*
+> **Título en español:** *Los demócratas creen que tomar medidas enérgicas contra la IA podría darles una ventaja*
 
-- 📌 **¿Qué sucedió?**: La revolución de la IA generativa no ha sido amable con Vanniall, un creador de OnlyFans que vive en la ciudad de Nueva York. Ahora encuentra constantemente deepfakes hiperrealistas (imágenes y videos generados por IA que copian todo sobre ella) que circulan en línea y, a menudo, no es capaz de eliminarlos.
+- 📌 **¿Qué sucedió?**: Los demócratas podrían recuperar el control del Congreso este noviembre, y si lo hacen, tendrán que decidir cómo abordar uno de los temas políticos más nuevos y espinosos del país: la IA.
 
-- 🔍 **Detalles clave**: Además de eso, Vanniall lucha por construir una audiencia en plataformas de redes sociales populares, como Instagram, sin meterse en problemas. "Siempre hay algún tipo de informe o apelación que estoy llevando a cabo con ellos", le dice a WIRED. La cuenta de Instagram de Vanniall, que tiene más de 100.000 seguidores, está actualmente
+- 🔍 **Detalles clave**: En un momento en que los votantes temen a la IA, los demócratas están encontrando su equilibrio.
 
-- 💡 **Impacto y contexto**: Entonces, cuando le digo que Meta permite que su agente de IA, llamado Muse, participe en sexting explícito con usuarios adultos, parece frustrada por la decisión: "No es justo que puedan sacar dinero de las personas con su agente de IA sexualmente activo, pero no permitirán que personas reales, adultos reales, participen en ningún tipo de
+- 💡 **Impacto y contexto**: Las encuestas predicen que los demócratas cambiarán al menos una cámara del Congreso en las elecciones de mitad de período, lo que volvería a poner el liderazgo del comité en sus manos. Eso podría marcar el comienzo de una nueva ola de escrutinio para las empresas de IA. Los principales demócratas de los comités clave ya han manifestado su voluntad de presionar a la industria sobre los impuestos
 
 </details>
 
-🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/)**
+🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/policy/1013113/democrats-ai-midterms)**
 
 ---
 
-### 🔹 Column 3: [ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants](https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html)
+### 🔹 Column 3: [GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories](https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
 
-- 📌 **What happened?**: ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants.
+- 📌 **What happened?**: The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and deliver a stealer malware disguised within a fake font file.
 
-- 🔍 **Key details**: - ConnectWise Cloud Backup - 506e08f9-6e9a-4da4-942b-a099a03644ae
+- 🔍 **Key details**: The latest evolution, detailed by OpenSourceMalware, signals that the attackers are actively refining their modus operandi in response to steps taken by GitHub to prevent the workflow from running.
 
-- 💡 **Context & Impact**: - ConnectWise Cloud Management - 2399d300-6fca-4e6a-a686-399fefe75b83
+- 💡 **Context & Impact**: According to the threat intelligence platform, the threat actor registered the domain "my-github[.]com" and pointed it at "193.32.204[.]199," the same IP address that's used as an exfiltration endpoint for data harvested from running the malicious workflow.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *ConnectWise suspende la copia de seguridad en la nube después de que los atacantes comprometan a los inquilinos de Microsoft 365*
+> **Título en español:** *GhostAction Attackers planta un ladrón de credenciales disfrazado de fuente en 94 repositorios de GitHub*
 
-- 📌 **¿Qué sucedió?**: ConnectWise dijo el sábado que ha desactivado siete identidades de aplicaciones ConnectWise mientras continúa su investigación sobre un incidente en el que actores de amenazas desconocidos obtuvieron acceso no autorizado a las identidades de las aplicaciones y comprometieron a los inquilinos de Microsoft 365.
+- 📌 **¿Qué sucedió?**: El actor de amenazas detrás del ataque a la cadena de suministro de GhostAction se ha expandido más allá de inyectar flujos de trabajo maliciosos de Acciones de GitHub en proyectos comprometidos para suplantar a los desarrolladores de código abierto y entregar un malware de robo disfrazado dentro de un archivo de fuente falso.
 
-- 🔍 **Detalles clave**: - ConnectWise Cloud Backup - 506e08f9-6e9a-4da4-942b-a099a03644ae
+- 🔍 **Detalles clave**: La última evolución, detallada por OpenSourceMalware, indica que los atacantes están refinando activamente su modus operandi en respuesta a los pasos tomados por GitHub para evitar que se ejecute el flujo de trabajo.
 
-- 💡 **Impacto y contexto**: - Gestión de la nube ConnectWise - 2399d300-6fca-4e6a-a686-399fefe75b83
+- 💡 **Impacto y contexto**: Según la plataforma de inteligencia de amenazas, el actor de amenazas registró el dominio "my-github[.]com" y lo apuntó a "193.32.204 [.]199", la misma dirección IP que se utiliza como punto de conexión de exfiltración para los datos recopilados al ejecutar el flujo de trabajo malicioso.
 
 </details>
 
-🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html)**
+🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html)**
 
 ---
 
-### 🔹 Column 4: [Data Centers Have a New PR Plan: Your Kid’s Field Trip](https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
+### 🔹 Column 4: [AI researchers stranded Claude on a virtual desert island. It started to “play.”](https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** MIT Technology Review
 
-- 📌 **What happened?**: Welcome back to Power Play! Each week, senior writer Molly Taft tackles a topic around this midterm season’s biggest issue: data centers. They’re out this week, so Caroline Haskins is reporting for duty. If you’ve got a question or thought for the column, feel free to shoot Caroline an email at [email protected] or...
+- 📌 **What happened?**: What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus...
 
-- 🔍 **Key details**: The nonprofit 7x24 Exchange International wants to promote data centers, which they believe are "mission critical” infrastructure. As part of this work, the group recommends a children’s story, “What is a Data Center?,” which follows a honey badger named Honey who gets a guided tour of a data center from a worker...
-
-- 💡 **Context & Impact**: "Like when my mom shops online late at night because my dad is sleeping and won't know about it?" Honey asks.
+- 🔍 **Key details**: Read the full original coverage in the link below.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Los centros de datos tienen un nuevo plan de relaciones públicas: la excursión de su hijo*
+> **Título en español:** *Los investigadores de IA dejaron a Claude varado en una isla virtual desierta. Empezó a "jugar".*
 
-- 📌 **¿Qué sucedió?**: ¡Bienvenido de nuevo a Power Play! Cada semana, la escritora principal Molly Taft aborda un tema en torno al mayor problema de esta temporada intermedia: los centros de datos. Salen esta semana, así que Caroline Haskins se presenta para el servicio. Si tienes alguna pregunta o idea para la columna, no dudes en enviarle un correo electrónico a Caroline a [email protected] o
+- 📌 **¿Qué sucedió?**: ¿Qué hacen los agentes de IA si no les dices que hagan nada? La respuesta se parece mucho al juego. Los investigadores los dejaron varados repetidamente solos en una isla desierta virtual durante 30 horas en un experimento que recuerda a las películas Cast Away o Home Alone. Los agentes-copias de Claude Opus...
 
-- 🔍 **Detalles clave**: La organización sin fines de lucro 7x24 Exchange International quiere promover los centros de datos, que creen que son una infraestructura de "misión crítica". Como parte de este trabajo, el grupo recomienda una historia infantil, "¿Qué es un centro de datos?", que sigue a un tejón de miel llamado Honey que recibe una visita guiada de un trabajador a un centro de datos
-
-- 💡 **Impacto y contexto**: "¿Como cuando mi mamá compra en línea a altas horas de la noche porque mi papá está durmiendo y no lo sabe? -pregunta la miel.
+- 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
 
 </details>
 
-🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/)**
+🔗 **[Read full article on MIT Technology Review ↗](https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/)**
 
 ---
 
-### 🔹 Column 5: [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
+### 🔹 Column 5: [Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure](https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
 
-- 📌 **What happened?**: According to legal experts interviewed by Nieman Lab, this looked like a “remarkable provision” that could give Meta permission to scrape the website of any publisher with a Meta business account and use the content to train the company’s AI models. (While Meta defeated a high-profile lawsuit over alleged copyright...
+- 📌 **What happened?**: Threat actors began targeting Plex2Shell, a chain of four Plex Media Server vulnerabilities, one day after technical details and a working exploit went public.
 
-- 🔍 **Key details**: However, a Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web. And now, The Verge reports that the provision has been removed.
+- 🔍 **Key details**: The researcher who found the Plex2Shell bugs released a write-up and proof-of-concept (PoC) code on October 16. Tracked as CVE-2026-96652, CVE-2026-96654, CVE-2026-96655 and CVE-2026-96656, the flaws can be combined to run arbitrary code on an exposed server without valid credentials. The code runs with the same...
 
-- 💡 **Context & Impact**: “We’ve heard you and want to clarify: the crawling terms we consolidated only applied to our ads and business products, and we’ve clarified that in the terms themselves,” the company said in a statement. “It does not change how Meta uses web crawlers.”
+- 💡 **Context & Impact**: The issues were reported to Plex on July 27, and the company confirmed them and awarded a bug bounty on August 4. On September 1, Plex announced it had already shipped fixes and asked server owners to upgrade.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Meta elimina el lenguaje que planteó preocupaciones sobre el scraping y la capacitación en IA*
+> **Título en español:** *Cadena de explotación Plex2Shell armada contra servidores Plex horas después de la divulgación*
 
-- 📌 **¿Qué sucedió?**: Según los expertos legales entrevistados por Nieman Lab, esto parecía una "disposición notable" que podría dar permiso a Meta para raspar el sitio web de cualquier editor con una cuenta comercial de Meta y usar el contenido para capacitar a los modelos de IA de la empresa. (Mientras que Meta derrotó una demanda de alto perfil sobre supuestos derechos de autor
+- 📌 **¿Qué sucedió?**: Los actores de amenazas comenzaron a atacar a Plex2Shell, una cadena de cuatro vulnerabilidades de Plex Media Server, un día después de que los detalles técnicos y un exploit funcional se hicieran públicos.
 
-- 🔍 **Detalles clave**: Sin embargo, un portavoz de Meta insistió en que los términos actualizados no reflejaban un cambio en la forma en que Meta rastrea la web. Y ahora, The Verge informa que la disposición ha sido eliminada.
+- 🔍 **Detalles clave**: El investigador que encontró los errores de Plex2Shell lanzó un código de redacción y prueba de concepto (PoC) el 16 de octubre. Rastreadas como CVE-2026-96652, CVE-2026-96654, CVE-2026-96655 y CVE-2026-96656, las fallas se pueden combinar para ejecutar código arbitrario en un servidor expuesto sin credenciales válidas. El código se ejecuta con el mismo
 
-- 💡 **Impacto y contexto**: "Los hemos escuchado y queremos aclarar: los términos de rastreo que consolidamos solo se aplicaban a nuestros anuncios y productos comerciales, y lo hemos aclarado en los propios términos", dijo la compañía en un comunicado. "No cambia la forma en que Meta usa los rastreadores web".
+- 💡 **Impacto y contexto**: Los problemas se informaron a Plex el 27 de julio, y la compañía los confirmó y otorgó una recompensa por errores el 4 de agosto. El 1 de septiembre, Plex anunció que ya había enviado correcciones y pidió a los propietarios de servidores que se actualizaran.
 
 </details>
 
-🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/)**
+🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/)**
 
 ---
 
@@ -155,6 +151,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#33](editions/2026/10/2026-10-19.md) | 2026-10-19 | [ConnectWise Suspends Cloud Services in Response to Cyberattack](https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/) | 🛡️ Cybersecurity |
 | [#32](editions/2026/10/2026-10-18.md) | 2026-10-18 | [US Cybersecurity Job Postings Fall 26% as AI Security Engineer...](https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/) | 🛡️ Cybersecurity |
 | [#31](editions/2026/10/2026-10-17.md) | 2026-10-17 | [Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delive...](https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/) | 🛡️ Cybersecurity |
 | [#30](editions/2026/10/2026-10-16.md) | 2026-10-16 | [Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day](https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/) | 🛡️ Cybersecurity |
@@ -169,9 +166,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#21](editions/2026/10/2026-10-07.md) | 2026-10-07 | [Hadrian Raises $40 Million to Expand Autonomous Offensive Secu...](https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/) | 🛡️ Cybersecurity |
 | [#20](editions/2026/10/2026-10-06.md) | 2026-10-06 | [FBI Arrests ‘Most Wanted’ Developer of Ploutus ATM Malware](https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/) | 🛡️ Cybersecurity |
 | [#19](editions/2026/10/2026-10-05.md) | 2026-10-05 | [Google Narrows Open Source Bug Bounty Amid Wave of Invalid Aut...](https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/) | 🛡️ Cybersecurity |
-| [#18](editions/2026/10/2026-10-04.md) | 2026-10-04 | [ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helpin...](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html) | 🛡️ Cybersecurity |
 
-*... and 17 more archived editions in `/editions` directory.*
+*... and 18 more archived editions in `/editions` directory.*
 
 ---
 

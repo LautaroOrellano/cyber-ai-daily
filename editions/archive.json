@@ -514,5 +514,22 @@
       "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
       "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
     ]
+  },
+  {
+    "edition": 33,
+    "date": "2026-10-19",
+    "rel_path": "editions/2026/10/2026-10-19.md",
+    "title_en": "ConnectWise Suspends Cloud Services in Response to Cyberattack",
+    "title_es": "ConnectWise suspende los servicios en la nube en respuesta a un ciberataque",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/",
+    "story_links": [
+      "https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/",
+      "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+      "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
+      "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/"
+    ]
   }
 ]
