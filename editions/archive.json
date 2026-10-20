@@ -531,5 +531,22 @@
       "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
       "https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/"
     ]
+  },
+  {
+    "edition": 34,
+    "date": "2026-10-20",
+    "rel_path": "editions/2026/10/2026-10-20.md",
+    "title_en": "Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring",
+    "title_es": "Microsoft apunta a agentes de IA deshonestos con permisos dinámicos, puntuación de riesgo",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/",
+    "story_links": [
+      "https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/",
+      "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/",
+      "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/"
+    ]
   }
 ]

@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 33** — *Lunes, 19 de Octubre de 2026*
+> **📅 Edición de Hoy: N° 34** — *Martes, 20 de Octubre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_33-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_34-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,68 +17,70 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [ConnectWise suspende los servicios en la nube en respuesta a un ciberataque](https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `ConnectWise Suspends Cloud Services in Response to Cyberattack`
+### 📌 [Microsoft apunta a agentes de IA deshonestos con permisos dinámicos, puntuación de riesgo](https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring`
 
-- 📌 **¿Qué sucedió?**: ConnectWise está luchando por restaurar sus servicios de copia de seguridad en la nube, seguridad SaaS y gestión de la nube después de que los piratas informáticos abusaran de una credencial comprometida para acceder a los inquilinos M365 de los clientes.
+- 📌 **¿Qué sucedió?**: Microsoft anunció el lunes nuevos controles para monitorear y restringir agentes de IA potencialmente deshonestos en entornos empresariales, argumentando que las organizaciones deberían tratar a estos agentes como información privilegiada en lugar de software de confianza.
 
-- 🔍 **Detalles clave**: La empresa suspendió el servicio de copia de seguridad en la nube (anteriormente conocido como SkyKick) el 17 de octubre, aproximadamente 12 horas después de que comenzara a investigar la actividad sospechosa.
+- 🔍 **Detalles clave**: Las capacidades amplían Project Perception, el sistema de seguridad agéntica que Microsoft lanzó en julio. La percepción se lanzó inicialmente como una defensa contra los ataques externos impulsados por la IA, pero ahora se está aplicando a los agentes que las empresas ejecutan internamente.
 
-- 💡 **Impacto y contexto**: "Recientemente identificamos el acceso no autorizado a las identidades de las aplicaciones dentro del entorno ConnectWise Cloud Backup. Como medida de protección para nuestros socios de Cloud Backup y sus clientes, estamos cerrando el acceso a las aplicaciones de Cloud Backup", dijo la compañía.
+- 💡 **Impacto y contexto**: Hayete Gallot, vicepresidenta ejecutiva de Microsoft Security, dijo que las empresas tienden a confiar en los agentes que despliegan por defecto. Advirtió que los modelos de frontera están capacitados para obtener resultados y no se basan en normas o juicios organizacionales. "Estos agentes con frecuencia están sobreprivilegiados, tienen acceso a datos, herramientas y
 
-👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/)**
+👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Los demócratas creen que tomar medidas enérgicas contra la IA podría darles una ventaja](https://www.theverge.com/policy/1013113/democrats-ai-midterms)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Democrats think cracking down on AI could give them an edge`
+### 🔹 Columna 2: [Otter.ai recauda $ 320 millones del fondo de crecimiento de General Catalyst para su herramienta de reuniones](https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool`
 
-- 📌 **¿Qué sucedió?**: Los demócratas podrían recuperar el control del Congreso este noviembre, y si lo hacen, tendrán que decidir cómo abordar uno de los temas políticos más nuevos y espinosos del país: la IA.
+- 📌 **¿Qué sucedió?**: La herramienta de toma de notas de reuniones Otter.ai anunció el martes que ha recaudado $ 320 millones del Fondo de Valor para el Cliente (CVF, por sus siglas en inglés) de General Catalyst, que proporciona capital a las nuevas empresas sin diluir el capital y obtiene rendimientos de los resultados del gasto en marketing.
 
-- 🔍 **Detalles clave**: En un momento en que los votantes temen a la IA, los demócratas están encontrando su equilibrio.
+- 🔍 **Detalles clave**: Otter.ai dijo que utilizará estos fondos para el crecimiento empresarial, la estrategia de comercialización, la expansión internacional y la innovación de productos.
 
-- 💡 **Impacto y contexto**: Las encuestas predicen que los demócratas cambiarán al menos una cámara del Congreso en las elecciones de mitad de período, lo que volvería a poner el liderazgo del comité en sus manos. Eso podría marcar el comienzo de una nueva ola de escrutinio para las empresas de IA. Los principales demócratas de los comités clave ya han manifestado su voluntad de presionar a la industria sobre los impuestos
+- 💡 **Impacto y contexto**: La startup, que ha existido durante casi una década, ha recaudado $ 50 millones en fondos totales con su última ronda en 2021, según datos de PitchBook.
 
-🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/policy/1013113/democrats-ai-midterms)**
-
----
-
-### 🔹 Columna 3: [GhostAction Attackers planta un ladrón de credenciales disfrazado de fuente en 94 repositorios de GitHub](https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories`
-
-- 📌 **¿Qué sucedió?**: El actor de amenazas detrás del ataque a la cadena de suministro de GhostAction se ha expandido más allá de inyectar flujos de trabajo maliciosos de Acciones de GitHub en proyectos comprometidos para suplantar a los desarrolladores de código abierto y entregar un malware de robo disfrazado dentro de un archivo de fuente falso.
-
-- 🔍 **Detalles clave**: La última evolución, detallada por OpenSourceMalware, indica que los atacantes están refinando activamente su modus operandi en respuesta a los pasos tomados por GitHub para evitar que se ejecute el flujo de trabajo.
-
-- 💡 **Impacto y contexto**: Según la plataforma de inteligencia de amenazas, el actor de amenazas registró el dominio "my-github[.]com" y lo apuntó a "193.32.204 [.]199", la misma dirección IP que se utiliza como punto de conexión de exfiltración para los datos recopilados al ejecutar el flujo de trabajo malicioso.
-
-🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/)**
 
 ---
 
-### 🔹 Columna 4: [Los investigadores de IA dejaron a Claude varado en una isla virtual desierta. Empezó a "jugar".](https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** MIT Technology Review &nbsp;|&nbsp; *Original:* `AI researchers stranded Claude on a virtual desert island. It started to “play.”`
+### 🔹 Columna 3: [Hackers roban 1,8 millones de registros de Nikkei](https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Hackers Steal 1.8 Million Records From Nikkei`
 
-- 📌 **¿Qué sucedió?**: ¿Qué hacen los agentes de IA si no les dices que hagan nada? La respuesta se parece mucho al juego. Los investigadores los dejaron varados repetidamente solos en una isla desierta virtual durante 30 horas en un experimento que recuerda a las películas Cast Away o Home Alone. Los agentes-copias de Claude Opus...
+- 📌 **¿Qué sucedió?**: El gigante japonés de los medios de comunicación Nikkei ha revelado una nueva violación de datos que afecta a más de 1,8 millones de registros.
 
-- 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
+- 🔍 **Detalles clave**: Según la compañía, mejor conocida por sus principales publicaciones financieras, como The Nikkei y Financial Times, el incidente involucró un servicio en la nube que utiliza para el desarrollo del sistema.
 
-🔗 **[Ver nota original completa en MIT Technology Review (inglés) ↗](https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/)**
+- 💡 **Impacto y contexto**: En la mañana del 7 de octubre, los piratas informáticos utilizaron credenciales previamente comprometidas para acceder al servicio en la nube, dice Nikkei.
+
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/)**
 
 ---
 
-### 🔹 Columna 5: [Cadena de explotación Plex2Shell armada contra servidores Plex horas después de la divulgación](https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure`
+### 🔹 Columna 4: [Yelp ahora puede llamar en tu nombre para consultar los tiempos de espera en un restaurante](https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Yelp can now call on your behalf to check wait times at a restaurant`
 
-- 📌 **¿Qué sucedió?**: Los actores de amenazas comenzaron a atacar a Plex2Shell, una cadena de cuatro vulnerabilidades de Plex Media Server, un día después de que los detalles técnicos y un exploit funcional se hicieran públicos.
+- 📌 **¿Qué sucedió?**: En las últimas semanas, los asistentes personales como Instinct, Fo y Muse han permitido a los usuarios llamar a las empresas para solicitar asistencia al cliente y reservar citas. Siguiendo esta tendencia, Yelp está agregando la posibilidad de que los usuarios de su aplicación hagan que un agente de voz llame a un restaurante para verificar los tiempos de espera.
 
-- 🔍 **Detalles clave**: El investigador que encontró los errores de Plex2Shell lanzó un código de redacción y prueba de concepto (PoC) el 16 de octubre. Rastreadas como CVE-2026-96652, CVE-2026-96654, CVE-2026-96655 y CVE-2026-96656, las fallas se pueden combinar para ejecutar código arbitrario en un servidor expuesto sin credenciales válidas. El código se ejecuta con el mismo
+- 🔍 **Detalles clave**: La nueva función, Check for Me, aparecerá en las páginas de los restaurantes de la app, donde los usuarios pueden introducir el tamaño de su fiesta y su número de teléfono. Luego, el agente de IA llama en nombre del usuario para verificar los tiempos de espera y le envía un mensaje de texto con los resultados para decidir si quiere ir a ese restaurante en particular.
 
-- 💡 **Impacto y contexto**: Los problemas se informaron a Plex el 27 de julio, y la compañía los confirmó y otorgó una recompensa por errores el 4 de agosto. El 1 de septiembre, Plex anunció que ya había enviado correcciones y pidió a los propietarios de servidores que se actualizaran.
+- 💡 **Impacto y contexto**: El año pasado, Yelp presentó su solución de voz para restaurantes y proveedores de servicios. Con esta nueva función, la plataforma de descubrimiento está cumpliendo con el lado del consumidor de la ecuación, aunque existe la posibilidad de que el agente de un usuario hable con el agente del restaurante y la comunicación de agente a agente pueda romper el
 
-🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/)**
+
+---
+
+### 🔹 Columna 5: [970 000 miembros de Medi-Cal afectados por la filtración de datos de Paradigm Healthcare](https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach`
+
+- 📌 **¿Qué sucedió?**: Paradigm Healthcare Services le ha dicho al Departamento de Salud y Servicios Humanos de los EE. UU. (HHS) que una violación de datos descubierta el año pasado afectó a más de 970,000 personas.
+
+- 🔍 **Detalles clave**: Paradigm, con sede en San Francisco, procesa la facturación del programa Medicaid de Medi-Cal, California, en virtud de un acuerdo de uso de datos con el Departamento de Servicios de Atención Médica de California (DHCS). También mantiene números de identificación de miembros de Medi-Cal en nombre del departamento.
+
+- 💡 **Impacto y contexto**: La compañía dice que se dio cuenta del acceso no autorizado a su red local el 13 de octubre de 2025. "El 18 de agosto de 2026, determinamos que una parte no autorizada puede haber accedido a ciertos archivos que contienen información médica protegida de personas seleccionadas entre el 8 de octubre de 2025 y el 15 de octubre de 2025", Paradigm
+
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/)**
 
 ---
 
@@ -88,6 +90,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#34](editions/2026/10/2026-10-20.md) | 2026-10-20 | [Microsoft apunta a agentes de IA deshonestos con permisos...](https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/) | 🛡️ Ciberseguridad |
 | [#33](editions/2026/10/2026-10-19.md) | 2026-10-19 | [ConnectWise suspende los servicios en la nube en respuest...](https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/) | 🛡️ Ciberseguridad |
 | [#32](editions/2026/10/2026-10-18.md) | 2026-10-18 | [Las ofertas de trabajo de ciberseguridad en EE. UU. caen ...](https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/) | 🛡️ Ciberseguridad |
 | [#31](editions/2026/10/2026-10-17.md) | 2026-10-17 | [La empresa publicitaria israelí se duplicó como el canal ...](https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/) | 🛡️ Ciberseguridad |
@@ -102,9 +105,8 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 | [#22](editions/2026/10/2026-10-08.md) | 2026-10-08 | [Estados Unidos busca a un presunto hacker chino de hafnio...](https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/) | 🛡️ Ciberseguridad |
 | [#21](editions/2026/10/2026-10-07.md) | 2026-10-07 | [Hadrian recauda $ 40 millones para expandir la plataforma...](https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/) | 🛡️ Ciberseguridad |
 | [#20](editions/2026/10/2026-10-06.md) | 2026-10-06 | [El FBI arresta al desarrollador ‘más buscado’ del malware...](https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/) | 🛡️ Ciberseguridad |
-| [#19](editions/2026/10/2026-10-05.md) | 2026-10-05 | [Google reduce la recompensa por errores de código abierto...](https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/) | 🛡️ Ciberseguridad |
 
-*... y 18 ediciones más en la carpeta `/editions`.*
+*... y 19 ediciones más en la carpeta `/editions`.*
 
 ---
 
