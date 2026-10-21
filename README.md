@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #34** — *Tuesday, October 20, 2026*
+> **📅 Today's Edition: Issue #35** — *Wednesday, October 21, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2334-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2335-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,135 +17,135 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring](https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/)
+### 📌 [Browsers Block eMudhra Intermediate CAs Over Recoverable Private Keys](https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
 
-- 📌 **What happened?**: Microsoft on Monday announced new controls to monitor and restrict potentially rogue AI agents in enterprise environments, arguing that organizations should treat these agents as insiders rather than trusted software.
+- 📌 **What happened?**: The private keys associated with eight intermediate certificates issued by Indian certificate authority (CA) eMudhra have been compromised, and root programs and trust stores have started blocking them.
 
-- 🔍 **Key details**: The capabilities extend Project Perception, the agentic security system Microsoft launched in July. Perception was initially pitched as a defense against AI-driven attacks from outside, but it is now being applied to the agents companies run internally.
+- 🔍 **Key details**: The certificates were issued in April 2025, and some of the compromised keys could allow attackers to generate fraudulent certificates and impersonate any website.
 
-- 💡 **Context & Impact**: Hayete Gallot, executive vice president of Microsoft Security, said companies tend to trust the agents they deploy by default. She warned that frontier models are trained to get results and aren’t built around organizational norms or judgment. “These agents are frequently overprivileged, have access to data, tools and...
+- 💡 **Context & Impact**: On October 17, Mozilla and Google blocked the certificates in Firefox and Chrome. Apple and Microsoft blocked them on October 19 and October 20, respectively. Sectigo took revocation steps too, and Cloudflare patched its services.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Microsoft apunta a agentes de IA deshonestos con permisos dinámicos, puntuación de riesgo*
+> **Título en español:** *Los navegadores bloquean las CA intermedias de eMudhra sobre las claves privadas recuperables*
 
-- 📌 **¿Qué sucedió?**: Microsoft anunció el lunes nuevos controles para monitorear y restringir agentes de IA potencialmente deshonestos en entornos empresariales, argumentando que las organizaciones deberían tratar a estos agentes como información privilegiada en lugar de software de confianza.
+- 📌 **¿Qué sucedió?**: Las claves privadas asociadas con ocho certificados intermedios emitidos por la autoridad de certificación india (CA) eMudhra se han visto comprometidas, y los programas raíz y las tiendas de confianza han comenzado a bloquearlos.
 
-- 🔍 **Detalles clave**: Las capacidades amplían Project Perception, el sistema de seguridad agéntica que Microsoft lanzó en julio. La percepción se lanzó inicialmente como una defensa contra los ataques externos impulsados por la IA, pero ahora se está aplicando a los agentes que las empresas ejecutan internamente.
+- 🔍 **Detalles clave**: Los certificados se emitieron en abril de 2025 y algunas de las claves comprometidas podrían permitir a los atacantes generar certificados fraudulentos y hacerse pasar por cualquier sitio web.
 
-- 💡 **Impacto y contexto**: Hayete Gallot, vicepresidenta ejecutiva de Microsoft Security, dijo que las empresas tienden a confiar en los agentes que despliegan por defecto. Advirtió que los modelos de frontera están capacitados para obtener resultados y no se basan en normas o juicios organizacionales. "Estos agentes con frecuencia están sobreprivilegiados, tienen acceso a datos, herramientas y
+- 💡 **Impacto y contexto**: El 17 de octubre, Mozilla y Google bloquearon los certificados en Firefox y Chrome. Apple y Microsoft los bloquearon el 19 y el 20 de octubre, respectivamente. Sectigo también tomó medidas de revocación y Cloudflare parcheó sus servicios.
 
 </details>
 
-👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/)**
+👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/)**
 
 ---
 
 ## 📰 TOP HIGHLIGHTS (4 Stories)
 
-### 🔹 Column 2: [Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool](https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
+### 🔹 Column 2: [Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories](https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Hugging Face Blog
 
-- 📌 **What happened?**: Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend.
+- 📌 **What happened?**: Building robotics simulations and high-fidelity AI factory digital twins takes more than 3D models. Developers often need to add properties such as collision geometry, mass, and friction. SimReady assets are 3D models that come prepared with the properties required for simulation workflows, reducing that manual work.
 
-- 🔍 **Key details**: Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.
+- 🔍 **Key details**: SimReady Central Library brings together more than 2,000 simulation-ready (SimReady) OpenUSD assets on Hugging Face, giving developers a free, ungated starting point for physical AI training environments and AI factory digital twins. The library includes a variety of infrastructure and equipment assets from robot arms...
 
-- 💡 **Context & Impact**: The startup, which has been around for nearly a decade, has raised $50 million in total funding with its last round in 2021, according to PitchBook data.
+- 💡 **Context & Impact**: Equipment manufacturers (OEMs) can now prepare and validate assets against SimReady requirements and use SimReady Central Library to reach developers and allow their end customers to test and simulate scenarios faster and accelerate decision making. This enables industries to build simulations around their products...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Otter.ai recauda $ 320 millones del fondo de crecimiento de General Catalyst para su herramienta de reuniones*
+> **Título en español:** *Anuncio de SimReady Central: una biblioteca abierta de activos 3D listos para simulación para fábricas de robótica e inteligencia artificial*
 
-- 📌 **¿Qué sucedió?**: La herramienta de toma de notas de reuniones Otter.ai anunció el martes que ha recaudado $ 320 millones del Fondo de Valor para el Cliente (CVF, por sus siglas en inglés) de General Catalyst, que proporciona capital a las nuevas empresas sin diluir el capital y obtiene rendimientos de los resultados del gasto en marketing.
+- 📌 **¿Qué sucedió?**: Construir simulaciones robóticas y gemelos digitales de fábrica de IA de alta fidelidad requiere más que modelos 3D. Los desarrolladores a menudo necesitan añadir propiedades como la geometría de colisión, la masa y la fricción. Los activos SimReady son modelos 3D que vienen preparados con las propiedades requeridas para los flujos de trabajo de simulación, reduciendo ese trabajo manual.
 
-- 🔍 **Detalles clave**: Otter.ai dijo que utilizará estos fondos para el crecimiento empresarial, la estrategia de comercialización, la expansión internacional y la innovación de productos.
+- 🔍 **Detalles clave**: La Biblioteca Central SimReady reúne más de 2.000 activos de OpenUSD listos para simulación (SimReady) en Hugging Face, lo que brinda a los desarrolladores un punto de partida gratuito e ilimitado para entornos físicos de entrenamiento de IA y gemelos digitales de fábrica de IA. La biblioteca incluye una variedad de activos de infraestructura y equipos de brazos robóticos
 
-- 💡 **Impacto y contexto**: La startup, que ha existido durante casi una década, ha recaudado $ 50 millones en fondos totales con su última ronda en 2021, según datos de PitchBook.
+- 💡 **Impacto y contexto**: Los fabricantes de equipos (OEM) ahora pueden preparar y validar activos según los requisitos de SimReady y usar SimReady Central Library para llegar a los desarrolladores y permitir que sus clientes finales prueben y simulen escenarios más rápido y aceleren la toma de decisiones. Esto permite a las industrias crear simulaciones en torno a sus productos
 
 </details>
 
-🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/)**
+🔗 **[Read full article on Hugging Face Blog ↗](https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories)**
 
 ---
 
-### 🔹 Column 3: [Hackers Steal 1.8 Million Records From Nikkei](https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/)
+### 🔹 Column 3: [China Defends DeepSeek After US Ban of Its AI From Government Systems](https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
 
-- 📌 **What happened?**: Japanese media giant Nikkei has disclosed a fresh data breach impacting more than 1.8 million records.
+- 📌 **What happened?**: China hit back Tuesday at a U.S. ban on the use of Chinese artificial intelligence startup DeepSeek’s products by federal civilian agencies and warned of retaliatory measures as the two AI powers race to develop the technology.
 
-- 🔍 **Key details**: According to the company, best known for major financial publications, including The Nikkei and Financial Times, the incident involved a cloud service it uses for system development.
+- 🔍 **Key details**: The Department of Homeland Security said the agencies should remove DeepSeek products as well as third-party products and services developed using DeepSeek from their IT systems, according to a notice made public on Monday.
 
-- 💡 **Context & Impact**: On the morning of October 7, the hackers used previously compromised credentials to access the cloud service, Nikkei says.
+- 💡 **Context & Impact**: The latest warnings reflect “the depth of strategic distrust between Beijing and Washington” even as U.S. President Donald Trump and Chinese President Xi Jinping work hard to keep their personal relationship “warm and constructive,” said George Chen, partner and chair of digital practice at Washington-based The Asia...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Hackers roban 1,8 millones de registros de Nikkei*
+> **Título en español:** *China defiende a DeepSeek después de que Estados Unidos prohibiera su IA de los sistemas gubernamentales*
 
-- 📌 **¿Qué sucedió?**: El gigante japonés de los medios de comunicación Nikkei ha revelado una nueva violación de datos que afecta a más de 1,8 millones de registros.
+- 📌 **¿Qué sucedió?**: China respondió el martes a la prohibición de Estados Unidos sobre el uso de los productos de la startup china de inteligencia artificial DeepSeek por parte de agencias civiles federales y advirtió sobre medidas de represalia mientras las dos potencias de inteligencia artificial compiten por desarrollar la tecnología.
 
-- 🔍 **Detalles clave**: Según la compañía, mejor conocida por sus principales publicaciones financieras, como The Nikkei y Financial Times, el incidente involucró un servicio en la nube que utiliza para el desarrollo del sistema.
+- 🔍 **Detalles clave**: El Departamento de Seguridad Nacional dijo que las agencias deberían eliminar los productos DeepSeek, así como los productos y servicios de terceros desarrollados utilizando DeepSeek de sus sistemas de TI, según un aviso hecho público el lunes.
 
-- 💡 **Impacto y contexto**: En la mañana del 7 de octubre, los piratas informáticos utilizaron credenciales previamente comprometidas para acceder al servicio en la nube, dice Nikkei.
+- 💡 **Impacto y contexto**: Las últimas advertencias reflejan "la profunda desconfianza estratégica entre Pekín y Washington", incluso cuando el presidente de Estados Unidos, Donald Trump, y el presidente de China, Xi Jinping, trabajan arduamente para mantener su relación personal "cálida y constructiva", dijo George Chen, socio y presidente de práctica digital en The Asia, con sede en Washington.
 
 </details>
 
-🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/)**
+🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/)**
 
 ---
 
-### 🔹 Column 4: [Yelp can now call on your behalf to check wait times at a restaurant](https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
+### 🔹 Column 4: [OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer](https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
 
-- 📌 **What happened?**: Over the last few weeks, personal assistants like Instinct, Fo, and Muse have enabled users to call businesses for customer support and appointment booking. Following this trend, Yelp is adding the ability for its app users to get a voice agent to call a restaurant to check wait times.
+- 📌 **What happened?**: OpenAI’s venture capital arm as well as Peter Thiel’s Founders Fund are investing in Coherence Neuro, a startup developing a brain implant to detect and treat cancer.
 
-- 🔍 **Key details**: The new feature, Check for Me, will show up on restaurant pages in the app, where users can enter their party size and phone number. The AI agent then calls on behalf of the user to check wait times and texts them the results to decide if they want to go to that particular restaurant.
+- 🔍 **Key details**: The investments are part of a $45 million seed funding round for Coherence and reflect Big Tech’s burgeoning interest in brain data. Coherence’s CEO and cofounder Ben Woodington says there is “growing synergy” between the big AI labs and companies building devices to decode the brain, known as brain-computer...
 
-- 💡 **Context & Impact**: Last year, Yelp debuted its voice solution for restaurants and service providers. With this new feature, the discovery platform is fulfilling the consumer side of the equation, though there is a possibility that a user’s agent will talk to the restaurant’s agent, and agent-to-agent communication might break down the...
+- 💡 **Context & Impact**: “The idea of capturing data to train better models and use it to optimize treatments is going to be super important,” he says. “The AI companies seem to be aligned with this thesis as well—that this novel data source is going to be valuable.”
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Yelp ahora puede llamar en tu nombre para consultar los tiempos de espera en un restaurante*
+> **Título en español:** *OpenAI invierte en una startup que utiliza implantes cerebrales para detectar el cáncer*
 
-- 📌 **¿Qué sucedió?**: En las últimas semanas, los asistentes personales como Instinct, Fo y Muse han permitido a los usuarios llamar a las empresas para solicitar asistencia al cliente y reservar citas. Siguiendo esta tendencia, Yelp está agregando la posibilidad de que los usuarios de su aplicación hagan que un agente de voz llame a un restaurante para verificar los tiempos de espera.
+- 📌 **¿Qué sucedió?**: El brazo de capital de riesgo de OpenAI, así como el Founders Fund de Peter Thiel, están invirtiendo en Coherence Neuro, una startup que desarrolla un implante cerebral para detectar y tratar el cáncer.
 
-- 🔍 **Detalles clave**: La nueva función, Check for Me, aparecerá en las páginas de los restaurantes de la app, donde los usuarios pueden introducir el tamaño de su fiesta y su número de teléfono. Luego, el agente de IA llama en nombre del usuario para verificar los tiempos de espera y le envía un mensaje de texto con los resultados para decidir si quiere ir a ese restaurante en particular.
+- 🔍 **Detalles clave**: Las inversiones son parte de una ronda de financiación inicial de $ 45 millones para Coherence y reflejan el creciente interés de Big Tech en los datos cerebrales. El CEO y cofundador de Coherence, Ben Woodington, dice que hay una "sinergia creciente" entre los grandes laboratorios de IA y las empresas que construyen dispositivos para decodificar el cerebro, conocidos como cerebro-ordenador
 
-- 💡 **Impacto y contexto**: El año pasado, Yelp presentó su solución de voz para restaurantes y proveedores de servicios. Con esta nueva función, la plataforma de descubrimiento está cumpliendo con el lado del consumidor de la ecuación, aunque existe la posibilidad de que el agente de un usuario hable con el agente del restaurante y la comunicación de agente a agente pueda romper el
+- 💡 **Impacto y contexto**: "La idea de capturar datos para entrenar mejores modelos y usarlos para optimizar los tratamientos va a ser muy importante", dice. "Las empresas de IA también parecen estar alineadas con esta tesis de que esta nueva fuente de datos va a ser valiosa".
 
 </details>
 
-🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/)**
+🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/)**
 
 ---
 
-### 🔹 Column 5: [970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach](https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
+### 🔹 Column 5: [PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't](https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
 
-- 📌 **What happened?**: Paradigm Healthcare Services has told the US Department of Health and Human Services (HHS) that a data breach discovered last year affected more than 970,000 people.
+- 📌 **What happened?**: You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says.
 
-- 🔍 **Key details**: San Francisco-based Paradigm processes billing for Medi-Cal, California’s Medicaid program, under a data use agreement with the California Department of Health Care Services (DHCS). It also maintains Medi-Cal member identification numbers on the department’s behalf.
+- 🔍 **Key details**: PHP will release the fix at 14:00 UTC on October 21 for two flaws it rates 9.2 out of 10, and has given no workaround of its own. Until you can install it, what lowers your risk is taking exposed PHP off the internet or behind access controls, cutting what a compromised server can reach, and having the update ready to...
 
-- 💡 **Context & Impact**: The company says it became aware of unauthorized access to its local network on October 13, 2025. “On August 18, 2026, we determined that certain files containing select individuals’ protected health information may have been accessed by an unauthorized party between October 8, 2025, and October 15, 2025,” Paradigm...
+- 💡 **Context & Impact**: No attacks have been reported. PHP has not said which versions are affected, which part of PHP is involved, or whether any setting changes the risk; it says the full details and the fixed versions come with the release.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *970 000 miembros de Medi-Cal afectados por la filtración de datos de Paradigm Healthcare*
+> **Título en español:** *PHP2Shell: lo que realmente te protege antes del parche de PHP RCE a las 14:00 UTC y lo que no*
 
-- 📌 **¿Qué sucedió?**: Paradigm Healthcare Services le ha dicho al Departamento de Salud y Servicios Humanos de los EE. UU. (HHS) que una violación de datos descubierta el año pasado afectó a más de 970,000 personas.
+- 📌 **¿Qué sucedió?**: No se pueden bloquear completamente las dos fallas críticas de PHP llamadas PHP2Shell antes de la corrección de hoy, y la única configuración que se pasa como solución alternativa no es suficiente por sí sola, dice ahora la firma de seguridad que lo sugirió.
 
-- 🔍 **Detalles clave**: Paradigm, con sede en San Francisco, procesa la facturación del programa Medicaid de Medi-Cal, California, en virtud de un acuerdo de uso de datos con el Departamento de Servicios de Atención Médica de California (DHCS). También mantiene números de identificación de miembros de Medi-Cal en nombre del departamento.
+- 🔍 **Detalles clave**: PHP lanzará la solución a las 14:00 UTC del 21 de octubre por dos fallas que califica con 9.2 de 10, y no ha dado ninguna solución por su cuenta. Hasta que pueda instalarlo, lo que reduce su riesgo es sacar PHP expuesto de Internet o detrás de los controles de acceso, reducir lo que puede alcanzar un servidor comprometido y tener la actualización lista para
 
-- 💡 **Impacto y contexto**: La compañía dice que se dio cuenta del acceso no autorizado a su red local el 13 de octubre de 2025. "El 18 de agosto de 2026, determinamos que una parte no autorizada puede haber accedido a ciertos archivos que contienen información médica protegida de personas seleccionadas entre el 8 de octubre de 2025 y el 15 de octubre de 2025", Paradigm
+- 💡 **Impacto y contexto**: No se ha informado de ningún ataque. PHP no ha dicho qué versiones se ven afectadas, qué parte de PHP está involucrada o si alguna configuración cambia el riesgo; dice que los detalles completos y las versiones fijas vienen con la versión.
 
 </details>
 
-🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/)**
+🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html)**
 
 ---
 
@@ -155,6 +155,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#35](editions/2026/10/2026-10-21.md) | 2026-10-21 | [Browsers Block eMudhra Intermediate CAs Over Recoverable Priva...](https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/) | 🛡️ Cybersecurity |
 | [#34](editions/2026/10/2026-10-20.md) | 2026-10-20 | [Microsoft Targets Rogue AI Agents With Dynamic Permissions, Ri...](https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/) | 🛡️ Cybersecurity |
 | [#33](editions/2026/10/2026-10-19.md) | 2026-10-19 | [ConnectWise Suspends Cloud Services in Response to Cyberattack](https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/) | 🛡️ Cybersecurity |
 | [#32](editions/2026/10/2026-10-18.md) | 2026-10-18 | [US Cybersecurity Job Postings Fall 26% as AI Security Engineer...](https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/) | 🛡️ Cybersecurity |
@@ -169,9 +170,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#23](editions/2026/10/2026-10-09.md) | 2026-10-09 | [Social Engineering AI Agents: The New BEC for 2026](https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026) | 🛡️ Cybersecurity |
 | [#22](editions/2026/10/2026-10-08.md) | 2026-10-08 | [US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward](https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/) | 🛡️ Cybersecurity |
 | [#21](editions/2026/10/2026-10-07.md) | 2026-10-07 | [Hadrian Raises $40 Million to Expand Autonomous Offensive Secu...](https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/) | 🛡️ Cybersecurity |
-| [#20](editions/2026/10/2026-10-06.md) | 2026-10-06 | [FBI Arrests ‘Most Wanted’ Developer of Ploutus ATM Malware](https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/) | 🛡️ Cybersecurity |
 
-*... and 19 more archived editions in `/editions` directory.*
+*... and 20 more archived editions in `/editions` directory.*
 
 ---
 

@@ -548,5 +548,22 @@
       "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
       "https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/"
     ]
+  },
+  {
+    "edition": 35,
+    "date": "2026-10-21",
+    "rel_path": "editions/2026/10/2026-10-21.md",
+    "title_en": "Browsers Block eMudhra Intermediate CAs Over Recoverable Private Keys",
+    "title_es": "Los navegadores bloquean las CA intermedias de eMudhra sobre las claves privadas recuperables",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/",
+    "story_links": [
+      "https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/",
+      "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+      "https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/",
+      "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
+      "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html"
+    ]
   }
 ]
