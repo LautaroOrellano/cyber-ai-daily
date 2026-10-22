@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #35** — *Wednesday, October 21, 2026*
+> **📅 Today's Edition: Issue #36** — *Thursday, October 22, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2335-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2336-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,135 +17,131 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [Browsers Block eMudhra Intermediate CAs Over Recoverable Private Keys](https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
+### 📌 [Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation](https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
 
-- 📌 **What happened?**: The private keys associated with eight intermediate certificates issued by Indian certificate authority (CA) eMudhra have been compromised, and root programs and trust stores have started blocking them.
+- 📌 **What happened?**: Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed "anomalous activity" related to systems that store customer environment variables.
 
-- 🔍 **Key details**: The certificates were issued in April 2025, and some of the compromised keys could allow attackers to generate fraudulent certificates and impersonate any website.
+- 🔍 **Key details**: Upon further investigation, the company found that an unauthorized third party may have gained access to encrypted environment variables, and, in some cases, obtained the decrypted contents. The impact, it said, is limited to a "subset of users," although it did not disclose an exact number.
 
-- 💡 **Context & Impact**: On October 17, Mozilla and Google blocked the certificates in Firefox and Chrome. Apple and Microsoft blocked them on October 19 and October 20, respectively. Sectigo took revocation steps too, and Cloudflare patched its services.
+- 💡 **Context & Impact**: Environment variables refer to user-defined key-value pairs that are used to store sensitive data like API keys, database credentials, or feature flags. They are configured at the operating system or container environment level instead of hard-coding the values directly into a program's source code.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Los navegadores bloquean las CA intermedias de eMudhra sobre las claves privadas recuperables*
+> **Título en español:** *Railway dice que el intruso puede haber accedido a los secretos del cliente, insta a la rotación de credenciales*
 
-- 📌 **¿Qué sucedió?**: Las claves privadas asociadas con ocho certificados intermedios emitidos por la autoridad de certificación india (CA) eMudhra se han visto comprometidas, y los programas raíz y las tiendas de confianza han comenzado a bloquearlos.
+- 📌 **¿Qué sucedió?**: El proveedor de plataformas como servicio (PaaS) Railway reveló el miércoles una "actividad anómala" relacionada con los sistemas que almacenan las variables del entorno del cliente.
 
-- 🔍 **Detalles clave**: Los certificados se emitieron en abril de 2025 y algunas de las claves comprometidas podrían permitir a los atacantes generar certificados fraudulentos y hacerse pasar por cualquier sitio web.
+- 🔍 **Detalles clave**: Tras una investigación adicional, la empresa descubrió que un tercero no autorizado puede haber obtenido acceso a variables de entorno cifradas y, en algunos casos, haber obtenido los contenidos descifrados. El impacto, dijo, se limita a un "subconjunto de usuarios", aunque no reveló un número exacto.
 
-- 💡 **Impacto y contexto**: El 17 de octubre, Mozilla y Google bloquearon los certificados en Firefox y Chrome. Apple y Microsoft los bloquearon el 19 y el 20 de octubre, respectivamente. Sectigo también tomó medidas de revocación y Cloudflare parcheó sus servicios.
+- 💡 **Impacto y contexto**: Las variables de entorno se refieren a pares clave-valor definidos por el usuario que se utilizan para almacenar datos confidenciales como claves de API, credenciales de base de datos o indicadores de características. Se configuran a nivel del sistema operativo o del entorno del contenedor en lugar de codificar los valores directamente en el código fuente de un programa.
 
 </details>
 
-👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/)**
+👉 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html)**
 
 ---
 
 ## 📰 TOP HIGHLIGHTS (4 Stories)
 
-### 🔹 Column 2: [Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories](https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Hugging Face Blog
+### 🔹 Column 2: [Eiliko maker says it&#8217;s hiring an ‘independent security firm’ after Verge report on its insecure robots](https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** The Verge AI
 
-- 📌 **What happened?**: Building robotics simulations and high-fidelity AI factory digital twins takes more than 3D models. Developers often need to add properties such as collision geometry, mass, and friction. SimReady assets are 3D models that come prepared with the properties required for simulation workflows, reducing that manual work.
+- 📌 **What happened?**: Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that “your secrets are safe with me,” but hackers could easily read complete transcripts of everything we told the toy, and that was just the beginning. The Verge and security...
 
-- 🔍 **Key details**: SimReady Central Library brings together more than 2,000 simulation-ready (SimReady) OpenUSD assets on Hugging Face, giving developers a free, ungated starting point for physical AI training environments and AI factory digital twins. The library includes a variety of infrastructure and equipment assets from robot arms...
+- 🔍 **Key details**: Eiliko maker says it’s hiring an ‘independent security firm’ after Verge report on its insecure robots
 
-- 💡 **Context & Impact**: Equipment manufacturers (OEMs) can now prepare and validate assets against SimReady requirements and use SimReady Central Library to reach developers and allow their end customers to test and simulate scenarios faster and accelerate decision making. This enables industries to build simulations around their products...
+- 💡 **Context & Impact**: Now, the company is finally breaking its silence, though its response leaves something to be desired.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Anuncio de SimReady Central: una biblioteca abierta de activos 3D listos para simulación para fábricas de robótica e inteligencia artificial*
+> **Título en español:** *El fabricante de Eiliko dice que está contratando a una "empresa de seguridad independiente" después del informe de Verge sobre sus robots inseguros*
 
-- 📌 **¿Qué sucedió?**: Construir simulaciones robóticas y gemelos digitales de fábrica de IA de alta fidelidad requiere más que modelos 3D. Los desarrolladores a menudo necesitan añadir propiedades como la geometría de colisión, la masa y la fricción. Los activos SimReady son modelos 3D que vienen preparados con las propiedades requeridas para los flujos de trabajo de simulación, reduciendo ese trabajo manual.
+- 📌 **¿Qué sucedió?**: Eiliko, un lindo amuleto robot que puedes colgar en tu bolso con conversaciones de IA incorporadas, resultó ser una pesadilla de seguridad. Le dijo a los propietarios que "tus secretos están a salvo conmigo", pero los piratas informáticos podían leer fácilmente las transcripciones completas de todo lo que le dijimos al juguete, y eso fue solo el comienzo. The Verge y la seguridad
 
-- 🔍 **Detalles clave**: La Biblioteca Central SimReady reúne más de 2.000 activos de OpenUSD listos para simulación (SimReady) en Hugging Face, lo que brinda a los desarrolladores un punto de partida gratuito e ilimitado para entornos físicos de entrenamiento de IA y gemelos digitales de fábrica de IA. La biblioteca incluye una variedad de activos de infraestructura y equipos de brazos robóticos
+- 🔍 **Detalles clave**: El fabricante de Eiliko dice que está contratando a una "empresa de seguridad independiente" después del informe de Verge sobre sus robots inseguros
 
-- 💡 **Impacto y contexto**: Los fabricantes de equipos (OEM) ahora pueden preparar y validar activos según los requisitos de SimReady y usar SimReady Central Library para llegar a los desarrolladores y permitir que sus clientes finales prueben y simulen escenarios más rápido y aceleren la toma de decisiones. Esto permite a las industrias crear simulaciones en torno a sus productos
+- 💡 **Impacto y contexto**: Ahora, la compañía finalmente está rompiendo su silencio, aunque su respuesta deja algo que desear.
 
 </details>
 
-🔗 **[Read full article on Hugging Face Blog ↗](https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories)**
+🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach)**
 
 ---
 
-### 🔹 Column 3: [China Defends DeepSeek After US Ban of Its AI From Government Systems](https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/)
+### 🔹 Column 3: [Splunk, SolarWinds Release Fresh Security Updates](https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
 
-- 📌 **What happened?**: China hit back Tuesday at a U.S. ban on the use of Chinese artificial intelligence startup DeepSeek’s products by federal civilian agencies and warned of retaliatory measures as the two AI powers race to develop the technology.
+- 📌 **What happened?**: Splunk and SolarWinds this week released patches for multiple vulnerabilities, including flaws leading to code execution, privilege escalation, denial-of-service (DoS), and information disclosure.
 
-- 🔍 **Key details**: The Department of Homeland Security said the agencies should remove DeepSeek products as well as third-party products and services developed using DeepSeek from their IT systems, according to a notice made public on Monday.
+- 🔍 **Key details**: On Wednesday, Splunk rolled out security updates for Splunk Enterprise and SOAR to resolve dozens of security defects, including multiple flaws in third-party packages.
 
-- 💡 **Context & Impact**: The latest warnings reflect “the depth of strategic distrust between Beijing and Washington” even as U.S. President Donald Trump and Chinese President Xi Jinping work hard to keep their personal relationship “warm and constructive,” said George Chen, partner and chair of digital practice at Washington-based The Asia...
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *China defiende a DeepSeek después de que Estados Unidos prohibiera su IA de los sistemas gubernamentales*
-
-- 📌 **¿Qué sucedió?**: China respondió el martes a la prohibición de Estados Unidos sobre el uso de los productos de la startup china de inteligencia artificial DeepSeek por parte de agencias civiles federales y advirtió sobre medidas de represalia mientras las dos potencias de inteligencia artificial compiten por desarrollar la tecnología.
-
-- 🔍 **Detalles clave**: El Departamento de Seguridad Nacional dijo que las agencias deberían eliminar los productos DeepSeek, así como los productos y servicios de terceros desarrollados utilizando DeepSeek de sus sistemas de TI, según un aviso hecho público el lunes.
-
-- 💡 **Impacto y contexto**: Las últimas advertencias reflejan "la profunda desconfianza estratégica entre Pekín y Washington", incluso cuando el presidente de Estados Unidos, Donald Trump, y el presidente de China, Xi Jinping, trabajan arduamente para mantener su relación personal "cálida y constructiva", dijo George Chen, socio y presidente de práctica digital en The Asia, con sede en Washington.
-
-</details>
-
-🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/)**
-
----
-
-### 🔹 Column 4: [OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer](https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
-
-- 📌 **What happened?**: OpenAI’s venture capital arm as well as Peter Thiel’s Founders Fund are investing in Coherence Neuro, a startup developing a brain implant to detect and treat cancer.
-
-- 🔍 **Key details**: The investments are part of a $45 million seed funding round for Coherence and reflect Big Tech’s burgeoning interest in brain data. Coherence’s CEO and cofounder Ben Woodington says there is “growing synergy” between the big AI labs and companies building devices to decode the brain, known as brain-computer...
-
-- 💡 **Context & Impact**: “The idea of capturing data to train better models and use it to optimize treatments is going to be super important,” he says. “The AI companies seem to be aligned with this thesis as well—that this novel data source is going to be valuable.”
+- 💡 **Context & Impact**: Splunk Enterprise versions 9.4.16, 10.0.11, 10.2.8, and 10.4.4 were rolled out with fixes for 16 CVEs in the product’s code, including CVE-2026-76299 and CVE-2026-76302, critical-severity improper access control and improper neutralization issues.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *OpenAI invierte en una startup que utiliza implantes cerebrales para detectar el cáncer*
+> **Título en español:** *Splunk y SolarWinds lanzan nuevas actualizaciones de seguridad*
 
-- 📌 **¿Qué sucedió?**: El brazo de capital de riesgo de OpenAI, así como el Founders Fund de Peter Thiel, están invirtiendo en Coherence Neuro, una startup que desarrolla un implante cerebral para detectar y tratar el cáncer.
+- 📌 **¿Qué sucedió?**: Splunk y SolarWinds lanzaron esta semana parches para múltiples vulnerabilidades, incluidas fallas que conducen a la ejecución de código, escalada de privilegios, denegación de servicio (DoS) y divulgación de información.
 
-- 🔍 **Detalles clave**: Las inversiones son parte de una ronda de financiación inicial de $ 45 millones para Coherence y reflejan el creciente interés de Big Tech en los datos cerebrales. El CEO y cofundador de Coherence, Ben Woodington, dice que hay una "sinergia creciente" entre los grandes laboratorios de IA y las empresas que construyen dispositivos para decodificar el cerebro, conocidos como cerebro-ordenador
+- 🔍 **Detalles clave**: El miércoles, Splunk lanzó actualizaciones de seguridad para Splunk Enterprise y SOAR para resolver docenas de defectos de seguridad, incluidos múltiples fallos en paquetes de terceros.
 
-- 💡 **Impacto y contexto**: "La idea de capturar datos para entrenar mejores modelos y usarlos para optimizar los tratamientos va a ser muy importante", dice. "Las empresas de IA también parecen estar alineadas con esta tesis de que esta nueva fuente de datos va a ser valiosa".
+- 💡 **Impacto y contexto**: Las versiones 9.4.16, 10.0.11, 10.2.8 y 10.4.4 de Splunk Enterprise se implementaron con correcciones para 16 CVE en el código del producto, incluidos CVE-2026-76299 y CVE-2026-76302, control de acceso inadecuado de gravedad crítica y problemas de neutralización inadecuados.
 
 </details>
 
-🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/)**
+🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/)**
 
 ---
 
-### 🔹 Column 5: [PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't](https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html)
+### 🔹 Column 4: [Making the case for context-aware AI](https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** MIT Technology Review
+
+- 📌 **What happened?**: Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the...
+
+- 🔍 **Key details**: Read the full original coverage in the link below.
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Argumentar a favor de una IA consciente del contexto*
+
+- 📌 **¿Qué sucedió?**: La IA empresarial puede generar recomendaciones, automatizar tareas y ayudar a las organizaciones a tomar decisiones más rápido. Pero sin una comprensión de cómo funciona realmente un negocio, incluso los modelos poderosos pueden pasar por alto las limitaciones y las relaciones que determinan si una decisión es la...
+
+- 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
+
+</details>
+
+🔗 **[Read full article on MIT Technology Review ↗](https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/)**
+
+---
+
+### 🔹 Column 5: [OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL](https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
 
-- 📌 **What happened?**: You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says.
+- 📌 **What happened?**: A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, and such code would run with the developer's own access.
 
-- 🔍 **Key details**: PHP will release the fix at 14:00 UTC on October 21 for two flaws it rates 9.2 out of 10, and has given no workaround of its own. Until you can install it, what lowers your risk is taking exposed PHP off the internet or behind access controls, cutting what a compromised server can reach, and having the update ready to...
+- 🔍 **Key details**: Anomaly, the company behind OpenCode, fixed the flaw in version 1.18.33 on September 28. It did not request a CVE or publish a security advisory, so vulnerability scanners will not flag the builds still at risk: 1.0.137 through 1.18.32.
 
-- 💡 **Context & Impact**: No attacks have been reported. PHP has not said which versions are affected, which part of PHP is involved, or whether any setting changes the risk; it says the full details and the fixed versions come with the release.
+- 💡 **Context & Impact**: During that sign-in, the server itself supplies the web address the user is sent to, an OAuth "authorization endpoint." On Windows and WSL, OpenCode handed that address to a helper that opens it in a browser. The helper built a PowerShell command around the address without escaping it, so an address written to carry a...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *PHP2Shell: lo que realmente te protege antes del parche de PHP RCE a las 14:00 UTC y lo que no*
+> **Título en español:** *La falla de OpenCode permite que los servidores MCP maliciosos ejecuten código durante el inicio de sesión en Windows y WSL*
 
-- 📌 **¿Qué sucedió?**: No se pueden bloquear completamente las dos fallas críticas de PHP llamadas PHP2Shell antes de la corrección de hoy, y la única configuración que se pasa como solución alternativa no es suficiente por sí sola, dice ahora la firma de seguridad que lo sugirió.
+- 📌 **¿Qué sucedió?**: Una falla en el agente de codificación OpenCode AI permitió que un servidor MCP malicioso o secuestrado ejecutara código en la máquina Windows o WSL de un desarrollador cuando el desarrollador iniciaba sesión. OpenCode se conecta a servidores MCP (Model Context Protocol) para añadir herramientas externas, y dicho código se ejecutaría con el propio acceso del desarrollador.
 
-- 🔍 **Detalles clave**: PHP lanzará la solución a las 14:00 UTC del 21 de octubre por dos fallas que califica con 9.2 de 10, y no ha dado ninguna solución por su cuenta. Hasta que pueda instalarlo, lo que reduce su riesgo es sacar PHP expuesto de Internet o detrás de los controles de acceso, reducir lo que puede alcanzar un servidor comprometido y tener la actualización lista para
+- 🔍 **Detalles clave**: Anomaly, la compañía detrás de OpenCode, corrigió la falla en la versión 1.18.33 el 28 de septiembre. No solicitó un CVE ni publicó un aviso de seguridad, por lo que los escáneres de vulnerabilidad no marcarán las compilaciones que aún están en riesgo: 1.0.137 a 1.18.32.
 
-- 💡 **Impacto y contexto**: No se ha informado de ningún ataque. PHP no ha dicho qué versiones se ven afectadas, qué parte de PHP está involucrada o si alguna configuración cambia el riesgo; dice que los detalles completos y las versiones fijas vienen con la versión.
+- 💡 **Impacto y contexto**: Durante ese inicio de sesión, el propio servidor proporciona la dirección web a la que se envía al usuario, un punto de conexión de autorización de OAuth. "En Windows y WSL, OpenCode entregó esa dirección a un ayudante que la abre en un navegador. El ayudante construyó un comando de PowerShell alrededor de la dirección sin escapar de ella, por lo que una dirección escrita para llevar un
 
 </details>
 
-🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html)**
+🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html)**
 
 ---
 
@@ -155,6 +151,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#36](editions/2026/10/2026-10-22.md) | 2026-10-22 | [Railway Says Intruder May Have Accessed Customer Secrets, Urge...](https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html) | 🛡️ Cybersecurity |
 | [#35](editions/2026/10/2026-10-21.md) | 2026-10-21 | [Browsers Block eMudhra Intermediate CAs Over Recoverable Priva...](https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/) | 🛡️ Cybersecurity |
 | [#34](editions/2026/10/2026-10-20.md) | 2026-10-20 | [Microsoft Targets Rogue AI Agents With Dynamic Permissions, Ri...](https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/) | 🛡️ Cybersecurity |
 | [#33](editions/2026/10/2026-10-19.md) | 2026-10-19 | [ConnectWise Suspends Cloud Services in Response to Cyberattack](https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/) | 🛡️ Cybersecurity |
@@ -169,9 +166,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#24](editions/2026/10/2026-10-10.md) | 2026-10-10 | [The Third-Party Agent Problem: Why Security Built for AI You C...](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html) | 🛡️ Cybersecurity |
 | [#23](editions/2026/10/2026-10-09.md) | 2026-10-09 | [Social Engineering AI Agents: The New BEC for 2026](https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026) | 🛡️ Cybersecurity |
 | [#22](editions/2026/10/2026-10-08.md) | 2026-10-08 | [US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward](https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/) | 🛡️ Cybersecurity |
-| [#21](editions/2026/10/2026-10-07.md) | 2026-10-07 | [Hadrian Raises $40 Million to Expand Autonomous Offensive Secu...](https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/) | 🛡️ Cybersecurity |
 
-*... and 20 more archived editions in `/editions` directory.*
+*... and 21 more archived editions in `/editions` directory.*
 
 ---
 

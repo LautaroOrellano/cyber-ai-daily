@@ -565,5 +565,22 @@
       "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
       "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html"
     ]
+  },
+  {
+    "edition": 36,
+    "date": "2026-10-22",
+    "rel_path": "editions/2026/10/2026-10-22.md",
+    "title_en": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+    "title_es": "Railway dice que el intruso puede haber accedido a los secretos del cliente, insta a la rotación de credenciales",
+    "category": "cyber",
+    "source": "The Hacker News",
+    "lead_link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+    "story_links": [
+      "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+      "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+      "https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/",
+      "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html"
+    ]
   }
 ]
