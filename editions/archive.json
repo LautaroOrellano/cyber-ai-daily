@@ -582,5 +582,22 @@
       "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
       "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html"
     ]
+  },
+  {
+    "edition": 37,
+    "date": "2026-10-23",
+    "rel_path": "editions/2026/10/2026-10-23.md",
+    "title_en": "URGENT - PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+    "title_es": "URGENTE: PHP advierte de otro RCE sin parches dos días después de los parches de emergencia de PHP2Shell",
+    "category": "cyber",
+    "source": "The Hacker News",
+    "lead_link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+    "story_links": [
+      "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+      "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
+      "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/"
+    ]
   }
 ]
