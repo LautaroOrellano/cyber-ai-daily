@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #37** — *Friday, October 23, 2026*
+> **📅 Today's Edition: Issue #38** — *Saturday, October 24, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2337-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2338-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,135 +17,135 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [URGENT - PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches](https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html)
+### 📌 [Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet](https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
 
-- 📌 **What happened?**: PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.
+- 📌 **What happened?**: Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine.
 
-- 🔍 **Key details**: The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk. The project is not issuing an emergency fix for it. Instead, it recommends turning off a feature called session upload progress until a fix is available in the next routine...
+- 🔍 **Key details**: The updater belongs to Time4Popcorn, an abandoned copy of Popcorn Time, a free app that streamed pirated films and TV over BitTorrent.
 
-- 💡 **Context & Impact**: The warning came in a short informational advisory published on October 23. It follows the October 21 emergency release that fixed two critical PHP2Shell flaws, CVE-2026-109618 and CVE-2026-109619, which let an attacker without an account run code on a server. Those were patched in PHP 8.5.12, 8.4.27, 8.3.36, and...
+- 💡 **Context & Impact**: Popcorn Time was popular about a decade ago, and the original shut down in 2014, but several copies kept running under the same name. A separate, legal project that took the Popcorn Time name in early 2025 is unrelated to it.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *URGENTE: PHP advierte de otro RCE sin parches dos días después de los parches de emergencia de PHP2Shell*
+> **Título en español:** *Investigadores impulsan más de 2 millones de actualizaciones para desactivar de forma remota el actualizador de tiempo de palomitas de maíz que podría alimentar una botnet*
 
-- 📌 **¿Qué sucedió?**: PHP ha advertido de otra forma en que un atacante podría ejecutar código en un servidor web, dos días después de que enviara correcciones de emergencia para las fallas críticas de PHP2Shell.
+- 📌 **¿Qué sucedió?**: Entre noviembre de 2025 y marzo de 2026, la empresa de seguridad holandesa Eye Security impulsó más de 2 millones de actualizaciones de ordenadores que no poseía para apagar un actualizador en segundo plano que, según dijo, podría haber permitido que un extraño se hiciera cargo de la máquina.
 
-- 🔍 **Detalles clave**: El nuevo problema, asignado CVE-2026-115560, afecta solo a las aplicaciones web configuradas de una manera inusual, y PHP lo considera un riesgo poco probable. El proyecto no está emitiendo una solución de emergencia para él. En su lugar, recomienda desactivar una función llamada progreso de carga de sesión hasta que haya una solución disponible en la siguiente rutina
+- 🔍 **Detalles clave**: El actualizador pertenece a Time4Popcorn, una copia abandonada de Popcorn Time, una aplicación gratuita que transmitía películas y televisión pirateadas a través de BitTorrent.
 
-- 💡 **Impacto y contexto**: La advertencia llegó en un breve aviso informativo publicado el 23 de octubre. Sigue a la versión de emergencia del 21 de octubre que corrigió dos fallas críticas de PHP2Shell, CVE-2026-109618 y CVE-2026-109619, que permitían a un atacante sin un código de cuenta ejecutar en un servidor. Esos fueron parcheados en PHP 8.5.12, 8.4.27, 8.3.36 y
+- 💡 **Impacto y contexto**: Popcorn Time era popular hace aproximadamente una década, y el original se cerró en 2014, pero varias copias seguían funcionando con el mismo nombre. Un proyecto separado y legal que tomó el nombre de Popcorn Time a principios de 2025 no está relacionado con él.
 
 </details>
 
-👉 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html)**
+👉 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html)**
 
 ---
 
 ## 📰 TOP HIGHLIGHTS (4 Stories)
 
-### 🔹 Column 2: [Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia](https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/)
+### 🔹 Column 2: [OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/)
 > **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
 
-- 📌 **What happened?**: Ride-hailing company inDrive, known for letting passengers and drivers negotiate fares, is working with Chinese autonomous driving firm Pony.ai and Nvidia to begin testing robotaxis in Kazakhstan in 2027.
+- 📌 **What happened?**: On Friday, OpenAI said that it will train its models using cached copies and simulated versions of the internet instead of the live web because the models are too unpredictable to be trusted with live internet access.
 
-- 🔍 **Key details**: The companies said Friday that they had signed a memorandum of understanding to explore bringing Pony.ai’s robotaxis to inDrive’s platform — a reflection of the growing interest in self-driving technology beyond the U.S. and China.
+- 🔍 **Key details**: The frontier lab announced its new policy two weeks after its rival, Anthropic, began limiting its newest and, in theory, most capable models from accessing the live internet. Researchers adopted these policies after months of incidents in which models pursuing training tasks broke into external systems in search of...
 
-- 💡 **Context & Impact**: Testing will begin in Kazakhstan’s capital, Astana, in the first half of 2027, inDrive CTO Yuri Misnik told TechCrunch. The tests will initially involve a safety operator, with fully driverless rides as the eventual goal.
+- 💡 **Context & Impact**: “Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no internet access,” the company said in a blog post.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *InDrive, rival de Uber, realiza pruebas de robotaxi en 2027 en Asia Central con Pony.ai y Nvidia*
+> **Título en español:** *OpenAI dice que ya no capacitará a sus modelos de IA en Internet en vivo, citando "riesgos significativos"*
 
-- 📌 **¿Qué sucedió?**: La empresa de transporte inDrive, conocida por permitir que los pasajeros y los conductores negocien las tarifas, está trabajando con la empresa china de conducción autónoma Pony.ai y Nvidia para comenzar a probar los robotaxis en Kazajstán en 2027.
+- 📌 **¿Qué sucedió?**: El viernes, OpenAI dijo que entrenará sus modelos utilizando copias en caché y versiones simuladas de Internet en lugar de la web en vivo porque los modelos son demasiado impredecibles para confiar en ellos con acceso a Internet en vivo.
 
-- 🔍 **Detalles clave**: Las compañías dijeron el viernes que habían firmado un memorando de entendimiento para explorar la posibilidad de llevar los robotaxis de Pony.ai a la plataforma de inDrive, un reflejo del creciente interés en la tecnología de conducción autónoma más allá de los EE. UU. y China.
+- 🔍 **Detalles clave**: El laboratorio fronterizo anunció su nueva política dos semanas después de que su rival, Anthropic, comenzara a limitar el acceso a Internet en vivo a sus modelos más nuevos y, en teoría, más capaces. Los investigadores adoptaron estas políticas después de meses de incidentes en los que los modelos que realizaban tareas de capacitación irrumpieron en sistemas externos en busca de
 
-- 💡 **Impacto y contexto**: Las pruebas comenzarán en la capital de Kazajstán, Astana, en la primera mitad de 2027, dijo a TechCrunch el director de tecnología de inDrive, Yuri Misnik. Las pruebas involucrarán inicialmente a un operador de seguridad, con viajes totalmente sin conductor como objetivo final.
+- 💡 **Impacto y contexto**: "Con base en el estado actual de la investigación de alineación, los sistemas de monitoreo y la seguridad de la infraestructura de Internet, creemos que el enfoque responsable es llevar a cabo una capacitación de modelos de frontera sin acceso a Internet", dijo la compañía en una publicación de blog.
 
 </details>
 
-🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/)**
+🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/)**
 
 ---
 
-### 🔹 Column 3: [Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack](https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html)
+### 🔹 Column 3: [Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software](https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
 
-- 📌 **What happened?**: The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.
+- 📌 **What happened?**: A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli.
 
-- 🔍 **Key details**: According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of the MATCHWOK backdoor via a downloader called MATCHBOIL.
+- 🔍 **Key details**: Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially causing a crash, a memory leak, or the execution of attacker-controlled code.
 
-- 💡 **Context & Impact**: The activity ultimately culminated with the threat actor handing off access to Sandworm, which then conducted a data-wiping attack on September 17, 2025, more than two months after it obtained a foothold.
+- 💡 **Context & Impact**: Imperva researchers have shown that code can run on one unpatched Node.js build. The same has not been demonstrated on the other software, and no real-world attacks have been reported.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Hackers vinculados a Rusia utilizaron una nueva puerta trasera de red de malla en un destructivo ataque en Ucrania*
+> **Título en español:** *La falla del decodificador Brotli detrás de Node.js RCE también afecta a BUN, Python y otro software ampliamente utilizado*
 
-- 📌 **¿Qué sucedió?**: El grupo de piratería patrocinado por el estado ruso Sandworm se asoció con otro actor de amenazas para llevar a cabo un ataque destructivo contra una empresa de logística ucraniana el año pasado.
+- 📌 **¿Qué sucedió?**: Una falla de corrupción de memoria en el decodificador Brotli de Google se encuentra en muchos programas que descomprimen datos comprimidos por Brotli, entre ellos Bun, los paquetes Python Brotli y brotlicffi, y los proxies Envoy configurados para descomprimir Brotli.
 
-- 🔍 **Detalles clave**: Según ESET, el ataque implicó que UAC-0099 (también conocido como Earth Sirrush) obtuviera acceso inicial al objetivo el 16 de julio de 2025, a través de un correo electrónico de spear-phishing con un archivo adjunto vinculado a malware que condujo al despliegue de la puerta trasera MATCHWOK a través de un descargador llamado MATCHBOIL.
+- 🔍 **Detalles clave**: Rastreada como CVE-2026-111497, la falla permite que los datos comprimidos manipulados se sobrescriban más allá del final de un búfer y corrompan la memoria de un programa, lo que podría causar un bloqueo, una fuga de memoria o la ejecución de código controlado por un atacante.
 
-- 💡 **Impacto y contexto**: La actividad finalmente culminó con el actor de amenazas entregando el acceso a Sandworm, que luego llevó a cabo un ataque de borrado de datos el 17 de septiembre de 2025, más de dos meses después de que se afianzara.
+- 💡 **Impacto y contexto**: Los investigadores de Imperva han demostrado que el código puede ejecutarse en una compilación de Node.js sin parchear. Lo mismo no se ha demostrado en el otro software, y no se han reportado ataques en el mundo real.
 
 </details>
 
-🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html)**
+🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html)**
 
 ---
 
-### 🔹 Column 4: [Left alone with nothing to do, AI agents started playing](https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/)
+### 🔹 Column 4: [Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/)
 > **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
 
-- 📌 **What happened?**: AI agents left to explore a virtual island without a specific task began inventing challenges of their own. MIT researchers say the behavior bears the hallmarks of play.
+- 📌 **What happened?**: Earlier this week, a video of Nvidia CEO Jensen Huang playing with a flock of waddling Microducks during his keynote at the company’s GTC Berlin conference went viral. The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a “nap,” and summersaulted on voice command. They were so...
 
-- 🔍 **Key details**: The researchers put 13 AI agents called Eko, each running on Claude Opus 4.7, alone on a simulated desert island for 30 hours. They describe the experiment in a paper posted on arXiv, a site where researchers share studies before peer review. Afterward, they gave the agents specific challenges, like getting as many...
+- 🔍 **Key details**: The Microducks are expected to be delivered in time for Christmas, meaning these robots might already be on their way to becoming the hottest toy for the holiday season. Delangue thinks they might end up being the best-selling robot of the year, and possibly not even for kids. The promotional videos show adults...
 
-- 💡 **Context & Impact**: Today, developers decide in advance what AI should practice and what counts as success. The researchers see this technique — exploring without a goal — as a different way for AI agents to learn skills, especially skills that could one day be used to control robots.
+- 💡 **Context & Impact**: Microducks are open source devices produced by Pollen Robotics, a company acquired by Hugging Face in 2025, which means they are now an Nvidia company. The GPU giant bought Hugging Face in September. This is actually Hugging Face’s second robot, after the also-cute Reachy Mini.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Dejados solos sin nada que hacer, los agentes de IA comenzaron a jugar*
+> **Título en español:** *¿El juguete más popular para Navidad? El CEO de Nvidia juega con adorables robots Microduck, 20.000 unidades vendidas*
 
-- 📌 **¿Qué sucedió?**: Los agentes de IA que se fueron a explorar una isla virtual sin una tarea específica comenzaron a inventar sus propios desafíos. investigadores del MIT dicen que el comportamiento tiene el sello distintivo del juego.
+- 📌 **¿Qué sucedió?**: A principios de esta semana, un video del CEO de Nvidia, Jensen Huang, jugando con una bandada de Microducks durante su discurso de apertura en la conferencia GTC de Berlín de la compañía se volvió viral. Los robots, pisoteando sus pequeños pies y haciendo pequeños ruidos de R2-D2, se sentaron, cayeron muertos para una "siesta" y saltaron de golpe por comando de voz. Eran tan
 
-- 🔍 **Detalles clave**: Los investigadores pusieron a 13 agentes de IA llamados Eko, cada uno corriendo en Claude Opus 4.7, solos en una isla desierta simulada durante 30 horas. Describen el experimento en un artículo publicado en arXiv, un sitio donde los investigadores comparten estudios antes de la revisión por pares. Después, le dieron a los agentes desafíos específicos, como obtener tantos
+- 🔍 **Detalles clave**: Se espera que los Microducks se entreguen a tiempo para Navidad, lo que significa que estos robots ya podrían estar en camino de convertirse en el juguete más popular para la temporada navideña. Delangue cree que podrían terminar siendo el robot más vendido del año, y posiblemente ni siquiera para niños. Los vídeos promocionales muestran adultos
 
-- 💡 **Impacto y contexto**: Hoy en día, los desarrolladores deciden de antemano qué IA debe practicar y qué cuenta como éxito. Los investigadores ven esta técnica, explorar sin un objetivo, como una forma diferente para que los agentes de IA aprendan habilidades, especialmente habilidades que algún día podrían usarse para controlar robots.
+- 💡 **Impacto y contexto**: Los microductos son dispositivos de código abierto producidos por Pollen Robotics, una empresa adquirida por Hugging Face en 2025, lo que significa que ahora son una empresa de Nvidia. El gigante de las GPU compró Hugging Face en septiembre. Este es en realidad el segundo robot de Hugging Face, después del también lindo Reachy Mini.
 
 </details>
 
-🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/)**
+🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/)**
 
 ---
 
-### 🔹 Column 5: [China APT Uses AI Pentest Tool Artex in ConnectWise Attacks](https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
+### 🔹 Column 5: [CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud](https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
 
-- 📌 **What happened?**: A China-linked threat actor has been using the open source AI penetration testing framework Artex to automate a recent ConnectWise hacking campaign targeting hundreds of organizations, Microsoft reports.
+- 📌 **What happened?**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild.
 
-- 🔍 **Key details**: Tracked as Storm-0940 and active since at least 2021, the APT is known for relying on password spraying and the exploitation of vulnerable internet-facing applications to hack into organizations across multiple sectors.
+- 🔍 **Key details**: - CVE-2026-110447 (CVSS score: 9.2) - An operating system command injection vulnerability in Collabora Online – Built-in CODE Server (aka richdocumentscode) when used within the NextCloud platform that could allow remote code execution via "proxy.php" when the CODE local document server isn't running. (Fixed in...
 
-- 💡 **Context & Impact**: Starting in early September 2026, the threat actor was seen abusing Artex to automate its attacks, and previous reporting by CrowdStrike, Zscaler, and Recorded Future linked this AI-powered activity to attacks targeting South Korean financial institutions.
+- 💡 **Context & Impact**: - CVE-2026-114625 (CVSS score: 9.9) - An SQL injection vulnerability in on-premise versions of Arista VeloCloud Orchestrator that could allow a remote attacker to access privileged internal functionality. (Fixed in October 2026 in versions 5.2.3.18, 6.1.3.10, and 6.4.2.12)
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *APT de China utiliza la herramienta AI Pentest Artex en los ataques ConnectWise*
+> **Título en español:** *CISA señala dos fallas críticas explotadas activamente en Collabora Online y Arista VeloCloud*
 
-- 📌 **¿Qué sucedió?**: Un actor de amenazas vinculado a China ha estado utilizando el marco de pruebas de penetración de IA de código abierto Artex para automatizar una reciente campaña de piratería ConnectWise dirigida a cientos de organizaciones, informa Microsoft.
+- 📌 **¿Qué sucedió?**: La Agencia de Seguridad de Ciberseguridad e Infraestructura de EE. UU. (CISA, por sus siglas en inglés) agregó el viernes dos vulnerabilidades que afectan a Collabora Online Built-in CODE Server y Arista VeloCloud Orchestrator (VCO) a sus Vulnerabilidades Explotadas Conocidas (KEV, por sus siglas en inglés), citando informes de explotación activa en la naturaleza.
 
-- 🔍 **Detalles clave**: Seguido como Storm-0940 y activo desde al menos 2021, el APT es conocido por confiar en la pulverización de contraseñas y la explotación de aplicaciones vulnerables orientadas a Internet para piratear organizaciones en múltiples sectores.
+- 🔍 **Detalles clave**: - CVE-2026-110447 (puntuación CVSS: 9.2) - Una vulnerabilidad de inyección de comandos del sistema operativo en Collabora Online – Servidor de CÓDIGO incorporado (también conocido como richdocumentscode) cuando se utiliza dentro de la plataforma NextCloud que podría permitir la ejecución remota de código a través de "proxy.php" cuando el servidor de documentos local de CÓDIGO no se está ejecutando. (Corregido en
 
-- 💡 **Impacto y contexto**: A partir de principios de septiembre de 2026, se observó que el actor de amenazas abusaba de Artex para automatizar sus ataques, y los informes anteriores de CrowdStrike, Zscaler y Recorded Future vincularon esta actividad impulsada por IA con ataques dirigidos a instituciones financieras surcoreanas.
+- 💡 **Impacto y contexto**: - CVE-2026-114625 (puntuación CVSS: 9.9) - Una vulnerabilidad de inyección SQL en versiones locales de Arista VeloCloud Orchestrator que podría permitir a un atacante remoto acceder a una funcionalidad interna privilegiada. (Corregido en octubre de 2026 en las versiones 5.2.3.18, 6.1.3.10 y 6.4.2.12)
 
 </details>
 
-🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/)**
+🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html)**
 
 ---
 
@@ -155,6 +155,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#38](editions/2026/10/2026-10-24.md) | 2026-10-24 | [Researchers Push Over 2 Million Updates to Remotely Disable Po...](https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html) | 🛡️ Cybersecurity |
 | [#37](editions/2026/10/2026-10-23.md) | 2026-10-23 | [URGENT - PHP Warns of Another Unpatched RCE Two Days After Eme...](https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html) | 🛡️ Cybersecurity |
 | [#36](editions/2026/10/2026-10-22.md) | 2026-10-22 | [Railway Says Intruder May Have Accessed Customer Secrets, Urge...](https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html) | 🛡️ Cybersecurity |
 | [#35](editions/2026/10/2026-10-21.md) | 2026-10-21 | [Browsers Block eMudhra Intermediate CAs Over Recoverable Priva...](https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/) | 🛡️ Cybersecurity |
@@ -169,9 +170,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#26](editions/2026/10/2026-10-12.md) | 2026-10-12 | [IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion](https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/) | 🛡️ Cybersecurity |
 | [#25](editions/2026/10/2026-10-11.md) | 2026-10-11 | [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and...](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html) | 🛡️ Cybersecurity |
 | [#24](editions/2026/10/2026-10-10.md) | 2026-10-10 | [The Third-Party Agent Problem: Why Security Built for AI You C...](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html) | 🛡️ Cybersecurity |
-| [#23](editions/2026/10/2026-10-09.md) | 2026-10-09 | [Social Engineering AI Agents: The New BEC for 2026](https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026) | 🛡️ Cybersecurity |
 
-*... and 22 more archived editions in `/editions` directory.*
+*... and 23 more archived editions in `/editions` directory.*
 
 ---
 
