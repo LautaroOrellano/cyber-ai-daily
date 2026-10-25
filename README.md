@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #38** — *Saturday, October 24, 2026*
+> **📅 Today's Edition: Issue #39** — *Sunday, October 25, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2338-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2339-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,135 +17,135 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet](https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
+### 📌 [Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave](https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
 
-- 📌 **What happened?**: Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine.
+- 📌 **What happened?**: Tel Aviv-based Mave was founded in 2025 by Unit 8200 alumni Guy Eshel (CTO) and Raziel Oren (CEO).
 
-- 🔍 **Key details**: The updater belongs to Time4Popcorn, an abandoned copy of Popcorn Time, a free app that streamed pirated films and TV over BitTorrent.
+- 🔍 **Key details**: The funding announced on October 22, 2026 comprises $6 million seed funding (raised at the time of founding) and a new $28 million Series A round led by Red Dot Capital Partners, with participation from Lumir Growth Partners. Dell Technologies Capital and Emerge Ventures, who led Mave’s $6 million seed round, also...
 
-- 💡 **Context & Impact**: Popcorn Time was popular about a decade ago, and the original shut down in 2014, but several copies kept running under the same name. A separate, legal project that took the Popcorn Time name in early 2025 is unrelated to it.
+- 💡 **Context & Impact**: The funding will be used to accelerate Mave’s frontier AI research, strengthen the firm’s enterprise product lines and grow the company’s global presence. Current staff levels are around 30, but this will be increased with new hires focused on go-to-market and AI research roles.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Investigadores impulsan más de 2 millones de actualizaciones para desactivar de forma remota el actualizador de tiempo de palomitas de maíz que podría alimentar una botnet*
+> **Título en español:** *Antiguos oficiales de la Unidad 8200 recaudan $ 34 millones para Agentic SecOps Startup Mave*
 
-- 📌 **¿Qué sucedió?**: Entre noviembre de 2025 y marzo de 2026, la empresa de seguridad holandesa Eye Security impulsó más de 2 millones de actualizaciones de ordenadores que no poseía para apagar un actualizador en segundo plano que, según dijo, podría haber permitido que un extraño se hiciera cargo de la máquina.
+- 📌 **¿Qué sucedió?**: Mave, con sede en Tel Aviv, fue fundada en 2025 por Guy Eshel (CTO) y Raziel Oren (CEO), exalumnos de la Unidad 8200.
 
-- 🔍 **Detalles clave**: El actualizador pertenece a Time4Popcorn, una copia abandonada de Popcorn Time, una aplicación gratuita que transmitía películas y televisión pirateadas a través de BitTorrent.
+- 🔍 **Detalles clave**: El financiamiento anunciado el 22 de octubre de 2026 comprende $ 6 millones de fondos iniciales (recaudados en el momento de la fundación) y una nueva ronda Serie A de $ 28 millones dirigida por Red Dot Capital Partners, con la participación de Lumir Growth Partners. Dell Technologies Capital y Emerge Ventures, que lideraron la ronda inicial de $ 6 millones de Mave, también
 
-- 💡 **Impacto y contexto**: Popcorn Time era popular hace aproximadamente una década, y el original se cerró en 2014, pero varias copias seguían funcionando con el mismo nombre. Un proyecto separado y legal que tomó el nombre de Popcorn Time a principios de 2025 no está relacionado con él.
+- 💡 **Impacto y contexto**: Los fondos se utilizarán para acelerar la investigación de IA en la frontera de Mave, fortalecer las líneas de productos empresariales de la empresa y hacer crecer la presencia global de la empresa. Los niveles actuales de personal son de alrededor de 30, pero esto aumentará con las nuevas contrataciones centradas en los roles de investigación de IA y de lanzamiento al mercado.
 
 </details>
 
-👉 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html)**
+👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/)**
 
 ---
 
 ## 📰 TOP HIGHLIGHTS (4 Stories)
 
-### 🔹 Column 2: [OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
+### 🔹 Column 2: [What the US Movement Against Data Centers Can Learn From Abroad](https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
 
-- 📌 **What happened?**: On Friday, OpenAI said that it will train its models using cached copies and simulated versions of the internet instead of the live web because the models are too unpredictable to be trusted with live internet access.
+- 📌 **What happened?**: Paris Marx’s new book couldn’t have landed at a better time. The longtime critic of Big Tech and host of the Tech Won’t Save Us podcast has been thinking about data centers for years, and Hyperscale: The Ambition and Excess of Big Tech's Data Empires comes out right as opposition hits a fever pitch.
 
-- 🔍 **Key details**: The frontier lab announced its new policy two weeks after its rival, Anthropic, began limiting its newest and, in theory, most capable models from accessing the live internet. Researchers adopted these policies after months of incidents in which models pursuing training tasks broke into external systems in search of...
+- 🔍 **Key details**: “I certainly didn't predict that it was all going to kind of come to a head as my book was coming out,” he says with a laugh.
 
-- 💡 **Context & Impact**: “Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no internet access,” the company said in a blog post.
+- 💡 **Context & Impact**: While data centers are playing a role in shaping US elections—they’re one of the issues that could decide key midterm races in less than two weeks—there’s a history of struggle around the world. Marx’s book takes the reader on a tour of the tech industry’s quest for power and its opposition, from antiwar protests...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *OpenAI dice que ya no capacitará a sus modelos de IA en Internet en vivo, citando "riesgos significativos"*
+> **Título en español:** *Lo que el movimiento estadounidense contra los centros de datos puede aprender del extranjero*
 
-- 📌 **¿Qué sucedió?**: El viernes, OpenAI dijo que entrenará sus modelos utilizando copias en caché y versiones simuladas de Internet en lugar de la web en vivo porque los modelos son demasiado impredecibles para confiar en ellos con acceso a Internet en vivo.
+- 📌 **¿Qué sucedió?**: El nuevo libro de Paris Marx no podría haber llegado en mejor momento. El antiguo crítico de Big Tech y presentador del podcast Tech Won 't Save Us ha estado pensando en los centros de datos durante años, y Hyperscale: The Ambition and Excess of Big Tech's Data Empires sale justo cuando la oposición llega a un punto álgido.
 
-- 🔍 **Detalles clave**: El laboratorio fronterizo anunció su nueva política dos semanas después de que su rival, Anthropic, comenzara a limitar el acceso a Internet en vivo a sus modelos más nuevos y, en teoría, más capaces. Los investigadores adoptaron estas políticas después de meses de incidentes en los que los modelos que realizaban tareas de capacitación irrumpieron en sistemas externos en busca de
+- 🔍 **Detalles clave**: "Ciertamente no predije que todo iba a llegar a un punto crítico cuando saliera mi libro", dice riendo.
 
-- 💡 **Impacto y contexto**: "Con base en el estado actual de la investigación de alineación, los sistemas de monitoreo y la seguridad de la infraestructura de Internet, creemos que el enfoque responsable es llevar a cabo una capacitación de modelos de frontera sin acceso a Internet", dijo la compañía en una publicación de blog.
+- 💡 **Impacto y contexto**: Si bien los centros de datos están desempeñando un papel en la configuración de las elecciones estadounidenses, son uno de los temas que podrían decidir las carreras clave de mitad de período en menos de dos semanas, hay una historia de luchas en todo el mundo. El libro de Marx lleva al lector a un recorrido por la búsqueda de poder de la industria tecnológica y su oposición, desde las protestas contra la guerra
 
 </details>
 
-🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/)**
+🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/)**
 
 ---
 
-### 🔹 Column 3: [Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software](https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html)
+### 🔹 Column 3: [OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication](https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
 
-- 📌 **What happened?**: A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli.
+- 📌 **What happened?**: OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.
 
-- 🔍 **Key details**: Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially causing a crash, a memory leak, or the execution of attacker-controlled code.
+- 🔍 **Key details**: "Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no internet access," the artificial intelligence (AI) company said. "We've implemented this policy and will maintain it...
 
-- 💡 **Context & Impact**: Imperva researchers have shown that code can run on one unpatched Node.js build. The same has not been demonstrated on the other software, and no real-world attacks have been reported.
+- 💡 **Context & Impact**: OpenAI said models' growing capabilities can have the side effect of them getting much better at devising ways around environmental restrictions to escape containment and perform unintended actions. This can involve the model exploiting a software flaw or misconfiguration to reach the live internet, or finding...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *La falla del decodificador Brotli detrás de Node.js RCE también afecta a BUN, Python y otro software ampliamente utilizado*
+> **Título en español:** *Los agentes de OpenAI AI demuestran los escapes de VM y la comunicación secreta entre cajas de arena*
 
-- 📌 **¿Qué sucedió?**: Una falla de corrupción de memoria en el decodificador Brotli de Google se encuentra en muchos programas que descomprimen datos comprimidos por Brotli, entre ellos Bun, los paquetes Python Brotli y brotlicffi, y los proxies Envoy configurados para descomprimir Brotli.
+- 📌 **¿Qué sucedió?**: OpenAI ha anunciado planes para llevar a cabo una capacitación de modelos de frontera sin acceso a Internet en vivo, ya que reanuda la capacitación de aprendizaje de refuerzo (RL) y la inferencia interna de sus modelos de IA más avanzados.
 
-- 🔍 **Detalles clave**: Rastreada como CVE-2026-111497, la falla permite que los datos comprimidos manipulados se sobrescriban más allá del final de un búfer y corrompan la memoria de un programa, lo que podría causar un bloqueo, una fuga de memoria o la ejecución de código controlado por un atacante.
+- 🔍 **Detalles clave**: "Con base en el estado actual de la investigación de alineación, los sistemas de monitoreo y la seguridad de la infraestructura de Internet, creemos que el enfoque responsable es llevar a cabo una capacitación de modelos de frontera sin acceso a Internet", dijo la compañía de inteligencia artificial (IA). "Hemos implementado esta política y la mantendremos
 
-- 💡 **Impacto y contexto**: Los investigadores de Imperva han demostrado que el código puede ejecutarse en una compilación de Node.js sin parchear. Lo mismo no se ha demostrado en el otro software, y no se han reportado ataques en el mundo real.
+- 💡 **Impacto y contexto**: OpenAI dijo que las capacidades crecientes de los modelos pueden tener el efecto secundario de que mejoren mucho en la concepción de formas de evitar las restricciones ambientales para escapar de la contención y realizar acciones no deseadas. Esto puede implicar que el modelo explote una falla de software o una configuración incorrecta para acceder a Internet en vivo, o encontrar
 
 </details>
 
-🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html)**
+🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html)**
 
 ---
 
-### 🔹 Column 4: [Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/)
+### 🔹 Column 4: [Blue Planet III is keeping the rough edges in the age of AI](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** The Verge AI
+
+- 📌 **What happened?**: BBC’s Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To...
+
+- 🔍 **Key details**: BBC’s Blue Planet III is keeping in shots that would normally end up on the cutting room floor to prove it’s real.
+
+- 💡 **Context & Impact**: Executive Producer Elizabeth White told The Guardian in the past, “the amount of plankton and things” floating in the water would have caused them to cut a shot. Or “we might have framed out a boat or a buoy or gone: ‘Oh, actually … the water conditions are not really good enough for this.’” Instead, this time they’re...
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Blue Planet III mantiene los bordes ásperos en la era de la IA*
+
+- 📌 **¿Qué sucedió?**: Blue Planet III de la BBC está tratando de demostrar su autenticidad al salir en las tomas menos que perfectas. Las encarnaciones anteriores de la serie de la naturaleza se definieron por sus magníficas imágenes cristalinas que parecían casi demasiado buenas para ser reales. Pero un regalo muerto de la IA es cuando las cosas se ven demasiado pulidas y sin fisuras. Para
+
+- 🔍 **Detalles clave**: Blue Planet III de la BBC se mantiene en tomas que normalmente terminarían en el piso de la sala de edición para demostrar que es real.
+
+- 💡 **Impacto y contexto**: La productora ejecutiva Elizabeth White le dijo a The Guardian en el pasado que "la cantidad de plancton y cosas" flotando en el agua les habría hecho cortar una toma. O "podríamos haber enmarcado un bote o una boya o habernos ido: ‘Oh, en realidad ... las condiciones del agua no son lo suficientemente buenas para esto.’" En cambio, esta vez están
+
+</details>
+
+🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai)**
+
+---
+
+### 🔹 Column 5: [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
 > **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
 
-- 📌 **What happened?**: Earlier this week, a video of Nvidia CEO Jensen Huang playing with a flock of waddling Microducks during his keynote at the company’s GTC Berlin conference went viral. The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a “nap,” and summersaulted on voice command. They were so...
+- 📌 **What happened?**: Relay, an AI-powered workflow automation tool built as an alternative to Zapier, shut down entirely in August. The product let users automate email and task workflows using AI agents, but as OpenAI, Google, and other larger platforms built similar automation directly into their own tools, five-year-old Relay struggled...
 
-- 🔍 **Key details**: The Microducks are expected to be delivered in time for Christmas, meaning these robots might already be on their way to becoming the hottest toy for the holiday season. Delangue thinks they might end up being the best-selling robot of the year, and possibly not even for kids. The promotional videos show adults...
+- 🔍 **Key details**: More recently, chatbot platform Character.ai filed for bankruptcy just five years after launching.
 
-- 💡 **Context & Impact**: Microducks are open source devices produced by Pollen Robotics, a company acquired by Hugging Face in 2025, which means they are now an Nvidia company. The GPU giant bought Hugging Face in September. This is actually Hugging Face’s second robot, after the also-cute Reachy Mini.
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *¿El juguete más popular para Navidad? El CEO de Nvidia juega con adorables robots Microduck, 20.000 unidades vendidas*
-
-- 📌 **¿Qué sucedió?**: A principios de esta semana, un video del CEO de Nvidia, Jensen Huang, jugando con una bandada de Microducks durante su discurso de apertura en la conferencia GTC de Berlín de la compañía se volvió viral. Los robots, pisoteando sus pequeños pies y haciendo pequeños ruidos de R2-D2, se sentaron, cayeron muertos para una "siesta" y saltaron de golpe por comando de voz. Eran tan
-
-- 🔍 **Detalles clave**: Se espera que los Microducks se entreguen a tiempo para Navidad, lo que significa que estos robots ya podrían estar en camino de convertirse en el juguete más popular para la temporada navideña. Delangue cree que podrían terminar siendo el robot más vendido del año, y posiblemente ni siquiera para niños. Los vídeos promocionales muestran adultos
-
-- 💡 **Impacto y contexto**: Los microductos son dispositivos de código abierto producidos por Pollen Robotics, una empresa adquirida por Hugging Face en 2025, lo que significa que ahora son una empresa de Nvidia. El gigante de las GPU compró Hugging Face en septiembre. Este es en realidad el segundo robot de Hugging Face, después del también lindo Reachy Mini.
-
-</details>
-
-🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/)**
-
----
-
-### 🔹 Column 5: [CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud](https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
-
-- 📌 **What happened?**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild.
-
-- 🔍 **Key details**: - CVE-2026-110447 (CVSS score: 9.2) - An operating system command injection vulnerability in Collabora Online – Built-in CODE Server (aka richdocumentscode) when used within the NextCloud platform that could allow remote code execution via "proxy.php" when the CODE local document server isn't running. (Fixed in...
-
-- 💡 **Context & Impact**: - CVE-2026-114625 (CVSS score: 9.9) - An SQL injection vulnerability in on-premise versions of Arista VeloCloud Orchestrator that could allow a remote attacker to access privileged internal functionality. (Fixed in October 2026 in versions 5.2.3.18, 6.1.3.10, and 6.4.2.12)
+- 💡 **Context & Impact**: Aside from Character.ai and Relay, plenty of AI bets never even survive inside the companies that build them. According to S&P Global Market Intelligence, about 42% of AI initiatives are ultimately abandoned by their corporate parents. The reasons vary: insufficient funding, technical challenges, competition,...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *CISA señala dos fallas críticas explotadas activamente en Collabora Online y Arista VeloCloud*
+> **Título en español:** *El cementerio de la IA: una lista continua de proyectos y nuevas empresas que no lo lograron*
 
-- 📌 **¿Qué sucedió?**: La Agencia de Seguridad de Ciberseguridad e Infraestructura de EE. UU. (CISA, por sus siglas en inglés) agregó el viernes dos vulnerabilidades que afectan a Collabora Online Built-in CODE Server y Arista VeloCloud Orchestrator (VCO) a sus Vulnerabilidades Explotadas Conocidas (KEV, por sus siglas en inglés), citando informes de explotación activa en la naturaleza.
+- 📌 **¿Qué sucedió?**: Relay, una herramienta de automatización de flujo de trabajo impulsada por IA construida como una alternativa a Zapier, se cerró por completo en agosto. El producto permitió a los usuarios automatizar el correo electrónico y los flujos de trabajo de tareas utilizando agentes de IA, pero a medida que OpenAI, Google y otras plataformas más grandes incorporaron una automatización similar directamente en sus propias herramientas, Relay, de cinco años, tuvo problemas
 
-- 🔍 **Detalles clave**: - CVE-2026-110447 (puntuación CVSS: 9.2) - Una vulnerabilidad de inyección de comandos del sistema operativo en Collabora Online – Servidor de CÓDIGO incorporado (también conocido como richdocumentscode) cuando se utiliza dentro de la plataforma NextCloud que podría permitir la ejecución remota de código a través de "proxy.php" cuando el servidor de documentos local de CÓDIGO no se está ejecutando. (Corregido en
+- 🔍 **Detalles clave**: Más recientemente, la plataforma de chatbot Character.ai se declaró en bancarrota solo cinco años después de su lanzamiento.
 
-- 💡 **Impacto y contexto**: - CVE-2026-114625 (puntuación CVSS: 9.9) - Una vulnerabilidad de inyección SQL en versiones locales de Arista VeloCloud Orchestrator que podría permitir a un atacante remoto acceder a una funcionalidad interna privilegiada. (Corregido en octubre de 2026 en las versiones 5.2.3.18, 6.1.3.10 y 6.4.2.12)
+- 💡 **Impacto y contexto**: Aparte de Character.ai y Relay, muchas apuestas de IA ni siquiera sobreviven dentro de las empresas que las construyen. Según S&P Global Market Intelligence, alrededor del 42% de las iniciativas de IA son finalmente abandonadas por sus padres corporativos. Las razones varían: financiación insuficiente, desafíos técnicos, competencia,
 
 </details>
 
-🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html)**
+🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)**
 
 ---
 
@@ -155,6 +155,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#39](editions/2026/10/2026-10-25.md) | 2026-10-25 | [Former Unit 8200 Officers Raise $34 Million for Agentic SecOps...](https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/) | 🛡️ Cybersecurity |
 | [#38](editions/2026/10/2026-10-24.md) | 2026-10-24 | [Researchers Push Over 2 Million Updates to Remotely Disable Po...](https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html) | 🛡️ Cybersecurity |
 | [#37](editions/2026/10/2026-10-23.md) | 2026-10-23 | [URGENT - PHP Warns of Another Unpatched RCE Two Days After Eme...](https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html) | 🛡️ Cybersecurity |
 | [#36](editions/2026/10/2026-10-22.md) | 2026-10-22 | [Railway Says Intruder May Have Accessed Customer Secrets, Urge...](https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html) | 🛡️ Cybersecurity |
@@ -169,9 +170,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#27](editions/2026/10/2026-10-13.md) | 2026-10-13 | [Small AI Models Could Soon Self-Replicate on IoT Devices, Anth...](https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/) | 🛡️ Cybersecurity |
 | [#26](editions/2026/10/2026-10-12.md) | 2026-10-12 | [IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion](https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/) | 🛡️ Cybersecurity |
 | [#25](editions/2026/10/2026-10-11.md) | 2026-10-11 | [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and...](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html) | 🛡️ Cybersecurity |
-| [#24](editions/2026/10/2026-10-10.md) | 2026-10-10 | [The Third-Party Agent Problem: Why Security Built for AI You C...](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html) | 🛡️ Cybersecurity |
 
-*... and 23 more archived editions in `/editions` directory.*
+*... and 24 more archived editions in `/editions` directory.*
 
 ---
 

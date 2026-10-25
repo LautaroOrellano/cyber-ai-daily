@@ -616,5 +616,22 @@
       "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
       "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html"
     ]
+  },
+  {
+    "edition": 39,
+    "date": "2026-10-25",
+    "rel_path": "editions/2026/10/2026-10-25.md",
+    "title_en": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
+    "title_es": "Antiguos oficiales de la Unidad 8200 recaudan $ 34 millones para Agentic SecOps Startup Mave",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
+    "story_links": [
+      "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
+      "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+      "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+      "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+    ]
   }
 ]
