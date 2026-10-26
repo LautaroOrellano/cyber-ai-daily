@@ -633,5 +633,22 @@
       "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
       "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
     ]
+  },
+  {
+    "edition": 40,
+    "date": "2026-10-26",
+    "rel_path": "editions/2026/10/2026-10-26.md",
+    "title_en": "953 Online Stores Infected in Long-Lasting Malware Campaign",
+    "title_es": "953 tiendas en línea infectadas en una campaña de malware de larga duración",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/",
+    "story_links": [
+      "https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/",
+      "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+      "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
+      "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+      "https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/"
+    ]
   }
 ]

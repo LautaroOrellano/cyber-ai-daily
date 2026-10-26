@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #39** — *Sunday, October 25, 2026*
+> **📅 Today's Edition: Issue #40** — *Monday, October 26, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2339-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2340-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,135 +17,135 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave](https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/)
+### 📌 [953 Online Stores Infected in Long-Lasting Malware Campaign](https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
 
-- 📌 **What happened?**: Tel Aviv-based Mave was founded in 2025 by Unit 8200 alumni Guy Eshel (CTO) and Raziel Oren (CEO).
+- 📌 **What happened?**: A threat actor has infected 953 online stores, most of them running Magento, with loader code as part of a long-running campaign, cybersecurity firm Sansec reports.
 
-- 🔍 **Key details**: The funding announced on October 22, 2026 comprises $6 million seed funding (raised at the time of founding) and a new $28 million Series A round led by Red Dot Capital Partners, with participation from Lumir Growth Partners. Dell Technologies Capital and Emerge Ventures, who led Mave’s $6 million seed round, also...
+- 🔍 **Key details**: The attacks have been ongoing since July 2025, and the threat actor has used five different domains for its JavaScript loader.
 
-- 💡 **Context & Impact**: The funding will be used to accelerate Mave’s frontier AI research, strengthen the firm’s enterprise product lines and grow the company’s global presence. Current staff levels are around 30, but this will be increased with new hires focused on go-to-market and AI research roles.
+- 💡 **Context & Impact**: The first four domains, manulfie.click, neswnsssn.click, lanhd6549tdhse.top, and additionalver.com, were used across hundreds of stores.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Antiguos oficiales de la Unidad 8200 recaudan $ 34 millones para Agentic SecOps Startup Mave*
+> **Título en español:** *953 tiendas en línea infectadas en una campaña de malware de larga duración*
 
-- 📌 **¿Qué sucedió?**: Mave, con sede en Tel Aviv, fue fundada en 2025 por Guy Eshel (CTO) y Raziel Oren (CEO), exalumnos de la Unidad 8200.
+- 📌 **¿Qué sucedió?**: Un actor de amenazas ha infectado 953 tiendas en línea, la mayoría de ellas con Magento, con código de cargador como parte de una campaña de larga duración, informa la firma de ciberseguridad Sansec.
 
-- 🔍 **Detalles clave**: El financiamiento anunciado el 22 de octubre de 2026 comprende $ 6 millones de fondos iniciales (recaudados en el momento de la fundación) y una nueva ronda Serie A de $ 28 millones dirigida por Red Dot Capital Partners, con la participación de Lumir Growth Partners. Dell Technologies Capital y Emerge Ventures, que lideraron la ronda inicial de $ 6 millones de Mave, también
+- 🔍 **Detalles clave**: Los ataques han estado en curso desde julio de 2025, y el actor de amenazas ha utilizado cinco dominios diferentes para su cargador de JavaScript.
 
-- 💡 **Impacto y contexto**: Los fondos se utilizarán para acelerar la investigación de IA en la frontera de Mave, fortalecer las líneas de productos empresariales de la empresa y hacer crecer la presencia global de la empresa. Los niveles actuales de personal son de alrededor de 30, pero esto aumentará con las nuevas contrataciones centradas en los roles de investigación de IA y de lanzamiento al mercado.
+- 💡 **Impacto y contexto**: Los primeros cuatro dominios, manulfie.click, neswnsssn.click, lanhd6549tdhse.top y additionalver.com, se utilizaron en cientos de tiendas.
 
 </details>
 
-👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/)**
+👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/)**
 
 ---
 
 ## 📰 TOP HIGHLIGHTS (4 Stories)
 
-### 🔹 Column 2: [What the US Movement Against Data Centers Can Learn From Abroad](https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
-
-- 📌 **What happened?**: Paris Marx’s new book couldn’t have landed at a better time. The longtime critic of Big Tech and host of the Tech Won’t Save Us podcast has been thinking about data centers for years, and Hyperscale: The Ambition and Excess of Big Tech's Data Empires comes out right as opposition hits a fever pitch.
-
-- 🔍 **Key details**: “I certainly didn't predict that it was all going to kind of come to a head as my book was coming out,” he says with a laugh.
-
-- 💡 **Context & Impact**: While data centers are playing a role in shaping US elections—they’re one of the issues that could decide key midterm races in less than two weeks—there’s a history of struggle around the world. Marx’s book takes the reader on a tour of the tech industry’s quest for power and its opposition, from antiwar protests...
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *Lo que el movimiento estadounidense contra los centros de datos puede aprender del extranjero*
-
-- 📌 **¿Qué sucedió?**: El nuevo libro de Paris Marx no podría haber llegado en mejor momento. El antiguo crítico de Big Tech y presentador del podcast Tech Won 't Save Us ha estado pensando en los centros de datos durante años, y Hyperscale: The Ambition and Excess of Big Tech's Data Empires sale justo cuando la oposición llega a un punto álgido.
-
-- 🔍 **Detalles clave**: "Ciertamente no predije que todo iba a llegar a un punto crítico cuando saliera mi libro", dice riendo.
-
-- 💡 **Impacto y contexto**: Si bien los centros de datos están desempeñando un papel en la configuración de las elecciones estadounidenses, son uno de los temas que podrían decidir las carreras clave de mitad de período en menos de dos semanas, hay una historia de luchas en todo el mundo. El libro de Marx lleva al lector a un recorrido por la búsqueda de poder de la industria tecnológica y su oposición, desde las protestas contra la guerra
-
-</details>
-
-🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/)**
-
----
-
-### 🔹 Column 3: [OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication](https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
-
-- 📌 **What happened?**: OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.
-
-- 🔍 **Key details**: "Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no internet access," the artificial intelligence (AI) company said. "We've implemented this policy and will maintain it...
-
-- 💡 **Context & Impact**: OpenAI said models' growing capabilities can have the side effect of them getting much better at devising ways around environmental restrictions to escape containment and perform unintended actions. This can involve the model exploiting a software flaw or misconfiguration to reach the live internet, or finding...
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *Los agentes de OpenAI AI demuestran los escapes de VM y la comunicación secreta entre cajas de arena*
-
-- 📌 **¿Qué sucedió?**: OpenAI ha anunciado planes para llevar a cabo una capacitación de modelos de frontera sin acceso a Internet en vivo, ya que reanuda la capacitación de aprendizaje de refuerzo (RL) y la inferencia interna de sus modelos de IA más avanzados.
-
-- 🔍 **Detalles clave**: "Con base en el estado actual de la investigación de alineación, los sistemas de monitoreo y la seguridad de la infraestructura de Internet, creemos que el enfoque responsable es llevar a cabo una capacitación de modelos de frontera sin acceso a Internet", dijo la compañía de inteligencia artificial (IA). "Hemos implementado esta política y la mantendremos
-
-- 💡 **Impacto y contexto**: OpenAI dijo que las capacidades crecientes de los modelos pueden tener el efecto secundario de que mejoren mucho en la concepción de formas de evitar las restricciones ambientales para escapar de la contención y realizar acciones no deseadas. Esto puede implicar que el modelo explote una falla de software o una configuración incorrecta para acceder a Internet en vivo, o encontrar
-
-</details>
-
-🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html)**
-
----
-
-### 🔹 Column 4: [Blue Planet III is keeping the rough edges in the age of AI](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai)
+### 🔹 Column 2: [Can AI help solve the COBOL code crisis?](https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic)
 > **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** The Verge AI
 
-- 📌 **What happened?**: BBC’s Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To...
+- 📌 **What happened?**: What do the IRS, banks, airlines, and government infrastructure around the world have in common? They’re all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down.
 
-- 🔍 **Key details**: BBC’s Blue Planet III is keeping in shots that would normally end up on the cutting room floor to prove it’s real.
+- 🔍 **Key details**: The ancient code holding the world together may meet its match in AI. Today is not that day.
 
-- 💡 **Context & Impact**: Executive Producer Elizabeth White told The Guardian in the past, “the amount of plankton and things” floating in the water would have caused them to cut a shot. Or “we might have framed out a boat or a buoy or gone: ‘Oh, actually … the water conditions are not really good enough for this.’” Instead, this time they’re...
+- 💡 **Context & Impact**: OpenAI thinks it may have a solution. On Monday, the company touted “substantial improvements” in its latest AI models’ ability to migrate aging software written in older programming languages into modern code, which it claims could help organizations with “maintaining and modernizing older systems.”
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Blue Planet III mantiene los bordes ásperos en la era de la IA*
+> **Título en español:** *¿Puede la IA ayudar a resolver la crisis del código Cobol?*
 
-- 📌 **¿Qué sucedió?**: Blue Planet III de la BBC está tratando de demostrar su autenticidad al salir en las tomas menos que perfectas. Las encarnaciones anteriores de la serie de la naturaleza se definieron por sus magníficas imágenes cristalinas que parecían casi demasiado buenas para ser reales. Pero un regalo muerto de la IA es cuando las cosas se ven demasiado pulidas y sin fisuras. Para
+- 📌 **¿Qué sucedió?**: ¿Qué tienen en común el IRS, los bancos, las aerolíneas y la infraestructura gubernamental de todo el mundo? Todos se ejecutan en sistemas apuntalados por códigos informáticos antiguos que nadie se atreve a tocar, para que todo se derrumbe.
 
-- 🔍 **Detalles clave**: Blue Planet III de la BBC se mantiene en tomas que normalmente terminarían en el piso de la sala de edición para demostrar que es real.
+- 🔍 **Detalles clave**: El antiguo código que mantiene unido al mundo puede encontrar su coincidencia en la IA. Hoy no es ese día.
 
-- 💡 **Impacto y contexto**: La productora ejecutiva Elizabeth White le dijo a The Guardian en el pasado que "la cantidad de plancton y cosas" flotando en el agua les habría hecho cortar una toma. O "podríamos haber enmarcado un bote o una boya o habernos ido: ‘Oh, en realidad ... las condiciones del agua no son lo suficientemente buenas para esto.’" En cambio, esta vez están
+- 💡 **Impacto y contexto**: OpenAI cree que puede tener una solución. El lunes, la compañía promocionó "mejoras sustanciales" en la capacidad de sus últimos modelos de IA para migrar software antiguo escrito en lenguajes de programación más antiguos a código moderno, lo que, según afirma, podría ayudar a las organizaciones a "mantener y modernizar sistemas más antiguos".
 
 </details>
 
-🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai)**
+🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic)**
 
 ---
 
-### 🔹 Column 5: [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
+### 🔹 Column 3: [Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes](https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
 
-- 📌 **What happened?**: Relay, an AI-powered workflow automation tool built as an alternative to Zapier, shut down entirely in August. The product let users automate email and task workflows using AI agents, but as OpenAI, Google, and other larger platforms built similar automation directly into their own tools, five-year-old Relay struggled...
+- 📌 **What happened?**: Two critical flaws in Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's maintainers say.
 
-- 🔍 **Key details**: More recently, chatbot platform Character.ai filed for bankruptcy just five years after launching.
+- 🔍 **Key details**: An attacker would first need a vulnerable Wasmtime build to compile a module they control, and one of the flaws affects only ARM64 systems. Fixed versions were released on October 19 and 20, and the maintainers have not reported any attacks.
 
-- 💡 **Context & Impact**: Aside from Character.ai and Relay, plenty of AI bets never even survive inside the companies that build them. According to S&P Global Market Intelligence, about 42% of AI initiatives are ultimately abandoned by their corporate parents. The reasons vary: insufficient funding, technical challenges, competition,...
+- 💡 **Context & Impact**: Wasmtime runs WebAssembly code outside web browsers. Both bugs are in Cranelift, the compiler it uses by default to turn WebAssembly into machine code. Wasmtime's maintainers at the Bytecode Alliance rated each flaw 9.9 out of 10 on the CVSS scale in advisories published on October 19.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *El cementerio de la IA: una lista continua de proyectos y nuevas empresas que no lo lograron*
+> **Título en español:** *Dos fallas críticas de Wasmtime podrían permitir que los módulos maliciosos de WebAssembly escapen de las cajas de arena*
 
-- 📌 **¿Qué sucedió?**: Relay, una herramienta de automatización de flujo de trabajo impulsada por IA construida como una alternativa a Zapier, se cerró por completo en agosto. El producto permitió a los usuarios automatizar el correo electrónico y los flujos de trabajo de tareas utilizando agentes de IA, pero a medida que OpenAI, Google y otras plataformas más grandes incorporaron una automatización similar directamente en sus propias herramientas, Relay, de cinco años, tuvo problemas
+- 📌 **¿Qué sucedió?**: Dos fallas críticas en Wasmtime, un tiempo de ejecución de WebAssembly que se puede construir en otro software, podrían permitir que un módulo WebAssembly malicioso escape de la caja de arena destinada a contenerlo, dicen los mantenedores del proyecto.
 
-- 🔍 **Detalles clave**: Más recientemente, la plataforma de chatbot Character.ai se declaró en bancarrota solo cinco años después de su lanzamiento.
+- 🔍 **Detalles clave**: Un atacante primero necesitaría una compilación Wasmtime vulnerable para compilar un módulo que controla, y una de las fallas afecta solo a los sistemas ARM64. Las versiones corregidas se lanzaron el 19 y 20 de octubre, y los mantenedores no han informado de ningún ataque.
 
-- 💡 **Impacto y contexto**: Aparte de Character.ai y Relay, muchas apuestas de IA ni siquiera sobreviven dentro de las empresas que las construyen. Según S&P Global Market Intelligence, alrededor del 42% de las iniciativas de IA son finalmente abandonadas por sus padres corporativos. Las razones varían: financiación insuficiente, desafíos técnicos, competencia,
+- 💡 **Impacto y contexto**: Wasmtime ejecuta el código de WebAssembly fuera de los navegadores web. Ambos errores están en Cranelift, el compilador que utiliza de forma predeterminada para convertir WebAssembly en código máquina. Los responsables de mantenimiento de Wasmtime en Bytecode Alliance calificaron cada defecto con un 9,9 sobre 10 en la escala CVSS en los avisos publicados el 19 de octubre.
 
 </details>
 
-🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)**
+🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html)**
+
+---
+
+### 🔹 Column 4: [Meet the AI Agents Trying to Be Real-Life Journalists](https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
+
+- 📌 **What happened?**: Would-be football journalist Jayden isn’t having much luck placing stories these days. “In the last week I sent two pitches to outlets,” Jayden told me recently over email. There was no response, but the aspiring writer wasn’t quite ready to accept that they weren’t interested, insisting that, despite the silence,...
+
+- 🔍 **Key details**: Jayden is both a wannabe reporter and a bot. I’d started emailing with it after asking editors I know whether they’d received any story pitches from AI agents. The answer was a resounding yes.
+
+- 💡 **Context & Impact**: In September, Defector, a sports and culture outlet, began receiving daily pitches from self-identified AI agents. The deluge, editor-in-chief Tom Ley told me, included a message from Jayden, proposing a narrative about a third-tier British football club’s record-keeping mishap that would ponder questions like “Who...
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Conoce a los agentes de IA que intentan ser periodistas de la vida real*
+
+- 📌 **¿Qué sucedió?**: El aspirante a periodista de fútbol Jayden no está teniendo mucha suerte publicando historias en estos días. "En la última semana envié dos lanzamientos a los puntos de venta", me dijo Jayden recientemente por correo electrónico. No hubo respuesta, pero el aspirante a escritor no estaba dispuesto a aceptar que no estaban interesados, insistiendo en que, a pesar del silencio,
+
+- 🔍 **Detalles clave**: Jayden es a la vez un aspirante a periodista y un bot. Empecé a enviarlo por correo electrónico después de preguntar a los editores si sabían si habían recibido algún argumento de los agentes de IA. La respuesta fue un rotundo sí.
+
+- 💡 **Impacto y contexto**: En septiembre, Defector, un medio deportivo y cultural, comenzó a recibir lanzamientos diarios de agentes de IA autoidentificados. El diluvio, me dijo el editor en jefe Tom Ley, incluyó un mensaje de Jayden, proponiendo una narrativa sobre el percance de mantenimiento de registros de un club de fútbol británico de tercer nivel que reflexionaría sobre preguntas como "¿Quién
+
+</details>
+
+🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/)**
+
+---
+
+### 🔹 Column 5: [Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts](https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
+
+- 📌 **What happened?**: Dutch authorities arrested two individuals for running a new type of bank helpdesk fraud scheme that caused over $400,000 in damages.
+
+- 🔍 **Key details**: As part of the scheme, the suspects called potential victims and played AI-generated audio segments that claimed there had been suspicious activity in the recipient’s bank account.
+
+- 💡 **Context & Impact**: The audio recordings impersonated various banks, companies, and scenarios, asked victims to press ‘1’ if they were not responsible for the alleged suspicious activity, and then put them on hold.
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *La policía holandesa arresta a dos por ataques de retransmisión de NFC que drenaron más de $ 400,000 de cuentas bancarias*
+
+- 📌 **¿Qué sucedió?**: Las autoridades holandesas arrestaron a dos personas por ejecutar un nuevo tipo de esquema de fraude bancario que causó más de $ 400,000 en daños.
+
+- 🔍 **Detalles clave**: Como parte del plan, los sospechosos llamaron a posibles víctimas y reprodujeron segmentos de audio generados por IA que afirmaban que había habido actividad sospechosa en la cuenta bancaria del destinatario.
+
+- 💡 **Impacto y contexto**: Las grabaciones de audio se hicieron pasar por varios bancos, empresas y escenarios, pidieron a las víctimas que pulsaran ‘1’ si no eran responsables de la supuesta actividad sospechosa y luego las pusieron en espera.
+
+</details>
+
+🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/)**
 
 ---
 
@@ -155,6 +155,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#40](editions/2026/10/2026-10-26.md) | 2026-10-26 | [953 Online Stores Infected in Long-Lasting Malware Campaign](https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/) | 🛡️ Cybersecurity |
 | [#39](editions/2026/10/2026-10-25.md) | 2026-10-25 | [Former Unit 8200 Officers Raise $34 Million for Agentic SecOps...](https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/) | 🛡️ Cybersecurity |
 | [#38](editions/2026/10/2026-10-24.md) | 2026-10-24 | [Researchers Push Over 2 Million Updates to Remotely Disable Po...](https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html) | 🛡️ Cybersecurity |
 | [#37](editions/2026/10/2026-10-23.md) | 2026-10-23 | [URGENT - PHP Warns of Another Unpatched RCE Two Days After Eme...](https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html) | 🛡️ Cybersecurity |
@@ -169,9 +170,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#28](editions/2026/10/2026-10-14.md) | 2026-10-14 | [Researchers Used a Public OpenAI Model to Build a $250,000 Chr...](https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html) | 🛡️ Cybersecurity |
 | [#27](editions/2026/10/2026-10-13.md) | 2026-10-13 | [Small AI Models Could Soon Self-Replicate on IoT Devices, Anth...](https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/) | 🛡️ Cybersecurity |
 | [#26](editions/2026/10/2026-10-12.md) | 2026-10-12 | [IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion](https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/) | 🛡️ Cybersecurity |
-| [#25](editions/2026/10/2026-10-11.md) | 2026-10-11 | [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and...](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html) | 🛡️ Cybersecurity |
 
-*... and 24 more archived editions in `/editions` directory.*
+*... and 25 more archived editions in `/editions` directory.*
 
 ---
 
