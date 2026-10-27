@@ -650,5 +650,22 @@
       "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
       "https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/"
     ]
+  },
+  {
+    "edition": 41,
+    "date": "2026-10-27",
+    "rel_path": "editions/2026/10/2026-10-27.md",
+    "title_en": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+    "title_es": "La falla de Microsoft Authenticator permite que las aplicaciones de Android sin permiso roben tokens de cuentas de trabajo",
+    "category": "cyber",
+    "source": "The Hacker News",
+    "lead_link": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+    "story_links": [
+      "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+      "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/",
+      "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/"
+    ]
   }
 ]

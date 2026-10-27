@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 40** — *Lunes, 26 de Octubre de 2026*
+> **📅 Edición de Hoy: N° 41** — *Martes, 27 de Octubre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_40-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_41-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,70 +17,68 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [953 tiendas en línea infectadas en una campaña de malware de larga duración](https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `953 Online Stores Infected in Long-Lasting Malware Campaign`
+### 📌 [La falla de Microsoft Authenticator permite que las aplicaciones de Android sin permiso roben tokens de cuentas de trabajo](https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens`
 
-- 📌 **¿Qué sucedió?**: Un actor de amenazas ha infectado 953 tiendas en línea, la mayoría de ellas con Magento, con código de cargador como parte de una campaña de larga duración, informa la firma de ciberseguridad Sansec.
+- 📌 **¿Qué sucedió?**: Microsoft ha corregido un defecto en su aplicación Authenticator para Android que permitía que una aplicación maliciosa sin permisos se hiciera pasar por una aplicación de Microsoft de confianza, como Teams, y recopilara tokens de inicio de sesión para la cuenta de trabajo de la víctima.
 
-- 🔍 **Detalles clave**: Los ataques han estado en curso desde julio de 2025, y el actor de amenazas ha utilizado cinco dominios diferentes para su cargador de JavaScript.
+- 🔍 **Detalles clave**: Microsoft rastrea la falla como CVE-2026-80097 y la corrige en Authenticator para la versión de Android 6.2606.4246, por lo que cualquier persona que use la aplicación debe actualizarla.
 
-- 💡 **Impacto y contexto**: Los primeros cuatro dominios, manulfie.click, neswnsssn.click, lanhd6549tdhse.top y additionalver.com, se utilizaron en cientos de tiendas.
+- 💡 **Impacto y contexto**: En las pruebas de los investigadores, los tokens dieron acceso completo al correo electrónico, los archivos y el calendario de la cuenta. Microsoft dice que la explotación también necesita que la víctima complete un paso de inicio de sesión en Authenticator, y que la falla no se ha utilizado en los ataques.
 
-👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/)**
+👉 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [¿Puede la IA ayudar a resolver la crisis del código Cobol?](https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Can AI help solve the COBOL code crisis?`
+### 🔹 Columna 2: [Inteligencia industrial: la próxima oportunidad de crecimiento para la fabricación](https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** MIT Technology Review &nbsp;|&nbsp; *Original:* `Industrial Intelligence: The next growth opportunity for manufacturing`
 
-- 📌 **¿Qué sucedió?**: ¿Qué tienen en común el IRS, los bancos, las aerolíneas y la infraestructura gubernamental de todo el mundo? Todos se ejecutan en sistemas apuntalados por códigos informáticos antiguos que nadie se atreve a tocar, para que todo se derrumbe.
+- 📌 **¿Qué sucedió?**: Cada fabricante tiene su propia inteligencia industrial. Algunos están documentados y otros residen en el conocimiento de trabajadores experimentados. Considere la posibilidad de que un operador experimentado se prepare para reiniciar una línea después de un cambio. La configuración de la máquina es importante, pero también lo es saber cómo...
 
-- 🔍 **Detalles clave**: El antiguo código que mantiene unido al mundo puede encontrar su coincidencia en la IA. Hoy no es ese día.
+- 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
 
-- 💡 **Impacto y contexto**: OpenAI cree que puede tener una solución. El lunes, la compañía promocionó "mejoras sustanciales" en la capacidad de sus últimos modelos de IA para migrar software antiguo escrito en lenguajes de programación más antiguos a código moderno, lo que, según afirma, podría ayudar a las organizaciones a "mantener y modernizar sistemas más antiguos".
-
-🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic)**
+🔗 **[Ver nota original completa en MIT Technology Review (inglés) ↗](https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/)**
 
 ---
 
-### 🔹 Columna 3: [Dos fallas críticas de Wasmtime podrían permitir que los módulos maliciosos de WebAssembly escapen de las cajas de arena](https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes`
+### 🔹 Columna 3: [El incidente inexplicable de DreamHost solicita el restablecimiento de la contraseña de correo electrónico y FTP](https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Unexplained DreamHost Incident Prompts Email, FTP Password Resets`
 
-- 📌 **¿Qué sucedió?**: Dos fallas críticas en Wasmtime, un tiempo de ejecución de WebAssembly que se puede construir en otro software, podrían permitir que un módulo WebAssembly malicioso escape de la caja de arena destinada a contenerlo, dicen los mantenedores del proyecto.
+- 📌 **¿Qué sucedió?**: Durante el fin de semana, el proveedor de alojamiento web DreamHost suspendió su servicio File Manager y restableció algunas contraseñas de usuario.
 
-- 🔍 **Detalles clave**: Un atacante primero necesitaría una compilación Wasmtime vulnerable para compilar un módulo que controla, y una de las fallas afecta solo a los sistemas ARM64. Las versiones corregidas se lanzaron el 19 y 20 de octubre, y los mantenedores no han informado de ningún ataque.
+- 🔍 **Detalles clave**: La compañía dice que tomó medidas de protección en respuesta a "un problema" con sus sistemas, que afectó al Administrador de archivos en files.dreamhost.com y al correo web de DreamHost.
 
-- 💡 **Impacto y contexto**: Wasmtime ejecuta el código de WebAssembly fuera de los navegadores web. Ambos errores están en Cranelift, el compilador que utiliza de forma predeterminada para convertir WebAssembly en código máquina. Los responsables de mantenimiento de Wasmtime en Bytecode Alliance calificaron cada defecto con un 9,9 sobre 10 en la escala CVSS en los avisos publicados el 19 de octubre.
+- 💡 **Impacto y contexto**: "Como medida de precaución, estamos restableciendo las contraseñas de algunos usuarios de correo electrónico y FTP/SFTP", advirtió la compañía el viernes.
 
-🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html)**
-
----
-
-### 🔹 Columna 4: [Conoce a los agentes de IA que intentan ser periodistas de la vida real](https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `Meet the AI Agents Trying to Be Real-Life Journalists`
-
-- 📌 **¿Qué sucedió?**: El aspirante a periodista de fútbol Jayden no está teniendo mucha suerte publicando historias en estos días. "En la última semana envié dos lanzamientos a los puntos de venta", me dijo Jayden recientemente por correo electrónico. No hubo respuesta, pero el aspirante a escritor no estaba dispuesto a aceptar que no estaban interesados, insistiendo en que, a pesar del silencio,
-
-- 🔍 **Detalles clave**: Jayden es a la vez un aspirante a periodista y un bot. Empecé a enviarlo por correo electrónico después de preguntar a los editores si sabían si habían recibido algún argumento de los agentes de IA. La respuesta fue un rotundo sí.
-
-- 💡 **Impacto y contexto**: En septiembre, Defector, un medio deportivo y cultural, comenzó a recibir lanzamientos diarios de agentes de IA autoidentificados. El diluvio, me dijo el editor en jefe Tom Ley, incluyó un mensaje de Jayden, proponiendo una narrativa sobre el percance de mantenimiento de registros de un club de fútbol británico de tercer nivel que reflexionaría sobre preguntas como "¿Quién
-
-🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/)**
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/)**
 
 ---
 
-### 🔹 Columna 5: [La policía holandesa arresta a dos por ataques de retransmisión de NFC que drenaron más de $ 400,000 de cuentas bancarias](https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts`
+### 🔹 Columna 4: [Nvidia respalda a las startups indias que ayudan a las empresas a ejecutar modelos de IA con menos GPU](https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Nvidia backs Indian startup helping companies run AI models with fewer GPUs`
 
-- 📌 **¿Qué sucedió?**: Las autoridades holandesas arrestaron a dos personas por ejecutar un nuevo tipo de esquema de fraude bancario que causó más de $ 400,000 en daños.
+- 📌 **¿Qué sucedió?**: A medida que el auge de la IA limita la capacidad informática, Nvidia ha respaldado a la startup india Simplismart en una ronda de financiación de $ 14 millones, apostando por un software que ayuda a las empresas a ejecutar modelos de IA de manera más eficiente y, en algunos casos, con menos GPU.
 
-- 🔍 **Detalles clave**: Como parte del plan, los sospechosos llamaron a posibles víctimas y reprodujeron segmentos de audio generados por IA que afirmaban que había habido actividad sospechosa en la cuenta bancaria del destinatario.
+- 🔍 **Detalles clave**: Nvidia participó en la ronda principal de la Serie B junto con Accel, Shastra VC y Micromax, con Dallas Venture Capital liderando la inversión. El acuerdo valora a la startup de cuatro años en alrededor de $ 100 millones, incluida la nueva financiación.
 
-- 💡 **Impacto y contexto**: Las grabaciones de audio se hicieron pasar por varios bancos, empresas y escenarios, pidieron a las víctimas que pulsaran ‘1’ si no eran responsables de la supuesta actividad sospechosa y luego las pusieron en espera.
+- 💡 **Impacto y contexto**: Hoy en día, las empresas están gastando mucho en GPU para impulsar las aplicaciones de IA, pero ejecutar esos modelos de manera confiable y económica a escala sigue siendo un desafío. Las diferentes cargas de trabajo exigen distintas compensaciones entre velocidad, coste y rendimiento. Implementar y operar modelos de IA para cumplir con los requisitos comerciales a menudo también
 
-🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/)**
+
+---
+
+### 🔹 Columna 5: [errores del parche 286 de iOS, macOS 27.2; corrección de fallos explotados con soporte para iOS 18](https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18`
+
+- 📌 **¿Qué sucedió?**: Apple lanzó el lunes actualizaciones para sus sistemas operativos, abordando un total de 286 vulnerabilidades en las versiones más recientes de iOS y macOS. Además, la empresa ha realizado una copia de seguridad de la solución para una vulnerabilidad explotada en iOS 18.
+
+- 🔍 **Detalles clave**: macOS Golden Gate 27.2 resuelve 263 vulnerabilidades, mientras que iOS y iPadOS 27.2 corrigen 163 fallas. Aproximadamente 140 de los agujeros de seguridad se comparten entre los dos sistemas operativos.
+
+- 💡 **Impacto y contexto**: Las actualizaciones de iOS y iPadOS 27.2 abordan muchos errores de corrupción de memoria en WebKit, el kernel y los componentes que manejan imágenes, fuentes, PDF, archivos de audio y video, algunos de los cuales podrían explotarse para la ejecución de código arbitrario.
+
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/)**
 
 ---
 
@@ -90,6 +88,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#41](editions/2026/10/2026-10-27.md) | 2026-10-27 | [La falla de Microsoft Authenticator permite que las aplic...](https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html) | 🛡️ Ciberseguridad |
 | [#40](editions/2026/10/2026-10-26.md) | 2026-10-26 | [953 tiendas en línea infectadas en una campaña de malware...](https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/) | 🛡️ Ciberseguridad |
 | [#39](editions/2026/10/2026-10-25.md) | 2026-10-25 | [Antiguos oficiales de la Unidad 8200 recaudan $ 34 millon...](https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/) | 🛡️ Ciberseguridad |
 | [#38](editions/2026/10/2026-10-24.md) | 2026-10-24 | [Investigadores impulsan más de 2 millones de actualizacio...](https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html) | 🛡️ Ciberseguridad |
@@ -104,9 +103,8 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 | [#29](editions/2026/10/2026-10-15.md) | 2026-10-15 | [CikaBika Bot RAT utiliza Discord para C&C](https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/) | 🛡️ Ciberseguridad |
 | [#28](editions/2026/10/2026-10-14.md) | 2026-10-14 | [Los investigadores utilizaron un modelo público de OpenAI...](https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html) | 🛡️ Ciberseguridad |
 | [#27](editions/2026/10/2026-10-13.md) | 2026-10-13 | [Los pequeños modelos de IA pronto podrían autorreplicarse...](https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/) | 🛡️ Ciberseguridad |
-| [#26](editions/2026/10/2026-10-12.md) | 2026-10-12 | [IonQ adquirirá Zero Trust Firm Elisity por hasta 1.300 mi...](https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/) | 🛡️ Ciberseguridad |
 
-*... y 25 ediciones más en la carpeta `/editions`.*
+*... y 26 ediciones más en la carpeta `/editions`.*
 
 ---
 
