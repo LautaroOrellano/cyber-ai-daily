@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 41** — *Martes, 27 de Octubre de 2026*
+> **📅 Edición de Hoy: N° 42** — *Miércoles, 28 de Octubre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_41-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_42-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,68 +17,68 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [La falla de Microsoft Authenticator permite que las aplicaciones de Android sin permiso roben tokens de cuentas de trabajo](https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens`
+### 📌 [Se han encontrado fallos de TLS en el servidor web de GoAhead utilizado en cientos de millones de dispositivos](https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices`
 
-- 📌 **¿Qué sucedió?**: Microsoft ha corregido un defecto en su aplicación Authenticator para Android que permitía que una aplicación maliciosa sin permisos se hiciera pasar por una aplicación de Microsoft de confianza, como Teams, y recopilara tokens de inicio de sesión para la cuenta de trabajo de la víctima.
+- 📌 **¿Qué sucedió?**: La empresa de ciberseguridad FoxIO ha revelado tres vulnerabilidades en el manejo de TLS por parte de GoAhead. Podrían mantener funcionando los certificados de clientes revocados, dejar que los espías descifren algo de tráfico o ayudar a los atacantes a superar un límite en la longitud de la cadena de certificados.
 
-- 🔍 **Detalles clave**: Microsoft rastrea la falla como CVE-2026-80097 y la corrige en Authenticator para la versión de Android 6.2606.4246, por lo que cualquier persona que use la aplicación debe actualizarla.
+- 🔍 **Detalles clave**: GoAhead, un servidor web ligero fabricado por EmbedThis, ejecuta las interfaces de gestión de equipos de red, impresoras y sistemas industriales. Según FoxIO, está presente en cientos de millones de dispositivos en los sectores de IoT, OT, firewall y militar.
 
-- 💡 **Impacto y contexto**: En las pruebas de los investigadores, los tokens dieron acceso completo al correo electrónico, los archivos y el calendario de la cuenta. Microsoft dice que la explotación también necesita que la víctima complete un paso de inicio de sesión en Authenticator, y que la falla no se ha utilizado en los ataques.
+- 💡 **Impacto y contexto**: Sébastien Féry, de FoxIO, quien documentó las fallas esta semana, dijo que cada una afecta solo a un subconjunto de implementaciones. Los dispositivos GoAhead que están en riesgo dependen de la biblioteca TLS que el fabricante incorporó en el firmware y de cómo configuró las verificaciones de certificados.
 
-👉 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html)**
+👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Inteligencia industrial: la próxima oportunidad de crecimiento para la fabricación](https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** MIT Technology Review &nbsp;|&nbsp; *Original:* `Industrial Intelligence: The next growth opportunity for manufacturing`
+### 🔹 Columna 2: [Los votantes en Texas están de acuerdo: odian los centros de datos](https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Voters in Texas agree: They hate data centers`
 
-- 📌 **¿Qué sucedió?**: Cada fabricante tiene su propia inteligencia industrial. Algunos están documentados y otros residen en el conocimiento de trabajadores experimentados. Considere la posibilidad de que un operador experimentado se prepare para reiniciar una línea después de un cambio. La configuración de la máquina es importante, pero también lo es saber cómo...
+- 📌 **¿Qué sucedió?**: Pregúntale al presidente de la NAACP de Texas, Gary Bledsoe, cómo ha sido ver a los desarrolladores de centros de datos descender sobre Austin y sus suburbios circundantes y puede recitar proyecto tras proyecto frente a la oposición de los lugareños.
+
+- 🔍 **Detalles clave**: Está la pelea en Taylor sobre los planes para construir un centro de datos en un sitio que se supone que es un parque. Temple, a unas 40 millas de distancia, es otro lugar dolorido, dice Bledsoe. El alcalde y los miembros del Consejo de la Ciudad se enfrentan a intentos de retirada por el desarrollo de centros de datos. Y a unas 30 millas de Austin, San Marcos se convirtió en el
+
+- 💡 **Impacto y contexto**: En ninguna parte del mundo los centros de datos están creciendo de manera más explosiva que en Texas. Con las elecciones de mitad de período que se avecinan, la lucha del centro de datos "es el problema en Texas", dice Bledsoe. La NAACP del estado se unió recientemente a docenas de otros grupos de todo el espectro político para formar una coalición para detener, o al menos detener, los datos
+
+🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas)**
+
+---
+
+### 🔹 Columna 3: [Hackers vinculados a China explotan PHP2Shell para rootear firewalls](https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `China-Linked Hackers Exploit PHP2Shell to Root Firewalls`
+
+- 📌 **¿Qué sucedió?**: Un actor de amenazas vinculado a China ha estado explotando las vulnerabilidades de PHP2Shell para obtener acceso root a los firewalls e implementar webshells para el acceso persistente, informa la firma de ciberseguridad Dream.
+
+- 🔍 **Detalles clave**: Los hackers han estado encadenando un exploit para las dos fallas de PHP, rastreadas como CVE-2026-109618 y CVE-2026-109619, con otro para Fragnesia, un error de escalamiento de privilegios en el kernel de Linux rastreado como CVE-2026-46300.
+
+- 💡 **Impacto y contexto**: Como parte de los ataques observados, los piratas informáticos utilizaron el motor de búsqueda de activos de Internet chino FOFA para identificar 19.000 firewalls orientados a Internet de un proveedor específico, y procedieron a explotar 25 de ellos del 23 al 24 de octubre, dice Dream.
+
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/)**
+
+---
+
+### 🔹 Columna 4: [Combinación de la autonomía de la IA industrial y el control humano](https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** MIT Technology Review &nbsp;|&nbsp; *Original:* `Pairing industrial AI autonomy and human control`
+
+- 📌 **¿Qué sucedió?**: Sin descripción disponible.
 
 - 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
 
-🔗 **[Ver nota original completa en MIT Technology Review (inglés) ↗](https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/)**
+🔗 **[Ver nota original completa en MIT Technology Review (inglés) ↗](https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/)**
 
 ---
 
-### 🔹 Columna 3: [El incidente inexplicable de DreamHost solicita el restablecimiento de la contraseña de correo electrónico y FTP](https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Unexplained DreamHost Incident Prompts Email, FTP Password Resets`
+### 🔹 Columna 5: [Meta lanzó silenciosamente una aplicación ‘AI pet journal’](https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Meta quietly launched an &#8216;AI pet journal&#8217; app`
 
-- 📌 **¿Qué sucedió?**: Durante el fin de semana, el proveedor de alojamiento web DreamHost suspendió su servicio File Manager y restableció algunas contraseñas de usuario.
+- 📌 **¿Qué sucedió?**: Meta ha lanzado un juego de mascotas "al estilo tamagotchi" llamado Waddle World, con criaturas virtuales que chatean con los usuarios y crean garabatos para ilustrar las conversaciones.
 
-- 🔍 **Detalles clave**: La compañía dice que tomó medidas de protección en respuesta a "un problema" con sus sistemas, que afectó al Administrador de archivos en files.dreamhost.com y al correo web de DreamHost.
+- 🔍 **Detalles clave**: Y Waddle World no es la única aplicación extraña que se ha lanzado últimamente.
 
-- 💡 **Impacto y contexto**: "Como medida de precaución, estamos restableciendo las contraseñas de algunos usuarios de correo electrónico y FTP/SFTP", advirtió la compañía el viernes.
+- 💡 **Impacto y contexto**: Según sus listados de Apple y Play Store, el "juego de cuidado de mascotas de 16 bits" no es realmente un juego, sino "un diario disfrazado de mascota". "Los usuarios deben hablar, no escribir, con sus mascotas, dice la descripción, así como jugar" juegos acogedores "como apilar comestibles o juegos de palabras. La descripción de Play Store dice:
 
-🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/)**
-
----
-
-### 🔹 Columna 4: [Nvidia respalda a las startups indias que ayudan a las empresas a ejecutar modelos de IA con menos GPU](https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Nvidia backs Indian startup helping companies run AI models with fewer GPUs`
-
-- 📌 **¿Qué sucedió?**: A medida que el auge de la IA limita la capacidad informática, Nvidia ha respaldado a la startup india Simplismart en una ronda de financiación de $ 14 millones, apostando por un software que ayuda a las empresas a ejecutar modelos de IA de manera más eficiente y, en algunos casos, con menos GPU.
-
-- 🔍 **Detalles clave**: Nvidia participó en la ronda principal de la Serie B junto con Accel, Shastra VC y Micromax, con Dallas Venture Capital liderando la inversión. El acuerdo valora a la startup de cuatro años en alrededor de $ 100 millones, incluida la nueva financiación.
-
-- 💡 **Impacto y contexto**: Hoy en día, las empresas están gastando mucho en GPU para impulsar las aplicaciones de IA, pero ejecutar esos modelos de manera confiable y económica a escala sigue siendo un desafío. Las diferentes cargas de trabajo exigen distintas compensaciones entre velocidad, coste y rendimiento. Implementar y operar modelos de IA para cumplir con los requisitos comerciales a menudo también
-
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/)**
-
----
-
-### 🔹 Columna 5: [errores del parche 286 de iOS, macOS 27.2; corrección de fallos explotados con soporte para iOS 18](https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18`
-
-- 📌 **¿Qué sucedió?**: Apple lanzó el lunes actualizaciones para sus sistemas operativos, abordando un total de 286 vulnerabilidades en las versiones más recientes de iOS y macOS. Además, la empresa ha realizado una copia de seguridad de la solución para una vulnerabilidad explotada en iOS 18.
-
-- 🔍 **Detalles clave**: macOS Golden Gate 27.2 resuelve 263 vulnerabilidades, mientras que iOS y iPadOS 27.2 corrigen 163 fallas. Aproximadamente 140 de los agujeros de seguridad se comparten entre los dos sistemas operativos.
-
-- 💡 **Impacto y contexto**: Las actualizaciones de iOS y iPadOS 27.2 abordan muchos errores de corrupción de memoria en WebKit, el kernel y los componentes que manejan imágenes, fuentes, PDF, archivos de audio y video, algunos de los cuales podrían explotarse para la ejecución de código arbitrario.
-
-🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/)**
+🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world)**
 
 ---
 
@@ -88,6 +88,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#42](editions/2026/10/2026-10-28.md) | 2026-10-28 | [Se han encontrado fallos de TLS en el servidor web de GoA...](https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/) | 🛡️ Ciberseguridad |
 | [#41](editions/2026/10/2026-10-27.md) | 2026-10-27 | [La falla de Microsoft Authenticator permite que las aplic...](https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html) | 🛡️ Ciberseguridad |
 | [#40](editions/2026/10/2026-10-26.md) | 2026-10-26 | [953 tiendas en línea infectadas en una campaña de malware...](https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/) | 🛡️ Ciberseguridad |
 | [#39](editions/2026/10/2026-10-25.md) | 2026-10-25 | [Antiguos oficiales de la Unidad 8200 recaudan $ 34 millon...](https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/) | 🛡️ Ciberseguridad |
@@ -102,9 +103,8 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 | [#30](editions/2026/10/2026-10-16.md) | 2026-10-16 | [APT chino explotó la vulnerabilidad BeyondTrust como Zero...](https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/) | 🛡️ Ciberseguridad |
 | [#29](editions/2026/10/2026-10-15.md) | 2026-10-15 | [CikaBika Bot RAT utiliza Discord para C&C](https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/) | 🛡️ Ciberseguridad |
 | [#28](editions/2026/10/2026-10-14.md) | 2026-10-14 | [Los investigadores utilizaron un modelo público de OpenAI...](https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html) | 🛡️ Ciberseguridad |
-| [#27](editions/2026/10/2026-10-13.md) | 2026-10-13 | [Los pequeños modelos de IA pronto podrían autorreplicarse...](https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/) | 🛡️ Ciberseguridad |
 
-*... y 26 ediciones más en la carpeta `/editions`.*
+*... y 27 ediciones más en la carpeta `/editions`.*
 
 ---
 

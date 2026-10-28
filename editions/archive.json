@@ -667,5 +667,22 @@
       "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
       "https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/"
     ]
+  },
+  {
+    "edition": 42,
+    "date": "2026-10-28",
+    "rel_path": "editions/2026/10/2026-10-28.md",
+    "title_en": "TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices",
+    "title_es": "Se han encontrado fallos de TLS en el servidor web de GoAhead utilizado en cientos de millones de dispositivos",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/",
+    "story_links": [
+      "https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/",
+      "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+      "https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/",
+      "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world"
+    ]
   }
 ]
