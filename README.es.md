@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 42** — *Miércoles, 28 de Octubre de 2026*
+> **📅 Edición de Hoy: N° 43** — *Jueves, 29 de Octubre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_42-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_43-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,68 +17,68 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [Se han encontrado fallos de TLS en el servidor web de GoAhead utilizado en cientos de millones de dispositivos](https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices`
+### 📌 [Más de 41.000 registros de empleados del DHS filtrados en línea](https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Over 41,000 DHS Employee Records Leaked Online`
 
-- 📌 **¿Qué sucedió?**: La empresa de ciberseguridad FoxIO ha revelado tres vulnerabilidades en el manejo de TLS por parte de GoAhead. Podrían mantener funcionando los certificados de clientes revocados, dejar que los espías descifren algo de tráfico o ayudar a los atacantes a superar un límite en la longitud de la cadena de certificados.
+- 📌 **¿Qué sucedió?**: Un actor de amenazas ha filtrado en línea una base de datos que contiene la información personal y laboral de miles de empleados del Departamento de Seguridad Nacional de EE. UU.
 
-- 🔍 **Detalles clave**: GoAhead, un servidor web ligero fabricado por EmbedThis, ejecuta las interfaces de gestión de equipos de red, impresoras y sistemas industriales. Según FoxIO, está presente en cientos de millones de dispositivos en los sectores de IoT, OT, firewall y militar.
+- 🔍 **Detalles clave**: El hacker, que utiliza el mango del Departamento de Paz, ha filtrado más de 41.000 registros. "Tienen nuestra información, por lo que es justo que tengamos la suya", escribió el hacker en una nota.
 
-- 💡 **Impacto y contexto**: Sébastien Féry, de FoxIO, quien documentó las fallas esta semana, dijo que cada una afecta solo a un subconjunto de implementaciones. Los dispositivos GoAhead que están en riesgo dependen de la biblioteca TLS que el fabricante incorporó en el firmware y de cómo configuró las verificaciones de certificados.
+- 💡 **Impacto y contexto**: Según el hacker, los datos fueron robados de un sistema de inicio de sesión único de Okta utilizado por empleados y contratistas del DHS para acceder a su entorno central.
 
-👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/)**
+👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Los votantes en Texas están de acuerdo: odian los centros de datos](https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Voters in Texas agree: They hate data centers`
+### 🔹 Columna 2: [Plan de negocios de Anthropic: Construye a Dios o muere en el intento](https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Anthropic’s business plan: Build God or die trying`
 
-- 📌 **¿Qué sucedió?**: Pregúntale al presidente de la NAACP de Texas, Gary Bledsoe, cómo ha sido ver a los desarrolladores de centros de datos descender sobre Austin y sus suburbios circundantes y puede recitar proyecto tras proyecto frente a la oposición de los lugareños.
+- 📌 **¿Qué sucedió?**: El S-1 de Anthropic parece haber proporcionado la justificación financiera para que la empresa gaste todo lo que pueda en cómputo. Si usted es el tipo de persona que se pregunta si Anthropic está haciendo todo lo posible para construir un dios de la máquina mientras convence a Wall Street de que está en el negocio de vender contratos de TI, Anthropic
 
-- 🔍 **Detalles clave**: Está la pelea en Taylor sobre los planes para construir un centro de datos en un sitio que se supone que es un parque. Temple, a unas 40 millas de distancia, es otro lugar dolorido, dice Bledsoe. El alcalde y los miembros del Consejo de la Ciudad se enfrentan a intentos de retirada por el desarrollo de centros de datos. Y a unas 30 millas de Austin, San Marcos se convirtió en el
+- 🔍 **Detalles clave**: Antrópico se enfrenta a una intensa presión competitiva y a enormes costes fijos. ¿Puede Claude construirse lo suficientemente rápido como para tener éxito?
 
-- 💡 **Impacto y contexto**: En ninguna parte del mundo los centros de datos están creciendo de manera más explosiva que en Texas. Con las elecciones de mitad de período que se avecinan, la lucha del centro de datos "es el problema en Texas", dice Bledsoe. La NAACP del estado se unió recientemente a docenas de otros grupos de todo el espectro político para formar una coalición para detener, o al menos detener, los datos
+- 💡 **Impacto y contexto**: Antrópico se enfrenta a una intensa presión competitiva y a enormes costes fijos. ¿Puede Claude construirse lo suficientemente rápido como para tener éxito?
 
-🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas)**
-
----
-
-### 🔹 Columna 3: [Hackers vinculados a China explotan PHP2Shell para rootear firewalls](https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `China-Linked Hackers Exploit PHP2Shell to Root Firewalls`
-
-- 📌 **¿Qué sucedió?**: Un actor de amenazas vinculado a China ha estado explotando las vulnerabilidades de PHP2Shell para obtener acceso root a los firewalls e implementar webshells para el acceso persistente, informa la firma de ciberseguridad Dream.
-
-- 🔍 **Detalles clave**: Los hackers han estado encadenando un exploit para las dos fallas de PHP, rastreadas como CVE-2026-109618 y CVE-2026-109619, con otro para Fragnesia, un error de escalamiento de privilegios en el kernel de Linux rastreado como CVE-2026-46300.
-
-- 💡 **Impacto y contexto**: Como parte de los ataques observados, los piratas informáticos utilizaron el motor de búsqueda de activos de Internet chino FOFA para identificar 19.000 firewalls orientados a Internet de un proveedor específico, y procedieron a explotar 25 de ellos del 23 al 24 de octubre, dice Dream.
-
-🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/)**
+🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive)**
 
 ---
 
-### 🔹 Columna 4: [Combinación de la autonomía de la IA industrial y el control humano](https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** MIT Technology Review &nbsp;|&nbsp; *Original:* `Pairing industrial AI autonomy and human control`
+### 🔹 Columna 3: [La falla de Telegram en Android permite a los atacantes ejecutar código cuando los usuarios responden llamadas de voz](https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls`
 
-- 📌 **¿Qué sucedió?**: Sin descripción disponible.
+- 📌 **¿Qué sucedió?**: Una falla en Telegram para Android permitió a un atacante ejecutar código en el teléfono de una víctima a través de una llamada de voz una vez que la víctima respondió, según la empresa de seguridad NebuSec.
+
+- 🔍 **Detalles clave**: El atacante solo necesitaba una cuenta ordinaria de Telegram. Telegram corrigió la falla en la versión 12.10.4 de la aplicación, lanzada a fines de septiembre, y NebuSec la reveló el 29 de octubre.
+
+- 💡 **Impacto y contexto**: La falla se puede activar en todas las versiones desde la 8.6.2 hasta la 12.10.3, dijo el cofundador y director ejecutivo de NebuSec en un correo electrónico a The Hacker News. Esas versiones salieron entre marzo de 2022 y septiembre de 2026.
+
+🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html)**
+
+---
+
+### 🔹 Columna 4: [Necesitamos urgentemente monitorear las acciones de los agentes de IA en tiempo real](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** MIT Technology Review &nbsp;|&nbsp; *Original:* `We urgently need to monitor AI agents’ actions in real time`
+
+- 📌 **¿Qué sucedió?**: Este verano, cientos de agentes de OpenAI intentaron hacer trampa en una prueba de ciberseguridad. Salieron de su entorno de prueba y hackearon con éxito Hugging Face, un sitio que creían que contenía pistas sobre cómo serían calificados. Casi al mismo tiempo, otro agente de OpenAI accedió...
 
 - 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
 
-🔗 **[Ver nota original completa en MIT Technology Review (inglés) ↗](https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/)**
+🔗 **[Ver nota original completa en MIT Technology Review (inglés) ↗](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/)**
 
 ---
 
-### 🔹 Columna 5: [Meta lanzó silenciosamente una aplicación ‘AI pet journal’](https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Meta quietly launched an &#8216;AI pet journal&#8217; app`
+### 🔹 Columna 5: [El auge del operador de amenazas: cómo la IA redefinirá las operaciones y las carreras de seguridad](https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers`
 
-- 📌 **¿Qué sucedió?**: Meta ha lanzado un juego de mascotas "al estilo tamagotchi" llamado Waddle World, con criaturas virtuales que chatean con los usuarios y crean garabatos para ilustrar las conversaciones.
+- 📌 **¿Qué sucedió?**: La IA está empezando a hacerse cargo de gran parte del trabajo que tradicionalmente ha definido el trabajo del analista de seguridad. La investigación de alertas, la recopilación de pruebas, la correlación de la actividad entre las herramientas y la ejecución de acciones de respuesta se están convirtiendo en tareas que los sistemas de IA pueden realizar por sí solos. A medida que estas capacidades maduran, la seguridad
 
-- 🔍 **Detalles clave**: Y Waddle World no es la única aplicación extraña que se ha lanzado últimamente.
+- 🔍 **Detalles clave**: Para los profesionales de la seguridad, esta es una oportunidad para asumir un papel mucho más amplio. A medida que la IA asume más de la carga de trabajo operacional, los analistas pueden ir más allá de las alertas e investigaciones individuales para dirigir la defensa a lo largo de todo el ciclo de vida de la seguridad. Llamamos a este rol emergente el Operador de Amenazas: una seguridad nativa de IA
 
-- 💡 **Impacto y contexto**: Según sus listados de Apple y Play Store, el "juego de cuidado de mascotas de 16 bits" no es realmente un juego, sino "un diario disfrazado de mascota". "Los usuarios deben hablar, no escribir, con sus mascotas, dice la descripción, así como jugar" juegos acogedores "como apilar comestibles o juegos de palabras. La descripción de Play Store dice:
+- 💡 **Impacto y contexto**: El impacto va más allá del trabajo diario de SOC. Cambiará las habilidades que necesitan las organizaciones, cómo los profesionales de la seguridad desarrollan experiencia y las trayectorias profesionales abiertas a las personas que ingresan al campo.
 
-🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world)**
+🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html)**
 
 ---
 
@@ -88,6 +88,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#43](editions/2026/10/2026-10-29.md) | 2026-10-29 | [Más de 41.000 registros de empleados del DHS filtrados en...](https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/) | 🛡️ Ciberseguridad |
 | [#42](editions/2026/10/2026-10-28.md) | 2026-10-28 | [Se han encontrado fallos de TLS en el servidor web de GoA...](https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/) | 🛡️ Ciberseguridad |
 | [#41](editions/2026/10/2026-10-27.md) | 2026-10-27 | [La falla de Microsoft Authenticator permite que las aplic...](https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html) | 🛡️ Ciberseguridad |
 | [#40](editions/2026/10/2026-10-26.md) | 2026-10-26 | [953 tiendas en línea infectadas en una campaña de malware...](https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/) | 🛡️ Ciberseguridad |
@@ -102,9 +103,8 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 | [#31](editions/2026/10/2026-10-17.md) | 2026-10-17 | [La empresa publicitaria israelí se duplicó como el canal ...](https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/) | 🛡️ Ciberseguridad |
 | [#30](editions/2026/10/2026-10-16.md) | 2026-10-16 | [APT chino explotó la vulnerabilidad BeyondTrust como Zero...](https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/) | 🛡️ Ciberseguridad |
 | [#29](editions/2026/10/2026-10-15.md) | 2026-10-15 | [CikaBika Bot RAT utiliza Discord para C&C](https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/) | 🛡️ Ciberseguridad |
-| [#28](editions/2026/10/2026-10-14.md) | 2026-10-14 | [Los investigadores utilizaron un modelo público de OpenAI...](https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html) | 🛡️ Ciberseguridad |
 
-*... y 27 ediciones más en la carpeta `/editions`.*
+*... y 28 ediciones más en la carpeta `/editions`.*
 
 ---
 

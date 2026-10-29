@@ -684,5 +684,22 @@
       "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
       "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world"
     ]
+  },
+  {
+    "edition": 43,
+    "date": "2026-10-29",
+    "rel_path": "editions/2026/10/2026-10-29.md",
+    "title_en": "Over 41,000 DHS Employee Records Leaked Online",
+    "title_es": "Más de 41.000 registros de empleados del DHS filtrados en línea",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/",
+    "story_links": [
+      "https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/",
+      "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+      "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html"
+    ]
   }
 ]
