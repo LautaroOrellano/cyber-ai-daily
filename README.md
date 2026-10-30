@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #43** — *Thursday, October 29, 2026*
+> **📅 Today's Edition: Issue #44** — *Friday, October 30, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2343-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2344-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,131 +17,135 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [Over 41,000 DHS Employee Records Leaked Online](https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
+### 📌 [Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis](https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
 
-- 📌 **What happened?**: A threat actor has leaked online a database containing the personal and work information of thousands of US Department of Homeland Security employees.
+- 📌 **What happened?**: A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported.
 
-- 🔍 **Key details**: The hacker, who uses the handle Department of Peace, has leaked more than 41,000 records. “They have our information, so it’s only fair that we have theirs,” the hacker wrote in a note.
+- 🔍 **Key details**: Trezor has not yet examined the device. It is telling everyone who bought a Trezor from CryptoBilis since March 2026 to move their funds to a new wallet with a new recovery phrase.
 
-- 💡 **Context & Impact**: According to the hacker, the data was stolen from an Okta single sign-on system used by DHS employees and contractors to access its central environment.
+- 💡 **Context & Impact**: Trezor said in a blog post on October 30 that the report came in two days earlier from a customer in Indonesia. He bought the wallet from CryptoBilis in August, through the marketplace Tokopedia.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Más de 41.000 registros de empleados del DHS filtrados en línea*
+> **Título en español:** *Trezor advierte sobre la sospecha de un implante de hardware en una de sus billeteras vendidas por CryptoBilis*
 
-- 📌 **¿Qué sucedió?**: Un actor de amenazas ha filtrado en línea una base de datos que contiene la información personal y laboral de miles de empleados del Departamento de Seguridad Nacional de EE. UU.
+- 📌 **¿Qué sucedió?**: Una billetera de hardware Trezor Safe 5 comprada al revendedor CryptoBilis tiene una placa de circuito adicional que envía la frase de recuperación a través de una red móvil, informó un cliente.
 
-- 🔍 **Detalles clave**: El hacker, que utiliza el mango del Departamento de Paz, ha filtrado más de 41.000 registros. "Tienen nuestra información, por lo que es justo que tengamos la suya", escribió el hacker en una nota.
+- 🔍 **Detalles clave**: Trezor aún no ha examinado el dispositivo. Le está diciendo a todos los que compraron un Trezor de CryptoBilis desde marzo de 2026 que muevan sus fondos a una nueva billetera con una nueva frase de recuperación.
 
-- 💡 **Impacto y contexto**: Según el hacker, los datos fueron robados de un sistema de inicio de sesión único de Okta utilizado por empleados y contratistas del DHS para acceder a su entorno central.
+- 💡 **Impacto y contexto**: Trezor dijo en una publicación de blog el 30 de octubre que el informe llegó dos días antes de un cliente en Indonesia. Compró la billetera de CryptoBilis en agosto, a través del mercado Tokopedia.
 
 </details>
 
-👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/)**
+👉 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html)**
 
 ---
 
 ## 📰 TOP HIGHLIGHTS (4 Stories)
 
-### 🔹 Column 2: [Anthropic’s business plan: Build God or die trying](https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive)
+### 🔹 Column 2: [Silicon Valley wants you to invest in miracles](https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles)
 > **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** The Verge AI
 
-- 📌 **What happened?**: The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it’s in the business of selling IT contracts, Anthropic...
+- 📌 **What happened?**: Investing in any stock is kind of like gambling in the sense that you’re betting your money on a company’s future performance. But how do you bet on a technology that could, in the worst-case scenario, “pose catastrophic or existential risks to humanity,” or best case, “bring forth an age of miracles”?
 
-- 🔍 **Key details**: Anthropic faces intense competitive pressure and huge fixed costs. Can Claude build itself fast enough to succeed?
+- 🔍 **Key details**: Anthropic’s S-1 is a new milestone in Big Tech’s sprawling and lofty promises to Wall Street.
 
-- 💡 **Context & Impact**: Anthropic faces intense competitive pressure and huge fixed costs. Can Claude build itself fast enough to succeed?
+- 💡 **Context & Impact**: To some extent, Anthropic suggests in a letter at the top of its S-1 filing, you have to just believe.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Plan de negocios de Anthropic: Construye a Dios o muere en el intento*
+> **Título en español:** *Silicon Valley quiere que inviertas en milagros*
 
-- 📌 **¿Qué sucedió?**: El S-1 de Anthropic parece haber proporcionado la justificación financiera para que la empresa gaste todo lo que pueda en cómputo. Si usted es el tipo de persona que se pregunta si Anthropic está haciendo todo lo posible para construir un dios de la máquina mientras convence a Wall Street de que está en el negocio de vender contratos de TI, Anthropic
+- 📌 **¿Qué sucedió?**: Invertir en cualquier acción es como apostar en el sentido de que estás apostando tu dinero al rendimiento futuro de una empresa. Pero, ¿cómo apostar por una tecnología que podría, en el peor de los casos, "plantear riesgos catastróficos o existenciales para la humanidad" o, en el mejor de los casos, "dar lugar a una era de milagros"?
 
-- 🔍 **Detalles clave**: Antrópico se enfrenta a una intensa presión competitiva y a enormes costes fijos. ¿Puede Claude construirse lo suficientemente rápido como para tener éxito?
+- 🔍 **Detalles clave**: El S-1 de Anthropic es un nuevo hito en las extensas y nobles promesas de Big Tech a Wall Street.
 
-- 💡 **Impacto y contexto**: Antrópico se enfrenta a una intensa presión competitiva y a enormes costes fijos. ¿Puede Claude construirse lo suficientemente rápido como para tener éxito?
+- 💡 **Impacto y contexto**: Hasta cierto punto, Anthropic sugiere en una carta en la parte superior de su presentación S-1, solo tienes que creer.
 
 </details>
 
-🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive)**
+🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles)**
 
 ---
 
-### 🔹 Column 3: [Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls](https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
+### 🔹 Column 3: [Fresh WordPress Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
 
-- 📌 **What happened?**: A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec.
+- 📌 **What happened?**: Threat actors started exploiting a new high-severity WordPress vulnerability within hours of patches rolling out, Defiant warns.
 
-- 🔍 **Key details**: The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in version 12.10.4 of the app, released in late September, and NebuSec disclosed it on October 29.
+- 🔍 **Key details**: Patched on October 28 in WordPress 7.1.4, the security defect impacts the WordPress update process and can be exploited for remote code execution.
 
-- 💡 **Context & Impact**: The flaw can be triggered in every version from 8.6.2 through 12.10.3, NebuSec's co-founder and chief executive said in an email to The Hacker News. Those versions came out between March 2022 and September 2026.
+- 💡 **Context & Impact**: According to Defiant, it is a race condition in WordPress’s Core update process that can be exploited without authentication. The attack complexity, however, is high. No CVE identifier has been assigned to the vulnerability yet.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *La falla de Telegram en Android permite a los atacantes ejecutar código cuando los usuarios responden llamadas de voz*
+> **Título en español:** *Nueva vulnerabilidad de WordPress en el punto de mira de los atacantes*
 
-- 📌 **¿Qué sucedió?**: Una falla en Telegram para Android permitió a un atacante ejecutar código en el teléfono de una víctima a través de una llamada de voz una vez que la víctima respondió, según la empresa de seguridad NebuSec.
+- 📌 **¿Qué sucedió?**: Los actores de amenazas comenzaron a explotar una nueva vulnerabilidad de WordPress de alta gravedad a las pocas horas del lanzamiento de los parches, advierte Defiant.
 
-- 🔍 **Detalles clave**: El atacante solo necesitaba una cuenta ordinaria de Telegram. Telegram corrigió la falla en la versión 12.10.4 de la aplicación, lanzada a fines de septiembre, y NebuSec la reveló el 29 de octubre.
+- 🔍 **Detalles clave**: Parcheado el 28 de octubre en WordPress 7.1.4, el defecto de seguridad afecta el proceso de actualización de WordPress y puede explotarse para la ejecución remota de código.
 
-- 💡 **Impacto y contexto**: La falla se puede activar en todas las versiones desde la 8.6.2 hasta la 12.10.3, dijo el cofundador y director ejecutivo de NebuSec en un correo electrónico a The Hacker News. Esas versiones salieron entre marzo de 2022 y septiembre de 2026.
+- 💡 **Impacto y contexto**: Según Defiant, es una condición de carrera en el proceso de actualización principal de WordPress que se puede explotar sin autenticación. Sin embargo, la complejidad del ataque es alta. Todavía no se ha asignado ningún identificador CVE a la vulnerabilidad.
 
 </details>
 
-🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html)**
+🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/)**
 
 ---
 
-### 🔹 Column 4: [We urgently need to monitor AI agents’ actions in real time](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** MIT Technology Review
+### 🔹 Column 4: [Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop](https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** The Verge AI
 
-- 📌 **What happened?**: This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed...
+- 📌 **What happened?**: After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping — and hints there could be much more to come from the company’s stockpile of discoveries.
 
-- 🔍 **Key details**: Read the full original coverage in the link below.
+- 🔍 **Key details**: Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop
+
+- 💡 **Context & Impact**: Altman says OpenAI has spent hundreds of millions on math — and has more discoveries up its sleeve.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Necesitamos urgentemente monitorear las acciones de los agentes de IA en tiempo real*
+> **Título en español:** *Sam Altman simpatiza con los matemáticos, pero dice que la embestida matemática de OpenAI no se detendrá*
 
-- 📌 **¿Qué sucedió?**: Este verano, cientos de agentes de OpenAI intentaron hacer trampa en una prueba de ciberseguridad. Salieron de su entorno de prueba y hackearon con éxito Hugging Face, un sitio que creían que contenía pistas sobre cómo serían calificados. Casi al mismo tiempo, otro agente de OpenAI accedió...
+- 📌 **¿Qué sucedió?**: Después de meses de bombardear a los matemáticos con una implacable corriente de resultados generados por la IA, el CEO de OpenAI, Sam Altman, dice que simpatiza con los investigadores que luchan por darle sentido a todo. Pero no tiene intención de detenerse, e insinúa que podría haber mucho más por venir de la reserva de descubrimientos de la compañía.
 
-- 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
+- 🔍 **Detalles clave**: Sam Altman simpatiza con los matemáticos, pero dice que la embestida matemática de OpenAI no se detendrá
+
+- 💡 **Impacto y contexto**: Altman dice que OpenAI ha gastado cientos de millones en matemáticas y tiene más descubrimientos bajo la manga.
 
 </details>
 
-🔗 **[Read full article on MIT Technology Review ↗](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/)**
+🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview)**
 
 ---
 
-### 🔹 Column 5: [The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers](https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
+### 🔹 Column 5: [Can AI data centers be mass-produced like cars? This startup aims to find out](https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
 
-- 📌 **What happened?**: AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions are becoming tasks that AI systems can perform on their own. As these capabilities mature, security...
+- 📌 **What happened?**: AI infrastructure company Runware is making news again, just months after unveiling the Sonic Inference Pod, a modular data center built in a factory and shipped to customers ready to install. Now the company has bigger plans. It told TechCrunch it wants to build a factory that assembles these pods on a production...
 
-- 🔍 **Key details**: For security professionals, this is a chance to take on a much broader role. As AI assumes more of the operational workload, analysts can move beyond individual alerts and investigations to direct the defense across the entire security lifecycle. We call this emerging role the Threat Operator: an AI-native security...
+- 🔍 **Key details**: The idea isn’t entirely new. Companies like Crusoe and Schneider Electric also sell prefabricated pods, but Runware says it can ship its pods faster.
 
-- 💡 **Context & Impact**: The impact reaches beyond day-to-day SOC work. It will change the skills organizations need, how security professionals develop expertise, and the career paths open to people entering the field.
+- 💡 **Context & Impact**: Flaviu Radulescu, co-founder and CEO of Runware, told TechCrunch that the company plans to scale production at its Romania-based factory to 30 megawatts of data center capacity per day by 2028, or nearly 1 gigawatt per month. That’s a whole lot of capacity: at that pace, Runware would produce roughly as much in a year...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *El auge del operador de amenazas: cómo la IA redefinirá las operaciones y las carreras de seguridad*
+> **Título en español:** *¿Los centros de datos de IA se pueden producir en masa como los coches? Esta startup tiene como objetivo descubrir*
 
-- 📌 **¿Qué sucedió?**: La IA está empezando a hacerse cargo de gran parte del trabajo que tradicionalmente ha definido el trabajo del analista de seguridad. La investigación de alertas, la recopilación de pruebas, la correlación de la actividad entre las herramientas y la ejecución de acciones de respuesta se están convirtiendo en tareas que los sistemas de IA pueden realizar por sí solos. A medida que estas capacidades maduran, la seguridad
+- 📌 **¿Qué sucedió?**: La empresa de infraestructura de IA Runware vuelve a ser noticia, solo unos meses después de presentar el Sonic Inference Pod, un centro de datos modular construido en una fábrica y enviado a los clientes listo para instalar. Ahora la empresa tiene planes más grandes. Le dijo a TechCrunch que quiere construir una fábrica que ensamble estas vainas en una producción
 
-- 🔍 **Detalles clave**: Para los profesionales de la seguridad, esta es una oportunidad para asumir un papel mucho más amplio. A medida que la IA asume más de la carga de trabajo operacional, los analistas pueden ir más allá de las alertas e investigaciones individuales para dirigir la defensa a lo largo de todo el ciclo de vida de la seguridad. Llamamos a este rol emergente el Operador de Amenazas: una seguridad nativa de IA
+- 🔍 **Detalles clave**: La idea no es del todo nueva. Empresas como Crusoe y Schneider Electric también venden cápsulas prefabricadas, pero Runware dice que puede enviar sus cápsulas más rápido.
 
-- 💡 **Impacto y contexto**: El impacto va más allá del trabajo diario de SOC. Cambiará las habilidades que necesitan las organizaciones, cómo los profesionales de la seguridad desarrollan experiencia y las trayectorias profesionales abiertas a las personas que ingresan al campo.
+- 💡 **Impacto y contexto**: Flaviu Radulescu, cofundador y CEO de Runware, dijo a TechCrunch que la compañía planea escalar la producción en su fábrica con sede en Rumania a 30 megavatios de capacidad de centro de datos por día para 2028, o casi 1 gigavatio por mes. Eso es mucha capacidad: a ese ritmo, Runware produciría aproximadamente la misma cantidad en un año
 
 </details>
 
-🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html)**
+🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/)**
 
 ---
 
@@ -151,6 +155,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#44](editions/2026/10/2026-10-30.md) | 2026-10-30 | [Trezor Warns of Suspected Hardware Implant in One of Its Walle...](https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html) | 🛡️ Cybersecurity |
 | [#43](editions/2026/10/2026-10-29.md) | 2026-10-29 | [Over 41,000 DHS Employee Records Leaked Online](https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/) | 🛡️ Cybersecurity |
 | [#42](editions/2026/10/2026-10-28.md) | 2026-10-28 | [TLS Flaws Found in GoAhead Web Server Used in Hundreds of Mill...](https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/) | 🛡️ Cybersecurity |
 | [#41](editions/2026/10/2026-10-27.md) | 2026-10-27 | [Microsoft Authenticator Flaw Let Permissionless Android Apps S...](https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html) | 🛡️ Cybersecurity |
@@ -165,9 +170,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#32](editions/2026/10/2026-10-18.md) | 2026-10-18 | [US Cybersecurity Job Postings Fall 26% as AI Security Engineer...](https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/) | 🛡️ Cybersecurity |
 | [#31](editions/2026/10/2026-10-17.md) | 2026-10-17 | [Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delive...](https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/) | 🛡️ Cybersecurity |
 | [#30](editions/2026/10/2026-10-16.md) | 2026-10-16 | [Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day](https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/) | 🛡️ Cybersecurity |
-| [#29](editions/2026/10/2026-10-15.md) | 2026-10-15 | [CikaBika Bot RAT Uses Discord for C&C](https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/) | 🛡️ Cybersecurity |
 
-*... and 28 more archived editions in `/editions` directory.*
+*... and 29 more archived editions in `/editions` directory.*
 
 ---
 

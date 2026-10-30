@@ -701,5 +701,22 @@
       "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
       "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html"
     ]
+  },
+  {
+    "edition": 44,
+    "date": "2026-10-30",
+    "rel_path": "editions/2026/10/2026-10-30.md",
+    "title_en": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
+    "title_es": "Trezor advierte sobre la sospecha de un implante de hardware en una de sus billeteras vendidas por CryptoBilis",
+    "category": "cyber",
+    "source": "The Hacker News",
+    "lead_link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
+    "story_links": [
+      "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
+      "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+      "https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/",
+      "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/"
+    ]
   }
 ]
