@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 44** — *Viernes, 30 de Octubre de 2026*
+> **📅 Edición de Hoy: N° 45** — *Sábado, 31 de Octubre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_44-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_45-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,70 +17,70 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [Trezor advierte sobre la sospecha de un implante de hardware en una de sus billeteras vendidas por CryptoBilis](https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis`
+### 📌 [Chainalysis confirma la intrusión en las herramientas internas y la exposición de los datos de identidad del cliente](https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data`
 
-- 📌 **¿Qué sucedió?**: Una billetera de hardware Trezor Safe 5 comprada al revendedor CryptoBilis tiene una placa de circuito adicional que envía la frase de recuperación a través de una red móvil, informó un cliente.
+- 📌 **¿Qué sucedió?**: La firma estadounidense de análisis de blockchain Chainalysis dijo que fue el objetivo de un incidente de ciberseguridad en el que un actor externo accedió a datos de clientes no confidenciales.
 
-- 🔍 **Detalles clave**: Trezor aún no ha examinado el dispositivo. Le está diciendo a todos los que compraron un Trezor de CryptoBilis desde marzo de 2026 que muevan sus fondos a una nueva billetera con una nueva frase de recuperación.
+- 🔍 **Detalles clave**: Sin embargo, la empresa señaló que la violación no dio lugar a un acceso no autorizado a su contenido de investigación, credenciales de autenticación o tokens de sesión.
 
-- 💡 **Impacto y contexto**: Trezor dijo en una publicación de blog el 30 de octubre que el informe llegó dos días antes de un cliente en Indonesia. Compró la billetera de CryptoBilis en agosto, a través del mercado Tokopedia.
+- 💡 **Impacto y contexto**: "Este mes, Chainalysis detectó a un actor externo utilizando técnicas agénticas ofensivas para obtener acceso no autorizado a los sistemas y herramientas internas de Chainalysis", dijo Chainalysis el viernes.
 
-👉 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html)**
+👉 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Silicon Valley quiere que inviertas en milagros](https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Silicon Valley wants you to invest in miracles`
+### 🔹 Columna 2: [El espeluznante nuevo malware Infostealer utiliza la IA para ‘autodox‘ de las víctimas](https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims`
 
-- 📌 **¿Qué sucedió?**: Invertir en cualquier acción es como apostar en el sentido de que estás apostando tu dinero al rendimiento futuro de una empresa. Pero, ¿cómo apostar por una tecnología que podría, en el peor de los casos, "plantear riesgos catastróficos o existenciales para la humanidad" o, en el mejor de los casos, "dar lugar a una era de milagros"?
+- 📌 **¿Qué sucedió?**: Una nueva investigación compartida exclusivamente con Kernel Panic muestra que los piratas informáticos han comenzado a agregar la funcionalidad de IA a una nueva cepa de malware infostealer, lo que hace posible que el sistema perfile automáticamente a las víctimas y revele rápidamente los objetivos de mayor valor y su información. Apodado "Volta-Autodoxer" debido a
 
-- 🔍 **Detalles clave**: El S-1 de Anthropic es un nuevo hito en las extensas y nobles promesas de Big Tech a Wall Street.
+- 🔍 **Detalles clave**: "Volta es bastante maduro como ladrón. Arroja una red bastante amplia para lo que recopila", dice Ryan Fetterman, investigador de seguridad de Cisco Talos. "Recopila todas esas cosas y, en última instancia, produce un expediente serializado que puede enviar a un par de modelos de LLM. Es pedirle al modelo que actúe como un
 
-- 💡 **Impacto y contexto**: Hasta cierto punto, Anthropic sugiere en una carta en la parte superior de su presentación S-1, solo tienes que creer.
+- 💡 **Impacto y contexto**: Talos marcó el malware utilizando su nuevo marco CAIRN, creado para identificar herramientas de piratería que incorporan capacidades de IA. Fetterman señala que Talos no rastreó si Volta se ha utilizado en la naturaleza.
 
-🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles)**
-
----
-
-### 🔹 Columna 3: [Nueva vulnerabilidad de WordPress en el punto de mira de los atacantes](https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Fresh WordPress Vulnerability in Attackers’ Crosshairs`
-
-- 📌 **¿Qué sucedió?**: Los actores de amenazas comenzaron a explotar una nueva vulnerabilidad de WordPress de alta gravedad a las pocas horas del lanzamiento de los parches, advierte Defiant.
-
-- 🔍 **Detalles clave**: Parcheado el 28 de octubre en WordPress 7.1.4, el defecto de seguridad afecta el proceso de actualización de WordPress y puede explotarse para la ejecución remota de código.
-
-- 💡 **Impacto y contexto**: Según Defiant, es una condición de carrera en el proceso de actualización principal de WordPress que se puede explotar sin autenticación. Sin embargo, la complejidad del ataque es alta. Todavía no se ha asignado ningún identificador CVE a la vulnerabilidad.
-
-🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/)**
+🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/)**
 
 ---
 
-### 🔹 Columna 4: [Sam Altman simpatiza con los matemáticos, pero dice que la embestida matemática de OpenAI no se detendrá](https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop`
+### 🔹 Columna 3: [Hacker sirio es encarcelado en Estados Unidos tras más de una década prófugo](https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Syrian Hacker Gets Prison Time in US After Over a Decade on the Run`
 
-- 📌 **¿Qué sucedió?**: Después de meses de bombardear a los matemáticos con una implacable corriente de resultados generados por la IA, el CEO de OpenAI, Sam Altman, dice que simpatiza con los investigadores que luchan por darle sentido a todo. Pero no tiene intención de detenerse, e insinúa que podría haber mucho más por venir de la reserva de descubrimientos de la compañía.
+- 📌 **¿Qué sucedió?**: Un hombre sirio vinculado al Ejército Electrónico Sirio (SEA) ha sido condenado a 42 meses de prisión en Estados Unidos, más de 12 años después de haber sido acusado por primera vez.
 
-- 🔍 **Detalles clave**: Sam Altman simpatiza con los matemáticos, pero dice que la embestida matemática de OpenAI no se detendrá
+- 🔍 **Detalles clave**: Ahmad Umar Agha, quien usó el identificador en línea Th3Pr0, fue sentenciado el jueves por un tribunal federal en el Distrito Este de Virginia. Según el Departamento de Justicia, evadió a las autoridades estadounidenses durante más de una década.
 
-- 💡 **Impacto y contexto**: Altman dice que OpenAI ha gastado cientos de millones en matemáticas y tiene más descubrimientos bajo la manga.
+- 💡 **Impacto y contexto**: Los fiscales dicen que la conspiración de piratería en la que participó Agha fue dirigida por figuras cercanas a Bashar al-Assad, entre ellas el jefe de la Dirección General de Inteligencia de Siria. El esquema comenzó en agosto de 2011 y continuó hasta enero de 2024.
 
-🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview)**
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/)**
 
 ---
 
-### 🔹 Columna 5: [¿Los centros de datos de IA se pueden producir en masa como los coches? Esta startup tiene como objetivo descubrir](https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Can AI data centers be mass-produced like cars? This startup aims to find out`
+### 🔹 Columna 4: [La musa de Meta podría invertir en todo tipo de negocios. Todavía no lo ha hecho](https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet`
 
-- 📌 **¿Qué sucedió?**: La empresa de infraestructura de IA Runware vuelve a ser noticia, solo unos meses después de presentar el Sonic Inference Pod, un centro de datos modular construido en una fábrica y enviado a los clientes listo para instalar. Ahora la empresa tiene planes más grandes. Le dijo a TechCrunch que quiere construir una fábrica que ensamble estas vainas en una producción
+- 📌 **¿Qué sucedió?**: Meta's Muse fue uno de los temas más candentes en las llamadas de ganancias corporativas en las últimas semanas. Meta ha afirmado que la herramienta de IA auténtica, que permite a los usuarios automatizar varias tareas en línea, se está convirtiendo en una fuerza importante en las compras, con millones de personas usándola para realizar compras de más de $ 200 en promedio.
 
-- 🔍 **Detalles clave**: La idea no es del todo nueva. Empresas como Crusoe y Schneider Electric también venden cápsulas prefabricadas, pero Runware dice que puede enviar sus cápsulas más rápido.
+- 🔍 **Detalles clave**: Wall Street teme que los asistentes de compras proactivos como Muse erosionen la lealtad a la marca, desencadenen guerras de precios y expriman las ganancias corporativas. Sin embargo, en las llamadas de ganancias y en las conversaciones con WIRED, los ejecutivos de aproximadamente 50 empresas (que abarcan viajes, proveedores de Internet, alimentos y autoalmacenamiento) se encogieron de hombros de inmediato
 
-- 💡 **Impacto y contexto**: Flaviu Radulescu, cofundador y CEO de Runware, dijo a TechCrunch que la compañía planea escalar la producción en su fábrica con sede en Rumania a 30 megavatios de capacidad de centro de datos por día para 2028, o casi 1 gigavatio por mes. Eso es mucha capacidad: a ese ritmo, Runware produciría aproximadamente la misma cantidad en un año
+- 💡 **Impacto y contexto**: La aplicación de entrega de comida DoorDash describió el número de pedidos de Muse y otros agentes como en los "cientos". "T-Mobile comentó:" No hemos visto nada significativo "de los agentes. La cadena hotelera Hilton fue más directa y calificó las reservas de ellos como" insignificantes "." El proveedor bancario Ally Financial caracterizado
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/)**
+🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/)**
+
+---
+
+### 🔹 Columna 5: [Un agente de IA inyectó drogas en el cerebro de un ratón vivo](https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `An AI Agent Injected Drugs Into a Live Mouse’s Brain`
+
+- 📌 **¿Qué sucedió?**: Si le das a un agente de IA un brazo robótico, un inyector y un ratón vivo, podría realizar una cirugía cerebral.
+
+- 🔍 **Detalles clave**: El fundador de Biotech, Gabriel Ocana Santero, lo hizo recientemente utilizando un agente para llevar a cabo con éxito un procedimiento de inyección cerebral en un ratón vivo. Aunque requirió algunos pasos adicionales, ofrece una idea de cómo la IA podría eventualmente convertirse en un participante activo en la investigación de laboratorio.
+
+- 💡 **Impacto y contexto**: Santero publicó sobre el experimento en las redes sociales y le dice a WIRED que estaba interesado en explorar qué sucede cuando los agentes de IA tienen acceso directo al equipo de laboratorio, en lugar de simplemente pedirles que diseñen experimentos o analicen los resultados.
+
+🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/)**
 
 ---
 
@@ -90,6 +90,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#45](editions/2026/10/2026-10-31.md) | 2026-10-31 | [Chainalysis confirma la intrusión en las herramientas int...](https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html) | 🛡️ Ciberseguridad |
 | [#44](editions/2026/10/2026-10-30.md) | 2026-10-30 | [Trezor advierte sobre la sospecha de un implante de hardw...](https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html) | 🛡️ Ciberseguridad |
 | [#43](editions/2026/10/2026-10-29.md) | 2026-10-29 | [Más de 41.000 registros de empleados del DHS filtrados en...](https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/) | 🛡️ Ciberseguridad |
 | [#42](editions/2026/10/2026-10-28.md) | 2026-10-28 | [Se han encontrado fallos de TLS en el servidor web de GoA...](https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/) | 🛡️ Ciberseguridad |
@@ -104,9 +105,8 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 | [#33](editions/2026/10/2026-10-19.md) | 2026-10-19 | [ConnectWise suspende los servicios en la nube en respuest...](https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/) | 🛡️ Ciberseguridad |
 | [#32](editions/2026/10/2026-10-18.md) | 2026-10-18 | [Las ofertas de trabajo de ciberseguridad en EE. UU. caen ...](https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/) | 🛡️ Ciberseguridad |
 | [#31](editions/2026/10/2026-10-17.md) | 2026-10-17 | [La empresa publicitaria israelí se duplicó como el canal ...](https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/) | 🛡️ Ciberseguridad |
-| [#30](editions/2026/10/2026-10-16.md) | 2026-10-16 | [APT chino explotó la vulnerabilidad BeyondTrust como Zero...](https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/) | 🛡️ Ciberseguridad |
 
-*... y 29 ediciones más en la carpeta `/editions`.*
+*... y 30 ediciones más en la carpeta `/editions`.*
 
 ---
 

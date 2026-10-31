@@ -718,5 +718,22 @@
       "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
       "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/"
     ]
+  },
+  {
+    "edition": 45,
+    "date": "2026-10-31",
+    "rel_path": "editions/2026/10/2026-10-31.md",
+    "title_en": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+    "title_es": "Chainalysis confirma la intrusión en las herramientas internas y la exposición de los datos de identidad del cliente",
+    "category": "cyber",
+    "source": "The Hacker News",
+    "lead_link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+    "story_links": [
+      "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+      "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/",
+      "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/"
+    ]
   }
 ]
