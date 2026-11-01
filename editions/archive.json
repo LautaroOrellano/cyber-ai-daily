@@ -735,5 +735,22 @@
       "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
       "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/"
     ]
+  },
+  {
+    "edition": 46,
+    "date": "2026-11-01",
+    "rel_path": "editions/2026/11/2026-11-01.md",
+    "title_en": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
+    "title_es": "Northstar Security sale sigilosamente con $ 7 millones para exponer combinaciones de riesgos tóxicos",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
+    "story_links": [
+      "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
+      "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+      "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+      "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html"
+    ]
   }
 ]

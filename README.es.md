@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 45** — *Sábado, 31 de Octubre de 2026*
+> **📅 Edición de Hoy: N° 46** — *Domingo, 1 de Noviembre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_45-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_46-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,70 +17,70 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [Chainalysis confirma la intrusión en las herramientas internas y la exposición de los datos de identidad del cliente](https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data`
+### 📌 [Northstar Security sale sigilosamente con $ 7 millones para exponer combinaciones de riesgos tóxicos](https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations`
 
-- 📌 **¿Qué sucedió?**: La firma estadounidense de análisis de blockchain Chainalysis dijo que fue el objetivo de un incidente de ciberseguridad en el que un actor externo accedió a datos de clientes no confidenciales.
+- 📌 **¿Qué sucedió?**: Northstar Security, una startup que desarrolla agentes de IA para equipos de seguridad, ha salido del modo sigiloso con $ 7 millones en fondos iniciales.
 
-- 🔍 **Detalles clave**: Sin embargo, la empresa señaló que la violación no dio lugar a un acceso no autorizado a su contenido de investigación, credenciales de autenticación o tokens de sesión.
+- 🔍 **Detalles clave**: Wing Venture Capital lideró la ronda. Los veteranos de MVP, Outliers y ciberseguridad Gerhard Eschelbeck, Renaud Deraison y Justin Somaini también invirtieron.
 
-- 💡 **Impacto y contexto**: "Este mes, Chainalysis detectó a un actor externo utilizando técnicas agénticas ofensivas para obtener acceso no autorizado a los sistemas y herramientas internas de Chainalysis", dijo Chainalysis el viernes.
+- 💡 **Impacto y contexto**: La empresa ingiere datos de las herramientas de seguridad y TI existentes para crear lo que llama un gráfico de contexto de seguridad. Actualizado en tiempo real, el gráfico muestra cómo las identidades, los activos, las aplicaciones, las vulnerabilidades y los sistemas empresariales se conectan entre sí.
 
-👉 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html)**
+👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [El espeluznante nuevo malware Infostealer utiliza la IA para ‘autodox‘ de las víctimas](https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims`
+### 🔹 Columna 2: [Los chatbots son los principales excursionistas atraídos, con consecuencias peligrosas](https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `Chatbots Are Leading Hikers Astray, With Dangerous Consequences`
 
-- 📌 **¿Qué sucedió?**: Una nueva investigación compartida exclusivamente con Kernel Panic muestra que los piratas informáticos han comenzado a agregar la funcionalidad de IA a una nueva cepa de malware infostealer, lo que hace posible que el sistema perfile automáticamente a las víctimas y revele rápidamente los objetivos de mayor valor y su información. Apodado "Volta-Autodoxer" debido a
+- 📌 **¿Qué sucedió?**: Esta historia apareció originalmente en High Country News y es parte de la colaboración de Climate Desk.
 
-- 🔍 **Detalles clave**: "Volta es bastante maduro como ladrón. Arroja una red bastante amplia para lo que recopila", dice Ryan Fetterman, investigador de seguridad de Cisco Talos. "Recopila todas esas cosas y, en última instancia, produce un expediente serializado que puede enviar a un par de modelos de LLM. Es pedirle al modelo que actúe como un
+- 🔍 **Detalles clave**: Para cuando los tres excursionistas pidieron ayuda a una cara rocosa en el Monte Shasta en el norte de California, habían tomado una serie de malas decisiones. No traían suficiente comida y habían sobreestimado su condición física. En lugar de regresar a última hora de la tarde cuando aún no habían llegado a la cima, llegaron a la cima a las 7:30 p. m.
 
-- 💡 **Impacto y contexto**: Talos marcó el malware utilizando su nuevo marco CAIRN, creado para identificar herramientas de piratería que incorporan capacidades de IA. Fetterman señala que Talos no rastreó si Volta se ha utilizado en la naturaleza.
+- 💡 **Impacto y contexto**: "Tenemos muchas personas que vienen sin preparación o que no investigan en absoluto. Para crédito de estos muchachos, lo intentaron", dijo Nick Meyers, gerente del programa del Servicio Forestal de los Estados Unidos del Mount Shasta Wilderness Climbing and Avalanche Center, que respondió a la llamada. "Pero creo que apagaron sus cerebros".
 
-🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/)**
-
----
-
-### 🔹 Columna 3: [Hacker sirio es encarcelado en Estados Unidos tras más de una década prófugo](https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Syrian Hacker Gets Prison Time in US After Over a Decade on the Run`
-
-- 📌 **¿Qué sucedió?**: Un hombre sirio vinculado al Ejército Electrónico Sirio (SEA) ha sido condenado a 42 meses de prisión en Estados Unidos, más de 12 años después de haber sido acusado por primera vez.
-
-- 🔍 **Detalles clave**: Ahmad Umar Agha, quien usó el identificador en línea Th3Pr0, fue sentenciado el jueves por un tribunal federal en el Distrito Este de Virginia. Según el Departamento de Justicia, evadió a las autoridades estadounidenses durante más de una década.
-
-- 💡 **Impacto y contexto**: Los fiscales dicen que la conspiración de piratería en la que participó Agha fue dirigida por figuras cercanas a Bashar al-Assad, entre ellas el jefe de la Dirección General de Inteligencia de Siria. El esquema comenzó en agosto de 2011 y continuó hasta enero de 2024.
-
-🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/)**
+🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/)**
 
 ---
 
-### 🔹 Columna 4: [La musa de Meta podría invertir en todo tipo de negocios. Todavía no lo ha hecho](https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet`
+### 🔹 Columna 3: [CVSS 10.0 LXD, la falla de MicroCloud permite a los atacantes suplantar a clientes de confianza sin una clave privada](https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key`
 
-- 📌 **¿Qué sucedió?**: Meta's Muse fue uno de los temas más candentes en las llamadas de ganancias corporativas en las últimas semanas. Meta ha afirmado que la herramienta de IA auténtica, que permite a los usuarios automatizar varias tareas en línea, se está convirtiendo en una fuerza importante en las compras, con millones de personas usándola para realizar compras de más de $ 200 en promedio.
+- 📌 **¿Qué sucedió?**: Una falla crítica en LXD y MicroCloud de Canonical permitió que un atacante iniciara sesión como cliente de confianza sin tener la clave privada de ese cliente. Para hacerlo, el atacante tenía que llegar a su API HTTPS a través de la red y tener el certificado público del cliente de confianza.
 
-- 🔍 **Detalles clave**: Wall Street teme que los asistentes de compras proactivos como Muse erosionen la lealtad a la marca, desencadenen guerras de precios y expriman las ganancias corporativas. Sin embargo, en las llamadas de ganancias y en las conversaciones con WIRED, los ejecutivos de aproximadamente 50 empresas (que abarcan viajes, proveedores de Internet, alimentos y autoalmacenamiento) se encogieron de hombros de inmediato
+- 🔍 **Detalles clave**: Una vez dentro, el atacante actuaría como ese cliente, con acceso al clúster y sus máquinas virtuales. Si la cuenta suplantada tiene privilegios, el atacante podría obtener "acceso root a la máquina host", dijo Canonical.
 
-- 💡 **Impacto y contexto**: La aplicación de entrega de comida DoorDash describió el número de pedidos de Muse y otros agentes como en los "cientos". "T-Mobile comentó:" No hemos visto nada significativo "de los agentes. La cadena hotelera Hilton fue más directa y calificó las reservas de ellos como" insignificantes "." El proveedor bancario Ally Financial caracterizado
+- 💡 **Impacto y contexto**: La falla, rastreada como CVE-2026-112816, tiene una puntuación CVSS máxima de 10.0, y Canonical ha lanzado versiones fijas de ambos productos.
 
-🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/)**
+🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html)**
 
 ---
 
-### 🔹 Columna 5: [Un agente de IA inyectó drogas en el cerebro de un ratón vivo](https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `An AI Agent Injected Drugs Into a Live Mouse’s Brain`
+### 🔹 Columna 4: [El CEO de Apple dice que la compañía no "quiere enviar IA por el bien de la IA"](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’`
 
-- 📌 **¿Qué sucedió?**: Si le das a un agente de IA un brazo robótico, un inyector y un ratón vivo, podría realizar una cirugía cerebral.
+- 📌 **¿Qué sucedió?**: Durante una entrevista reciente con Steven Levy de Wired, el CEO de Apple, John Ternus, defendió la posición actual de la compañía en el panorama de la IA.
 
-- 🔍 **Detalles clave**: El fundador de Biotech, Gabriel Ocana Santero, lo hizo recientemente utilizando un agente para llevar a cabo con éxito un procedimiento de inyección cerebral en un ratón vivo. Aunque requirió algunos pasos adicionales, ofrece una idea de cómo la IA podría eventualmente convertirse en un participante activo en la investigación de laboratorio.
+- 🔍 **Detalles clave**: En los últimos dos años, a menudo se ha descrito a Apple como atrasada en IA, especialmente porque retrasó el lanzamiento de una versión más potente de Siri, que finalmente se lanzó este verano. Pero mientras Ternus, un ejecutivo de Apple desde hace mucho tiempo que se convirtió oficialmente en CEO a principios de septiembre, reconoció que "todos
 
-- 💡 **Impacto y contexto**: Santero publicó sobre el experimento en las redes sociales y le dice a WIRED que estaba interesado en explorar qué sucede cuando los agentes de IA tienen acceso directo al equipo de laboratorio, en lugar de simplemente pedirles que diseñen experimentos o analicen los resultados.
+- 💡 **Impacto y contexto**: Ternus añadió que Apple "va a aprovechar absolutamente la IA" en sus nuevos productos, pero dijo: "No queremos enviar IA por el bien de la IA. Cuando lo hagamos bien, la gente no tendrá que pensar si fue la IA la que hizo que esto sucediera o un software más tradicional. Lo que importa es si construimos algo que ellos
 
-🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/)**
+
+---
+
+### 🔹 Columna 5: [Hackers roban unos 2,7 millones de $ a operadores de Polymarket a través de un script DebugBear secuestrado](https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script`
+
+- 📌 **¿Qué sucedió?**: El código malicioso en el sitio web del mercado de predicción Polymarket vendió algunas posiciones de traders registrados y trasladó sus fondos a los hackers el 29 de octubre. El código había reemplazado un script de velocidad de página que el sitio cargó desde una empresa externa.
+
+- 🔍 **Detalles clave**: Polymarket dice que está reembolsando alrededor de $ 2.7 millones a 726 billeteras afectadas. Los registros de la cadena de bloques muestran que las criptomonedas por valor de unos $ 2,64 millones llegaron a la billetera de los piratas informáticos en menos de una hora.
+
+- 💡 **Impacto y contexto**: El script reemplazado provino de DebugBear, cuya herramienta de monitoreo de usuarios reales (RUM) mide qué tan rápido se cargan las páginas web para los visitantes reales.
+
+🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html)**
 
 ---
 
@@ -90,6 +90,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#46](editions/2026/11/2026-11-01.md) | 2026-11-01 | [Northstar Security sale sigilosamente con $ 7 millones pa...](https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/) | 🛡️ Ciberseguridad |
 | [#45](editions/2026/10/2026-10-31.md) | 2026-10-31 | [Chainalysis confirma la intrusión en las herramientas int...](https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html) | 🛡️ Ciberseguridad |
 | [#44](editions/2026/10/2026-10-30.md) | 2026-10-30 | [Trezor advierte sobre la sospecha de un implante de hardw...](https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html) | 🛡️ Ciberseguridad |
 | [#43](editions/2026/10/2026-10-29.md) | 2026-10-29 | [Más de 41.000 registros de empleados del DHS filtrados en...](https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/) | 🛡️ Ciberseguridad |
@@ -104,9 +105,8 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 | [#34](editions/2026/10/2026-10-20.md) | 2026-10-20 | [Microsoft apunta a agentes de IA deshonestos con permisos...](https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/) | 🛡️ Ciberseguridad |
 | [#33](editions/2026/10/2026-10-19.md) | 2026-10-19 | [ConnectWise suspende los servicios en la nube en respuest...](https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/) | 🛡️ Ciberseguridad |
 | [#32](editions/2026/10/2026-10-18.md) | 2026-10-18 | [Las ofertas de trabajo de ciberseguridad en EE. UU. caen ...](https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/) | 🛡️ Ciberseguridad |
-| [#31](editions/2026/10/2026-10-17.md) | 2026-10-17 | [La empresa publicitaria israelí se duplicó como el canal ...](https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/) | 🛡️ Ciberseguridad |
 
-*... y 30 ediciones más en la carpeta `/editions`.*
+*... y 31 ediciones más en la carpeta `/editions`.*
 
 ---
 
