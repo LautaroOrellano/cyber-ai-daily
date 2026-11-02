@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #46** — *Sunday, November 1, 2026*
+> **📅 Today's Edition: Issue #47** — *Monday, November 2, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2346-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2347-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,135 +17,135 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations](https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/)
+### 📌 [Cybersecurity M&A Roundup: 37 Deals Announced in October 2026](https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
 
-- 📌 **What happened?**: Northstar Security, a startup developing AI agents for security teams, has emerged from stealth mode with $7 million in seed funding.
+- 📌 **What happened?**: SecurityWeek tracked 37 cybersecurity merger and acquisition (M&A) deals announced in October 2026.
 
-- 🔍 **Key details**: Wing Venture Capital led the round. MVP, Outliers, and cybersecurity veterans Gerhard Eschelbeck, Renaud Deraison, and Justin Somaini also invested.
+- 🔍 **Key details**: For a look at last year’s activity, see SecurityWeek’s 2025 Cybersecurity M&A Report, which covers more than 420 deals.
 
-- 💡 **Context & Impact**: The company ingests data from existing security and IT tools to build what it calls a Security Context Graph. Updated in real time, the graph shows how identities, assets, applications, vulnerabilities, and business systems connect to one another.
+- 💡 **Context & Impact**: Here are some of the most important cybersecurity M&A deals announced in October 2026:
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Northstar Security sale sigilosamente con $ 7 millones para exponer combinaciones de riesgos tóxicos*
+> **Título en español:** *Resumen de fusiones y adquisiciones de ciberseguridad: 37 ofertas anunciadas en octubre de 2026*
 
-- 📌 **¿Qué sucedió?**: Northstar Security, una startup que desarrolla agentes de IA para equipos de seguridad, ha salido del modo sigiloso con $ 7 millones en fondos iniciales.
+- 📌 **¿Qué sucedió?**: SecurityWeek realizó un seguimiento de 37 acuerdos de fusión y adquisición (M&A) de ciberseguridad anunciados en octubre de 2026.
 
-- 🔍 **Detalles clave**: Wing Venture Capital lideró la ronda. Los veteranos de MVP, Outliers y ciberseguridad Gerhard Eschelbeck, Renaud Deraison y Justin Somaini también invirtieron.
+- 🔍 **Detalles clave**: Para ver la actividad del año pasado, consulte el Informe de fusiones y adquisiciones de ciberseguridad 2025 de SecurityWeek, que cubre más de 420 ofertas.
 
-- 💡 **Impacto y contexto**: La empresa ingiere datos de las herramientas de seguridad y TI existentes para crear lo que llama un gráfico de contexto de seguridad. Actualizado en tiempo real, el gráfico muestra cómo las identidades, los activos, las aplicaciones, las vulnerabilidades y los sistemas empresariales se conectan entre sí.
+- 💡 **Impacto y contexto**: Estas son algunas de las fusiones y adquisiciones de ciberseguridad más importantes anunciadas en octubre de 2026:
 
 </details>
 
-👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/)**
+👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/)**
 
 ---
 
 ## 📰 TOP HIGHLIGHTS (4 Stories)
 
-### 🔹 Column 2: [Chatbots Are Leading Hikers Astray, With Dangerous Consequences](https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
-
-- 📌 **What happened?**: This story originally appeared on High Country News and is part of the Climate Desk collaboration.
-
-- 🔍 **Key details**: By the time the three hikers called for help from a rocky face on Mount Shasta in Northern California, they’d made a series of bad decisions. They didn’t bring enough food, and they’d overestimated their fitness. Instead of turning back in late afternoon when they hadn’t yet reached the top, they summited at 7:30 pm...
-
-- 💡 **Context & Impact**: “We get plenty of people who come unprepared or don’t do any research at all. To these guys’ credit, they did try,” said Nick Meyers, US Forest Service program manager of the Mount Shasta Wilderness Climbing and Avalanche Center, which responded to the call. “But I think they kind of turned their brains off.”
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *Los chatbots son los principales excursionistas atraídos, con consecuencias peligrosas*
-
-- 📌 **¿Qué sucedió?**: Esta historia apareció originalmente en High Country News y es parte de la colaboración de Climate Desk.
-
-- 🔍 **Detalles clave**: Para cuando los tres excursionistas pidieron ayuda a una cara rocosa en el Monte Shasta en el norte de California, habían tomado una serie de malas decisiones. No traían suficiente comida y habían sobreestimado su condición física. En lugar de regresar a última hora de la tarde cuando aún no habían llegado a la cima, llegaron a la cima a las 7:30 p. m.
-
-- 💡 **Impacto y contexto**: "Tenemos muchas personas que vienen sin preparación o que no investigan en absoluto. Para crédito de estos muchachos, lo intentaron", dijo Nick Meyers, gerente del programa del Servicio Forestal de los Estados Unidos del Mount Shasta Wilderness Climbing and Avalanche Center, que respondió a la llamada. "Pero creo que apagaron sus cerebros".
-
-</details>
-
-🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/)**
-
----
-
-### 🔹 Column 3: [CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key](https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
-
-- 📌 **What happened?**: A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's public certificate.
-
-- 🔍 **Key details**: Once in, the attacker would act as that client, with access to the cluster and its virtual machines. If the impersonated account is privileged, the attacker could gain "root access to the host machine," Canonical said.
-
-- 💡 **Context & Impact**: The flaw, tracked as CVE-2026-112816, carries a maximum CVSS score of 10.0, and Canonical has released fixed versions of both products.
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *CVSS 10.0 LXD, la falla de MicroCloud permite a los atacantes suplantar a clientes de confianza sin una clave privada*
-
-- 📌 **¿Qué sucedió?**: Una falla crítica en LXD y MicroCloud de Canonical permitió que un atacante iniciara sesión como cliente de confianza sin tener la clave privada de ese cliente. Para hacerlo, el atacante tenía que llegar a su API HTTPS a través de la red y tener el certificado público del cliente de confianza.
-
-- 🔍 **Detalles clave**: Una vez dentro, el atacante actuaría como ese cliente, con acceso al clúster y sus máquinas virtuales. Si la cuenta suplantada tiene privilegios, el atacante podría obtener "acceso root a la máquina host", dijo Canonical.
-
-- 💡 **Impacto y contexto**: La falla, rastreada como CVE-2026-112816, tiene una puntuación CVSS máxima de 10.0, y Canonical ha lanzado versiones fijas de ambos productos.
-
-</details>
-
-🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html)**
-
----
-
-### 🔹 Column 4: [Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/)
+### 🔹 Column 2: [Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs](https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/)
 > **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
 
-- 📌 **What happened?**: During a recent interview with Wired’s Steven Levy, Apple CEO John Ternus defended the company’s current position in the AI landscape.
+- 📌 **What happened?**: Over Halloween weekend, some Grok Bot users awoke to something especially spooky: their weekly usage limits were unexpectedly maxed out, even if they hadn’t been using SpaceX’s agentic AI overnight. Some users reported on X that their usage jumped from as low as 50% to 100%.
 
-- 🔍 **Key details**: Over the past couple years, Apple has often been described as behind on AI, especially as it delayed the release of a more powerful version of Siri, which finally launched this summer. But while Ternus — a longtime Apple executive who officially became CEO at the beginning of September — acknowledged that “everyone...
+- 🔍 **Key details**: SpaceX CEO Elon Musk confirmed in an X post on Sunday that this was not a glitch.
 
-- 💡 **Context & Impact**: Ternus added that Apple is “absolutely going to leverage AI” in its new products, but he said, “We don’t want to ship AI for AI’s sake. When we’re doing it right, people won’t have to think about whether it was AI that made this happen or more traditional software. What matters is, did we build something that they...
+- 💡 **Context & Impact**: “The cost of serving Grok Bot was unsustainably high relative to revenue,” he wrote in a reply to a question from a user. He has not addressed the issue on his main feed, but has continued boasting that Grok Bot can help you buy gifts for your family.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *El CEO de Apple dice que la compañía no "quiere enviar IA por el bien de la IA"*
+> **Título en español:** *Elon Musk reduce los límites de Grok Bot debido a los costes "insosteniblemente altos"*
 
-- 📌 **¿Qué sucedió?**: Durante una entrevista reciente con Steven Levy de Wired, el CEO de Apple, John Ternus, defendió la posición actual de la compañía en el panorama de la IA.
+- 📌 **¿Qué sucedió?**: Durante el fin de semana de Halloween, algunos usuarios de Grok Bot se despertaron con algo especialmente espeluznante: sus límites de uso semanales se agotaron inesperadamente, incluso si no habían estado usando la IA auténtica de SpaceX durante la noche. Algunos usuarios informaron en X que su uso pasó de tan solo el 50% al 100%.
 
-- 🔍 **Detalles clave**: En los últimos dos años, a menudo se ha descrito a Apple como atrasada en IA, especialmente porque retrasó el lanzamiento de una versión más potente de Siri, que finalmente se lanzó este verano. Pero mientras Ternus, un ejecutivo de Apple desde hace mucho tiempo que se convirtió oficialmente en CEO a principios de septiembre, reconoció que "todos
+- 🔍 **Detalles clave**: El CEO de SpaceX, Elon Musk, confirmó en una publicación de X el domingo que esto no era un problema técnico.
 
-- 💡 **Impacto y contexto**: Ternus añadió que Apple "va a aprovechar absolutamente la IA" en sus nuevos productos, pero dijo: "No queremos enviar IA por el bien de la IA. Cuando lo hagamos bien, la gente no tendrá que pensar si fue la IA la que hizo que esto sucediera o un software más tradicional. Lo que importa es si construimos algo que ellos
+- 💡 **Impacto y contexto**: "El coste de servir a Grok Bot era insosteniblemente alto en relación con los ingresos", escribió en respuesta a una pregunta de un usuario. No ha abordado el tema en su feed principal, pero ha seguido alardeando de que Grok Bot puede ayudarte a comprar regalos para tu familia.
 
 </details>
 
-🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/)**
+🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/)**
 
 ---
 
-### 🔹 Column 5: [Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script](https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
+### 🔹 Column 3: [Microsoft's AI Risk Report Misses This Key Detail](https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** Dark Reading
 
-- 📌 **What happened?**: Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company.
+- 📌 **What happened?**: The latest "Digital Defense Report" identifies government agencies as prime targets for AI attacks but doesn't mention that they are broadly being targeted through Microsoft bugs.
 
-- 🔍 **Key details**: Polymarket says it is refunding about $2.7 million to 726 affected wallets. Blockchain records show crypto worth about $2.64 million reached the hackers' wallet in under an hour.
+- 🔍 **Key details**: AI is changing cybersecurity. The hope is that software will eventually ship with fewer vulnerabilities, while the expectation in the meantime is that vendors will issue eye-popping volumes of software patches as a result of using AI to identify flaws in existing products. Software customers will increasingly use AI...
 
-- 💡 **Context & Impact**: The replaced script came from DebugBear, whose real user monitoring (RUM) tool measures how fast web pages load for real visitors.
+- 💡 **Context & Impact**: Attackers, meanwhile, are already using AI to generate novel attacks and orchestrate increasingly complex and large-scale hacking campaigns. AI is already enabling criminal groups to achieve hacking successes normally reserved for patient, highly resourced nation-state threat actors. And nation-state threat actors are...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Hackers roban unos 2,7 millones de $ a operadores de Polymarket a través de un script DebugBear secuestrado*
+> **Título en español:** *El informe de riesgos de IA de Microsoft omite este detalle clave*
 
-- 📌 **¿Qué sucedió?**: El código malicioso en el sitio web del mercado de predicción Polymarket vendió algunas posiciones de traders registrados y trasladó sus fondos a los hackers el 29 de octubre. El código había reemplazado un script de velocidad de página que el sitio cargó desde una empresa externa.
+- 📌 **¿Qué sucedió?**: El último "Informe de Defensa Digital" identifica a las agencias gubernamentales como objetivos principales para los ataques de IA, pero no menciona que en general están siendo atacadas a través de errores de Microsoft.
 
-- 🔍 **Detalles clave**: Polymarket dice que está reembolsando alrededor de $ 2.7 millones a 726 billeteras afectadas. Los registros de la cadena de bloques muestran que las criptomonedas por valor de unos $ 2,64 millones llegaron a la billetera de los piratas informáticos en menos de una hora.
+- 🔍 **Detalles clave**: La IA está cambiando la ciberseguridad. La esperanza es que el software eventualmente se envíe con menos vulnerabilidades, mientras que la expectativa mientras tanto es que los proveedores emitan volúmenes sorprendentes de parches de software como resultado del uso de IA para identificar fallas en los productos existentes. Los clientes de software utilizarán cada vez más la IA
 
-- 💡 **Impacto y contexto**: El script reemplazado provino de DebugBear, cuya herramienta de monitoreo de usuarios reales (RUM) mide qué tan rápido se cargan las páginas web para los visitantes reales.
+- 💡 **Impacto y contexto**: Los atacantes, por su parte, ya están utilizando la IA para generar nuevos ataques y orquestar campañas de piratería cada vez más complejas y a gran escala. La IA ya está permitiendo a los grupos criminales lograr éxitos de piratería normalmente reservados para actores de amenazas de estado-nación pacientes y con altos recursos. Y los actores de amenazas de los estados-nación están
 
 </details>
 
-🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html)**
+🔗 **[Read full article on Dark Reading ↗](https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss)**
+
+---
+
+### 🔹 Column 4: [Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition](https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
+
+- 📌 **What happened?**: U.S. data centers use 17 to 19 billion gallons of water to cool their hot-running chips each year — and that number is expected to triple in the next five years, according to The Water Foundation.
+
+- 🔍 **Key details**: That’s an expensive and politically tricky proposition for investors throwing billions of dollars at the challenge of scaling up AI. One way to use less water is to do a better job monitoring the cooling fluids, a task that currently involves sending samples away to a laboratory for tests in a multi-day process.
+
+- 💡 **Context & Impact**: Omen AI was founded in 2024 to solve that problem. The company is building a real-time sensor to determine whether valves were failing, or if bacteria growth in the system threatened to choke off water flow. After raising a $31 million Series A in June, Omen is now acquiring competitor Aquatic Labs in a $16 million...
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *OMEN AI añade know-how líquido en la adquisición de $ 16 millones de Aquatic Labs*
+
+- 📌 **¿Qué sucedió?**: Los centros de datos de EE. UU. utilizan de 17 a 19 mil millones de galones de agua para enfriar sus chips cada año, y se espera que ese número se triplique en los próximos cinco años, según The Water Foundation.
+
+- 🔍 **Detalles clave**: Esa es una propuesta cara y políticamente difícil para los inversores que invierten miles de millones de dólares en el desafío de ampliar la IA. Una forma de usar menos agua es hacer un mejor trabajo monitoreando los fluidos de enfriamiento, una tarea que actualmente implica enviar muestras a un laboratorio para realizar pruebas en un proceso de varios días.
+
+- 💡 **Impacto y contexto**: OMEN AI se fundó en 2024 para resolver ese problema. La compañía está construyendo un sensor en tiempo real para determinar si las válvulas estaban fallando o si el crecimiento de bacterias en el sistema amenazaba con ahogar el flujo de agua. Después de recaudar una Serie A de $ 31 millones en junio, Omen ahora está adquiriendo a su competidor Aquatic Labs en una Serie A de $ 16 millones
+
+</details>
+
+🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/)**
+
+---
+
+### 🔹 Column 5: [DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment](https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
+
+- 📌 **What happened?**: Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026.
+
+- 🔍 **Key details**: According to a report published by Dream Research Labs, the campaign has led to the compromise of a high-profile individual in Israel, along with additional compromises affecting a government cloud environment in the Kurdistan Region.
+
+- 💡 **Context & Impact**: The activity has been attributed to a threat actor known as DarkBlinders, an Iran-nexus group assessed to be active since at least September 2024 and linked to attacks aimed at aviation infrastructure and telecommunications in the U.A.E. and Iraq. It exhibits no technical overlap with other known hacking groups.
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *DarkBlinders compromete el objetivo israelí y el entorno de nube del gobierno kurdo iraquí*
+
+- 📌 **¿Qué sucedió?**: Los investigadores de ciberseguridad han revelado detalles de una campaña de espionaje cibernético dirigida a Israel y la región del Kurdistán de Irak por un actor de amenazas alineado con el estado de Irán entre agosto y octubre de 2026.
+
+- 🔍 **Detalles clave**: Según un informe publicado por Dream Research Labs, la campaña ha llevado al compromiso de un individuo de alto perfil en Israel, junto con compromisos adicionales que afectan el entorno de nube del gobierno en la región del Kurdistán.
+
+- 💡 **Impacto y contexto**: La actividad se ha atribuido a un actor de amenazas conocido como DarkBlinders, un grupo vinculado a Irán que se considera activo desde al menos septiembre de 2024 y está vinculado a ataques dirigidos a la infraestructura de aviación y las telecomunicaciones en los Emiratos Árabes Unidos e Irak. No presenta ninguna superposición técnica con otros grupos de piratería conocidos.
+
+</details>
+
+🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html)**
 
 ---
 
@@ -155,6 +155,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#47](editions/2026/11/2026-11-02.md) | 2026-11-02 | [Cybersecurity M&A Roundup: 37 Deals Announced in October 2026](https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/) | 🛡️ Cybersecurity |
 | [#46](editions/2026/11/2026-11-01.md) | 2026-11-01 | [Northstar Security Exits Stealth With $7M to Expose Toxic Risk...](https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/) | 🛡️ Cybersecurity |
 | [#45](editions/2026/10/2026-10-31.md) | 2026-10-31 | [Chainalysis Confirms Intrusion Into Internal Tools and Exposur...](https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html) | 🛡️ Cybersecurity |
 | [#44](editions/2026/10/2026-10-30.md) | 2026-10-30 | [Trezor Warns of Suspected Hardware Implant in One of Its Walle...](https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html) | 🛡️ Cybersecurity |
@@ -169,9 +170,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#35](editions/2026/10/2026-10-21.md) | 2026-10-21 | [Browsers Block eMudhra Intermediate CAs Over Recoverable Priva...](https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/) | 🛡️ Cybersecurity |
 | [#34](editions/2026/10/2026-10-20.md) | 2026-10-20 | [Microsoft Targets Rogue AI Agents With Dynamic Permissions, Ri...](https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/) | 🛡️ Cybersecurity |
 | [#33](editions/2026/10/2026-10-19.md) | 2026-10-19 | [ConnectWise Suspends Cloud Services in Response to Cyberattack](https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/) | 🛡️ Cybersecurity |
-| [#32](editions/2026/10/2026-10-18.md) | 2026-10-18 | [US Cybersecurity Job Postings Fall 26% as AI Security Engineer...](https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/) | 🛡️ Cybersecurity |
 
-*... and 31 more archived editions in `/editions` directory.*
+*... and 32 more archived editions in `/editions` directory.*
 
 ---
 
