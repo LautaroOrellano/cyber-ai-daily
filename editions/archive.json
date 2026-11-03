@@ -769,5 +769,22 @@
       "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
       "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html"
     ]
+  },
+  {
+    "edition": 48,
+    "date": "2026-11-03",
+    "rel_path": "editions/2026/11/2026-11-03.md",
+    "title_en": "CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode",
+    "title_es": "Según los informes, CrowdStrike pagó $ 495 millones por las empresas de seguridad de IA Fiddler, Dreadnode",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/",
+    "story_links": [
+      "https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/",
+      "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+      "https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack",
+      "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/"
+    ]
   }
 ]
