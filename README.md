@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #48** — *Tuesday, November 3, 2026*
+> **📅 Today's Edition: Issue #49** — *Wednesday, November 4, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2348-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2349-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,131 +17,131 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode](https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/)
+### 📌 [Sysdig Adds Runtime Security and Governance for AI Agents](https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
 
-- 📌 **What happened?**: CrowdStrike on Tuesday announced agreements to acquire AI agent observability firm Fiddler AI and AI security testing company Dreadnode, in deals reportedly worth a combined $495 million.
+- 📌 **What happened?**: Without adequate governance, agentic AI threatens to autonomously, invisibly and rapidly morph from a business boon into a business disaster.
 
-- 🔍 **Key details**: CrowdStrike has not disclosed the financial terms of either acquisition. According to The Wall Street Journal, which reported the deals ahead of the official announcements, the cybersecurity giant is paying roughly $400 million for Fiddler and about $95 million for Dreadnode.
+- 🔍 **Key details**: Sysdig has turned its runtime visibility skills into providing governance to agentic AI. The need is clear: “AI is moving from answering to acting. It used to be chat machines. Now agentic AI does stuff for us,” explains Loris Degioanni, Sysdig founder and CTO.
 
-- 💡 **Context & Impact**: CrowdStrike said both purchases will be paid mostly in cash, with a portion in stock subject to vesting conditions. The deals are expected to close in the fourth quarter of CrowdStrike’s fiscal year 2027, which ends on January 31, 2027.
+- 💡 **Context & Impact**: The problem is it can do more than we tell it, faster than we can control it, and has no sense of morality.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Según los informes, CrowdStrike pagó $ 495 millones por las empresas de seguridad de IA Fiddler, Dreadnode*
+> **Título en español:** *Sysdig añade seguridad y gobernanza en tiempo de ejecución para agentes de IA*
 
-- 📌 **¿Qué sucedió?**: CrowdStrike anunció el martes acuerdos para adquirir la empresa de observabilidad de agentes de IA Fiddler AI y la empresa de pruebas de seguridad de IA Dreadnode, en acuerdos por un valor combinado de $ 495 millones.
+- 📌 **¿Qué sucedió?**: Sin una gobernanza adecuada, la IA ágil amenaza con transformarse de manera autónoma, invisible y rápida de una bendición empresarial en un desastre empresarial.
 
-- 🔍 **Detalles clave**: CrowdStrike no ha revelado los términos financieros de ninguna de las adquisiciones. Según The Wall Street Journal, que informó sobre los acuerdos antes de los anuncios oficiales, el gigante de la ciberseguridad está pagando aproximadamente $ 400 millones por Fiddler y alrededor de $ 95 millones por Dreadnode.
+- 🔍 **Detalles clave**: Sysdig ha convertido sus habilidades de visibilidad en tiempo de ejecución en proporcionar gobernanza a la IA auténtica. La necesidad es clara: "La IA está pasando de responder a actuar. Solían ser máquinas de chat. Ahora la IA agéntica hace cosas por nosotros", explica Loris Degioanni, fundador y CTO de Sysdig.
 
-- 💡 **Impacto y contexto**: CrowdStrike dijo que ambas compras se pagarán principalmente en efectivo, con una parte en stock sujeta a condiciones de adquisición. Se espera que los acuerdos se cierren en el cuarto trimestre del año fiscal 2027 de CrowdStrike, que finaliza el 31 de enero de 2027.
+- 💡 **Impacto y contexto**: El problema es que puede hacer más de lo que le decimos, más rápido de lo que podemos controlarlo y no tiene sentido de la moralidad.
 
 </details>
 
-👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/)**
+👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/)**
 
 ---
 
 ## 📰 TOP HIGHLIGHTS (4 Stories)
 
-### 🔹 Column 2: [‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers](https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/)
+### 🔹 Column 2: [UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google](https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/)
 > **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
 
-- 📌 **What happened?**: If you think you had a wild year, just imagine how New York City mayor Zohran Mamdani must feel.
+- 📌 **What happened?**: For the last two years, the UK government has been telling the British public that the country could receive an economic boost of £400 billion, thanks to AI, a figure intended to calm fears that the technology would lead to sweeping job losses and even an economic crash.
 
-- 🔍 **Key details**: In October 2025, weeks before his historic election win, WIRED sat down with Mamdani for an interview at his campaign office. I remember, vividly, the energy that he carried into the room. This was a man, after all, who’d just pulled off a stunning political feat, rising from being an unknown to becoming the mayoral...
+- 🔍 **Key details**: But the UK AI minister admitted last week that figure was significantly higher than the government’s actual projections after it was revealed that assessment came solely from a report commissioned by Google, and that its own estimation of AI’s economic benefit was less than a third of that £400 billion figure.n
 
-- 💡 **Context & Impact**: Mamdani, then just about to turn 34, radiated in our first conversation with what I can best describe as a supernatural electricity. It lit up the room, and in a subsequent photo shoot on a bustling Manhattan street, drew passersby as if by magic. New Yorkers hooted and hollered at the candidate who, seemingly...
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *‘Nuestro riesgo, su recompensa’: Zohran Mamdani sobre la IA y los centros de datos*
-
-- 📌 **¿Qué sucedió?**: Si crees que tuviste un año salvaje, imagina cómo debe sentirse el alcalde de la ciudad de Nueva York, Zohran Mamdani.
-
-- 🔍 **Detalles clave**: En octubre de 2025, semanas antes de su histórica victoria electoral, WIRED se sentó con Mamdani para una entrevista en su oficina de campaña. Recuerdo, vívidamente, la energía que llevaba a la habitación. Este era un hombre, después de todo, que acababa de lograr una hazaña política impresionante, pasando de ser un desconocido a convertirse en alcalde
-
-- 💡 **Impacto y contexto**: Mamdani, que entonces estaba a punto de cumplir 34 años, irradiaba en nuestra primera conversación con lo que puedo describir mejor como una electricidad sobrenatural. Iluminó la habitación y, en una sesión de fotos posterior en una bulliciosa calle de Manhattan, atrajo a los transeúntes como por arte de magia. Los neoyorquinos gritaban y gritaban al candidato que, aparentemente
-
-</details>
-
-🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/)**
-
----
-
-### 🔹 Column 3: [3AM Affiliate Embraces AI-Like Loops in European School Attack](https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** Dark Reading
-
-- 📌 **What happened?**: 3AM Affiliate Embraces AI-Like Loops in European School Attack
-
-- 🔍 **Key details**: Evidence suggests a model may have generated and revised commands during the ransom gang's breach, though researchers stopped short of claiming full automation.
-
-- 💡 **Context & Impact**: A 3AM ransomware attack targeting a UK school estate may provide an early look at how cybercriminals could use AI as a force multiplier rather than a replacement for human operators.
+- 💡 **Context & Impact**: AI minister Kanishka Narayan, answering a parliamentary question on the issue, said that AI adoption and data investment could add £55 billion to £140 billion to the UK economy by 2030, bringing the central estimate to £120 billion. But even this “more recent assessment,” he said, was a “hugely uncertain” estimate.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *La afiliada de 3AM adopta bucles similares a la IA en el ataque a la escuela europea*
+> **Título en español:** *Funcionarios del Reino Unido dijeron que la IA añadiría £ 400 mil millones a la economía. Esa cifra proviene principalmente de Google*
 
-- 📌 **¿Qué sucedió?**: La afiliada de 3AM adopta bucles similares a la IA en el ataque a la escuela europea
+- 📌 **¿Qué sucedió?**: Durante los últimos dos años, el gobierno del Reino Unido ha estado diciendo al público británico que el país podría recibir un impulso económico de £ 400 mil millones, gracias a la inteligencia artificial, una cifra destinada a calmar los temores de que la tecnología llevaría a grandes pérdidas de empleos e incluso a una crisis económica.
 
-- 🔍 **Detalles clave**: La evidencia sugiere que un modelo puede haber generado y revisado comandos durante la violación de la banda de rescate, aunque los investigadores no llegaron a afirmar una automatización completa.
+- 🔍 **Detalles clave**: Pero el ministro de IA del Reino Unido admitió la semana pasada que esa cifra era significativamente más alta que las proyecciones reales del gobierno después de que se revelara que la evaluación provenía únicamente de un informe encargado por Google, y que su propia estimación del beneficio económico de la IA era menos de un tercio de esa cifra de £ 400 mil millones.n
 
-- 💡 **Impacto y contexto**: Un ataque de ransomware a LAS 3 AM dirigido a una finca escolar del Reino Unido puede proporcionar una visión temprana de cómo los ciberdelincuentes podrían usar la IA como un multiplicador de fuerza en lugar de un reemplazo para los operadores humanos.
+- 💡 **Impacto y contexto**: La ministra de IA, Kanishka Narayan, respondiendo a una pregunta parlamentaria sobre el tema, dijo que la adopción de IA y la inversión en datos podrían agregar £ 55 mil millones a £ 140 mil millones a la economía del Reino Unido para 2030, elevando la estimación central a £ 120 mil millones. Pero incluso esta "evaluación más reciente", dijo, era una estimación "enormemente incierta".
 
 </details>
 
-🔗 **[Read full article on Dark Reading ↗](https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack)**
+🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/)**
 
 ---
 
-### 🔹 Column 4: [How “reverse game theory” could keep AI agents in check](https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/)
+### 🔹 Column 3: [APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits](https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
+
+- 📌 **What happened?**: The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker.
+
+- 🔍 **Key details**: "The injected JavaScript code collects browser and device attributes," Sekoia researchers Amaury-Jacques Garçon and Félix Aime said in a technical report shared with The Hacker News. "Then, the delivery infrastructure delivers a platform-specific N-day exploit chain targeting either iOS or Android."
+
+- 💡 **Context & Impact**: A defining aspect of the campaign is the use of three infection vectors -
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Hackers vinculados a APT29 secuestran el script de análisis web para entregar exploits de iOS y Android*
+
+- 📌 **¿Qué sucedió?**: Se dice que el actor de amenazas vinculado a Rusia conocido como APT29 está detrás de una campaña de riego a gran escala dirigida a usuarios de iOS y Android a través de sitios web comprometidos, dominios falsos y un ataque a la cadena de suministro que involucra a un servicio de análisis web ucraniano llamado Plerdy SEO Tracker.
+
+- 🔍 **Detalles clave**: "El código JavaScript inyectado recopila atributos del navegador y del dispositivo", dijeron los investigadores de Sekoia Amaury-Jacques Garçon y Félix Aime en un informe técnico compartido con The Hacker News. "Luego, la infraestructura de entrega ofrece una cadena de exploits N-day específica de la plataforma dirigida a iOS o Android".
+
+- 💡 **Impacto y contexto**: Un aspecto definitorio de la campaña es el uso de tres vectores de infección:
+
+</details>
+
+🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html)**
+
+---
+
+### 🔹 Column 4: [Securing the agentic enterprise with data lineage](https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/)
 > **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** MIT Technology Review
 
-- 📌 **What happened?**: A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in...
+- 📌 **What happened?**: A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal...
 
 - 🔍 **Key details**: Read the full original coverage in the link below.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Cómo la "teoría del juego inverso" podría mantener a los agentes de IA bajo control*
+> **Título en español:** *Asegurar la empresa auténtica con el linaje de datos*
 
-- 📌 **¿Qué sucedió?**: Un nuevo enfoque conocido como "teoría del juego inverso" tiene como objetivo controlar los poderosos modelos de IA mediante el diseño de sistemas que los incentiven a seguir las reglas. A medida que los modelos de IA se vuelven más capaces, los investigadores de seguridad se esfuerzan por asegurarse de que estén "alineados" con los deseos humanos, para asegurarse de que, en...
+- 📌 **¿Qué sucedió?**: Un representante de ventas le pide a un agente de IA los precios de los clientes, y el agente extrae datos de múltiples fuentes: sistemas de precios restringidos, comunicaciones internas y presupuestos archivados. El resultado parece exacto para el agente, por lo que un segundo agente utiliza los datos para redactar la propuesta...
 
 - 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
 
 </details>
 
-🔗 **[Read full article on MIT Technology Review ↗](https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/)**
+🔗 **[Read full article on MIT Technology Review ↗](https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/)**
 
 ---
 
-### 🔹 Column 5: [Android’s November 2026 Updates Patch Over 200 Vulnerabilities](https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/)
+### 🔹 Column 5: [Barracuda ESG Authentication Bypass Flaw Opens Path to Root](https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
 
-- 📌 **What happened?**: Google on Monday announced new security updates for Android that resolve more than 200 vulnerabilities, including two dozen critical-severity issues.
+- 📌 **What happened?**: Barracuda has released patches for two vulnerabilities that can be chained to gain root access to its Email Security Gateway (ESG) appliances.
 
-- 🔍 **Key details**: The first part of the patches arrives on devices as the 2026-11-01 security patch level and resolves 119 security defects across Android runtime, Framework, and System.
+- 🔍 **Key details**: The first, tracked as CVE-2026-116606 (CVSS score of 9.3), is an authentication bypass that affects only ESG. The second, CVE-2026-111560 (CVSS score of 8.6), is a command injection issue that also impacts five other Barracuda products.
 
-- 💡 **Context & Impact**: Framework received fixes for the largest number of flaws, namely 65, followed by System with 53. Google resolved one high-severity information disclosure bug in Android runtime.
+- 💡 **Context & Impact**: “An authentication bypass in Barracuda Email Security Gateway versions earlier than 9.4.0.030 allows an unauthenticated remote attacker to invoke a configuration-import function and restore a crafted, compatible backup archive, resulting in unauthorized modification of the appliance’s global configuration,” Mandiant...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Las actualizaciones de noviembre de 2026 de Android corrigen más de 200 vulnerabilidades*
+> **Título en español:** *La falla de omisión de autenticación ESG de Barracuda abre el camino a la raíz*
 
-- 📌 **¿Qué sucedió?**: Google anunció el lunes nuevas actualizaciones de seguridad para Android que resuelven más de 200 vulnerabilidades, incluidas dos docenas de problemas de gravedad crítica.
+- 📌 **¿Qué sucedió?**: Barracuda ha lanzado parches para dos vulnerabilidades que se pueden encadenar para obtener acceso root a sus dispositivos Email Security Gateway (ESG).
 
-- 🔍 **Detalles clave**: La primera parte de los parches llega a los dispositivos como el nivel de parche de seguridad 2026-11-01 y resuelve 119 defectos de seguridad en el tiempo de ejecución, el marco y el sistema de Android.
+- 🔍 **Detalles clave**: La primera, rastreada como CVE-2026-116606 (puntuación CVSS de 9,3), es una omisión de autenticación que solo afecta a ESG. El segundo, CVE-2026-111560 (puntaje CVSS de 8.6), es un problema de inyección de comandos que también afecta a otros cinco productos Barracuda.
 
-- 💡 **Impacto y contexto**: Framework recibió correcciones para el mayor número de fallas, a saber, 65, seguido de System con 53. Google resolvió un error de divulgación de información de alta gravedad en el tiempo de ejecución de Android.
+- 💡 **Impacto y contexto**: "Una omisión de autenticación en Barracuda Email Security Gateway versiones anteriores a 9.4.0.030 permite a un atacante remoto no autenticado invocar una función de configuración-importación y restaurar un archivo de copia de seguridad compatible y manipulado, lo que resulta en una modificación no autorizada de la configuración global del dispositivo", Mandiant
 
 </details>
 
-🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/)**
+🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/)**
 
 ---
 
@@ -151,6 +151,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#49](editions/2026/11/2026-11-04.md) | 2026-11-04 | [Sysdig Adds Runtime Security and Governance for AI Agents](https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/) | 🛡️ Cybersecurity |
 | [#48](editions/2026/11/2026-11-03.md) | 2026-11-03 | [CrowdStrike Reportedly Paying $495 Million for AI Security Fir...](https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/) | 🛡️ Cybersecurity |
 | [#47](editions/2026/11/2026-11-02.md) | 2026-11-02 | [Cybersecurity M&A Roundup: 37 Deals Announced in October 2026](https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/) | 🛡️ Cybersecurity |
 | [#46](editions/2026/11/2026-11-01.md) | 2026-11-01 | [Northstar Security Exits Stealth With $7M to Expose Toxic Risk...](https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/) | 🛡️ Cybersecurity |
@@ -165,9 +166,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#37](editions/2026/10/2026-10-23.md) | 2026-10-23 | [URGENT - PHP Warns of Another Unpatched RCE Two Days After Eme...](https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html) | 🛡️ Cybersecurity |
 | [#36](editions/2026/10/2026-10-22.md) | 2026-10-22 | [Railway Says Intruder May Have Accessed Customer Secrets, Urge...](https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html) | 🛡️ Cybersecurity |
 | [#35](editions/2026/10/2026-10-21.md) | 2026-10-21 | [Browsers Block eMudhra Intermediate CAs Over Recoverable Priva...](https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/) | 🛡️ Cybersecurity |
-| [#34](editions/2026/10/2026-10-20.md) | 2026-10-20 | [Microsoft Targets Rogue AI Agents With Dynamic Permissions, Ri...](https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/) | 🛡️ Cybersecurity |
 
-*... and 33 more archived editions in `/editions` directory.*
+*... and 34 more archived editions in `/editions` directory.*
 
 ---
 

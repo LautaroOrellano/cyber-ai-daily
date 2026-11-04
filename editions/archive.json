@@ -786,5 +786,22 @@
       "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
       "https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/"
     ]
+  },
+  {
+    "edition": 49,
+    "date": "2026-11-04",
+    "rel_path": "editions/2026/11/2026-11-04.md",
+    "title_en": "Sysdig Adds Runtime Security and Governance for AI Agents",
+    "title_es": "Sysdig añade seguridad y gobernanza en tiempo de ejecución para agentes de IA",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
+    "story_links": [
+      "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
+      "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+      "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
+      "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/"
+    ]
   }
 ]
