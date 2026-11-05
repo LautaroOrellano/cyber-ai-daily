@@ -803,5 +803,22 @@
       "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
       "https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/"
     ]
+  },
+  {
+    "edition": 50,
+    "date": "2026-11-05",
+    "rel_path": "editions/2026/11/2026-11-05.md",
+    "title_en": "Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns",
+    "title_es": "Los sitios de phishing bancario muestran páginas falsas ‘suspendidas’ para evadir los derribos",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/",
+    "story_links": [
+      "https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/",
+      "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+      "https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/",
+      "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+      "https://www.wired.com/story/aina-smart-ring/"
+    ]
   }
 ]

@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #49** — *Wednesday, November 4, 2026*
+> **📅 Today's Edition: Issue #50** — *Thursday, November 5, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2349-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2350-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,131 +17,135 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [Sysdig Adds Runtime Security and Governance for AI Agents](https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/)
+### 📌 [Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns](https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
 
-- 📌 **What happened?**: Without adequate governance, agentic AI threatens to autonomously, invisibly and rapidly morph from a business boon into a business disaster.
+- 📌 **What happened?**: A threat actor has been relying on fake ‘suspended account’ notices to hide phishing content from users revisiting its look-alike bank websites, cybersecurity firm Kela reports.
 
-- 🔍 **Key details**: Sysdig has turned its runtime visibility skills into providing governance to agentic AI. The need is clear: “AI is moving from answering to acting. It used to be chat machines. Now agentic AI does stuff for us,” explains Loris Degioanni, Sysdig founder and CTO.
+- 🔍 **Key details**: The campaign, active since May, has been relying on more than 300 fake domains, including 248 impersonating 189 US financial institutions. The first were registered in late 2025, but most of them appeared between July and September 2026.
 
-- 💡 **Context & Impact**: The problem is it can do more than we tell it, faster than we can control it, and has no sense of morality.
+- 💡 **Context & Impact**: As of October 25, 183 of the targeted organizations still had live look-alikes, mainly targeting mid-sized regional banks. Last week, 49 new domains appeared.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Sysdig añade seguridad y gobernanza en tiempo de ejecución para agentes de IA*
+> **Título en español:** *Los sitios de phishing bancario muestran páginas falsas ‘suspendidas’ para evadir los derribos*
 
-- 📌 **¿Qué sucedió?**: Sin una gobernanza adecuada, la IA ágil amenaza con transformarse de manera autónoma, invisible y rápida de una bendición empresarial en un desastre empresarial.
+- 📌 **¿Qué sucedió?**: Un actor de amenazas ha estado confiando en avisos falsos de "cuenta suspendida" para ocultar el contenido de phishing a los usuarios que vuelven a visitar sus sitios web bancarios similares, informa la firma de ciberseguridad Kela.
 
-- 🔍 **Detalles clave**: Sysdig ha convertido sus habilidades de visibilidad en tiempo de ejecución en proporcionar gobernanza a la IA auténtica. La necesidad es clara: "La IA está pasando de responder a actuar. Solían ser máquinas de chat. Ahora la IA agéntica hace cosas por nosotros", explica Loris Degioanni, fundador y CTO de Sysdig.
+- 🔍 **Detalles clave**: La campaña, activa desde mayo, se ha basado en más de 300 dominios falsos, incluidos 248 que se hacen pasar por 189 instituciones financieras estadounidenses. Los primeros se registraron a finales de 2025, pero la mayoría de ellos aparecieron entre julio y septiembre de 2026.
 
-- 💡 **Impacto y contexto**: El problema es que puede hacer más de lo que le decimos, más rápido de lo que podemos controlarlo y no tiene sentido de la moralidad.
+- 💡 **Impacto y contexto**: Al 25 de octubre, 183 de las organizaciones objetivo todavía tenían parecidos en vivo, principalmente dirigidos a bancos regionales de tamaño mediano. La semana pasada aparecieron 49 nuevos dominios.
 
 </details>
 
-👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/)**
+👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/)**
 
 ---
 
 ## 📰 TOP HIGHLIGHTS (4 Stories)
 
-### 🔹 Column 2: [UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google](https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
+### 🔹 Column 2: [Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents](https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
 
-- 📌 **What happened?**: For the last two years, the UK government has been telling the British public that the country could receive an economic boost of £400 billion, thanks to AI, a figure intended to calm fears that the technology would lead to sweeping job losses and even an economic crash.
+- 📌 **What happened?**: Hardware startup Aina released a smart ring today that features a screen, a joystick, and a mic so that you can talk to your agents and take notes. The $399 ring has a speaker so you can take calls using it as well.
 
-- 🔍 **Key details**: But the UK AI minister admitted last week that figure was significantly higher than the government’s actual projections after it was revealed that assessment came solely from a report commissioned by Google, and that its own estimation of AI’s economic benefit was less than a third of that £400 billion figure.n
+- 🔍 **Key details**: The startup, which raised $5.5 million in July, is positioning the ring as a controller of sorts for both AI and non-AI apps.
 
-- 💡 **Context & Impact**: AI minister Kanishka Narayan, answering a parliamentary question on the issue, said that AI adoption and data investment could add £55 billion to £140 billion to the UK economy by 2030, bringing the central estimate to £120 billion. But even this “more recent assessment,” he said, was a “hugely uncertain” estimate.
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *Funcionarios del Reino Unido dijeron que la IA añadiría £ 400 mil millones a la economía. Esa cifra proviene principalmente de Google*
-
-- 📌 **¿Qué sucedió?**: Durante los últimos dos años, el gobierno del Reino Unido ha estado diciendo al público británico que el país podría recibir un impulso económico de £ 400 mil millones, gracias a la inteligencia artificial, una cifra destinada a calmar los temores de que la tecnología llevaría a grandes pérdidas de empleos e incluso a una crisis económica.
-
-- 🔍 **Detalles clave**: Pero el ministro de IA del Reino Unido admitió la semana pasada que esa cifra era significativamente más alta que las proyecciones reales del gobierno después de que se revelara que la evaluación provenía únicamente de un informe encargado por Google, y que su propia estimación del beneficio económico de la IA era menos de un tercio de esa cifra de £ 400 mil millones.n
-
-- 💡 **Impacto y contexto**: La ministra de IA, Kanishka Narayan, respondiendo a una pregunta parlamentaria sobre el tema, dijo que la adopción de IA y la inversión en datos podrían agregar £ 55 mil millones a £ 140 mil millones a la economía del Reino Unido para 2030, elevando la estimación central a £ 120 mil millones. Pero incluso esta "evaluación más reciente", dijo, era una estimación "enormemente incierta".
-
-</details>
-
-🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/)**
-
----
-
-### 🔹 Column 3: [APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits](https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
-
-- 📌 **What happened?**: The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker.
-
-- 🔍 **Key details**: "The injected JavaScript code collects browser and device attributes," Sekoia researchers Amaury-Jacques Garçon and Félix Aime said in a technical report shared with The Hacker News. "Then, the delivery infrastructure delivers a platform-specific N-day exploit chain targeting either iOS or Android."
-
-- 💡 **Context & Impact**: A defining aspect of the campaign is the use of three infection vectors -
+- 💡 **Context & Impact**: The company previously made Mirage, a three-key controller that let you invoke buttons based on the app on your Mac’s screen. For instance, if you were on a Google Meet call, you could map keys to camera on/off, mic mute/unmute, or to leave the meeting.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Hackers vinculados a APT29 secuestran el script de análisis web para entregar exploits de iOS y Android*
+> **Título en español:** *El anillo inteligente de Aina tiene una pantalla, un joystick y un micrófono para que puedas hablar con los agentes de IA*
 
-- 📌 **¿Qué sucedió?**: Se dice que el actor de amenazas vinculado a Rusia conocido como APT29 está detrás de una campaña de riego a gran escala dirigida a usuarios de iOS y Android a través de sitios web comprometidos, dominios falsos y un ataque a la cadena de suministro que involucra a un servicio de análisis web ucraniano llamado Plerdy SEO Tracker.
+- 📌 **¿Qué sucedió?**: La startup de hardware Aina lanzó hoy un anillo inteligente que cuenta con una pantalla, un joystick y un micrófono para que puedas hablar con tus agentes y tomar notas. El anillo de $ 399 tiene un altavoz para que también puedas atender llamadas con él.
 
-- 🔍 **Detalles clave**: "El código JavaScript inyectado recopila atributos del navegador y del dispositivo", dijeron los investigadores de Sekoia Amaury-Jacques Garçon y Félix Aime en un informe técnico compartido con The Hacker News. "Luego, la infraestructura de entrega ofrece una cadena de exploits N-day específica de la plataforma dirigida a iOS o Android".
+- 🔍 **Detalles clave**: La startup, que recaudó $ 5,5 millones en julio, está posicionando el anillo como una especie de controlador tanto para aplicaciones de IA como para aplicaciones que no son de IA.
 
-- 💡 **Impacto y contexto**: Un aspecto definitorio de la campaña es el uso de tres vectores de infección:
-
-</details>
-
-🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html)**
-
----
-
-### 🔹 Column 4: [Securing the agentic enterprise with data lineage](https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** MIT Technology Review
-
-- 📌 **What happened?**: A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal...
-
-- 🔍 **Key details**: Read the full original coverage in the link below.
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *Asegurar la empresa auténtica con el linaje de datos*
-
-- 📌 **¿Qué sucedió?**: Un representante de ventas le pide a un agente de IA los precios de los clientes, y el agente extrae datos de múltiples fuentes: sistemas de precios restringidos, comunicaciones internas y presupuestos archivados. El resultado parece exacto para el agente, por lo que un segundo agente utiliza los datos para redactar la propuesta...
-
-- 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
+- 💡 **Impacto y contexto**: La compañía creó anteriormente Mirage, un controlador de tres teclas que te permite invocar botones basados en la aplicación en la pantalla de tu Mac. Por ejemplo, si estuvieras en una llamada de Google Meet, podrías asignar las teclas para activar/desactivar la cámara, silenciar/desactivar el micrófono o abandonar la reunión.
 
 </details>
 
-🔗 **[Read full article on MIT Technology Review ↗](https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/)**
+🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/)**
 
 ---
 
-### 🔹 Column 5: [Barracuda ESG Authentication Bypass Flaw Opens Path to Root](https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/)
+### 🔹 Column 3: [Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised](https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
 
-- 📌 **What happened?**: Barracuda has released patches for two vulnerabilities that can be chained to gain root access to its Email Security Gateway (ESG) appliances.
+- 📌 **What happened?**: A cyberattack on several blood banks tried to raise temperatures to extremely high levels but was thwarted before it could do any damage to blood products or samples, French authorities said.
 
-- 🔍 **Key details**: The first, tracked as CVE-2026-116606 (CVSS score of 9.3), is an authentication bypass that affects only ESG. The second, CVE-2026-111560 (CVSS score of 8.6), is a command injection issue that also impacts five other Barracuda products.
+- 🔍 **Key details**: The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were remotely taken over, resulting in tons of spoiled food at a total cost of millions of dollars (euros).
 
-- 💡 **Context & Impact**: “An authentication bypass in Barracuda Email Security Gateway versions earlier than 9.4.0.030 allows an unauthenticated remote attacker to invoke a configuration-import function and restore a crafted, compatible backup archive, resulting in unauthorized modification of the appliance’s global configuration,” Mandiant...
+- 💡 **Context & Impact**: The French Blood Establishment, or EFS, said “temperature and defrosting thresholds were raised to extremely high levels” on Monday at three of its cold-storage sites for plasma, in a statement released late Tuesday. Monitoring systems quickly detected the problem, allowing staff to take action in time so that “no...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *La falla de omisión de autenticación ESG de Barracuda abre el camino a la raíz*
+> **Título en español:** *Un ciberataque afecta al sitio de un banco de sangre francés, pero ningún producto sanguíneo se ve comprometido*
 
-- 📌 **¿Qué sucedió?**: Barracuda ha lanzado parches para dos vulnerabilidades que se pueden encadenar para obtener acceso root a sus dispositivos Email Security Gateway (ESG).
+- 📌 **¿Qué sucedió?**: Un ciberataque en varios bancos de sangre intentó elevar las temperaturas a niveles extremadamente altos, pero se frustró antes de que pudiera dañar los productos sanguíneos o las muestras, dijeron las autoridades francesas.
 
-- 🔍 **Detalles clave**: La primera, rastreada como CVE-2026-116606 (puntuación CVSS de 9,3), es una omisión de autenticación que solo afecta a ESG. El segundo, CVE-2026-111560 (puntaje CVSS de 8.6), es un problema de inyección de comandos que también afecta a otros cinco productos Barracuda.
+- 🔍 **Detalles clave**: El incidente se produce después de que los supermercados de varios países europeos informaran esta semana que sus frigoríficos y congeladores se calentaron después de haber sido tomados a distancia, lo que resultó en toneladas de alimentos en mal estado con un coste total de millones de dólares (euros).
 
-- 💡 **Impacto y contexto**: "Una omisión de autenticación en Barracuda Email Security Gateway versiones anteriores a 9.4.0.030 permite a un atacante remoto no autenticado invocar una función de configuración-importación y restaurar un archivo de copia de seguridad compatible y manipulado, lo que resulta en una modificación no autorizada de la configuración global del dispositivo", Mandiant
+- 💡 **Impacto y contexto**: El Establecimiento Francés de Sangre, o EFS, dijo que "los umbrales de temperatura y descongelación se elevaron a niveles extremadamente altos" el lunes en tres de sus sitios de almacenamiento en frío para plasma, en un comunicado publicado el martes por la noche. Los sistemas de monitoreo detectaron rápidamente el problema, lo que permitió al personal tomar medidas a tiempo para que "no
 
 </details>
 
-🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/)**
+🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/)**
+
+---
+
+### 🔹 Column 4: [Box taps Nvidia’s Nemotron for new agent-first content retrieval system](https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
+
+- 📌 **What happened?**: At its developer conference on Thursday, Box showed off a new feature that will build Nvidia’s Nemotron embedding system into the core of its product.
+
+- 🔍 **Key details**: Called Box Content Retrieval, the new feature allows agents to answer queries far more effectively by relying on the embedded metadata created by Nemotron.
+
+- 💡 **Context & Impact**: Box says the upshot for users is faster, more accurate and less expensive queries. Nvidia’s VP of generative AI software, Kari Briski, told TechCrunch that she expects queries to be answered four times faster, with 20% fewer errors and 90% fewer tokens used.
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Box aprovecha el Nemotron de Nvidia para un nuevo sistema de recuperación de contenido centrado en el agente*
+
+- 📌 **¿Qué sucedió?**: En su conferencia de desarrolladores el jueves, Box mostró una nueva función que incorporará el sistema de incrustación Nemotron de Nvidia en el núcleo de su producto.
+
+- 🔍 **Detalles clave**: Llamada Recuperación de contenido de caja, la nueva función permite a los agentes responder consultas de manera mucho más efectiva al confiar en los metadatos incrustados creados por Nemotron.
+
+- 💡 **Impacto y contexto**: Box dice que el resultado para los usuarios es consultas más rápidas, más precisas y menos costosas. La vicepresidenta de software de IA generativa de Nvidia, Kari Briski, dijo a TechCrunch que espera que las consultas se respondan cuatro veces más rápido, con un 20% menos de errores y un 90% menos de tokens utilizados.
+
+</details>
+
+🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/)**
+
+---
+
+### 🔹 Column 5: [Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent](https://www.wired.com/story/aina-smart-ring/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
+
+- 📌 **What happened?**: Apoorv Shankar believes that in the very near future, humans will interact with technology through a series of approvals and rejections. AI agents will proactively come to us to complete tasks, and humans will say, “Yes, order that Uber,” or “No, don't get lunch from that spot.”
+
+- 🔍 **Key details**: But if you get multiple pings from an AI agent throughout the day, taking out your phone to say yes or no every single time will be a “bottleneck,” he says. That's why he made the Aina Ring. It has a small display and a joystick-like button that lets you quickly accept or reject an AI agent's actions with your hands....
+
+- 💡 **Context & Impact**: Aina has been in stealth for the last 15 months, though the company debuted a few experimental products at CES 2026 under a different name: Project Mirage. One was called Dune—think of it as the precursor to the Aina Ring. Connect it to your Mac and the three buttons become context-aware controls based on what you're...
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Exclusivo: el anillo inteligente de Aina quiere ser un control remoto para su agente de IA*
+
+- 📌 **¿Qué sucedió?**: Apoorv Shankar cree que en un futuro muy cercano, los humanos interactuarán con la tecnología a través de una serie de aprobaciones y rechazos. Los agentes de IA acudirán a nosotros de manera proactiva para completar las tareas y los humanos dirán: "Sí, pídelo a Uber" o "No, no almuerces en ese lugar".
+
+- 🔍 **Detalles clave**: Pero si recibe varios pings de un agente de IA a lo largo del día, sacar su teléfono para decir sí o no cada vez será un "cuello de botella", dice. Por eso hizo el Anillo Aina. Tiene una pequeña pantalla y un botón similar a un joystick que te permite aceptar o rechazar rápidamente las acciones de un agente de IA con tus manos.
+
+- 💡 **Impacto y contexto**: Aina ha estado en sigilo durante los últimos 15 meses, aunque la compañía debutó con algunos productos experimentales en el CES 2026 con un nombre diferente: Project Mirage. Uno se llamaba Dune, piensa en él como el precursor del Anillo Aina. Conéctalo a tu Mac y los tres botones se convertirán en controles conscientes del contexto en función de lo que estés
+
+</details>
+
+🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/aina-smart-ring/)**
 
 ---
 
@@ -151,6 +155,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#50](editions/2026/11/2026-11-05.md) | 2026-11-05 | [Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Taked...](https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/) | 🛡️ Cybersecurity |
 | [#49](editions/2026/11/2026-11-04.md) | 2026-11-04 | [Sysdig Adds Runtime Security and Governance for AI Agents](https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/) | 🛡️ Cybersecurity |
 | [#48](editions/2026/11/2026-11-03.md) | 2026-11-03 | [CrowdStrike Reportedly Paying $495 Million for AI Security Fir...](https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/) | 🛡️ Cybersecurity |
 | [#47](editions/2026/11/2026-11-02.md) | 2026-11-02 | [Cybersecurity M&A Roundup: 37 Deals Announced in October 2026](https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/) | 🛡️ Cybersecurity |
@@ -165,9 +170,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#38](editions/2026/10/2026-10-24.md) | 2026-10-24 | [Researchers Push Over 2 Million Updates to Remotely Disable Po...](https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html) | 🛡️ Cybersecurity |
 | [#37](editions/2026/10/2026-10-23.md) | 2026-10-23 | [URGENT - PHP Warns of Another Unpatched RCE Two Days After Eme...](https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html) | 🛡️ Cybersecurity |
 | [#36](editions/2026/10/2026-10-22.md) | 2026-10-22 | [Railway Says Intruder May Have Accessed Customer Secrets, Urge...](https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html) | 🛡️ Cybersecurity |
-| [#35](editions/2026/10/2026-10-21.md) | 2026-10-21 | [Browsers Block eMudhra Intermediate CAs Over Recoverable Priva...](https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/) | 🛡️ Cybersecurity |
 
-*... and 34 more archived editions in `/editions` directory.*
+*... and 35 more archived editions in `/editions` directory.*
 
 ---
 
