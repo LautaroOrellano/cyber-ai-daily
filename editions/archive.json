@@ -820,5 +820,22 @@
       "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
       "https://www.wired.com/story/aina-smart-ring/"
     ]
+  },
+  {
+    "edition": 51,
+    "date": "2026-11-06",
+    "rel_path": "editions/2026/11/2026-11-06.md",
+    "title_en": "DigiCert Data Breach Impacts Business Customer Information",
+    "title_es": "La violación de datos de DigiCert afecta la información comercial del cliente",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/",
+    "story_links": [
+      "https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/",
+      "https://huggingface.co/blog/allenai/toyblocks",
+      "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
+      "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+      "https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/"
+    ]
   }
 ]
