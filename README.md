@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #51** — *Friday, November 6, 2026*
+> **📅 Today's Edition: Issue #52** — *Saturday, November 7, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2351-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2352-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,131 +17,135 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [DigiCert Data Breach Impacts Business Customer Information](https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/)
+### 📌 [SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins](https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
 
-- 📌 **What happened?**: DigiCert has disclosed a data breach impacting its business customers’ contact information, including names and email addresses.
+- 📌 **What happened?**: SonicWall has patched a SonicOS vulnerability that can be used to bypass SAML authentication, warning customers that it may have been exploited in attacks.
 
-- 🔍 **Key details**: The incident involved an internal business system used for archiving customer information, which was moved to a different network segment in February 2025, inadvertently becoming exposed to the internet.
+- 🔍 **Key details**: Tracked as CVE-2026-19868, the flaw affects the SSL VPN component of SonicOS, the operating system that runs on SonicWall firewalls. It’s one of seven vulnerabilities described in an advisory published on November 6.
 
-- 💡 **Context & Impact**: Attackers abused a self-registration feature in the system’s account manager, built for other purposes and not requiring MFA, to create a read-only account that had access to archived data between June 27 and July 2.
+- 💡 **Context & Impact**: “An authentication enforcement vulnerability in SonicOS SSLVPN service may allow a user with valid credentials for an alternate authentication method to bypass SAML authentication controls. Successful exploitation may also bypass SAML-enforced multi-factor authentication (MFA),” reads SonicWall’s description of...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *La violación de datos de DigiCert afecta la información comercial del cliente*
+> **Título en español:** *SonicWall corrige la vulnerabilidad de SonicOS que debilita los inicios de sesión de VPN*
 
-- 📌 **¿Qué sucedió?**: DigiCert ha revelado una violación de datos que afecta a la información de contacto de sus clientes comerciales, incluidos los nombres y las direcciones de correo electrónico.
+- 📌 **¿Qué sucedió?**: SonicWall ha parcheado una vulnerabilidad de SonicOS que se puede utilizar para eludir la autenticación SAML, advirtiendo a los clientes que puede haber sido explotada en ataques.
 
-- 🔍 **Detalles clave**: El incidente involucró un sistema comercial interno utilizado para archivar la información del cliente, que se trasladó a un segmento de red diferente en febrero de 2025, quedando expuesto inadvertidamente a Internet.
+- 🔍 **Detalles clave**: Seguido como CVE-2026-19868, la falla afecta al componente SSL VPN de SonicOS, el sistema operativo que se ejecuta en los firewalls de SonicWall. Es una de las siete vulnerabilidades descritas en un aviso publicado el 6 de noviembre.
 
-- 💡 **Impacto y contexto**: Los atacantes abusaron de una función de autorregistro en el administrador de cuentas del sistema, creada para otros fines y que no requiere MFA, para crear una cuenta de solo lectura que tuvo acceso a los datos archivados entre el 27 de junio y el 2 de julio.
+- 💡 **Impacto y contexto**: "Una vulnerabilidad de aplicación de autenticación en el servicio SSLVPN de SonicOS puede permitir que un usuario con credenciales válidas para un método de autenticación alternativo omita los controles de autenticación SAML. La explotación exitosa también puede omitir la autenticación multifactor (MFA) forzada por SAML", se lee en la descripción de SonicWall de
 
 </details>
 
-👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/)**
+👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/)**
 
 ---
 
 ## 📰 TOP HIGHLIGHTS (4 Stories)
 
-### 🔹 Column 2: [ToyBlocks: A controlled world for robot learning and evaluation](https://huggingface.co/blog/allenai/toyblocks)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Hugging Face Blog
-
-- 📌 **What happened?**: ToyBlocks: A controlled world for robot learning and evaluation
-
-- 🔍 **Key details**: Robots are learning to fold laundry, sort parts, and handle unfamiliar objects. But those demonstrations are often rather narrow and don't explain what a robot has learned or why it fails.
-
-- 💡 **Context & Impact**: To study a complex system, scientists often begin with a small, controlled environment, such as a petri dish or terrarium, where they can vary conditions and observe the effects. Robotics needs environments that make this kind of investigation possible—researchers should be able to change the training data or model...
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *ToyBlocks: un mundo controlado para el aprendizaje y la evaluación de robots*
-
-- 📌 **¿Qué sucedió?**: ToyBlocks: un mundo controlado para el aprendizaje y la evaluación de robots
-
-- 🔍 **Detalles clave**: Los robots están aprendiendo a doblar la ropa, clasificar las piezas y manejar objetos desconocidos. Pero esas demostraciones a menudo son bastante estrechas y no explican lo que un robot ha aprendido o por qué falla.
-
-- 💡 **Impacto y contexto**: Para estudiar un sistema complejo, los científicos a menudo comienzan con un entorno pequeño y controlado, como una placa de Petri o un terrario, donde pueden variar las condiciones y observar los efectos. La robótica necesita entornos que hagan posible este tipo de investigación: los investigadores deberían poder cambiar los datos o el modelo de entrenamiento
-
-</details>
-
-🔗 **[Read full article on Hugging Face Blog ↗](https://huggingface.co/blog/allenai/toyblocks)**
-
----
-
-### 🔹 Column 3: [Why Europe's Freezer Hacks Spread So Far, So Fast](https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** Dark Reading
-
-- 📌 **What happened?**: Europe's supermarket freezer hacks show how security issues can cascade across an industry, disrupting supply chains at scale.
-
-- 🔍 **Key details**: Read the full original coverage in the link below.
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *Por qué los hackeos de congeladores en Europa se propagan tan lejos y tan rápido*
-
-- 📌 **¿Qué sucedió?**: Los hackeos de congeladores de supermercados en Europa muestran cómo los problemas de seguridad pueden extenderse en cascada a través de una industria, interrumpiendo las cadenas de suministro a gran escala.
-
-- 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
-
-</details>
-
-🔗 **[Read full article on Dark Reading ↗](https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast)**
-
----
-
-### 🔹 Column 4: [Amazon will let you text Alexa your shopping list](https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders)
+### 🔹 Column 2: [Why a new report on Anthropic automating AI development is alarming researchers](https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development)
 > **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** The Verge AI
 
-- 📌 **What happened?**: Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they’re looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with...
+- 📌 **What happened?**: Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company’s models improving roughly twice as quickly as a year ago, with little indication of slowing down.
 
-- 🔍 **Key details**: The Alexa for Shopping AI assistant can now order groceries and recommend products over text messages.
+- 🔍 **Key details**: Why a new report on Anthropic automating AI development is alarming researchers
 
-- 💡 **Context & Impact**: This launch builds on the existing Alexa for Shopping experience that launched in May, allowing users to place orders during moments where texting is more convenient than using Amazon’s app or website. The contact will appear in your phone as “Amazon Alexa,” and can be used for a wide range of shopping requests,...
+- 💡 **Context & Impact**: AI is dramatically speeding up Anthropic’s research, even as the company calls for slowing down AI development.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Amazon te permitirá enviar un mensaje de texto a Alexa con tu lista de compras*
+> **Título en español:** *Por qué un nuevo informe sobre el desarrollo de IA de automatización antrópica está alarmando a los investigadores*
 
-- 📌 **¿Qué sucedió?**: Amazon está añadiendo una nueva función a Alexa for Shopping que permite a los clientes comprar artículos enviando mensajes de texto al asistente de compras de IA. Los usuarios pueden describir los productos que desean comprar y/o proporcionar una fotografía del artículo, y Alexa for Shopping buscará resultados coincidentes en los anuncios de Amazon, enviando un mensaje de texto con
+- 📌 **¿Qué sucedió?**: Anthropic está utilizando la IA para construir una IA más poderosa. Y parece estar funcionando notablemente bien, con los modelos de la compañía mejorando aproximadamente el doble de rápido que hace un año, con pocos indicios de desaceleración.
 
-- 🔍 **Detalles clave**: El asistente de inteligencia artificial de Alexa for Shopping ahora puede pedir comestibles y recomendar productos a través de mensajes de texto.
+- 🔍 **Detalles clave**: Por qué un nuevo informe sobre el desarrollo de IA de automatización antrópica está alarmando a los investigadores
 
-- 💡 **Impacto y contexto**: Este lanzamiento se basa en la experiencia existente de Alexa for Shopping que se lanzó en mayo, lo que permite a los usuarios realizar pedidos en momentos en los que enviar mensajes de texto es más conveniente que usar la aplicación o el sitio web de Amazon. El contacto aparecerá en su teléfono como "Amazon Alexa" y se puede utilizar para una amplia gama de solicitudes de compra,
+- 💡 **Impacto y contexto**: La IA está acelerando drásticamente la investigación de Anthropic, incluso cuando la empresa pide ralentizar el desarrollo de la IA.
 
 </details>
 
-🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders)**
+🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development)**
 
 ---
 
-### 🔹 Column 5: [OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line](https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
+### 🔹 Column 3: [Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub](https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
 
-- 📌 **What happened?**: OpenAI on Thursday unveiled GPT-6 Cyber, a security model the company says is far more capable than its predecessor and more disciplined about respecting the limits researchers set for it.
+- 📌 **What happened?**: Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.
 
-- 🔍 **Key details**: On ExploitGym, which checks whether an AI can exploit a given flaw in a remote target, the new model achieved 48.5%, up from 32.1% for GPT-5.6 Cyber.
+- 🔍 **Key details**: When a user selects "Yes, and don't ask again," Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings file.
 
-- 💡 **Context & Impact**: OpenAI rated GPT-6 Cyber as Critical for cybersecurity under its Preparedness Framework, above the High designation given to GPT-5.6 Cyber.
+- 💡 **Context & Impact**: Software security company Apiiro said yesterday that 1,122 public copies of that file hold at least one secret, though it did not test whether any still work. One company the researchers notified earlier this week confirmed its key had been live.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *OpenAI dice que el nuevo modelo cibernético GPT-6 busca fallas sin cruzar la línea*
+> **Título en español:** *El archivo "Don 't Ask Again" de Claude Code expone contraseñas y claves en 1.122 copias públicas en GitHub*
 
-- 📌 **¿Qué sucedió?**: OpenAI presentó el jueves GPT-6 Cyber, un modelo de seguridad que la compañía dice que es mucho más capaz que su predecesor y más disciplinado para respetar los límites que los investigadores establecieron para él.
+- 📌 **¿Qué sucedió?**: Las contraseñas y las claves API que los desarrolladores escribieron en los comandos que aprobaron en Claude Code se encuentran en los repositorios públicos de GitHub, donde cualquiera puede leerlas.
 
-- 🔍 **Detalles clave**: En ExploitGym, que comprueba si una IA puede explotar una falla determinada en un objetivo remoto, el nuevo modelo alcanzó el 48,5%, frente al 32,1% de GPT-5.6 Cyber.
+- 🔍 **Detalles clave**: Cuando un usuario selecciona "Sí, y no vuelvas a preguntar", el asistente de codificación de IA de Anthropic puede guardar el comando, palabra por palabra, incluido el secreto, en un archivo de configuración del proyecto.
 
-- 💡 **Impacto y contexto**: OpenAI calificó GPT-6 Cyber como Crítico para la ciberseguridad bajo su Marco de Preparación, por encima de la designación Alta otorgada a GPT-5.6 Cyber.
+- 💡 **Impacto y contexto**: La empresa de seguridad de software Apiiro dijo ayer que 1.122 copias públicas de ese archivo contienen al menos un secreto, aunque no probó si alguno sigue funcionando. Una empresa a la que los investigadores notificaron a principios de esta semana confirmó que su clave había estado activa.
 
 </details>
 
-🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/)**
+🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html)**
+
+---
+
+### 🔹 Column 4: [Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough](https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
+
+- 📌 **What happened?**: My husband and I are caregivers for our middle son, who has multiple disabilities and requires full-time support. We do our best to keep one another up to date on the activities that fill his daily life while also managing his numerous medical specialists, procedures, and therapies. We have to stay in constant...
+
+- 🔍 **Key details**: We’re not alone in our struggles. According to AARP, in 2025, an estimated 63 million Americans cared for adults or children with a medical condition or disability. On average, these caregivers spend up to 27 hours per week providing care.
+
+- 💡 **Context & Impact**: This caregiver crisis, where so many Americans provide ongoing, complex care and, as a result, endure poor health, financial strain, and isolation, is worsening as caregivers need more support and better systems.
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Las aplicaciones para cuidadores reciben una dosis de IA, pero eso podría no ser suficiente*
+
+- 📌 **¿Qué sucedió?**: Mi esposo y yo cuidamos a nuestro hijo mediano, que tiene múltiples discapacidades y requiere apoyo a tiempo completo. Hacemos todo lo posible para mantenernos al día sobre las actividades que llenan su vida diaria, al mismo tiempo que gestionamos sus numerosos especialistas médicos, procedimientos y terapias. Tenemos que estar en constante
+
+- 🔍 **Detalles clave**: No estamos solos en nuestras luchas. Según AARP, en 2025, se estima que 63 millones de estadounidenses atendían a adultos o niños con una afección médica o discapacidad. En promedio, estos cuidadores dedican hasta 27 horas a la semana a brindar atención.
+
+- 💡 **Impacto y contexto**: Esta crisis de cuidadores, donde tantos estadounidenses brindan atención continua y compleja y, como resultado, sufren problemas de salud, tensión financiera y aislamiento, está empeorando a medida que los cuidadores necesitan más apoyo y mejores sistemas.
+
+</details>
+
+🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/)**
+
+---
+
+### 🔹 Column 5: [Crusoe sells troubled Wyoming data center project to Google](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
+
+- 📌 **What happened?**: Crusoe, an eight-year-old, Denver-based data center developer recently valued at $30.9 billion, confirmed Friday it has sold an unfinished data center project in southeastern Wyoming to Google.
+
+- 🔍 **Key details**: Google, which Crusoe had tried and failed to land as a customer for the project, is taking over the development after reportedly raising concerns about its cost and construction timeline under Crusoe’s management.
+
+- 💡 **Context & Impact**: Crusoe initially announced the project last year with Blackstone-backed infrastructure company Tallgrass, planning to eventually scale it to 10 gigawatts of power capacity.
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Crusoe vende un proyecto de centro de datos de Wyoming con problemas a Google*
+
+- 📌 **¿Qué sucedió?**: Crusoe, un desarrollador de centros de datos con sede en Denver de ocho años valorado recientemente en $ 30.9 mil millones, confirmó el viernes que ha vendido un proyecto de centro de datos inacabado en el sureste de Wyoming a Google.
+
+- 🔍 **Detalles clave**: Google, que Crusoe había intentado y no pudo conseguir como cliente para el proyecto, se está haciendo cargo del desarrollo después de que, según los informes, planteara preocupaciones sobre su costo y el cronograma de construcción bajo la gestión de Crusoe.
+
+- 💡 **Impacto y contexto**: Crusoe anunció inicialmente el proyecto el año pasado con la empresa de infraestructura Tallgrass, respaldada por Blackstone, y planea eventualmente escalarlo a 10 gigavatios de capacidad de energía.
+
+</details>
+
+🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/)**
 
 ---
 
@@ -151,6 +155,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#52](editions/2026/11/2026-11-07.md) | 2026-11-07 | [SonicWall Patches Exploited SonicOS Vulnerability That Weakens...](https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/) | 🛡️ Cybersecurity |
 | [#51](editions/2026/11/2026-11-06.md) | 2026-11-06 | [DigiCert Data Breach Impacts Business Customer Information](https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/) | 🛡️ Cybersecurity |
 | [#50](editions/2026/11/2026-11-05.md) | 2026-11-05 | [Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Taked...](https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/) | 🛡️ Cybersecurity |
 | [#49](editions/2026/11/2026-11-04.md) | 2026-11-04 | [Sysdig Adds Runtime Security and Governance for AI Agents](https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/) | 🛡️ Cybersecurity |
@@ -165,9 +170,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#40](editions/2026/10/2026-10-26.md) | 2026-10-26 | [953 Online Stores Infected in Long-Lasting Malware Campaign](https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/) | 🛡️ Cybersecurity |
 | [#39](editions/2026/10/2026-10-25.md) | 2026-10-25 | [Former Unit 8200 Officers Raise $34 Million for Agentic SecOps...](https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/) | 🛡️ Cybersecurity |
 | [#38](editions/2026/10/2026-10-24.md) | 2026-10-24 | [Researchers Push Over 2 Million Updates to Remotely Disable Po...](https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html) | 🛡️ Cybersecurity |
-| [#37](editions/2026/10/2026-10-23.md) | 2026-10-23 | [URGENT - PHP Warns of Another Unpatched RCE Two Days After Eme...](https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html) | 🛡️ Cybersecurity |
 
-*... and 36 more archived editions in `/editions` directory.*
+*... and 37 more archived editions in `/editions` directory.*
 
 ---
 

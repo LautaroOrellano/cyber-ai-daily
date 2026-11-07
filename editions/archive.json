@@ -837,5 +837,22 @@
       "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
       "https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/"
     ]
+  },
+  {
+    "edition": 52,
+    "date": "2026-11-07",
+    "rel_path": "editions/2026/11/2026-11-07.md",
+    "title_en": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+    "title_es": "SonicWall corrige la vulnerabilidad de SonicOS que debilita los inicios de sesión de VPN",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+    "story_links": [
+      "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+      "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+      "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+    ]
   }
 ]
