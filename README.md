@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #52** — *Saturday, November 7, 2026*
+> **📅 Today's Edition: Issue #53** — *Sunday, November 8, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2352-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2353-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,135 +17,131 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins](https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/)
+### 📌 [Brava Security Emerges From Stealth With $15 Million in Funding](https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
 
-- 📌 **What happened?**: SonicWall has patched a SonicOS vulnerability that can be used to bypass SAML authentication, warning customers that it may have been exploited in attacks.
+- 📌 **What happened?**: Security operations startup Brava Security has emerged from stealth mode with $15 million in a seed funding round led by F2 Venture Capital and Pitango VC, with support from several angel investors.
 
-- 🔍 **Key details**: Tracked as CVE-2026-19868, the flaw affects the SSL VPN component of SonicOS, the operating system that runs on SonicWall firewalls. It’s one of seven vulnerabilities described in an advisory published on November 6.
+- 🔍 **Key details**: Tel Aviv-based Brava was founded in 2024 by Israeli intelligence alumni Idan Basre, who serves as CEO, and Itay Gabbay, the company’s CTO.
 
-- 💡 **Context & Impact**: “An authentication enforcement vulnerability in SonicOS SSLVPN service may allow a user with valid credentials for an alternate authentication method to bypass SAML authentication controls. Successful exploitation may also bypass SAML-enforced multi-factor authentication (MFA),” reads SonicWall’s description of...
+- 💡 **Context & Impact**: Brava has built an AI-powered platform that focuses on modeling attacker behavior, simulating attacks to analyze generated telemetry for security gaps.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *SonicWall corrige la vulnerabilidad de SonicOS que debilita los inicios de sesión de VPN*
+> **Título en español:** *Brava Security emerge del sigilo con $ 15 millones en fondos*
 
-- 📌 **¿Qué sucedió?**: SonicWall ha parcheado una vulnerabilidad de SonicOS que se puede utilizar para eludir la autenticación SAML, advirtiendo a los clientes que puede haber sido explotada en ataques.
+- 📌 **¿Qué sucedió?**: La startup de operaciones de seguridad Brava Security ha salido del modo sigiloso con $ 15 millones en una ronda de financiación inicial liderada por F2 Venture Capital y Pitango VC, con el apoyo de varios inversores ángeles.
 
-- 🔍 **Detalles clave**: Seguido como CVE-2026-19868, la falla afecta al componente SSL VPN de SonicOS, el sistema operativo que se ejecuta en los firewalls de SonicWall. Es una de las siete vulnerabilidades descritas en un aviso publicado el 6 de noviembre.
+- 🔍 **Detalles clave**: Brava, con sede en Tel Aviv, fue fundada en 2024 por el exalumno de inteligencia israelí Idan Basre, quien se desempeña como CEO, e Itay Gabbay, CTO de la compañía.
 
-- 💡 **Impacto y contexto**: "Una vulnerabilidad de aplicación de autenticación en el servicio SSLVPN de SonicOS puede permitir que un usuario con credenciales válidas para un método de autenticación alternativo omita los controles de autenticación SAML. La explotación exitosa también puede omitir la autenticación multifactor (MFA) forzada por SAML", se lee en la descripción de SonicWall de
+- 💡 **Impacto y contexto**: Brava ha creado una plataforma impulsada por IA que se centra en modelar el comportamiento de los atacantes, simulando ataques para analizar la telemetría generada en busca de brechas de seguridad.
 
 </details>
 
-👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/)**
+👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/)**
 
 ---
 
 ## 📰 TOP HIGHLIGHTS (4 Stories)
 
-### 🔹 Column 2: [Why a new report on Anthropic automating AI development is alarming researchers](https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** The Verge AI
-
-- 📌 **What happened?**: Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company’s models improving roughly twice as quickly as a year ago, with little indication of slowing down.
-
-- 🔍 **Key details**: Why a new report on Anthropic automating AI development is alarming researchers
-
-- 💡 **Context & Impact**: AI is dramatically speeding up Anthropic’s research, even as the company calls for slowing down AI development.
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *Por qué un nuevo informe sobre el desarrollo de IA de automatización antrópica está alarmando a los investigadores*
-
-- 📌 **¿Qué sucedió?**: Anthropic está utilizando la IA para construir una IA más poderosa. Y parece estar funcionando notablemente bien, con los modelos de la compañía mejorando aproximadamente el doble de rápido que hace un año, con pocos indicios de desaceleración.
-
-- 🔍 **Detalles clave**: Por qué un nuevo informe sobre el desarrollo de IA de automatización antrópica está alarmando a los investigadores
-
-- 💡 **Impacto y contexto**: La IA está acelerando drásticamente la investigación de Anthropic, incluso cuando la empresa pide ralentizar el desarrollo de la IA.
-
-</details>
-
-🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development)**
-
----
-
-### 🔹 Column 3: [Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub](https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
-
-- 📌 **What happened?**: Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.
-
-- 🔍 **Key details**: When a user selects "Yes, and don't ask again," Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings file.
-
-- 💡 **Context & Impact**: Software security company Apiiro said yesterday that 1,122 public copies of that file hold at least one secret, though it did not test whether any still work. One company the researchers notified earlier this week confirmed its key had been live.
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *El archivo "Don 't Ask Again" de Claude Code expone contraseñas y claves en 1.122 copias públicas en GitHub*
-
-- 📌 **¿Qué sucedió?**: Las contraseñas y las claves API que los desarrolladores escribieron en los comandos que aprobaron en Claude Code se encuentran en los repositorios públicos de GitHub, donde cualquiera puede leerlas.
-
-- 🔍 **Detalles clave**: Cuando un usuario selecciona "Sí, y no vuelvas a preguntar", el asistente de codificación de IA de Anthropic puede guardar el comando, palabra por palabra, incluido el secreto, en un archivo de configuración del proyecto.
-
-- 💡 **Impacto y contexto**: La empresa de seguridad de software Apiiro dijo ayer que 1.122 copias públicas de ese archivo contienen al menos un secreto, aunque no probó si alguno sigue funcionando. Una empresa a la que los investigadores notificaron a principios de esta semana confirmó que su clave había estado activa.
-
-</details>
-
-🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html)**
-
----
-
-### 🔹 Column 4: [Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough](https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/)
+### 🔹 Column 2: [I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good](https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/)
 > **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
 
-- 📌 **What happened?**: My husband and I are caregivers for our middle son, who has multiple disabilities and requires full-time support. We do our best to keep one another up to date on the activities that fill his daily life while also managing his numerous medical specialists, procedures, and therapies. We have to stay in constant...
+- 📌 **What happened?**: In an aside in the New York Times Cooking video I watched recently, where Melissa Clark made her lemony white bean soup with turkey and greens, the food reporter and recipe columnist invited viewers to leave a comment telling her what they do with the kale stems. It highlighted this sweet, funny relationship between a...
 
-- 🔍 **Key details**: We’re not alone in our struggles. According to AARP, in 2025, an estimated 63 million Americans cared for adults or children with a medical condition or disability. On average, these caregivers spend up to 27 hours per week providing care.
+- 🔍 **Key details**: Below the article announcing the change on October 23, commenters loudly aired their grievances, threatening to cancel subscriptions, asking who wanted this, and how to turn it off.
 
-- 💡 **Context & Impact**: This caregiver crisis, where so many Americans provide ongoing, complex care and, as a result, endure poor health, financial strain, and isolation, is worsening as caregivers need more support and better systems.
+- 💡 **Context & Impact**: After four days and 172 almost exclusively angry comments, commenting for the story was turned off.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Las aplicaciones para cuidadores reciben una dosis de IA, pero eso podría no ser suficiente*
+> **Título en español:** *Usé el nuevo modificador de recetas alimentado por IA de NYT Cooking, y en realidad es bastante bueno*
 
-- 📌 **¿Qué sucedió?**: Mi esposo y yo cuidamos a nuestro hijo mediano, que tiene múltiples discapacidades y requiere apoyo a tiempo completo. Hacemos todo lo posible para mantenernos al día sobre las actividades que llenan su vida diaria, al mismo tiempo que gestionamos sus numerosos especialistas médicos, procedimientos y terapias. Tenemos que estar en constante
+- 📌 **¿Qué sucedió?**: En un aparte en el video de cocina del New York Times que vi recientemente, donde Melissa Clark le hacía sopa de frijoles blancos con limón con pavo y verduras, la reportera de alimentos y columnista de recetas invitó a los espectadores a dejar un comentario diciéndole lo que hacen con los tallos de la col rizada. Destacó esta dulce y divertida relación entre un
 
-- 🔍 **Detalles clave**: No estamos solos en nuestras luchas. Según AARP, en 2025, se estima que 63 millones de estadounidenses atendían a adultos o niños con una afección médica o discapacidad. En promedio, estos cuidadores dedican hasta 27 horas a la semana a brindar atención.
+- 🔍 **Detalles clave**: Debajo del artículo que anunciaba el cambio el 23 de octubre, los comentaristas expresaron en voz alta sus quejas, amenazando con cancelar las suscripciones, preguntando quién quería esto y cómo desactivarlo.
 
-- 💡 **Impacto y contexto**: Esta crisis de cuidadores, donde tantos estadounidenses brindan atención continua y compleja y, como resultado, sufren problemas de salud, tensión financiera y aislamiento, está empeorando a medida que los cuidadores necesitan más apoyo y mejores sistemas.
+- 💡 **Impacto y contexto**: Después de cuatro días y 172 comentarios casi exclusivamente enojados, los comentarios de la historia se desactivaron.
 
 </details>
 
-🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/)**
+🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/)**
 
 ---
 
-### 🔹 Column 5: [Crusoe sells troubled Wyoming data center project to Google](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
+### 🔹 Column 3: [UK Wades Into Tech Sovereignty Amid AI Policy Changes](https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** Dark Reading
 
-- 📌 **What happened?**: Crusoe, an eight-year-old, Denver-based data center developer recently valued at $30.9 billion, confirmed Friday it has sold an unfinished data center project in southeastern Wyoming to Google.
+- 📌 **What happened?**: The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.
 
-- 🔍 **Key details**: Google, which Crusoe had tried and failed to land as a customer for the project, is taking over the development after reportedly raising concerns about its cost and construction timeline under Crusoe’s management.
-
-- 💡 **Context & Impact**: Crusoe initially announced the project last year with Blackstone-backed infrastructure company Tallgrass, planning to eventually scale it to 10 gigawatts of power capacity.
+- 🔍 **Key details**: Read the full original coverage in the link below.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Crusoe vende un proyecto de centro de datos de Wyoming con problemas a Google*
+> **Título en español:** *El Reino Unido entra en la soberanía tecnológica en medio de los cambios en las políticas de IA*
 
-- 📌 **¿Qué sucedió?**: Crusoe, un desarrollador de centros de datos con sede en Denver de ocho años valorado recientemente en $ 30.9 mil millones, confirmó el viernes que ha vendido un proyecto de centro de datos inacabado en el sureste de Wyoming a Google.
+- 📌 **¿Qué sucedió?**: El Reino Unido está apostando por la inteligencia artificial nacional y la inversión cibernética para reducir la dependencia de la tecnología estadounidense, pero los líderes de seguridad se preguntan si la financiación está demasiado fragmentada y es demasiado tarde.
 
-- 🔍 **Detalles clave**: Google, que Crusoe había intentado y no pudo conseguir como cliente para el proyecto, se está haciendo cargo del desarrollo después de que, según los informes, planteara preocupaciones sobre su costo y el cronograma de construcción bajo la gestión de Crusoe.
-
-- 💡 **Impacto y contexto**: Crusoe anunció inicialmente el proyecto el año pasado con la empresa de infraestructura Tallgrass, respaldada por Blackstone, y planea eventualmente escalarlo a 10 gigavatios de capacidad de energía.
+- 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
 
 </details>
 
-🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/)**
+🔗 **[Read full article on Dark Reading ↗](https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy)**
+
+---
+
+### 🔹 Column 4: [World Models Will Soon Be Inescapable. Here’s What You Need to Know](https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
+
+- 📌 **What happened?**: It’s 2016, and you’re wandering around the neighborhood at dusk. On the prowl, you’re swiping on a smartphone to catch that elusive Snorlax and grow your collection in Pokémon Go. You, alongside hundreds of millions of other players, are enjoying a mixed-reality game built around lovable characters. What you don’t...
+
+- 🔍 **Key details**: Niantic, the creator of Pokémon Go, sold the game last year and pivoted hard into one of Silicon Valley’s buzziest AI topics right now: world models. “We’re very much about reconstructing the real world,” says Brian McClendon, Niantic Spatial’s chief technology officer. He hopes to leverage its trove of world data to...
+
+- 💡 **Context & Impact**: This software is poised to seep into everyday life, without you necessarily ever interacting directly with world models. 2027 could be a major year for the expansion of home robotics and driverless cars, both of which are bolstered by advances in world models. It’s time to better understand how these bots think.
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Los modelos del mundo pronto serán ineludibles. Esto es lo que necesitas saber*
+
+- 📌 **¿Qué sucedió?**: Es 2016 y estás paseando por el barrio al atardecer. Al acechar, desliza el dedo en un teléfono inteligente para atrapar a ese escurridizo Snorlax y hacer crecer tu colección en Pokémon Go. Tú, junto con cientos de millones de otros jugadores, estás disfrutando de un juego de realidad mixta construido en torno a personajes adorables. Lo que no
+
+- 🔍 **Detalles clave**: Niantic, el creador de Pokémon Go, vendió el juego el año pasado y se centró en uno de los temas de IA más populares de Silicon Valley en este momento: los modelos mundiales. "Nos interesa mucho reconstruir el mundo real", dice Brian McClendon, director de tecnología de Niantic Spatial. Espera aprovechar su tesoro de datos mundiales para
+
+- 💡 **Impacto y contexto**: Este software está listo para filtrarse en la vida cotidiana, sin que necesariamente interactúes directamente con los modelos del mundo. 2027 podría ser un año importante para la expansión de la robótica doméstica y los automóviles sin conductor, los cuales se ven reforzados por los avances en los modelos del mundo. Es hora de comprender mejor cómo piensan estos bots.
+
+</details>
+
+🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/)**
+
+---
+
+### 🔹 Column 5: [After the midterms, things are looking rocky for Elon Musk and data centers](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
+
+- 📌 **What happened?**: Democrats’ historic victory in this week’s midterm elections could also have a dramatic effect on the tech industry.
+
+- 🔍 **Key details**: In dozens of local ballot measures, voters rejected data centers. And even when they weren’t voting on the issue directly, they were electing politicians — like Texas’ new governor-elect Gina Hinojosa — who campaigned on the promise of restricting data centers.
+
+- 💡 **Context & Impact**: On the latest episode of TechCrunch’s Equity podcast, Kirsten Korosec, Sean O’Kane, and I discussed what the midterms mean for the tech industry. Sean kicked it off by noting that Elon Musk “seems to have basically nothing out of donating half a billion dollars” to Republicans, while his companies are now...
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Después de los exámenes parciales, las cosas se ven difíciles para Elon Musk y los centros de datos*
+
+- 📌 **¿Qué sucedió?**: La histórica victoria de los demócratas en las elecciones intermedias de esta semana también podría tener un efecto dramático en la industria tecnológica.
+
+- 🔍 **Detalles clave**: En docenas de medidas electorales locales, los votantes rechazaron los centros de datos. E incluso cuando no estaban votando directamente sobre el tema, estaban eligiendo políticos, como la nueva gobernadora electa de Texas, Gina Hinojosa, que hizo campaña con la promesa de restringir los centros de datos.
+
+- 💡 **Impacto y contexto**: En el último episodio del podcast Equity de TechCrunch, Kirsten Korosec, Sean O’Kane y yo hablamos sobre lo que significan las elecciones intermedias para la industria tecnológica. Sean comenzó señalando que Elon Musk "parece no tener básicamente nada que ver con la donación de quinientos millones de dólares" a los republicanos, mientras que sus compañías ahora
+
+</details>
+
+🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/)**
 
 ---
 
@@ -155,6 +151,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#53](editions/2026/11/2026-11-08.md) | 2026-11-08 | [Brava Security Emerges From Stealth With $15 Million in Funding](https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/) | 🛡️ Cybersecurity |
 | [#52](editions/2026/11/2026-11-07.md) | 2026-11-07 | [SonicWall Patches Exploited SonicOS Vulnerability That Weakens...](https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/) | 🛡️ Cybersecurity |
 | [#51](editions/2026/11/2026-11-06.md) | 2026-11-06 | [DigiCert Data Breach Impacts Business Customer Information](https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/) | 🛡️ Cybersecurity |
 | [#50](editions/2026/11/2026-11-05.md) | 2026-11-05 | [Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Taked...](https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/) | 🛡️ Cybersecurity |
@@ -169,9 +166,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#41](editions/2026/10/2026-10-27.md) | 2026-10-27 | [Microsoft Authenticator Flaw Let Permissionless Android Apps S...](https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html) | 🛡️ Cybersecurity |
 | [#40](editions/2026/10/2026-10-26.md) | 2026-10-26 | [953 Online Stores Infected in Long-Lasting Malware Campaign](https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/) | 🛡️ Cybersecurity |
 | [#39](editions/2026/10/2026-10-25.md) | 2026-10-25 | [Former Unit 8200 Officers Raise $34 Million for Agentic SecOps...](https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/) | 🛡️ Cybersecurity |
-| [#38](editions/2026/10/2026-10-24.md) | 2026-10-24 | [Researchers Push Over 2 Million Updates to Remotely Disable Po...](https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html) | 🛡️ Cybersecurity |
 
-*... and 37 more archived editions in `/editions` directory.*
+*... and 38 more archived editions in `/editions` directory.*
 
 ---
 

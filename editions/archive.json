@@ -854,5 +854,22 @@
       "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
       "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
     ]
+  },
+  {
+    "edition": 53,
+    "date": "2026-11-08",
+    "rel_path": "editions/2026/11/2026-11-08.md",
+    "title_en": "Brava Security Emerges From Stealth With $15 Million in Funding",
+    "title_es": "Brava Security emerge del sigilo con $ 15 millones en fondos",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
+    "story_links": [
+      "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
+      "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+      "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
+      "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+      "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+    ]
   }
 ]
