@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #53** — *Sunday, November 8, 2026*
+> **📅 Today's Edition: Issue #54** — *Monday, November 9, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2353-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2354-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,131 +17,131 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [Brava Security Emerges From Stealth With $15 Million in Funding](https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
-
-- 📌 **What happened?**: Security operations startup Brava Security has emerged from stealth mode with $15 million in a seed funding round led by F2 Venture Capital and Pitango VC, with support from several angel investors.
-
-- 🔍 **Key details**: Tel Aviv-based Brava was founded in 2024 by Israeli intelligence alumni Idan Basre, who serves as CEO, and Itay Gabbay, the company’s CTO.
-
-- 💡 **Context & Impact**: Brava has built an AI-powered platform that focuses on modeling attacker behavior, simulating attacks to analyze generated telemetry for security gaps.
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *Brava Security emerge del sigilo con $ 15 millones en fondos*
-
-- 📌 **¿Qué sucedió?**: La startup de operaciones de seguridad Brava Security ha salido del modo sigiloso con $ 15 millones en una ronda de financiación inicial liderada por F2 Venture Capital y Pitango VC, con el apoyo de varios inversores ángeles.
-
-- 🔍 **Detalles clave**: Brava, con sede en Tel Aviv, fue fundada en 2024 por el exalumno de inteligencia israelí Idan Basre, quien se desempeña como CEO, e Itay Gabbay, CTO de la compañía.
-
-- 💡 **Impacto y contexto**: Brava ha creado una plataforma impulsada por IA que se centra en modelar el comportamiento de los atacantes, simulando ataques para analizar la telemetría generada en busca de brechas de seguridad.
-
-</details>
-
-👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/)**
-
----
-
-## 📰 TOP HIGHLIGHTS (4 Stories)
-
-### 🔹 Column 2: [I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good](https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
-
-- 📌 **What happened?**: In an aside in the New York Times Cooking video I watched recently, where Melissa Clark made her lemony white bean soup with turkey and greens, the food reporter and recipe columnist invited viewers to leave a comment telling her what they do with the kale stems. It highlighted this sweet, funny relationship between a...
-
-- 🔍 **Key details**: Below the article announcing the change on October 23, commenters loudly aired their grievances, threatening to cancel subscriptions, asking who wanted this, and how to turn it off.
-
-- 💡 **Context & Impact**: After four days and 172 almost exclusively angry comments, commenting for the story was turned off.
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *Usé el nuevo modificador de recetas alimentado por IA de NYT Cooking, y en realidad es bastante bueno*
-
-- 📌 **¿Qué sucedió?**: En un aparte en el video de cocina del New York Times que vi recientemente, donde Melissa Clark le hacía sopa de frijoles blancos con limón con pavo y verduras, la reportera de alimentos y columnista de recetas invitó a los espectadores a dejar un comentario diciéndole lo que hacen con los tallos de la col rizada. Destacó esta dulce y divertida relación entre un
-
-- 🔍 **Detalles clave**: Debajo del artículo que anunciaba el cambio el 23 de octubre, los comentaristas expresaron en voz alta sus quejas, amenazando con cancelar las suscripciones, preguntando quién quería esto y cómo desactivarlo.
-
-- 💡 **Impacto y contexto**: Después de cuatro días y 172 comentarios casi exclusivamente enojados, los comentarios de la historia se desactivaron.
-
-</details>
-
-🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/)**
-
----
-
-### 🔹 Column 3: [UK Wades Into Tech Sovereignty Amid AI Policy Changes](https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy)
+### 📌 [NIST: Solo Shouldn't Mean Less Secure](https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** Dark Reading
 
-- 📌 **What happened?**: The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.
+- 📌 **What happened?**: New guidance provides a basic framework for less-technical solo business owners, but it may miss the mark on how to secure technology that requires no human oversight.
 
 - 🔍 **Key details**: Read the full original coverage in the link below.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *El Reino Unido entra en la soberanía tecnológica en medio de los cambios en las políticas de IA*
+> **Título en español:** *NIST: Solo no debería significar menos seguro*
 
-- 📌 **¿Qué sucedió?**: El Reino Unido está apostando por la inteligencia artificial nacional y la inversión cibernética para reducir la dependencia de la tecnología estadounidense, pero los líderes de seguridad se preguntan si la financiación está demasiado fragmentada y es demasiado tarde.
+- 📌 **¿Qué sucedió?**: La nueva guía proporciona un marco básico para los propietarios de negocios individuales menos técnicos, pero puede fallar en cuanto a cómo proteger la tecnología que no requiere supervisión humana.
 
 - 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
 
 </details>
 
-🔗 **[Read full article on Dark Reading ↗](https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy)**
+👉 **[Read full article on Dark Reading ↗](https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure)**
 
 ---
 
-### 🔹 Column 4: [World Models Will Soon Be Inescapable. Here’s What You Need to Know](https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
+## 📰 TOP HIGHLIGHTS (4 Stories)
 
-- 📌 **What happened?**: It’s 2016, and you’re wandering around the neighborhood at dusk. On the prowl, you’re swiping on a smartphone to catch that elusive Snorlax and grow your collection in Pokémon Go. You, alongside hundreds of millions of other players, are enjoying a mixed-reality game built around lovable characters. What you don’t...
-
-- 🔍 **Key details**: Niantic, the creator of Pokémon Go, sold the game last year and pivoted hard into one of Silicon Valley’s buzziest AI topics right now: world models. “We’re very much about reconstructing the real world,” says Brian McClendon, Niantic Spatial’s chief technology officer. He hopes to leverage its trove of world data to...
-
-- 💡 **Context & Impact**: This software is poised to seep into everyday life, without you necessarily ever interacting directly with world models. 2027 could be a major year for the expansion of home robotics and driverless cars, both of which are bolstered by advances in world models. It’s time to better understand how these bots think.
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *Los modelos del mundo pronto serán ineludibles. Esto es lo que necesitas saber*
-
-- 📌 **¿Qué sucedió?**: Es 2016 y estás paseando por el barrio al atardecer. Al acechar, desliza el dedo en un teléfono inteligente para atrapar a ese escurridizo Snorlax y hacer crecer tu colección en Pokémon Go. Tú, junto con cientos de millones de otros jugadores, estás disfrutando de un juego de realidad mixta construido en torno a personajes adorables. Lo que no
-
-- 🔍 **Detalles clave**: Niantic, el creador de Pokémon Go, vendió el juego el año pasado y se centró en uno de los temas de IA más populares de Silicon Valley en este momento: los modelos mundiales. "Nos interesa mucho reconstruir el mundo real", dice Brian McClendon, director de tecnología de Niantic Spatial. Espera aprovechar su tesoro de datos mundiales para
-
-- 💡 **Impacto y contexto**: Este software está listo para filtrarse en la vida cotidiana, sin que necesariamente interactúes directamente con los modelos del mundo. 2027 podría ser un año importante para la expansión de la robótica doméstica y los automóviles sin conductor, los cuales se ven reforzados por los avances en los modelos del mundo. Es hora de comprender mejor cómo piensan estos bots.
-
-</details>
-
-🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/)**
-
----
-
-### 🔹 Column 5: [After the midterms, things are looking rocky for Elon Musk and data centers](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/)
+### 🔹 Column 2: [Medium’s new TK app brings AI assistance directly into the writing process](https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/)
 > **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
 
-- 📌 **What happened?**: Democrats’ historic victory in this week’s midterm elections could also have a dramatic effect on the tech industry.
+- 📌 **What happened?**: Online publishing platform Medium on Monday launched a new app, called TK, which aims to bring AI technology deeper into the writing process. The idea behind TK is to make it easier to turn ideas into written words by incorporating an AI assistant into the editor itself, allowing users to ask for help by typing “@TK”...
 
-- 🔍 **Key details**: In dozens of local ballot measures, voters rejected data centers. And even when they weren’t voting on the issue directly, they were electing politicians — like Texas’ new governor-elect Gina Hinojosa — who campaigned on the promise of restricting data centers.
+- 🔍 **Key details**: In publishing and journalism, the term “TK” serves as a placeholder used to mark where missing information can be added later. The “TK” stands for “to come,” but uses a “K” instead of “C” as there are few English words where the “tk” letter combination exists, making it stand out more easily in written text where it...
 
-- 💡 **Context & Impact**: On the latest episode of TechCrunch’s Equity podcast, Kirsten Korosec, Sean O’Kane, and I discussed what the midterms mean for the tech industry. Sean kicked it off by noting that Elon Musk “seems to have basically nothing out of donating half a billion dollars” to Republicans, while his companies are now...
+- 💡 **Context & Impact**: In Medium’s app, TK takes on a new role as it tries to help users fill in the blanks.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Después de los exámenes parciales, las cosas se ven difíciles para Elon Musk y los centros de datos*
+> **Título en español:** *La nueva aplicación TK de Medium lleva la asistencia de IA directamente al proceso de escritura*
 
-- 📌 **¿Qué sucedió?**: La histórica victoria de los demócratas en las elecciones intermedias de esta semana también podría tener un efecto dramático en la industria tecnológica.
+- 📌 **¿Qué sucedió?**: La plataforma de publicación en línea Medium lanzó el lunes una nueva aplicación, llamada TK, que tiene como objetivo profundizar la tecnología de IA en el proceso de escritura. La idea detrás de TK es facilitar la conversión de ideas en palabras escritas mediante la incorporación de un asistente de IA en el propio editor, lo que permite a los usuarios pedir ayuda escribiendo "@TK"
 
-- 🔍 **Detalles clave**: En docenas de medidas electorales locales, los votantes rechazaron los centros de datos. E incluso cuando no estaban votando directamente sobre el tema, estaban eligiendo políticos, como la nueva gobernadora electa de Texas, Gina Hinojosa, que hizo campaña con la promesa de restringir los centros de datos.
+- 🔍 **Detalles clave**: En la publicación y el periodismo, el término "TK" sirve como marcador de posición para marcar dónde se puede añadir más tarde la información que falta. El "TK" significa "por venir", pero usa una "K" en lugar de "C", ya que hay pocas palabras en inglés donde existe la combinación de letras "tk", lo que hace que se destaque más fácilmente en el texto escrito donde
 
-- 💡 **Impacto y contexto**: En el último episodio del podcast Equity de TechCrunch, Kirsten Korosec, Sean O’Kane y yo hablamos sobre lo que significan las elecciones intermedias para la industria tecnológica. Sean comenzó señalando que Elon Musk "parece no tener básicamente nada que ver con la donación de quinientos millones de dólares" a los republicanos, mientras que sus compañías ahora
+- 💡 **Impacto y contexto**: En la aplicación de Medium, TK asume un nuevo rol mientras trata de ayudar a los usuarios a completar los espacios en blanco.
 
 </details>
 
-🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/)**
+🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/)**
+
+---
+
+### 🔹 Column 3: [Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia](https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
+
+- 📌 **What happened?**: The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote access trojan called PapRAT.
+
+- 🔍 **Key details**: "PapRAT has both C++ and Rust implementations," Fortinet FortiGuard Labs researcher Cara Lin said. "Its capabilities include command execution, file uploads and downloads, file deletion, directory and drive enumeration, and screenshot capture. The Rust variant adds PowerShell execution and other commands."
+
+- 💡 **Context & Impact**: The campaign is notable for making use of three different infection chains -
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Hackers amargos despliegan una nueva puerta trasera de PapRAT en una campaña de ciberespionaje dirigida al sur de Asia*
+
+- 📌 **¿Qué sucedió?**: Se ha observado que el grupo de ciberespionaje del sur de Asia conocido como Bitter (también conocido como APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17 y TA397) apunta a organizaciones del sur de Asia con un troyano de acceso remoto no reportado anteriormente llamado PapRAT.
+
+- 🔍 **Detalles clave**: "PapRAT tiene implementaciones de C++ y Rust", dijo Cara Lin, investigadora de Fortinet FortiGuard Labs. "Sus capacidades incluyen la ejecución de comandos, cargas y descargas de archivos, eliminación de archivos, enumeración de directorios y unidades, y captura de pantalla. La variante Rust añade la ejecución de PowerShell y otros comandos".
+
+- 💡 **Impacto y contexto**: La campaña se destaca por hacer uso de tres cadenas de infección diferentes:
+
+</details>
+
+🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html)**
+
+---
+
+### 🔹 Column 4: [Hold up — I had a great time talking to the RIAA guy](https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** The Verge AI
+
+- 📌 **What happened?**: Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA.
+
+- 🔍 **Key details**: This time around, RIAA CEO Mitch Glazier and music fans are fighting on the same side.
+
+- 💡 **Context & Impact**: This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s villain for suing kids for downloading music. That was when I decided to go be a copyright lawyer, which set the rest of my career in motion — and Mitch was in the background as a young lawyer at...
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Espera, me lo pasé muy bien hablando con el chico de la RIAA*
+
+- 📌 **¿Qué sucedió?**: Hoy, estoy hablando con Mitch Glazier, quien es CEO y presidente de la RIAA.
+
+- 🔍 **Detalles clave**: Esta vez, el CEO de la RIAA, Mitch Glazier, y los fanáticos de la música están luchando del mismo lado.
+
+- 💡 **Impacto y contexto**: Esta conversación fue un verdadero momento de círculo completo para mí: estaba en la universidad cuando llegó Napster, y la RIAA se convirtió en el villano de todos por demandar a los niños por descargar música. Fue entonces cuando decidí ser abogada de derechos de autor, lo que puso en marcha el resto de mi carrera, y Mitch estaba en segundo plano como joven abogada en
+
+</details>
+
+🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music)**
+
+---
+
+### 🔹 Column 5: [Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context](https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Hugging Face Blog
+
+- 📌 **What happened?**: Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context
+
+- 🔍 **Key details**: A compound AI approach to Japanese personas grounded in real-world distributions
+
+- 💡 **Context & Impact**: Open Data Breaking Down Privacy Barriers to Pave the Way for AI in Finance
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Nemotron-Personas-Finanzas-Japón: un conjunto de datos sintéticos que captura el contexto demográfico y financiero de Japón*
+
+- 📌 **¿Qué sucedió?**: Nemotron-Personas-Finanzas-Japón: un conjunto de datos sintéticos que captura el contexto demográfico y financiero de Japón
+
+- 🔍 **Detalles clave**: Un enfoque compuesto de IA para las personas japonesas basado en distribuciones del mundo real
+
+- 💡 **Impacto y contexto**: Los datos abiertos derriban las barreras de privacidad para allanar el camino para la IA en las finanzas
+
+</details>
+
+🔗 **[Read full article on Hugging Face Blog ↗](https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan)**
 
 ---
 
@@ -151,6 +151,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#54](editions/2026/11/2026-11-09.md) | 2026-11-09 | [NIST: Solo Shouldn't Mean Less Secure](https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure) | 🛡️ Cybersecurity |
 | [#53](editions/2026/11/2026-11-08.md) | 2026-11-08 | [Brava Security Emerges From Stealth With $15 Million in Funding](https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/) | 🛡️ Cybersecurity |
 | [#52](editions/2026/11/2026-11-07.md) | 2026-11-07 | [SonicWall Patches Exploited SonicOS Vulnerability That Weakens...](https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/) | 🛡️ Cybersecurity |
 | [#51](editions/2026/11/2026-11-06.md) | 2026-11-06 | [DigiCert Data Breach Impacts Business Customer Information](https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/) | 🛡️ Cybersecurity |
@@ -165,9 +166,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#42](editions/2026/10/2026-10-28.md) | 2026-10-28 | [TLS Flaws Found in GoAhead Web Server Used in Hundreds of Mill...](https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/) | 🛡️ Cybersecurity |
 | [#41](editions/2026/10/2026-10-27.md) | 2026-10-27 | [Microsoft Authenticator Flaw Let Permissionless Android Apps S...](https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html) | 🛡️ Cybersecurity |
 | [#40](editions/2026/10/2026-10-26.md) | 2026-10-26 | [953 Online Stores Infected in Long-Lasting Malware Campaign](https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/) | 🛡️ Cybersecurity |
-| [#39](editions/2026/10/2026-10-25.md) | 2026-10-25 | [Former Unit 8200 Officers Raise $34 Million for Agentic SecOps...](https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/) | 🛡️ Cybersecurity |
 
-*... and 38 more archived editions in `/editions` directory.*
+*... and 39 more archived editions in `/editions` directory.*
 
 ---
 

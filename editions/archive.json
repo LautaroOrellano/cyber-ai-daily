@@ -871,5 +871,22 @@
       "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
       "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
     ]
+  },
+  {
+    "edition": 54,
+    "date": "2026-11-09",
+    "rel_path": "editions/2026/11/2026-11-09.md",
+    "title_en": "NIST: Solo Shouldn't Mean Less Secure",
+    "title_es": "NIST: Solo no debería significar menos seguro",
+    "category": "cyber",
+    "source": "Dark Reading",
+    "lead_link": "https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure",
+    "story_links": [
+      "https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure",
+      "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
+      "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
+      "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan"
+    ]
   }
 ]
