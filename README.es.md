@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 54** — *Lunes, 9 de Noviembre de 2026*
+> **📅 Edición de Hoy: N° 55** — *Martes, 10 de Noviembre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_54-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_55-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,68 +17,70 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [NIST: Solo no debería significar menos seguro](https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** Dark Reading &nbsp;|&nbsp; *Original:* `NIST: Solo Shouldn't Mean Less Secure`
+### 📌 [WhiteMatter recauda $ 20 millones en fondos de la Serie A](https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `WhiteMatter Raises $20 Million in Series A Funding`
 
-- 📌 **¿Qué sucedió?**: La nueva guía proporciona un marco básico para los propietarios de negocios individuales menos técnicos, pero puede fallar en cuanto a cómo proteger la tecnología que no requiere supervisión humana.
+- 📌 **¿Qué sucedió?**: La startup de ciberseguridad WhiteMatter anunció el martes la recaudación de $ 20 millones en una ronda de financiación Serie A que eleva el total recaudado por la compañía a $ 24 millones.
 
-- 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
+- 🔍 **Detalles clave**: La ronda de inversión fue liderada por Blumberg Capital, con el apoyo adicional de los inversores anteriores Crew Capital y Sprout & Oak.
 
-👉 **[Ver nota original completa en Dark Reading (inglés) ↗](https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure)**
+- 💡 **Impacto y contexto**: Fundada en 2024 y anteriormente conocida como QuilrAI, WhiteMatter ha creado una plataforma que ayuda a las organizaciones a proteger y controlar todos los agentes de IA que se ejecutan en sus entornos.
+
+👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [La nueva aplicación TK de Medium lleva la asistencia de IA directamente al proceso de escritura](https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Medium’s new TK app brings AI assistance directly into the writing process`
+### 🔹 Columna 2: [Objetivos antrópicos: OPI de 1,4 billones de dólares](https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Anthropic targets $1.4 trillion IPO`
 
-- 📌 **¿Qué sucedió?**: La plataforma de publicación en línea Medium lanzó el lunes una nueva aplicación, llamada TK, que tiene como objetivo profundizar la tecnología de IA en el proceso de escritura. La idea detrás de TK es facilitar la conversión de ideas en palabras escritas mediante la incorporación de un asistente de IA en el propio editor, lo que permite a los usuarios pedir ayuda escribiendo "@TK"
+- 📌 **¿Qué sucedió?**: Anthropic confirmó el martes que su salida a bolsa podría ser una de las más grandes de la historia, a pesar de no cumplir con las expectativas anteriores. Se espera que su precio de salida a bolsa esté entre $ 70.00 y $ 78.00 por acción, lo que pondría su valoración tan alta como $ 1.4 billones, según el New York Times. The Wall Street Journal informa
 
-- 🔍 **Detalles clave**: En la publicación y el periodismo, el término "TK" sirve como marcador de posición para marcar dónde se puede añadir más tarde la información que falta. El "TK" significa "por venir", pero usa una "K" en lugar de "C", ya que hay pocas palabras en inglés donde existe la combinación de letras "tk", lo que hace que se destaque más fácilmente en el texto escrito donde
+- 🔍 **Detalles clave**: Se espera que la oferta pública de Anthropic la convierta en una de las empresas que cotizan en bolsa más valiosas del mundo la próxima semana.
 
-- 💡 **Impacto y contexto**: En la aplicación de Medium, TK asume un nuevo rol mientras trata de ayudar a los usuarios a completar los espacios en blanco.
+- 💡 **Impacto y contexto**: Como señala Reuters, anteriormente se esperaba que la OPI de Anthropic se valorara en hasta $ 2 billones. A partir de la semana pasada, el rival de Anthropic, OpenAI, estaba valorado en $ 1.25 billones.
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/)**
-
----
-
-### 🔹 Columna 3: [Hackers amargos despliegan una nueva puerta trasera de PapRAT en una campaña de ciberespionaje dirigida al sur de Asia](https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia`
-
-- 📌 **¿Qué sucedió?**: Se ha observado que el grupo de ciberespionaje del sur de Asia conocido como Bitter (también conocido como APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17 y TA397) apunta a organizaciones del sur de Asia con un troyano de acceso remoto no reportado anteriormente llamado PapRAT.
-
-- 🔍 **Detalles clave**: "PapRAT tiene implementaciones de C++ y Rust", dijo Cara Lin, investigadora de Fortinet FortiGuard Labs. "Sus capacidades incluyen la ejecución de comandos, cargas y descargas de archivos, eliminación de archivos, enumeración de directorios y unidades, y captura de pantalla. La variante Rust añade la ejecución de PowerShell y otros comandos".
-
-- 💡 **Impacto y contexto**: La campaña se destaca por hacer uso de tres cadenas de infección diferentes:
-
-🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html)**
+🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion)**
 
 ---
 
-### 🔹 Columna 4: [Espera, me lo pasé muy bien hablando con el chico de la RIAA](https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Hold up — I had a great time talking to the RIAA guy`
+### 🔹 Columna 3: [SAP parchea vulnerabilidades críticas de ICM2SHELL y ProxyGate](https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `SAP Patches Critical ICM2SHELL, ProxyGate Vulnerabilities`
 
-- 📌 **¿Qué sucedió?**: Hoy, estoy hablando con Mitch Glazier, quien es CEO y presidente de la RIAA.
+- 📌 **¿Qué sucedió?**: El fabricante de software empresarial SAP anunció el martes el lanzamiento de 42 notas de seguridad nuevas y actualizadas, incluidas nueve que resuelven vulnerabilidades de gravedad crítica.
 
-- 🔍 **Detalles clave**: Esta vez, el CEO de la RIAA, Mitch Glazier, y los fanáticos de la música están luchando del mismo lado.
+- 🔍 **Detalles clave**: Cuatro de las nuevas notas de seguridad de SAP abordan las fallas de máxima gravedad en NetWeaver (Internet Communication Manager (ICM) y SAML2 Service Provider), Web Dispatcher y Gateway.
 
-- 💡 **Impacto y contexto**: Esta conversación fue un verdadero momento de círculo completo para mí: estaba en la universidad cuando llegó Napster, y la RIAA se convirtió en el villano de todos por demandar a los niños por descargar música. Fue entonces cuando decidí ser abogada de derechos de autor, lo que puso en marcha el resto de mi carrera, y Mitch estaba en segundo plano como joven abogada en
+- 💡 **Impacto y contexto**: Las fallas de ICM y Web Dispatcher, rastreadas como CVE-2026-76964 y CVE-2026-89126, son una única debilidad en el componente del kernel de SAP que recibe tráfico HTTP, HTTPS y WebSocket.
 
-🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music)**
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/)**
 
 ---
 
-### 🔹 Columna 5: [Nemotron-Personas-Finanzas-Japón: un conjunto de datos sintéticos que captura el contexto demográfico y financiero de Japón](https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Hugging Face Blog &nbsp;|&nbsp; *Original:* `Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context`
+### 🔹 Columna 4: [Adobe trae agentes de IA y nuevas herramientas creativas a Photoshop, Premiere y Firefly](https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly`
 
-- 📌 **¿Qué sucedió?**: Nemotron-Personas-Finanzas-Japón: un conjunto de datos sintéticos que captura el contexto demográfico y financiero de Japón
+- 📌 **¿Qué sucedió?**: Adobe está vertiendo más IA en sus productos, incluidos Photoshop, Premiere, Illustrator e InDesign, en un importante anuncio de características del producto en su evento MAX en Miami. La compañía también está ampliando las capacidades de IA en su herramienta creativa, Firefly, y lanzando un Protocolo de Contexto de Modelo (MCP) que permite a otros chatbots
 
-- 🔍 **Detalles clave**: Un enfoque compuesto de IA para las personas japonesas basado en distribuciones del mundo real
+- 🔍 **Detalles clave**: La aplicación Firefly de Adobe se está trasladando al territorio de Figma con una nueva herramienta de creación de prototipos en versión beta privada llamada Builder, que permite a los usuarios crear diseños para mostrar ideas. También hay una nueva herramienta para crear gráficos de marca, junto con una herramienta de edición de imágenes que te permite cambiar parte de una imagen sin cambiar otros objetos.
 
-- 💡 **Impacto y contexto**: Los datos abiertos derriban las barreras de privacidad para allanar el camino para la IA en las finanzas
+- 💡 **Impacto y contexto**: Una nueva herramienta de video impulsada por IA en Firefly permitirá a los usuarios ensamblar un video a partir de clips y otros elementos como imágenes y efectos de sonido. La empresa está haciendo que su agente sea proactivo y esté siempre activo para que pueda obtener más contexto sobre el trabajo y estar presente para cualquier acción. Adobe también está facilitando que las personas tomen
 
-🔗 **[Ver nota original completa en Hugging Face Blog (inglés) ↗](https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/)**
+
+---
+
+### 🔹 Columna 5: [Anthropic establece un rango de precios de salida a bolsa de 70 a 78 dólares por acción para alcanzar una valoración implícita de 1,404 billones de dólares](https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion`
+
+- 📌 **¿Qué sucedió?**: Anthropic tiene la intención de seguir adelante con su OPI a pesar de los mercados más inestables y el retroceso más amplio de la inversión en IA.
+
+- 🔍 **Detalles clave**: El fabricante de Claude dijo en una presentación actualizada de la OPI el martes que ofrecería un total de 825 millones de acciones de Clase A a un rango de precios estimado de $ 70 a $ 78 por acción. Se espera que la venta aumente de $ 57.75 mil millones a $ 64.35 mil millones.
+
+- 💡 **Impacto y contexto**: La empresa podría llegar a tener un valor considerable de $ 1.404 billones si sus acciones cotizan en la parte superior del rango de precios, sobre una base totalmente diluida. Eso representaría un salto significativo desde la valoración de $ 965 mil millones que Anthropic alcanzó en una recaudación de fondos en mayo, pero aún es inferior a los $ 2 billones que la compañía supuestamente
+
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/)**
 
 ---
 
@@ -88,6 +90,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#55](editions/2026/11/2026-11-10.md) | 2026-11-10 | [WhiteMatter recauda $ 20 millones en fondos de la Serie A](https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/) | 🛡️ Ciberseguridad |
 | [#54](editions/2026/11/2026-11-09.md) | 2026-11-09 | [NIST: Solo no debería significar menos seguro](https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure) | 🛡️ Ciberseguridad |
 | [#53](editions/2026/11/2026-11-08.md) | 2026-11-08 | [Brava Security emerge del sigilo con $ 15 millones en fondos](https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/) | 🛡️ Ciberseguridad |
 | [#52](editions/2026/11/2026-11-07.md) | 2026-11-07 | [SonicWall corrige la vulnerabilidad de SonicOS que debili...](https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/) | 🛡️ Ciberseguridad |
@@ -102,9 +105,8 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 | [#43](editions/2026/10/2026-10-29.md) | 2026-10-29 | [Más de 41.000 registros de empleados del DHS filtrados en...](https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/) | 🛡️ Ciberseguridad |
 | [#42](editions/2026/10/2026-10-28.md) | 2026-10-28 | [Se han encontrado fallos de TLS en el servidor web de GoA...](https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/) | 🛡️ Ciberseguridad |
 | [#41](editions/2026/10/2026-10-27.md) | 2026-10-27 | [La falla de Microsoft Authenticator permite que las aplic...](https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html) | 🛡️ Ciberseguridad |
-| [#40](editions/2026/10/2026-10-26.md) | 2026-10-26 | [953 tiendas en línea infectadas en una campaña de malware...](https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/) | 🛡️ Ciberseguridad |
 
-*... y 39 ediciones más en la carpeta `/editions`.*
+*... y 40 ediciones más en la carpeta `/editions`.*
 
 ---
 

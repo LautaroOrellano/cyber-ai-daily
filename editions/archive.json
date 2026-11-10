@@ -888,5 +888,22 @@
       "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
       "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan"
     ]
+  },
+  {
+    "edition": 55,
+    "date": "2026-11-10",
+    "rel_path": "editions/2026/11/2026-11-10.md",
+    "title_en": "WhiteMatter Raises $20 Million in Series A Funding",
+    "title_es": "WhiteMatter recauda $ 20 millones en fondos de la Serie A",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/",
+    "story_links": [
+      "https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/",
+      "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+      "https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/",
+      "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+    ]
   }
 ]
