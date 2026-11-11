@@ -905,5 +905,22 @@
       "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
       "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
     ]
+  },
+  {
+    "edition": 56,
+    "date": "2026-11-11",
+    "rel_path": "editions/2026/11/2026-11-11.md",
+    "title_en": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+    "title_es": "Los hackers atacan servidores Qlik Sense con shells inversos, exploits Stage ActiveMQ y Veeam",
+    "category": "cyber",
+    "source": "The Hacker News",
+    "lead_link": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
+    "story_links": [
+      "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
+      "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "https://www.securityweek.com/asus-zoom-release-security-patches/",
+      "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+      "https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/"
+    ]
   }
 ]
