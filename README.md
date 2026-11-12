@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #56** — *Wednesday, November 11, 2026*
+> **📅 Today's Edition: Issue #57** — *Thursday, November 12, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2356-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2357-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,135 +17,135 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits](https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
+### 📌 [Chrome, Firefox Updates Patch Over 180 Vulnerabilities](https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
 
-- 📌 **What happened?**: Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026.
+- 📌 **What happened?**: Google and Mozilla have released fresh Chrome and Firefox security updates that resolve more than 180 vulnerabilities.
 
-- 🔍 **Key details**: Cynet's CyOps and Research teams said they identified the suspicious activity in October 2026 against several E.U.-based customers within a narrow window of just over three minutes.
+- 🔍 **Key details**: The Chrome refresh fixes 83 security defects, including five critical-severity use-after-free issues in ServiceWorker, CSS, Layout, Skia, and Accessibility.
 
-- 💡 **Context & Impact**: The activity has been found to share some level of overlap with a November 2023 campaign documented by Arctic Wolf in which threat actors linked to the CACTUS ransomware operation likely weaponized then-newly-disclosed flaws in Qlik Sense to obtain initial access to target environments.
+- 💡 **Context & Impact**: All the remaining 78 bugs are high-severity weaknesses, mostly use-after-free (24), out-of-bounds read/write (10), type confusion (9), uninitialized resource (9), and incorrect/missing authorization (8).
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Los hackers atacan servidores Qlik Sense con shells inversos, exploits Stage ActiveMQ y Veeam*
+> **Título en español:** *Las actualizaciones de Chrome y Firefox corrigen más de 180 vulnerabilidades*
 
-- 📌 **¿Qué sucedió?**: Se ha observado que los actores de amenazas se dirigen a los servidores de Qlik Sense para entregar sin éxito comandos de shell inverso de PowerShell contra múltiples entornos en octubre de 2026.
+- 📌 **¿Qué sucedió?**: Google y Mozilla han publicado nuevas actualizaciones de seguridad para Chrome y Firefox que solucionan más de 180 vulnerabilidades.
 
-- 🔍 **Detalles clave**: Los equipos de CyOps e Investigación de Cynet dijeron que identificaron la actividad sospechosa en octubre de 2026 contra varios clientes de la UE en una ventana estrecha de poco más de tres minutos.
+- 🔍 **Detalles clave**: La actualización de Chrome corrige 83 defectos de seguridad, incluidos cinco problemas de uso después de liberación de gravedad crítica en ServiceWorker, CSS, Layout, Skia y Accesibilidad.
 
-- 💡 **Impacto y contexto**: Se ha encontrado que la actividad comparte cierto nivel de superposición con una campaña de noviembre de 2023 documentada por Arctic Wolf en la que los actores de amenazas vinculados a la operación de ransomware de CACTUS probablemente armaron fallas recién reveladas en Qlik Sense para obtener acceso inicial a los entornos objetivo.
+- 💡 **Impacto y contexto**: Los 78 errores restantes son vulnerabilidades de gravedad alta, principalmente de uso tras liberación (24), lectura/escritura fuera de límites (10), confusión de tipos (9), recurso no inicializado (9) y autorización incorrecta/ausente (8).
 
 </details>
 
-👉 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html)**
+👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/)**
 
 ---
 
 ## 📰 TOP HIGHLIGHTS (4 Stories)
 
-### 🔹 Column 2: [Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads](https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/)
+### 🔹 Column 2: [Norwest pushes deeper into AI with new $4B fund](https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/)
 > **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
 
-- 📌 **What happened?**: AI agents are all the rage, but they’re not quite as capable as their purveyors would have you believe.
+- 📌 **What happened?**: Norwest, a firm backed solely by Wells Fargo, has raised a $4 billion fund as it sets out to invest more in AI. This is the eighteenth fund for the 65-year-old multi-stage investment firm, and its largest to date.
 
-- 🔍 **Key details**: Efforts to benchmark agents tasked with complex work show that they aren’t typically reliable enough to function without close supervision. LiveBench 2.0 shows Claude Fable 5.2 and ChatGPT-6 Astra succeeding on 82.9 and 75.6 out of 100 tasks, respectively, and an effort by the AI infrastructure company EON to test...
+- 🔍 **Key details**: The fund will be invested across various sectors and multiple counties, notably the United States, India, and Israel. But the big story here is AI, and Norwest’s plans to expand its investment in this area.
 
-- 💡 **Context & Impact**: Now, a startup known as Plurai wants to boost those numbers with the same techniques that put self-driving cars on the street: Simulations using synthetic data based on a company’s own digital systems, meant to prepare models to tackle difficult edge cases.
+- 💡 **Context & Impact**: Norwest said Thursday it aims to capitalize on AI startups developing products and services across core industries such as consumer, healthcare and technology. The investment firm, which has backed Plaid, Spotify, Uber and Vuori, said it will continue to expand its investments in physical AI, voice AI, agentic...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Plurai quiere ayudar a los agentes de IA a trabajar mejor utilizando el mismo enfoque que ayudó a llevar los coches autónomos a las carreteras*
+> **Título en español:** *Norwest profundiza en la IA con un nuevo fondo de 4000 millones de dólares*
 
-- 📌 **¿Qué sucedió?**: Los agentes de IA están de moda, pero no son tan capaces como sus proveedores quieren hacerte creer.
+- 📌 **¿Qué sucedió?**: Norwest, una empresa respaldada únicamente por Wells Fargo, ha recaudado un fondo de 4000 millones de dólares con el objetivo de invertir más en IA. Este es el decimoctavo fondo de la firma de inversión multietapa de 65 años, y el más grande hasta la fecha.
 
-- 🔍 **Detalles clave**: Los esfuerzos para comparar a los agentes encargados de trabajos complejos muestran que generalmente no son lo suficientemente confiables como para funcionar sin una supervisión cercana. LiveBench 2.0 muestra que Claude Fable 5.2 y ChatGPT-6 Astra tuvieron éxito en 82.9 y 75.6 de 100 tareas, respectivamente, y un esfuerzo de la empresa de infraestructura de IA EON para probar
+- 🔍 **Detalles clave**: El fondo se invertirá en diversos sectores y en varios países, especialmente en Estados Unidos, India e Israel. Pero lo más importante aquí es la IA y los planes de Norwest de ampliar su inversión en este ámbito.
 
-- 💡 **Impacto y contexto**: Ahora, una startup conocida como Plurai quiere impulsar esos números con las mismas técnicas que ponen a los autos autónomos en la calle: simulaciones utilizando datos sintéticos basados en los propios sistemas digitales de una empresa, destinados a preparar modelos para abordar casos difíciles.
+- 💡 **Impacto y contexto**: Norwest afirmó el jueves que su objetivo es aprovechar las «startups» de IA que desarrollan productos y servicios en sectores clave como el de consumo, la sanidad y la tecnología. La empresa de inversión, que ha respaldado a Plaid, Spotify, Uber y Vuori, ha afirmado que seguirá ampliando sus inversiones en IA física, IA de voz e IA agentiva.
 
 </details>
 
-🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/)**
+🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/)**
 
 ---
 
-### 🔹 Column 3: [Asus, Zoom Release Security Patches](https://www.securityweek.com/asus-zoom-release-security-patches/)
+### 🔹 Column 3: [Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign](https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
 
-- 📌 **What happened?**: Asus and Zoom are among the tech companies that have released fresh security updates for their products this week.
+- 📌 **What happened?**: An attacker has tested stolen access to more than 60,000 GitHub repositories and inserted credential-stealing code in thousands of them, several security firms report.
 
-- 🔍 **Key details**: Computer maker Asus published an advisory describing four high- and medium-severity vulnerabilities in certain router firmware releases.
+- 🔍 **Key details**: Aikido Security said the operation, which it calls wfx-loot, began on November 10. It identified roughly 4,800 compromised accounts behind probe pull requests submitted to 61,764 repositories.
 
-- 💡 **Context & Impact**: Successful exploitation of the flaws could allow attackers to execute arbitrary commands with root privileges or overwrite memory and cause a crash.
+- 💡 **Context & Impact**: The requests were used to establish whether the stolen access permitted changes to a repository. “The pull request does nothing by itself,” StepSecurity explained, noting that malware was subsequently deployed in repositories where the permissions and configuration allowed it.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Parches de seguridad ASUS, Zoom Release*
+> **Título en español:** *Un atacante se dirige a 60 000 repositorios de GitHub en una campaña de robo de credenciales*
 
-- 📌 **¿Qué sucedió?**: ASUS y Zoom se encuentran entre las empresas de tecnología que han lanzado nuevas actualizaciones de seguridad para sus productos esta semana.
+- 📌 **¿Qué sucedió?**: Un atacante ha probado el acceso robado a más de 60 000 repositorios de GitHub e introducido código para robar credenciales en miles de ellos, según informan varias empresas de seguridad.
 
-- 🔍 **Detalles clave**: El fabricante de ordenadores Asus publicó un aviso que describe cuatro vulnerabilidades de alta y media gravedad en ciertas versiones de firmware de routers.
+- 🔍 **Detalles clave**: Aikido Security afirmó que la operación, a la que llama wfx-loot, comenzó el 10 de noviembre. Identificó aproximadamente 4800 cuentas comprometidas detrás de solicitudes «pull» de sondeo enviadas a 61 764 repositorios.
 
-- 💡 **Impacto y contexto**: La explotación exitosa de las fallas podría permitir a los atacantes ejecutar comandos arbitrarios con privilegios de root o sobrescribir la memoria y provocar un bloqueo.
+- 💡 **Impacto y contexto**: Las solicitudes se utilizaron para determinar si el acceso robado permitía realizar cambios en un repositorio. «La solicitud de incorporación de cambios no hace nada por sí sola», explicó StepSecurity, y señaló que posteriormente se implementó malware en los repositorios en los que los permisos y la configuración lo permitían.
 
 </details>
 
-🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/asus-zoom-release-security-patches/)**
+🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/)**
 
 ---
 
-### 🔹 Column 4: [Adobe’s AI experiments let you walk around in photos and interview your characters](https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** The Verge AI
+### 🔹 Column 4: [Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts](https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
 
-- 📌 **What happened?**: Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it’s developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a...
+- 📌 **What happened?**: A cyberattack at Fireworks AI has exposed some of its customers’ data, the company has confirmed. Fireworks AI, a platform that developers use to access and use open AI models, said an attacker breached its cloud provider to gain access to a Fireworks development system, which allowed access to some of its customers’...
 
-- 🔍 **Key details**: Adobe’s AI experiments let you walk around in photos and interview your characters
+- 🔍 **Key details**: The company said in its latest security advisory that the cybercriminals took Fireworks’ customers’ billing information and some datasets. Fireworks touts tens of thousands of customers worldwide using its platform, including legal tech company Harvey and AI company Cursor.
 
-- 💡 **Context & Impact**: Here are some of the experimental ‘sneaks’ being showcased at Adobe Max.
+- 💡 **Context & Impact**: At least one confirmed affected customer is online document editor and notetaker Notion, which said in a disclosure that the breach affected around 1% of its own customers.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Los experimentos de IA de Adobe te permiten caminar en fotos y entrevistar a tus personajes*
+> **Título en español:** *Un ciberataque a Fireworks AI permitió a los hackers acceder a las transcripciones de los chats de los clientes de Notion*
 
-- 📌 **¿Qué sucedió?**: Algunas de las tecnologías más impresionantes que Adobe muestra en su conferencia anual Max cada año son las características experimentales que está desarrollando, y la última de esas herramientas se anuncia hoy: pueden transformar imágenes en escenas 3D explorables, diseñar personajes de IA hablando con ellos y convertir la edición de fotos en una
+- 📌 **¿Qué sucedió?**: La empresa ha confirmado que un ciberataque a Fireworks AI ha expuesto algunos de los datos de sus clientes. Fireworks AI, una plataforma que los desarrolladores utilizan para acceder a modelos de IA abiertos y usarlos, ha declarado que un atacante vulneró su proveedor de servicios en la nube para acceder a un sistema de desarrollo de Fireworks, lo que le permitió acceder a los datos de algunos de sus clientes.
 
-- 🔍 **Detalles clave**: Los experimentos de IA de Adobe te permiten caminar en fotos y entrevistar a tus personajes
+- 🔍 **Detalles clave**: La empresa afirmó en su último aviso de seguridad que los ciberdelincuentes se apoderaron de la información de facturación de los clientes de Fireworks y de algunos conjuntos de datos. Fireworks presume de que decenas de miles de clientes de todo el mundo utilizan su plataforma, incluidas la empresa de tecnología jurídica Harvey y la empresa de IA Cursor.
 
-- 💡 **Impacto y contexto**: Estas son algunas de las "filtraciones" experimentales que se exhiben en Adobe Max.
+- 💡 **Impacto y contexto**: Al menos un cliente afectado confirmado es Notion, editor de documentos y aplicación de toma de notas en línea, que afirmó en un comunicado que la filtración había afectado aproximadamente al 1 % de sus propios clientes.
 
 </details>
 
-🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai)**
+🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/)**
 
 ---
 
-### 🔹 Column 5: [Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities](https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
+### 🔹 Column 5: [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
 
-- 📌 **What happened?**: Citrix and Ivanti on Tuesday announced patches for 19 vulnerabilities in their products, including multiple critical- and high-severity flaws.
+- 📌 **What happened?**: Nvidia co-founder and (now former) CEO Jensen Huang has never been as flashy or controversy-prone as AI leaders like OpenAI’s Sam Altman or SpaceXAI’s Elon Musk. Now, the 63-year-old industry kingpin has admitted that he cheated on his wife of 40 years in affairs that could have ramifications beyond Huang’s personal...
 
-- 🔍 **Key details**: Ivanti fixed 13 vulnerabilities across five products, including two critical-severity defects in Cloud Services Application (CSA) and Endpoint Manager (EPM).
+- 🔍 **Key details**: U.S. officials believe that Huang’s likely romantic interest, Megaspeed executive Alice Huang, is a Chinese spy who has been feeding information back to Beijing. (Alice Huang, a Chinese citizen, is of no relation to Jensen Huang.)
 
-- 💡 **Context & Impact**: Tracked as CVE-2026-121683 (CVSS score of 9.4), the CSA flaw is described as a missing authentication issue that could allow remote, unauthenticated attackers to “add and delete arbitrary trusted EPM Core certificate entries”.
+- 💡 **Context & Impact**: Megaspeed is a Singapore-based AI infrastructure company that reportedly purchased $4.8 billion in Nvidia chips over the last two years. The U.S. and Singapore have both previously investigated Megaspeed over suspicions that the firm was illegally sharing chips with China. The Justice Department has since taken over...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Vulnerabilidades críticas y de alta gravedad de Citrix, Ivanti Patch*
+> **Título en español:** *El escándalo de Jensen Huang, tal como se ha ido desarrollando: una cronología*
 
-- 📌 **¿Qué sucedió?**: Citrix e Ivanti anunciaron el martes parches para 19 vulnerabilidades en sus productos, incluidas múltiples fallas críticas y de alta gravedad.
+- 📌 **¿Qué sucedió?**: Jensen Huang, cofundador y (ahora ex) director ejecutivo de Nvidia, nunca ha sido tan llamativo ni tan propenso a la controversia como otros líderes del ámbito de la IA, como Sam Altman, de OpenAI, o Elon Musk, de SpaceXAI. Ahora, el capo de la industria, de 63 años, ha admitido que le fue infiel a su esposa de 40 años en relaciones extramatrimoniales que podrían tener repercusiones que van más allá de la vida personal de Huang.
 
-- 🔍 **Detalles clave**: Ivanti solucionó 13 vulnerabilidades en cinco productos, incluidos dos defectos de gravedad crítica en Cloud Services Application (CSA) y Endpoint Manager (EPM).
+- 🔍 **Detalles clave**: Las autoridades estadounidenses creen que la presunta pareja sentimental de Huang, la ejecutiva de Megaspeed Alice Huang, es una espía china que ha estado transmitiendo información a Pekín. (Alice Huang, ciudadana china, no tiene ninguna relación con Jensen Huang).
 
-- 💡 **Impacto y contexto**: Seguido como CVE-2026-121683 (puntuación CVSS de 9.4), la falla de CSA se describe como un problema de autenticación faltante que podría permitir a atacantes remotos no autenticados "agregar y eliminar entradas arbitrarias de certificados EPM Core de confianza".
+- 💡 **Impacto y contexto**: Megaspeed es una empresa de infraestructura de IA con sede en Singapur que, según se informa, ha comprado 4800 millones de dólares en chips Nvidia en los últimos dos años. Tanto Estados Unidos como Singapur han investigado anteriormente a Megaspeed por sospechas de que la empresa estaba compartiendo chips ilegalmente con China. Desde entonces, el Departamento de Justicia se ha hecho cargo.
 
 </details>
 
-🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/)**
+🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)**
 
 ---
 
@@ -155,6 +155,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#57](editions/2026/11/2026-11-12.md) | 2026-11-12 | [Chrome, Firefox Updates Patch Over 180 Vulnerabilities](https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/) | 🛡️ Cybersecurity |
 | [#56](editions/2026/11/2026-11-11.md) | 2026-11-11 | [Hackers Target Qlik Sense Servers With Reverse Shells, Stage A...](https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html) | 🛡️ Cybersecurity |
 | [#55](editions/2026/11/2026-11-10.md) | 2026-11-10 | [WhiteMatter Raises $20 Million in Series A Funding](https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/) | 🛡️ Cybersecurity |
 | [#54](editions/2026/11/2026-11-09.md) | 2026-11-09 | [NIST: Solo Shouldn't Mean Less Secure](https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure) | 🛡️ Cybersecurity |
@@ -169,9 +170,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#45](editions/2026/10/2026-10-31.md) | 2026-10-31 | [Chainalysis Confirms Intrusion Into Internal Tools and Exposur...](https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html) | 🛡️ Cybersecurity |
 | [#44](editions/2026/10/2026-10-30.md) | 2026-10-30 | [Trezor Warns of Suspected Hardware Implant in One of Its Walle...](https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html) | 🛡️ Cybersecurity |
 | [#43](editions/2026/10/2026-10-29.md) | 2026-10-29 | [Over 41,000 DHS Employee Records Leaked Online](https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/) | 🛡️ Cybersecurity |
-| [#42](editions/2026/10/2026-10-28.md) | 2026-10-28 | [TLS Flaws Found in GoAhead Web Server Used in Hundreds of Mill...](https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/) | 🛡️ Cybersecurity |
 
-*... and 41 more archived editions in `/editions` directory.*
+*... and 42 more archived editions in `/editions` directory.*
 
 ---
 

@@ -922,5 +922,22 @@
       "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
       "https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/"
     ]
+  },
+  {
+    "edition": 57,
+    "date": "2026-11-12",
+    "rel_path": "editions/2026/11/2026-11-12.md",
+    "title_en": "Chrome, Firefox Updates Patch Over 180 Vulnerabilities",
+    "title_es": "Las actualizaciones de Chrome y Firefox corrigen más de 180 vulnerabilidades",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/",
+    "story_links": [
+      "https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/",
+      "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+      "https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/",
+      "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+      "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    ]
   }
 ]
