@@ -939,5 +939,22 @@
       "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
       "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
     ]
+  },
+  {
+    "edition": 58,
+    "date": "2026-11-13",
+    "rel_path": "editions/2026/11/2026-11-13.md",
+    "title_en": "Microsoft Struggles to Restore Email and Other Services in a Global Outage",
+    "title_es": "Microsoft tiene dificultades para restablecer el correo electrónico y otros servicios tras una interrupción global",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/",
+    "story_links": [
+      "https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/",
+      "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
+      "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
+    ]
   }
 ]
