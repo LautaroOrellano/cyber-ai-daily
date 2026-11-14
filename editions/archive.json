@@ -956,5 +956,22 @@
       "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
       "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
     ]
+  },
+  {
+    "edition": 59,
+    "date": "2026-11-14",
+    "rel_path": "editions/2026/11/2026-11-14.md",
+    "title_en": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+    "title_es": "Los atacantes aprovechan una vulnerabilidad de UnrealIRCd que permite la inyección de comandos a nivel de servidor",
+    "category": "cyber",
+    "source": "The Hacker News",
+    "lead_link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+    "story_links": [
+      "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+      "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
+      "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/"
+    ]
   }
 ]

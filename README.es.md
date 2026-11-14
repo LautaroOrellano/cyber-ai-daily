@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 58** — *Viernes, 13 de Noviembre de 2026*
+> **📅 Edición de Hoy: N° 59** — *Sábado, 14 de Noviembre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_58-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_59-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,68 +17,70 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [Microsoft tiene dificultades para restablecer el correo electrónico y otros servicios tras una interrupción global](https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Microsoft Struggles to Restore Email and Other Services in a Global Outage`
+### 📌 [Los atacantes aprovechan una vulnerabilidad de UnrealIRCd que permite la inyección de comandos a nivel de servidor](https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection`
 
-- 📌 **¿Qué sucedió?**: Desde Asia hasta Estados Unidos, la interrupción de Microsoft que ha afectado a servicios como Outlook y Teams se ha prolongado durante horas y ha perjudicado a usuarios, empresas y algunas operaciones gubernamentales, mientras el gigante tecnológico se esforzaba por solucionar el problema.
+- 📌 **¿Qué sucedió?**: El viernes, la Agencia de Ciberseguridad y Seguridad de las Infraestructuras (CISA) de EE. UU. añadió a su catálogo de Vulnerabilidades Explotadas Conocidas (KEV) una vulnerabilidad de seguridad de gravedad elevada que afecta a UnrealIRCd, un servidor de «Internet Relay Chat» (IRC) de código abierto, tras recibir informes de su explotación activa.
 
-- 🔍 **Detalles clave**: Microsoft afirmó que la interrupción estaba afectando a una amplia gama de productos de Microsoft 365 que interactúan con sus servicios de Exchange Online y de correo electrónico. Los usuarios informaron de que servicios como Outlook, Teams y el asistente de IA Copilot estaban inactivos.
+- 🔍 **Detalles clave**: La vulnerabilidad, identificada como CVE-2026-114713 (puntuación CVSS: 8,6), es un caso de neutralización incorrecta de delimitadores que podría utilizarse para ejecutar comandos arbitrarios con privilegios de servidor/IRCOp.
 
-- 💡 **Impacto y contexto**: El alcance de la interrupción no estaba claro, pero la empresa afirmó en enero que contaba con más de 450 millones de suscripciones comerciales de pago a Microsoft 365.
+- 💡 **Impacto y contexto**: «El módulo de respuesta etiquetada de UnrealIRCd 6.0.0, en versiones anteriores a la 6.2.7.1, no escapa a la etiqueta de mensaje "label" de IRCv3 cuando la repite en las respuestas, lo que permite a cualquier usuario de una red con dos o más servidores enlazados inyectar comandos de servidor a servidor que se ejecutan con autoridad del servidor», se lee en la descripción de la vulnerabilidad.
 
-👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/)**
+👉 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [La nueva aplicación de ElevenLabs combina la toma de notas de las reuniones y el dictado para equipos](https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `ElevenLabs’ new app combines meeting note-taking and dictation for teams`
+### 🔹 Columna 2: [Cuidado con el nuevo auge del «ransomware» impulsado por la IA](https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `Beware the New AI-Fueled Ransomware Boom`
 
-- 📌 **¿Qué sucedió?**: En los últimos meses, Fireflies, Wispr Flow y Granola han lanzado funciones que compiten en el ámbito del dictado y la toma de notas en reuniones. El último en incorporarse a esta categoría es el gigante de la IA de voz ElevenLabs, que esta semana ha lanzado una aplicación experimental llamada ElevenAI que combina la toma de notas en reuniones,
+- 📌 **¿Qué sucedió?**: Con tanto que sucede todo el tiempo, es posible que no haya pensado en los ataques de ransomware y extorsión de datos en mucho tiempo, a pesar de que han sido una de las mayores amenazas de ciberseguridad para las instituciones (y, por extensión, para las personas) en la última década. Pero en la nueva era de los ciberataques automatizados y basados en la IA, los
 
-- 🔍 **Detalles clave**: ElevenAI incluye todas las funciones que suelen encontrarse en otras aplicaciones de la categoría. Puede tomar notas en todas sus reuniones y notificar a los demás participantes de que se está grabando la conversación. Los usuarios pueden consultar datos de varias reuniones y recibir asistencia en tiempo real durante un chat, lo que les ayuda a recordar un detalle importante de reuniones anteriores.
+- 🔍 **Detalles clave**: Es difícil determinar el número exacto de ataques de ransomware, ya que las víctimas no siempre revelan los incidentes y los atacantes exageran enormemente sus afirmaciones. Pero los investigadores especializados en hacer un seguimiento e intentar eliminar los duplicados en este ámbito coinciden en que los incidentes denunciados se han disparado en los últimos meses. Algunos estiman
 
-- 💡 **Impacto y contexto**: Además, hay una función de dictado que permite a los usuarios convertir el habla en texto depurado en cualquier aplicación, con compatibilidad con más de 90 idiomas. La empresa ha afirmado que la aplicación es capaz de entender términos específicos del sector tanto en el dictado como en la transcripción de reuniones.
+- 💡 **Impacto y contexto**: «Lo que vemos es que la mayor parte del reciente aumento se debió a ataques internacionales; Estados Unidos se mantuvo un poco más estable, pero seguía siendo elevado, seguía habiendo muchos ataques», afirma Cynthia Kaiser, exsubdirectora de ciberseguridad del FBI, que ahora dirige la investigación de la plataforma antirransomware Halcyon. «A escala internacional, estamos observando un
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/)**
-
----
-
-### 🔹 Columna 3: [Los atacantes de la brecha de seguridad de Binance se centraron en una vulnerabilidad conocida y en la ausencia de controles](https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** Dark Reading &nbsp;|&nbsp; *Original:* `Attackers in Binance Breach Targeted Known Weakness, Missing Controls`
-
-- 📌 **¿Qué sucedió?**: Las complejidades de la cadena de bloques, como los «sweepers» desplegados por los atacantes, obstaculizan los controles de seguridad diseñados para limitar los daños de una vulneración de un «exchange».
-
-- 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
-
-🔗 **[Ver nota original completa en Dark Reading (inglés) ↗](https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls)**
+🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/)**
 
 ---
 
-### 🔹 Columna 4: [llama.cpp v1.0.0: Una base más sólida para el ecosistema de IA local](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Hugging Face Blog &nbsp;|&nbsp; *Original:* `llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem`
+### 🔹 Columna 3: [Apple revela cómo los enclaves seguros protegen los datos de la cámara y el micrófono](https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Apple Reveals How Secure Exclaves Shield Camera and Microphone Data`
 
-- 📌 **¿Qué sucedió?**: llama.cpp v1.0.0: Una base más sólida para el ecosistema de IA local
+- 📌 **¿Qué sucedió?**: Apple ha publicado una descripción detallada de Secure Exclaves, una arquitectura de seguridad de sus chips diseñada para mantener aislados del sistema operativo principal los datos de la cámara y el micrófono utilizados para detectar el entorno.
 
-- 🔍 **Detalles clave**: llama.cpp permite ejecutar LLM multimodales en una amplia gama de hardware, desde equipos locales de uso doméstico hasta servidores empresariales de alta gama. Mediante la cuantización, los backends optimizados y una implementación portátil en C/C++, hacemos que la inferencia de IA sea accesible en todos los niveles de la pila de software. Creemos que esto
+- 🔍 **Detalles clave**: La detección del entorno permite que un dispositivo escuche «Oye, Siri». En la pantalla inteligente HomeView, presentada recientemente, permite reconocer los rostros y las voces de los usuarios.
 
-- 💡 **Impacto y contexto**: Durante los 3 años y medio transcurridos desde su creación, el proyecto ha crecido mucho y muchas aplicaciones posteriores ya dependen de nuestro trabajo. Esperamos que esta tendencia continúe a medida que la IA local y la privacidad adquieran cada vez más importancia en nuestra vida cotidiana. Cada nueva integración significa que más desarrolladores dependen de nuestra biblioteca.
+- 💡 **Impacto y contexto**: Los enclaves seguros son entornos de ejecución aislados que gestionan los datos de la cámara y el micrófono al margen del resto del dispositivo.
 
-🔗 **[Ver nota original completa en Hugging Face Blog (inglés) ↗](https://huggingface.co/blog/ggml-org/llama-cpp-v1)**
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/)**
 
 ---
 
-### 🔹 Columna 5: [El agente Duet de Claude es un poco neurótico y sorprendentemente servicial.](https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Claude’s Duet agent is a little neurotic and surprisingly helpful`
+### 🔹 Columna 4: [Jensen Huang y el declive del fundador, director general y «showman» visionario](https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Jensen Huang and the decline of the visionary showman founder CEO`
 
-- 📌 **¿Qué sucedió?**: Normalmente, los productos que pruebo no me ofrecen ayuda para redactar mi experiencia con ellos. Duet es diferente.
+- 📌 **¿Qué sucedió?**: El 6 de enero de 2025, el director ejecutivo de Nvidia, Jensen Huang, vivió por fin su momento de estrella del rock. Subió al escenario con paso triunfal, con la mano en alto, entre los aplausos y los vítores de un pabellón de 14 000 personas repleto de «influencers» y aficionados, con sus rostros bañados por un resplandor azul, mientras hacía su entrada con una chaqueta de cuero negro que
 
-- 🔍 **Detalles clave**: El agente Duet de Claude es un poco neurótico y sorprendentemente servicial.
+- 🔍 **Detalles clave**: Jensen Huang y el declive del fundador, director general y «showman» visionario
 
-- 💡 **Impacto y contexto**: Claude Duet es el agente de IA de Anthropic para consumidores, el último intento de una empresa de IA por tratar de convencernos de que los agentes pueden ser útiles para las personas que no escriben código. Han sido unos meses interesantes: Instinct nos ofreció un impresionante asistente basado en texto, Meta nos presentó a su simpático personaje, Muse, para ayudarnos
+- 💡 **Impacto y contexto**: Pocos apoyan a Jensen Huang ahora. Ha dejado Nvidia después de, al parecer, haber permitido dos escándalos de contrabando de chips y, supuestamente, haber tenido tres relaciones extramatrimoniales, incluida una con una presunta espía china al mismo tiempo que se relacionaba con el presidente Donald Trump.
 
-🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on)**
+🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo)**
+
+---
+
+### 🔹 Columna 5: [Sin pilotos. Pocos controladores aéreos. ¿Qué podría salir mal?](https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `No Pilots. Few Air Traffic Controllers. What Could Go Wrong?`
+
+- 📌 **¿Qué sucedió?**: El 27 de septiembre, el secretario de Transporte de EE. UU., Sean Duffy, publicó un vídeo en X con las palabras «UN PUNTO DE IN inflexión». «Presentamos "SMART", la nueva herramienta de gestión del tráfico aéreo que LE ahorra tiempo, reduce los RETRASOS y MEJORA su experiencia de vuelo», escribió. Se trataba de un nuevo sistema de control del tráfico aéreo con IA. O casi.
+
+- 🔍 **Detalles clave**: Los nuevos sistemas como SMART son solo la punta del iceberg en lo que respecta a la revolución de la IA en la aviación que está teniendo lugar actualmente. Tomemos, por ejemplo, el Cessna Caravan que despegó del aeropuerto Buchanan Field de Concord, California, y voló hacia el sur hasta Phoenix una tranquila mañana de septiembre. El avión, un turbohélice monomotor,
+
+- 💡 **Impacto y contexto**: Nada de esto sería digno de mención, salvo por un hecho: todo el viaje se desarrolló sin que una sola mano humana tocara los mandos del avión.
+
+🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/)**
 
 ---
 
@@ -88,6 +90,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#59](editions/2026/11/2026-11-14.md) | 2026-11-14 | [Los atacantes aprovechan una vulnerabilidad de UnrealIRCd...](https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html) | 🛡️ Ciberseguridad |
 | [#58](editions/2026/11/2026-11-13.md) | 2026-11-13 | [Microsoft tiene dificultades para restablecer el correo e...](https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/) | 🛡️ Ciberseguridad |
 | [#57](editions/2026/11/2026-11-12.md) | 2026-11-12 | [Las actualizaciones de Chrome y Firefox corrigen más de 1...](https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/) | 🛡️ Ciberseguridad |
 | [#56](editions/2026/11/2026-11-11.md) | 2026-11-11 | [Los hackers atacan servidores Qlik Sense con shells inver...](https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html) | 🛡️ Ciberseguridad |
@@ -102,9 +105,8 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 | [#47](editions/2026/11/2026-11-02.md) | 2026-11-02 | [Resumen de fusiones y adquisiciones de ciberseguridad: 37...](https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/) | 🛡️ Ciberseguridad |
 | [#46](editions/2026/11/2026-11-01.md) | 2026-11-01 | [Northstar Security sale sigilosamente con $ 7 millones pa...](https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/) | 🛡️ Ciberseguridad |
 | [#45](editions/2026/10/2026-10-31.md) | 2026-10-31 | [Chainalysis confirma la intrusión en las herramientas int...](https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html) | 🛡️ Ciberseguridad |
-| [#44](editions/2026/10/2026-10-30.md) | 2026-10-30 | [Trezor advierte sobre la sospecha de un implante de hardw...](https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html) | 🛡️ Ciberseguridad |
 
-*... y 43 ediciones más en la carpeta `/editions`.*
+*... y 44 ediciones más en la carpeta `/editions`.*
 
 ---
 
