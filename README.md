@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #59** — *Saturday, November 14, 2026*
+> **📅 Today's Edition: Issue #60** — *Sunday, November 15, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2359-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2360-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,135 +17,135 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection](https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
+### 📌 [Pentagon Renames CDAO ‘Super Intelligence Office’](https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
 
-- 📌 **What happened?**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.
+- 📌 **What happened?**: The Pentagon on Friday renamed its Chief Digital and Artificial Intelligence Office (CDAO) the Super Intelligence Office, adopting the terminology President Donald Trump has directed federal agencies to use instead of Artificial Intelligence (AI).
 
-- 🔍 **Key details**: The vulnerability, tracked as CVE-2026-114713 (CVSS score: 8.6), is a case of improper neutralization of delimiters that could be used to execute arbitrary commands with server/IRCOp privileges.
+- 🔍 **Key details**: Cameron Stanley continues to lead the office as Chief Super Intelligence Officer for the Department of War (DoW), with Andrew Mapes serving as Principal Deputy Super Intelligence Officer. Stanley took over as the Pentagon’s chief digital and AI officer in January after leading national security transformation at...
 
-- 💡 **Context & Impact**: "The labeled-response module in UnrealIRCd 6.0.0 before 6.2.7.1 does not escape the IRCv3 'label' message tag when echoing it into replies, which allows any user on a network with two or more linked servers to inject server-to-server commands that are executed with server authority," reads the description of the flaw...
+- 💡 **Context & Impact**: The Department of War moved the office’s public resources, procurement information and partnership portals to SI.mil domain and said existing programs, solicitations and defense partnerships would continue without interruption. The office’s portfolio includes the Maven Smart System, an AI-enabled intelligence and...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Los atacantes aprovechan una vulnerabilidad de UnrealIRCd que permite la inyección de comandos a nivel de servidor*
+> **Título en español:** *El Pentágono cambia el nombre de la CDAO por «Oficina de Superinteligencia»*
 
-- 📌 **¿Qué sucedió?**: El viernes, la Agencia de Ciberseguridad y Seguridad de las Infraestructuras (CISA) de EE. UU. añadió a su catálogo de Vulnerabilidades Explotadas Conocidas (KEV) una vulnerabilidad de seguridad de gravedad elevada que afecta a UnrealIRCd, un servidor de «Internet Relay Chat» (IRC) de código abierto, tras recibir informes de su explotación activa.
+- 📌 **¿Qué sucedió?**: El viernes, el Pentágono cambió el nombre de su Oficina del Director de Tecnología Digital e Inteligencia Artificial (CDAO) por el de Oficina de Superinteligencia, adoptando la terminología que el presidente Donald Trump ha ordenado a los organismos federales que utilicen en lugar de «inteligencia artificial» (IA).
 
-- 🔍 **Detalles clave**: La vulnerabilidad, identificada como CVE-2026-114713 (puntuación CVSS: 8,6), es un caso de neutralización incorrecta de delimitadores que podría utilizarse para ejecutar comandos arbitrarios con privilegios de servidor/IRCOp.
+- 🔍 **Detalles clave**: Cameron Stanley sigue al frente de la oficina como director de Superinteligencia del Departamento de Guerra (DoW), mientras que Andrew Mapes ejerce como director adjunto principal de Superinteligencia. Stanley asumió el cargo de director de Digitalización e IA del Pentágono en enero, tras liderar la transformación de la seguridad nacional en
 
-- 💡 **Impacto y contexto**: «El módulo de respuesta etiquetada de UnrealIRCd 6.0.0, en versiones anteriores a la 6.2.7.1, no escapa a la etiqueta de mensaje "label" de IRCv3 cuando la repite en las respuestas, lo que permite a cualquier usuario de una red con dos o más servidores enlazados inyectar comandos de servidor a servidor que se ejecutan con autoridad del servidor», se lee en la descripción de la vulnerabilidad.
+- 💡 **Impacto y contexto**: El Departamento de Guerra trasladó los recursos públicos, la información sobre adquisiciones y los portales de colaboración de la oficina al dominio SI.mil y afirmó que los programas, las convocatorias y las colaboraciones en materia de defensa existentes seguirían adelante sin interrupción. La cartera de la oficina incluye el Maven Smart System, un sistema de inteligencia con IA y
 
 </details>
 
-👉 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html)**
+👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/)**
 
 ---
 
 ## 📰 TOP HIGHLIGHTS (4 Stories)
 
-### 🔹 Column 2: [Beware the New AI-Fueled Ransomware Boom](https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
-
-- 📌 **What happened?**: With so much going on all the time, you may not have thought about ransomware and data extortion attacks in a minute, even though they’ve been among the the biggest cybersecurity threats to institutions—and, by extension, people—over the past decade. But in the new era of AI-powered and automated cyberattacks, the...
-
-- 🔍 **Key details**: It is difficult to determine exact numbers of ransomware attacks, given that victims don’t always disclose incidents and attackers wildly inflate their claims. But researchers who specialize in tracking and attempting to de-duplicate the field agree that claimed incidents have spiked over the last few months. Some put...
-
-- 💡 **Context & Impact**: “What we see is most of the recent increase was fueled by international attacks; the United States was a little more steady, but still high, still a lot of attacks,” says Cynthia Kaiser, former FBI cyber deputy director who now leads research for the anti-ransomware platform Halcyon. “Internationally we’re seeing a...
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *Cuidado con el nuevo auge del «ransomware» impulsado por la IA*
-
-- 📌 **¿Qué sucedió?**: Con tanto que sucede todo el tiempo, es posible que no haya pensado en los ataques de ransomware y extorsión de datos en mucho tiempo, a pesar de que han sido una de las mayores amenazas de ciberseguridad para las instituciones (y, por extensión, para las personas) en la última década. Pero en la nueva era de los ciberataques automatizados y basados en la IA, los
-
-- 🔍 **Detalles clave**: Es difícil determinar el número exacto de ataques de ransomware, ya que las víctimas no siempre revelan los incidentes y los atacantes exageran enormemente sus afirmaciones. Pero los investigadores especializados en hacer un seguimiento e intentar eliminar los duplicados en este ámbito coinciden en que los incidentes denunciados se han disparado en los últimos meses. Algunos estiman
-
-- 💡 **Impacto y contexto**: «Lo que vemos es que la mayor parte del reciente aumento se debió a ataques internacionales; Estados Unidos se mantuvo un poco más estable, pero seguía siendo elevado, seguía habiendo muchos ataques», afirma Cynthia Kaiser, exsubdirectora de ciberseguridad del FBI, que ahora dirige la investigación de la plataforma antirransomware Halcyon. «A escala internacional, estamos observando un
-
-</details>
-
-🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/)**
-
----
-
-### 🔹 Column 3: [Apple Reveals How Secure Exclaves Shield Camera and Microphone Data](https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
-
-- 📌 **What happened?**: Apple has published a detailed description of Secure Exclaves, a security architecture in its silicon designed to keep camera and microphone data used for ambient sensing isolated from the main operating system.
-
-- 🔍 **Key details**: Ambient sensing lets a device listen for “Hey Siri”. On the recently introduced HomeView smart display, it enables the recognition of user faces and voices.
-
-- 💡 **Context & Impact**: Secure Exclaves are isolated runtimes that handle camera and microphone data apart from the rest of the device.
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *Apple revela cómo los enclaves seguros protegen los datos de la cámara y el micrófono*
-
-- 📌 **¿Qué sucedió?**: Apple ha publicado una descripción detallada de Secure Exclaves, una arquitectura de seguridad de sus chips diseñada para mantener aislados del sistema operativo principal los datos de la cámara y el micrófono utilizados para detectar el entorno.
-
-- 🔍 **Detalles clave**: La detección del entorno permite que un dispositivo escuche «Oye, Siri». En la pantalla inteligente HomeView, presentada recientemente, permite reconocer los rostros y las voces de los usuarios.
-
-- 💡 **Impacto y contexto**: Los enclaves seguros son entornos de ejecución aislados que gestionan los datos de la cámara y el micrófono al margen del resto del dispositivo.
-
-</details>
-
-🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/)**
-
----
-
-### 🔹 Column 4: [Jensen Huang and the decline of the visionary showman founder CEO](https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo)
+### 🔹 Column 2: [An overview of Jensen Huang’s messy days](https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation)
 > **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** The Verge AI
 
-- 📌 **What happened?**: On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that...
+- 📌 **What happened?**: On October 29th, The New York Times reported that Nvidia co-founder and showman CEO Jensen Huang appeared to be the target of a Chinese spy plot. Any major tech CEO potentially being compromised by the Chinese government is concerning — especially Jensen Huang. “If you could draw the network diagram of the entire US...
 
-- 🔍 **Key details**: Jensen Huang and the decline of the visionary showman founder CEO
+- 🔍 **Key details**: The Times reported that Jensen Huang had developed a “close relationship” with Alice Huang (no relation), an executive at Singapore-based data center company Megaspeed. Alice Huang had been on the American government’s radar for some time, perhaps as early as 2024. Her company was investigated by the US Commerce...
 
-- 💡 **Context & Impact**: Few are cheering for Jensen Huang now. He has left Nvidia after seemingly enabling two chip smuggling scandals and allegedly having three extramarital affairs, including one with an alleged Chinese spy at the same time he was mingling with President Donald Trump.
+- 💡 **Context & Impact**: This made her relationship with Jensen Huang concerning for multiple reasons. Nvidia’s chips are considered crucial to America’s AI superiority and a matter of national security by the White House. The government has restricted the sale of Nvidia’s most advanced chips to China since the Biden administration. But...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Jensen Huang y el declive del fundador, director general y «showman» visionario*
+> **Título en español:** *Un repaso a los días caóticos de Jensen Huang*
 
-- 📌 **¿Qué sucedió?**: El 6 de enero de 2025, el director ejecutivo de Nvidia, Jensen Huang, vivió por fin su momento de estrella del rock. Subió al escenario con paso triunfal, con la mano en alto, entre los aplausos y los vítores de un pabellón de 14 000 personas repleto de «influencers» y aficionados, con sus rostros bañados por un resplandor azul, mientras hacía su entrada con una chaqueta de cuero negro que
+- 📌 **¿Qué sucedió?**: El 29 de octubre, The New York Times informó de que Jensen Huang, cofundador y carismático director ejecutivo de Nvidia, parecía ser el objetivo de una trama de espionaje china. Resulta preocupante que cualquier director ejecutivo de una gran empresa tecnológica pueda verse comprometido por el Gobierno chino, especialmente Jensen Huang. «Si pudieras dibujar el diagrama de red de todos los Estados Unidos
 
-- 🔍 **Detalles clave**: Jensen Huang y el declive del fundador, director general y «showman» visionario
+- 🔍 **Detalles clave**: El Times informó de que Jensen Huang había entablado una «relación estrecha» con Alice Huang (sin parentesco), ejecutiva de Megaspeed, una empresa de centros de datos con sede en Singapur. Alice Huang llevaba algún tiempo en el punto de mira del Gobierno estadounidense, quizás ya en 2024. Su empresa fue investigada por el Departamento de Comercio de EE. UU.
 
-- 💡 **Impacto y contexto**: Pocos apoyan a Jensen Huang ahora. Ha dejado Nvidia después de, al parecer, haber permitido dos escándalos de contrabando de chips y, supuestamente, haber tenido tres relaciones extramatrimoniales, incluida una con una presunta espía china al mismo tiempo que se relacionaba con el presidente Donald Trump.
+- 💡 **Impacto y contexto**: Esto hizo que su relación con Jensen Huang resultara preocupante por varias razones. Los chips de Nvidia se consideran cruciales para la superioridad de Estados Unidos en materia de IA y una cuestión de seguridad nacional para la Casa Blanca. El Gobierno ha restringido la venta de los chips más avanzados de Nvidia a China desde la administración Biden. Pero
 
 </details>
 
-🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo)**
+🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation)**
 
 ---
 
-### 🔹 Column 5: [No Pilots. Few Air Traffic Controllers. What Could Go Wrong?](https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
+### 🔹 Column 3: [Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent](https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
 
-- 📌 **What happened?**: On September 27, US transportation secretary Sean Duffy posted a video on X with the words “GAME CHANGER.” “Introducing ‘SMART’—the new air traffic management tool that saves YOU time, cuts back DELAYS, and makes your flying experience BETTER,” he wrote. This was a new AI-infused air traffic control system. Almost...
+- 📌 **What happened?**: Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post.
 
-- 🔍 **Key details**: New systems like SMART are only the tip of the iceberg when it comes to the AI aviation revolution currently underway. Take, for instance, the Cessna Caravan that took off from Buchanan Field Airport in Concord, California, and flew south to Phoenix on a calm September morning. The plane, a single-engine turboprop,...
+- 🔍 **Key details**: The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app accessed Italian users' photos, videos, and related metadata without their explicit consent.
 
-- 💡 **Context & Impact**: None of this would be remarkable, save for one fact: The entire journey took place without a single human hand touching the plane’s controls.
+- 💡 **Context & Impact**: The company has 60 days to switch the feature off by default, including for people who have already granted the app gallery access, and to request consent separately.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Sin pilotos. Pocos controladores aéreos. ¿Qué podría salir mal?*
+> **Título en español:** *Italia impone a Meta una multa de 805 millones de euros por el acceso de Facebook a la galería de Android sin consentimiento explícito*
 
-- 📌 **¿Qué sucedió?**: El 27 de septiembre, el secretario de Transporte de EE. UU., Sean Duffy, publicó un vídeo en X con las palabras «UN PUNTO DE IN inflexión». «Presentamos "SMART", la nueva herramienta de gestión del tráfico aéreo que LE ahorra tiempo, reduce los RETRASOS y MEJORA su experiencia de vuelo», escribió. Se trataba de un nuevo sistema de control del tráfico aéreo con IA. O casi.
+- 📌 **¿Qué sucedió?**: Ayer, Meta fue multada en Italia con 805 millones de euros por una función de Facebook para Android que sugiere fotos y vídeos de las galerías de los teléfonos de los usuarios para que los publiquen.
 
-- 🔍 **Detalles clave**: Los nuevos sistemas como SMART son solo la punta del iceberg en lo que respecta a la revolución de la IA en la aviación que está teniendo lugar actualmente. Tomemos, por ejemplo, el Cessna Caravan que despegó del aeropuerto Buchanan Field de Concord, California, y voló hacia el sur hasta Phoenix una tranquila mañana de septiembre. El avión, un turbohélice monomotor,
+- 🔍 **Detalles clave**: El Garante, la autoridad italiana de protección de datos, constató que la función estaba activada por defecto y que la aplicación accedía a las fotos, los vídeos y los metadatos relacionados de los usuarios italianos sin su consentimiento explícito.
 
-- 💡 **Impacto y contexto**: Nada de esto sería digno de mención, salvo por un hecho: todo el viaje se desarrolló sin que una sola mano humana tocara los mandos del avión.
+- 💡 **Impacto y contexto**: La empresa dispone de 60 días para desactivar la función de forma predeterminada, incluso para las personas que ya hayan concedido a la aplicación acceso a la galería, y para solicitar el consentimiento por separado.
 
 </details>
 
-🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/)**
+🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html)**
+
+---
+
+### 🔹 Column 4: [AI DJs Completely Kill My Groove](https://www.wired.com/story/ai-djs-completely-kill-my-groove/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
+
+- 📌 **What happened?**: I usually can’t pinpoint the moment I stop using a software feature, with most tools drifting out of fashion without an expiration date. That’s not the case with YouTube Music’s “Beyond the Beat,” an AI-generated DJ that explains songs to you.
+
+- 🔍 **Key details**: YouTube Music is my music-streaming service of choice. And since I’m a software reporter, I always enable the beta features available through YouTube Labs, which include Beyond the Beat. YouTube’s AI DJ randomly interjects for about 30 seconds between songs, teeing up the vibe shift and providing context about the...
+
+- 💡 **Context & Impact**: More listeners are encountering synthetic commentary built into their music streaming apps. While YouTube launched this experimental AI DJ in 2025, Spotify first introduced a similar tool back in 2023. It doubled down on its AI DJ efforts in November, expanding the different personalities available to users and adding...
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Los DJ de IA me quitan por completo las ganas de bailar*
+
+- 📌 **¿Qué sucedió?**: Por lo general, no puedo determinar el momento exacto en que dejo de usar una función de software, ya que la mayoría de las herramientas pasan de moda sin una fecha de caducidad. No es el caso de «Beyond the Beat» de YouTube Music, un DJ generado por IA que te explica las canciones.
+
+- 🔍 **Detalles clave**: YouTube Music es mi servicio de «streaming» de música preferido. Y como soy periodista especializado en software, siempre activo las funciones beta disponibles a través de YouTube Labs, entre las que se incluye Beyond the Beat. El DJ de IA de YouTube interviene al azar durante unos 30 segundos entre canciones, preparando el cambio de ambiente y proporcionando contexto sobre la
+
+- 💡 **Impacto y contexto**: Cada vez más oyentes se encuentran con comentarios sintéticos integrados en sus aplicaciones de «streaming» de música. Aunque YouTube lanzó este DJ experimental basado en IA en 2025, Spotify ya había presentado una herramienta similar en 2023. En noviembre, redobló sus esfuerzos en materia de DJ con IA, ampliando las diferentes personalidades disponibles para los usuarios y añadiendo
+
+</details>
+
+🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/ai-djs-completely-kill-my-groove/)**
+
+---
+
+### 🔹 Column 5: [This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets](https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
+
+- 📌 **What happened?**: You forgot to water the plant. Instead of seeing yellowing leaves, you see a cute plant-shaped pet on a tiny screen, looking sad and dejected. Maybe that'll give you the push you needed to grab the watering can. As you pour water into the soil, the plant pet on the screen gets excited and happy.
+
+- 🔍 **Key details**: That's the idea behind OATs, or Object Agent Twins—micro-agent AI avatars on tiny E Ink displays designed to pair with everyday household objects. The tech was created by Daehwa Kim, a fifth-year PhD student in Carnegie Mellon's Future Interfaces Group. Kim presented the project at the ACM Symposium on User Interface...
+
+- 💡 **Context & Impact**: You might remember Tamagotchi, the popular egg-shaped toys from the ‘90s that housed digital pets requiring real-time care and attention. Kim’s goal was to bring a similar experience to physical objects in our lives. “We bring this joy of caring from virtual to physical objects,” she tells WIRED. While folks have...
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Este Tamagotchi con IA convierte objetos cotidianos en mascotas virtuales que necesitan cuidados*
+
+- 📌 **¿Qué sucedió?**: Te has olvidado de regar la planta. En lugar de ver hojas amarillentas, ves una bonita mascota con forma de planta en una pequeña pantalla, con aspecto triste y abatido. Tal vez eso te dé el empujón que necesitabas para coger la regadera. Mientras riegas la tierra, la mascota planta de la pantalla se emociona y se alegra.
+
+- 🔍 **Detalles clave**: Esa es la idea detrás de los OAT, u «Object Agent Twins» (gemelos agentes de objetos): avatares de IA microagentes en pequeñas pantallas de tinta electrónica diseñados para emparejarse con objetos cotidianos del hogar. La tecnología fue creada por Daehwa Kim, estudiante de quinto año de doctorado en el Future Interfaces Group de la Universidad Carnegie Mellon. Kim presentó el proyecto en el Simposio de la ACM sobre Interfaz de Usuario
+
+- 💡 **Impacto y contexto**: Quizás recuerdes los Tamagotchi, los populares juguetes con forma de huevo de los años 90 que contenían mascotas digitales que necesitaban cuidados y atención en tiempo real. El objetivo de Kim era ofrecer una experiencia similar con objetos físicos de nuestra vida cotidiana. «Llevamos esta alegría de cuidar de los objetos virtuales a los físicos», afirma a WIRED. Mientras que la gente ha
+
+</details>
+
+🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/)**
 
 ---
 
@@ -155,6 +155,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#60](editions/2026/11/2026-11-15.md) | 2026-11-15 | [Pentagon Renames CDAO ‘Super Intelligence Office’](https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/) | 🛡️ Cybersecurity |
 | [#59](editions/2026/11/2026-11-14.md) | 2026-11-14 | [Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Co...](https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html) | 🛡️ Cybersecurity |
 | [#58](editions/2026/11/2026-11-13.md) | 2026-11-13 | [Microsoft Struggles to Restore Email and Other Services in a G...](https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/) | 🛡️ Cybersecurity |
 | [#57](editions/2026/11/2026-11-12.md) | 2026-11-12 | [Chrome, Firefox Updates Patch Over 180 Vulnerabilities](https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/) | 🛡️ Cybersecurity |
@@ -169,9 +170,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#48](editions/2026/11/2026-11-03.md) | 2026-11-03 | [CrowdStrike Reportedly Paying $495 Million for AI Security Fir...](https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/) | 🛡️ Cybersecurity |
 | [#47](editions/2026/11/2026-11-02.md) | 2026-11-02 | [Cybersecurity M&A Roundup: 37 Deals Announced in October 2026](https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/) | 🛡️ Cybersecurity |
 | [#46](editions/2026/11/2026-11-01.md) | 2026-11-01 | [Northstar Security Exits Stealth With $7M to Expose Toxic Risk...](https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/) | 🛡️ Cybersecurity |
-| [#45](editions/2026/10/2026-10-31.md) | 2026-10-31 | [Chainalysis Confirms Intrusion Into Internal Tools and Exposur...](https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html) | 🛡️ Cybersecurity |
 
-*... and 44 more archived editions in `/editions` directory.*
+*... and 45 more archived editions in `/editions` directory.*
 
 ---
 

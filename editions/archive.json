@@ -973,5 +973,22 @@
       "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
       "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/"
     ]
+  },
+  {
+    "edition": 60,
+    "date": "2026-11-15",
+    "rel_path": "editions/2026/11/2026-11-15.md",
+    "title_en": "Pentagon Renames CDAO ‘Super Intelligence Office’",
+    "title_es": "El Pentágono cambia el nombre de la CDAO por «Oficina de Superinteligencia»",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
+    "story_links": [
+      "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
+      "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+      "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+      "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/"
+    ]
   }
 ]
