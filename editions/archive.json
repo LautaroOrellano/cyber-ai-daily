@@ -990,5 +990,22 @@
       "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
       "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/"
     ]
+  },
+  {
+    "edition": 61,
+    "date": "2026-11-16",
+    "rel_path": "editions/2026/11/2026-11-16.md",
+    "title_en": "Cursor Supply Chain Attack Started at Fireworks AI",
+    "title_es": "Ataque a la cadena de suministro de Cursor iniciado en Fireworks AI",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/",
+    "story_links": [
+      "https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/",
+      "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+      "https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/",
+      "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/"
+    ]
   }
 ]

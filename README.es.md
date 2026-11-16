@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 60** — *Domingo, 15 de Noviembre de 2026*
+> **📅 Edición de Hoy: N° 61** — *Lunes, 16 de Noviembre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_60-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_61-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,70 +17,70 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [El Pentágono cambia el nombre de la CDAO por «Oficina de Superinteligencia»](https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Pentagon Renames CDAO ‘Super Intelligence Office’`
+### 📌 [Ataque a la cadena de suministro de Cursor iniciado en Fireworks AI](https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Cursor Supply Chain Attack Started at Fireworks AI`
 
-- 📌 **¿Qué sucedió?**: El viernes, el Pentágono cambió el nombre de su Oficina del Director de Tecnología Digital e Inteligencia Artificial (CDAO) por el de Oficina de Superinteligencia, adoptando la terminología que el presidente Donald Trump ha ordenado a los organismos federales que utilicen en lugar de «inteligencia artificial» (IA).
+- 📌 **¿Qué sucedió?**: Las credenciales comprometidas en el hackeo de la plataforma de inferencia de IA Fireworks AI permitieron a los atacantes robar más secretos y distribuir copias maliciosas de la extensión Claude Code, según Cursor.
 
-- 🔍 **Detalles clave**: Cameron Stanley sigue al frente de la oficina como director de Superinteligencia del Departamento de Guerra (DoW), mientras que Andrew Mapes ejerce como director adjunto principal de Superinteligencia. Stanley asumió el cargo de director de Digitalización e IA del Pentágono en enero, tras liderar la transformación de la seguridad nacional en
+- 🔍 **Detalles clave**: El ataque a la cadena de suministro se descubrió el 29 de octubre y dio lugar a que los actores de la amenaza pusieran a disposición dos versiones modificadas de la extensión anthropic.claude-code (2.1.312 y 2.1.313) a través del Marketplace de extensiones de VS Code de Cursor durante aproximadamente 11 horas.
 
-- 💡 **Impacto y contexto**: El Departamento de Guerra trasladó los recursos públicos, la información sobre adquisiciones y los portales de colaboración de la oficina al dominio SI.mil y afirmó que los programas, las convocatorias y las colaboraciones en materia de defensa existentes seguirían adelante sin interrupción. La cartera de la oficina incluye el Maven Smart System, un sistema de inteligencia con IA y
+- 💡 **Impacto y contexto**: Anthropic nunca fue hackeada y toda la actividad maliciosa se produjo en el entorno de Cursor, explica la empresa.
 
-👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/)**
+👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Un repaso a los días caóticos de Jensen Huang](https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `An overview of Jensen Huang’s messy days`
+### 🔹 Columna 2: [Audible recurre a la IA para ayudar a los usuarios a descubrir audiolibros](https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Audible turns to AI to help users discover audiobooks`
 
-- 📌 **¿Qué sucedió?**: El 29 de octubre, The New York Times informó de que Jensen Huang, cofundador y carismático director ejecutivo de Nvidia, parecía ser el objetivo de una trama de espionaje china. Resulta preocupante que cualquier director ejecutivo de una gran empresa tecnológica pueda verse comprometido por el Gobierno chino, especialmente Jensen Huang. «Si pudieras dibujar el diagrama de red de todos los Estados Unidos
+- 📌 **¿Qué sucedió?**: Audible, el servicio de audiolibros propiedad de Amazon, está recurriendo a la IA para ayudar a los oyentes a encontrar su próximo libro. El lunes, la empresa lanzó una nueva función de «descubrimiento de audiolibros» que ofrece una breve descripción de los temas de un libro y un resumen de lo que gustó a los lectores, así como comentarios de un editor de Audible o de un autor, en
 
-- 🔍 **Detalles clave**: El Times informó de que Jensen Huang había entablado una «relación estrecha» con Alice Huang (sin parentesco), ejecutiva de Megaspeed, una empresa de centros de datos con sede en Singapur. Alice Huang llevaba algún tiempo en el punto de mira del Gobierno estadounidense, quizás ya en 2024. Su empresa fue investigada por el Departamento de Comercio de EE. UU.
+- 🔍 **Detalles clave**: Según la empresa, el audio del resumen en sí se genera mediante IA, y los comentarios se extraen de grabaciones de entrevistas anteriores de Audible.
 
-- 💡 **Impacto y contexto**: Esto hizo que su relación con Jensen Huang resultara preocupante por varias razones. Los chips de Nvidia se consideran cruciales para la superioridad de Estados Unidos en materia de IA y una cuestión de seguridad nacional para la Casa Blanca. El Gobierno ha restringido la venta de los chips más avanzados de Nvidia a China desde la administración Biden. Pero
+- 💡 **Impacto y contexto**: La idea es que este tipo de introducción ampliada a una historia podría ayudar a los usuarios a decidir qué escuchar a continuación, especialmente cuando van de un lado a otro y no tienen tiempo para leer comentarios o reseñas.
 
-🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation)**
-
----
-
-### 🔹 Columna 3: [Italia impone a Meta una multa de 805 millones de euros por el acceso de Facebook a la galería de Android sin consentimiento explícito](https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent`
-
-- 📌 **¿Qué sucedió?**: Ayer, Meta fue multada en Italia con 805 millones de euros por una función de Facebook para Android que sugiere fotos y vídeos de las galerías de los teléfonos de los usuarios para que los publiquen.
-
-- 🔍 **Detalles clave**: El Garante, la autoridad italiana de protección de datos, constató que la función estaba activada por defecto y que la aplicación accedía a las fotos, los vídeos y los metadatos relacionados de los usuarios italianos sin su consentimiento explícito.
-
-- 💡 **Impacto y contexto**: La empresa dispone de 60 días para desactivar la función de forma predeterminada, incluso para las personas que ya hayan concedido a la aplicación acceso a la galería, y para solicitar el consentimiento por separado.
-
-🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/)**
 
 ---
 
-### 🔹 Columna 4: [Los DJ de IA me quitan por completo las ganas de bailar](https://www.wired.com/story/ai-djs-completely-kill-my-groove/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `AI DJs Completely Kill My Groove`
+### 🔹 Columna 3: [El proyecto Zero de Google establece un plazo de divulgación de 30 días](https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Google Project Zero Sets Course for 30-Day Disclosure Deadline`
 
-- 📌 **¿Qué sucedió?**: Por lo general, no puedo determinar el momento exacto en que dejo de usar una función de software, ya que la mayoría de las herramientas pasan de moda sin una fecha de caducidad. No es el caso de «Beyond the Beat» de YouTube Music, un DJ generado por IA que te explica las canciones.
+- 📌 **¿Qué sucedió?**: En el contexto de la detección y explotación de vulnerabilidades con ayuda de la IA, Google Project Zero está reduciendo considerablemente los plazos de divulgación de errores.
 
-- 🔍 **Detalles clave**: YouTube Music es mi servicio de «streaming» de música preferido. Y como soy periodista especializado en software, siempre activo las funciones beta disponibles a través de YouTube Labs, entre las que se incluye Beyond the Beat. El DJ de IA de YouTube interviene al azar durante unos 30 segundos entre canciones, preparando el cambio de ambiente y proporcionando contexto sobre la
+- 🔍 **Detalles clave**: Hasta ahora, la política de Project Zero era bien conocida: se daba a los proveedores 90 días para parchear las vulnerabilidades antes de su divulgación pública y se les concedía un período de gracia de 30 días para implementar los parches.
 
-- 💡 **Impacto y contexto**: Cada vez más oyentes se encuentran con comentarios sintéticos integrados en sus aplicaciones de «streaming» de música. Aunque YouTube lanzó este DJ experimental basado en IA en 2025, Spotify ya había presentado una herramienta similar en 2023. En noviembre, redobló sus esfuerzos en materia de DJ con IA, ampliando las diferentes personalidades disponibles para los usuarios y añadiendo
+- 💡 **Impacto y contexto**: A partir del 13 de noviembre, ese período de gracia ya no estará vigente, anunció Natalie Silvanovich, ingeniera de seguridad de Project Zero.
 
-🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/ai-djs-completely-kill-my-groove/)**
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/)**
 
 ---
 
-### 🔹 Columna 5: [Este Tamagotchi con IA convierte objetos cotidianos en mascotas virtuales que necesitan cuidados](https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets`
+### 🔹 Columna 4: [Estados Unidos endurece los controles a la exportación de chips de IA para impedir que las empresas chinas accedan a la computación de forma remota](https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `US tightens AI chip export controls to deter Chinese companies from accessing compute remotely`
 
-- 📌 **¿Qué sucedió?**: Te has olvidado de regar la planta. En lugar de ver hojas amarillentas, ves una bonita mascota con forma de planta en una pequeña pantalla, con aspecto triste y abatido. Tal vez eso te dé el empujón que necesitabas para coger la regadera. Mientras riegas la tierra, la mascota planta de la pantalla se emociona y se alegra.
+- 📌 **¿Qué sucedió?**: El lunes, el Gobierno de Trump se prepara para implementar nuevos controles a la exportación de chips de IA y centros de datos fuera de EE. UU., con el fin de evitar que las empresas, especialmente las de China, eludan los controles a la exportación de EE. UU. accediendo de forma remota a infraestructuras de IA situadas en otros países.
 
-- 🔍 **Detalles clave**: Esa es la idea detrás de los OAT, u «Object Agent Twins» (gemelos agentes de objetos): avatares de IA microagentes en pequeñas pantallas de tinta electrónica diseñados para emparejarse con objetos cotidianos del hogar. La tecnología fue creada por Daehwa Kim, estudiante de quinto año de doctorado en el Future Interfaces Group de la Universidad Carnegie Mellon. Kim presentó el proyecto en el Simposio de la ACM sobre Interfaz de Usuario
+- 🔍 **Detalles clave**: En virtud de la norma provisional, el Departamento de Comercio exigirá a las empresas que obtengan licencias para exportar, reexportar o transferir chips y servidores de IA a centros de datos de cualquier parte del mundo si pueden proporcionar capacidad de computación a empresas de China u otros países restringidos.
 
-- 💡 **Impacto y contexto**: Quizás recuerdes los Tamagotchi, los populares juguetes con forma de huevo de los años 90 que contenían mascotas digitales que necesitaban cuidados y atención en tiempo real. El objetivo de Kim era ofrecer una experiencia similar con objetos físicos de nuestra vida cotidiana. «Llevamos esta alegría de cuidar de los objetos virtuales a los físicos», afirma a WIRED. Mientras que la gente ha
+- 💡 **Impacto y contexto**: Las normas sobre el acceso remoto se dirigen a empresas con sede en el grupo D:5 de países sujetos a embargo de EE. UU., que incluye a China, Rusia, Irán, Corea del Norte y otros 18 países.
 
-🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/)**
+
+---
+
+### 🔹 Columna 5: [Barracuda es víctima de un ataque informático en medio de un aumento de los ciberataques impulsados por Artex](https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks`
+
+- 📌 **¿Qué sucedió?**: El marco de pruebas de penetración de la IA agentiva de Artex se ha convertido en una herramienta habitual en el arsenal de los actores de amenazas chinos, y Barracuda es una de sus víctimas.
+
+- 🔍 **Detalles clave**: Publicado en GitHub en julio de 2026, Artex se basa en un planificador para formular un objetivo y crear tareas a partir de él, y en agentes para realizar esas tareas, mientras que la propia plataforma registra el progreso, los resultados y los activos.
+
+- 💡 **Impacto y contexto**: Según se informa, utilizó DeepSeek v4.1-flash como modelo inicial, pero también puede utilizar otros LLM, y en determinados casos se observaron GLM-5.3 y Grok 4.6. En general, sin embargo, sus usuarios recurren principalmente a modelos chinos, que son más permisivos que los fabricados en Estados Unidos.
+
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/)**
 
 ---
 
@@ -90,6 +90,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#61](editions/2026/11/2026-11-16.md) | 2026-11-16 | [Ataque a la cadena de suministro de Cursor iniciado en Fi...](https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/) | 🛡️ Ciberseguridad |
 | [#60](editions/2026/11/2026-11-15.md) | 2026-11-15 | [El Pentágono cambia el nombre de la CDAO por «Oficina de ...](https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/) | 🛡️ Ciberseguridad |
 | [#59](editions/2026/11/2026-11-14.md) | 2026-11-14 | [Los atacantes aprovechan una vulnerabilidad de UnrealIRCd...](https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html) | 🛡️ Ciberseguridad |
 | [#58](editions/2026/11/2026-11-13.md) | 2026-11-13 | [Microsoft tiene dificultades para restablecer el correo e...](https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/) | 🛡️ Ciberseguridad |
@@ -104,9 +105,8 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 | [#49](editions/2026/11/2026-11-04.md) | 2026-11-04 | [Sysdig añade seguridad y gobernanza en tiempo de ejecució...](https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/) | 🛡️ Ciberseguridad |
 | [#48](editions/2026/11/2026-11-03.md) | 2026-11-03 | [Según los informes, CrowdStrike pagó $ 495 millones por l...](https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/) | 🛡️ Ciberseguridad |
 | [#47](editions/2026/11/2026-11-02.md) | 2026-11-02 | [Resumen de fusiones y adquisiciones de ciberseguridad: 37...](https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/) | 🛡️ Ciberseguridad |
-| [#46](editions/2026/11/2026-11-01.md) | 2026-11-01 | [Northstar Security sale sigilosamente con $ 7 millones pa...](https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/) | 🛡️ Ciberseguridad |
 
-*... y 45 ediciones más en la carpeta `/editions`.*
+*... y 46 ediciones más en la carpeta `/editions`.*
 
 ---
 
