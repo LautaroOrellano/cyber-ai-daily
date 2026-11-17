@@ -1007,5 +1007,22 @@
       "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
       "https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/"
     ]
+  },
+  {
+    "edition": 62,
+    "date": "2026-11-17",
+    "rel_path": "editions/2026/11/2026-11-17.md",
+    "title_en": "Market Research Giant Ipsos Investigating Breach of Internal System",
+    "title_es": "El gigante de los estudios de mercado Ipsos investiga una brecha en su sistema interno",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
+    "story_links": [
+      "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
+      "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+      "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
+      "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "https://www.technologyreview.com/2026/11/17/1148203/research-reports/"
+    ]
   }
 ]
