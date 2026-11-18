@@ -1024,5 +1024,22 @@
       "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
       "https://www.technologyreview.com/2026/11/17/1148203/research-reports/"
     ]
+  },
+  {
+    "edition": 63,
+    "date": "2026-11-18",
+    "rel_path": "editions/2026/11/2026-11-18.md",
+    "title_en": "VeroSecurity Raises $11 Million for AI Security Engineering Platform",
+    "title_es": "VeroSecurity recauda 11 millones de dólares para su plataforma de ingeniería de seguridad basada en IA",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/",
+    "story_links": [
+      "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/",
+      "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
+      "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
+      "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse"
+    ]
   }
 ]
