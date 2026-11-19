@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #63** — *Wednesday, November 18, 2026*
+> **📅 Today's Edition: Issue #64** — *Thursday, November 19, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2363-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2364-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,135 +17,135 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [VeroSecurity Raises $11 Million for AI Security Engineering Platform](https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
+### 📌 [PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution](https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
 
-- 📌 **What happened?**: VeroSecurity, founded in 2025 by IDF 8200 alumni Elad Tessler (CEO) and Daniel Meirov (CTO), has raised $11 million in a seed funding round led by TLV Partners. The firm is building a platform for AI Security Engineering (ASE) – the process of securing AI tools and agents – and will use the funding to advance the...
+- 📌 **What happened?**: The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560.
 
-- 🔍 **Key details**: AI Security Engineering is a new, and as yet ill-defined, security discipline. Its purpose is to secure the AI tools and agents that are increasingly being adopted, used, and modified in-house by company employees. This is happening at pace and volume – so the object of ASE is a moving target; and is a security...
+- 🔍 **Key details**: The release of the patch follows an advance notice in which the project maintainers alerted users to multiple critical vulnerabilities affecting all supported PHP versions under specific conditions, including non-default configuration or uncommon setups.
 
-- 💡 **Context & Impact**: ASE policy is defined by security teams. Vero turns these policy definitions into enforced controls, automatically updates them as the AI tools evolve, and refers only those enforcement decisions that require a human judgement to the security team.
+- 💡 **Context & Impact**: At a high level, successful exploitation of the defects could pave the way for remote code execution, session corruption, denial-of-service, memory corruption, or local privilege escalation.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *VeroSecurity recauda 11 millones de dólares para su plataforma de ingeniería de seguridad basada en IA*
+> **Título en español:** *PHP corrige 7 fallos críticos, incluidos errores que podrían permitir la ejecución remota de código*
 
-- 📌 **¿Qué sucedió?**: VeroSecurity, fundada en 2025 por los antiguos miembros de la Unidad 8200 de las FDI Elad Tessler (director ejecutivo) y Daniel Meirov (director tecnológico), ha recaudado 11 millones de dólares en una ronda de financiación inicial liderada por TLV Partners. La empresa está desarrollando una plataforma de Ingeniería de Seguridad de la IA (ASE), el proceso de proteger las herramientas y los agentes de IA, y utilizará la financiación para impulsar el
+- 📌 **¿Qué sucedió?**: La PHP Foundation ha publicado actualizaciones de seguridad para subsanar varios fallos de seguridad críticos que podrían aprovecharse para lograr la ejecución remota de código en las implementaciones afectadas, incluido el CVE-2026-115560.
 
-- 🔍 **Detalles clave**: La ingeniería de seguridad de la IA es una disciplina de seguridad nueva y aún poco definida. Su finalidad es proteger las herramientas y los agentes de IA que los empleados de las empresas adoptan, utilizan y modifican cada vez más internamente. Esto está ocurriendo a un ritmo y un volumen considerables, por lo que el objeto de la IAS es un blanco móvil; y es una disciplina
+- 🔍 **Detalles clave**: El lanzamiento del parche se produce tras un aviso previo en el que los responsables del proyecto alertaron a los usuarios de varias vulnerabilidades críticas que afectaban a todas las versiones de PHP compatibles en determinadas condiciones, incluidas las configuraciones no predeterminadas o las configuraciones poco habituales.
 
-- 💡 **Impacto y contexto**: La política de ASE la definen los equipos de seguridad. Vero convierte estas definiciones de políticas en controles aplicados, los actualiza automáticamente a medida que evolucionan las herramientas de IA y solo remite al equipo de seguridad aquellas decisiones de aplicación que requieren un juicio humano.
+- 💡 **Impacto y contexto**: En términos generales, la explotación con éxito de los defectos podría abrir la puerta a la ejecución remota de código, la corrupción de sesiones, la denegación de servicio, la corrupción de la memoria o la elevación de privilegios local.
 
 </details>
 
-👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/)**
+👉 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html)**
 
 ---
 
 ## 📰 TOP HIGHLIGHTS (4 Stories)
 
-### 🔹 Column 2: [Remember the frontier AI pause? Chip companies don’t either](https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models)
+### 🔹 Column 2: [ChatGPT can transcribe as you speak now with Live Dictation](https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation)
 > **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** The Verge AI
 
-- 📌 **What happened?**: This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI...
+- 📌 **What happened?**: ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It’s rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation in ChatGPT, you can...
 
-- 🔍 **Key details**: Nvidia and AMD earnings show booming demand. This is why a frontier slowdown might not derail it.
+- 🔍 **Key details**: ChatGPT’s new Live Dictation feature transcribes audio prompts faster, with no more 10-minute limit.
 
-- 💡 **Context & Impact**: It was a strange moment for the AI boom. The people building the most powerful models were warning about what those models might be capable of, and investors were suddenly wondering what would happen to chip demand if the labs eased up on new models. US chip stocks bore the brunt of the sell-off.
+- 💡 **Context & Impact**: Along with faster transcription, OpenAI also announced it’s removing the 10-minute recording limit on voice dictation in ChatGPT, and it says the feature is getting “more reliable.” The update follows an overhaul for ChatGPT’s two-way conversational voice mode earlier this year. Last year, OpenAI also announced a...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *¿Recuerdan la pausa en la IA de vanguardia? Las empresas de chips tampoco*
+> **Título en español:** *ChatGPT puede transcribir lo que dices ahora mismo con el dictado en tiempo real*
 
-- 📌 **¿Qué sucedió?**: Este verano, OpenAI pausó su mayor ciclo de entrenamiento de frontera previsto después de que sus agentes de IA hackearan accidentalmente Hugging Face y las primeras evidencias sugirieran que su próximo modelo podría encontrar y explotar vulnerabilidades de seguridad de forma independiente. En septiembre, el director ejecutivo de Anthropic, Dario Amodei, pidió que se ralentizaran los avances en la IA más potente.
+- 📌 **¿Qué sucedió?**: Ahora, ChatGPT puede recibir indicaciones de audio desde tu micrófono más rápidamente gracias a una función de dictado en tiempo real que transcribe a medida que hablas, en lugar de esperar a que termines de grabar. Se está implementando ahora a nivel mundial en todos los planes de ChatGPT en la web, en la aplicación de escritorio y en las aplicaciones para iOS y Android. Al usar el dictado en ChatGPT, puedes
 
-- 🔍 **Detalles clave**: Los beneficios de Nvidia y AMD muestran una demanda en auge. Por eso, es posible que una desaceleración en las fronteras no la haga descarrilar.
+- 🔍 **Detalles clave**: La nueva función de dictado en tiempo real de ChatGPT transcribe las indicaciones de audio más rápido, sin el límite de 10 minutos.
 
-- 💡 **Impacto y contexto**: Fue un momento extraño para el auge de la IA. Las personas que estaban creando los modelos más potentes advertían sobre lo que esos modelos podrían ser capaces de hacer, y los inversores de repente se preguntaban qué pasaría con la demanda de chips si los laboratorios frenaran el desarrollo de nuevos modelos. Las acciones de los fabricantes de chips estadounidenses fueron las más afectadas por la oleada de ventas.
+- 💡 **Impacto y contexto**: Junto con una transcripción más rápida, OpenAI también ha anunciado que va a eliminar el límite de grabación de 10 minutos para el dictado de voz en ChatGPT, y afirma que la función se está volviendo «más fiable». La actualización llega tras una revisión del modo de voz conversacional bidireccional de ChatGPT a principios de este año. El año pasado, OpenAI también anunció un
 
 </details>
 
-🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models)**
+🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation)**
 
 ---
 
-### 🔹 Column 3: [New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks](https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html)
+### 🔹 Column 3: [Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication](https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
 
-- 📌 **What happened?**: The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines.
+- 📌 **What happened?**: A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today.
 
-- 🔍 **Key details**: "When attackers are exposed, the cheap response is to rotate," Bitdefender said in a technical report shared with The Hacker News. "A file hash changes with every recompile, a domain costs a few dollars, and a new IP address costs less."
+- 🔍 **Key details**: Fixed versions are out for all supported branches, and the company lists no workaround. vCenter is the central console for managing an organization's ESX hosts and virtual machines.
 
-- 💡 **Context & Impact**: "The EggStreme operators did more than rotate – the agent we now see uses a different network protocol, has an enhanced command set, and comes in a passive variant that never beacons out. The infrastructure appears to be moving away from the one certificate authority that tied its older servers together."
+- 💡 **Context & Impact**: The vulnerability is tracked as CVE-2026-123890 and is rated 9.8 on the CVSS scoring system. "VMware vCenter contains an authentication bypass vulnerability in the VMware Directory Service," the advisory says.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Una nueva variante del malware EggStreme actúa en silencio para evadir las herramientas de seguridad en los ataques contra gobiernos*
+> **Título en español:** *Un fallo crítico de VMware vCenter (CVSS 9,8) permite a los atacantes de la red eludir la autenticación*
 
-- 📌 **¿Qué sucedió?**: El grupo chino sospechoso de ser una amenaza persistente avanzada (APT) responsable del sofisticado «malware» EggStreme ha renovado su conjunto de herramientas mientras sigue atacando a organismos gubernamentales de Filipinas.
+- 📌 **¿Qué sucedió?**: Un fallo crítico en VMware vCenter permite a un atacante con acceso a la red eludir la autenticación y obtener acceso no autorizado al sistema, según ha informado Broadcom, propietaria de VMware, en un comunicado publicado hoy.
 
-- 🔍 **Detalles clave**: «Cuando los atacantes quedan al descubierto, la respuesta más barata es rotar», afirmó Bitdefender en un informe técnico compartido con The Hacker News. «El hash de un archivo cambia con cada recompilación, un dominio cuesta unos pocos dólares y una nueva dirección IP cuesta menos».
+- 🔍 **Detalles clave**: Ya están disponibles las versiones corregidas para todas las ramas compatibles, y la empresa no indica ninguna solución alternativa. vCenter es la consola central para gestionar los hosts ESX y las máquinas virtuales de una organización.
 
-- 💡 **Impacto y contexto**: «Los operadores de EggStreme hicieron algo más que rotar: el agente que vemos ahora utiliza un protocolo de red diferente, tiene un conjunto de comandos mejorado y cuenta con una variante pasiva que nunca emite señales. La infraestructura parece estar alejándose de la única autoridad certificadora que unía sus servidores más antiguos».
+- 💡 **Impacto y contexto**: La vulnerabilidad se registra como CVE-2026-123890 y tiene una puntuación de 9,8 en el sistema de puntuación CVSS. «VMware vCenter contiene una vulnerabilidad de omisión de autenticación en el servicio de directorio de VMware», afirma el aviso.
 
 </details>
 
-🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html)**
+🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html)**
 
 ---
 
-### 🔹 Column 4: [‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness](https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
+### 🔹 Column 4: [Anthropic’s IPO puts AI’s circular financing boom to the test](https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
 
-- 📌 **What happened?**: Over 50 years ago, philosopher Thomas Nagel asked the question, “What Is It Like to Be a Bat?” The question opened up an examination on whether people could understand the consciousness of nonhumans and the meaning of consciousness itself. Who knew that, a half- century later, the question would move from an...
+- 📌 **What happened?**: Arriving at public markets today, Anthropic’s IPO is poised to raise billions for the company and its investors. But the biggest surprise may be just how much of that money will end up going to supplier-investors.
 
-- 🔍 **Key details**: The paper became a classic and it helped set a foundation for a career that saw Nagel make contributions to thought on morality, justice, and the mind-body question. One of his books is entitled, What Does It All Mean? For the breadth and quality of his work, he became the recipient this week of the $1 million...
+- 🔍 **Key details**: Amazon and Google, two of Anthropic’s largest infrastructure partners, hold stakes valued around a combined $307.9 billion at the company’s updated IPO price of $83 per share. Amazon, which invested $18 billion into the AI startup, would see its 14.7% stake hit upwards of $159 billion, while Google’s 13.7% stake is...
 
-- 💡 **Context & Impact**: I used the occasion to speak to Nagel at his home in Greenwich Village, specifically to hear about how the evolution of artificial intelligence might have affected his viewpoint. It turns out that the 89-year-old university professor emeritus at NYU had given the question a lot of thought and had some strong views on...
+- 💡 **Context & Impact**: A handful of other AI infrastructure providers are also positioned to benefit. Nvidia, AMD, Microsoft, Broadcom, Micron, and TSMC have joined Google in committing $26 billion to Anthropic at its IPO price in a private placement.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *«Simplemente ridículo»: un célebre filósofo se enfrenta a la conciencia de la IA*
+> **Título en español:** *La salida a bolsa de Anthropic pone a prueba el auge de la financiación circular de la IA*
 
-- 📌 **¿Qué sucedió?**: Hace más de 50 años, el filósofo Thomas Nagel planteó la pregunta: «¿Qué se siente al ser un murciélago?». La pregunta dio pie a un análisis sobre si las personas podían comprender la conciencia de los no humanos y el significado de la propia conciencia. Quién iba a decir que, medio siglo después, la pregunta pasaría de ser un
+- 📌 **¿Qué sucedió?**: Con su llegada hoy a los mercados públicos, la salida a bolsa de Anthropic está a punto de recaudar miles de millones para la empresa y sus inversores. Pero la mayor sorpresa puede ser cuánto de ese dinero acabará yendo a parar a los proveedores-inversores.
 
-- 🔍 **Detalles clave**: El artículo se convirtió en un clásico y ayudó a sentar las bases de una carrera en la que Nagel aportó al pensamiento sobre la moralidad, la justicia y la cuestión mente-cuerpo. Uno de sus libros se titula «¿Qué significa todo esto?». Por la amplitud y la calidad de su trabajo, esta semana ha recibido el premio de 1 millón de dólares
+- 🔍 **Detalles clave**: Amazon y Google, dos de los mayores socios de infraestructura de Anthropic, poseen participaciones valoradas en unos 307 900 millones de dólares en total, según el precio actualizado de la salida a bolsa de la empresa, de 83 $ por acción. Amazon, que invirtió 18 000 millones de dólares en la startup de IA, vería cómo su participación del 14,7 % superaría los 159 000 millones de dólares, mientras que la participación del 13,7 % de Google sería de
 
-- 💡 **Impacto y contexto**: Aproveché la ocasión para hablar con Nagel en su casa de Greenwich Village, concretamente para saber cómo podría haber influido la evolución de la inteligencia artificial en su punto de vista. Resulta que el profesor emérito de la Universidad de Nueva York, de 89 años, había reflexionado mucho sobre la cuestión y tenía opiniones firmes al respecto.
+- 💡 **Impacto y contexto**: Un puñado de otros proveedores de infraestructura de IA también están bien posicionados para beneficiarse. Nvidia, AMD, Microsoft, Broadcom, Micron y TSMC se han unido a Google para comprometer 26 000 millones de dólares con Anthropic al precio de su salida a bolsa en una colocación privada.
 
 </details>
 
-🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/)**
+🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/)**
 
 ---
 
-### 🔹 Column 5: [Time-Series Models in the Streamhouse: A New Frontier and Use Cases](https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Hugging Face Blog
+### 🔹 Column 5: [Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites](https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
 
-- 📌 **What happened?**: Time-Series Models in the Streamhouse: A New Frontier and Use Cases
+- 📌 **What happened?**: Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site.
 
-- 🔍 **Key details**: Real-time forecasting, anomaly detection, and optimization, powered by IBM time-series models with more than 50 million downloads. Now available natively on Confluent, in the cloud and on premises, running on CPUs.
+- 🔍 **Key details**: That can lead to a site takeover or remote code execution, and the project rates the vulnerable configurations as uncommon. Fixed releases for all supported branches shipped yesterday.
 
-- 💡 **Context & Impact**: Every business generates a continuous record of change: a machine reading, a payment, a sale, an order, or a change in inventory. These observations form time series, and they carry signals that can help teams anticipate what happens next.
+- 💡 **Context & Impact**: The Drupal Security Team disclosed the flaw, tracked as CVE-2026-132165, yesterday and rated it critical, 18 out of 25 on the project's risk scale.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Modelos de series temporales en Streamhouse: una nueva frontera y casos prácticos*
+> **Título en español:** *Drupal parchea un fallo crítico del instalador que podría permitir a atacantes no autenticados controlar los sitios web*
 
-- 📌 **¿Qué sucedió?**: Modelos de series temporales en Streamhouse: una nueva frontera y casos prácticos
+- 📌 **¿Qué sucedió?**: En determinadas condiciones, una vulnerabilidad crítica en el núcleo de Drupal puede permitir que un atacante sin credenciales de inicio de sesión utilice el instalador integrado para intentar reinstalar un sitio.
 
-- 🔍 **Detalles clave**: Predicción en tiempo real, detección de anomalías y optimización, impulsadas por los modelos de series temporales de IBM, con más de 50 millones de descargas. Ahora disponible de forma nativa en Confluent, en la nube y en las instalaciones, ejecutándose en CPU.
+- 🔍 **Detalles clave**: Eso puede dar lugar a la toma de control de un sitio o a la ejecución remota de código, y el proyecto considera que las configuraciones vulnerables son poco frecuentes. Ayer se enviaron versiones corregidas para todas las ramas compatibles.
 
-- 💡 **Impacto y contexto**: Toda empresa genera un registro continuo de cambios: una lectura de máquina, un pago, una venta, un pedido o una variación en el inventario. Estas observaciones forman series temporales y contienen señales que pueden ayudar a los equipos a anticipar lo que sucederá a continuación.
+- 💡 **Impacto y contexto**: El Equipo de Seguridad de Drupal reveló ayer la vulnerabilidad, identificada como CVE-2026-132165, y la calificó como crítica, con una puntuación de 18 sobre 25 en la escala de riesgo del proyecto.
 
 </details>
 
-🔗 **[Read full article on Hugging Face Blog ↗](https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse)**
+🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html)**
 
 ---
 
@@ -155,6 +155,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#64](editions/2026/11/2026-11-19.md) | 2026-11-19 | [PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Re...](https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html) | 🛡️ Cybersecurity |
 | [#63](editions/2026/11/2026-11-18.md) | 2026-11-18 | [VeroSecurity Raises $11 Million for AI Security Engineering Pl...](https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/) | 🛡️ Cybersecurity |
 | [#62](editions/2026/11/2026-11-17.md) | 2026-11-17 | [Market Research Giant Ipsos Investigating Breach of Internal S...](https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/) | 🛡️ Cybersecurity |
 | [#61](editions/2026/11/2026-11-16.md) | 2026-11-16 | [Cursor Supply Chain Attack Started at Fireworks AI](https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/) | 🛡️ Cybersecurity |
@@ -169,9 +170,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#52](editions/2026/11/2026-11-07.md) | 2026-11-07 | [SonicWall Patches Exploited SonicOS Vulnerability That Weakens...](https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/) | 🛡️ Cybersecurity |
 | [#51](editions/2026/11/2026-11-06.md) | 2026-11-06 | [DigiCert Data Breach Impacts Business Customer Information](https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/) | 🛡️ Cybersecurity |
 | [#50](editions/2026/11/2026-11-05.md) | 2026-11-05 | [Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Taked...](https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/) | 🛡️ Cybersecurity |
-| [#49](editions/2026/11/2026-11-04.md) | 2026-11-04 | [Sysdig Adds Runtime Security and Governance for AI Agents](https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/) | 🛡️ Cybersecurity |
 
-*... and 48 more archived editions in `/editions` directory.*
+*... and 49 more archived editions in `/editions` directory.*
 
 ---
 

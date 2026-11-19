@@ -1041,5 +1041,22 @@
       "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
       "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse"
     ]
+  },
+  {
+    "edition": 64,
+    "date": "2026-11-19",
+    "rel_path": "editions/2026/11/2026-11-19.md",
+    "title_en": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+    "title_es": "PHP corrige 7 fallos críticos, incluidos errores que podrían permitir la ejecución remota de código",
+    "category": "cyber",
+    "source": "The Hacker News",
+    "lead_link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+    "story_links": [
+      "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+      "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+      "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html"
+    ]
   }
 ]
