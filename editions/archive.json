@@ -1058,5 +1058,22 @@
       "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
       "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html"
     ]
+  },
+  {
+    "edition": 65,
+    "date": "2026-11-20",
+    "rel_path": "editions/2026/11/2026-11-20.md",
+    "title_en": "In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit",
+    "title_es": "Otras noticias: ciberataques a una empresa energética noruega, «hackeo» de un superordenador, nueva vulnerabilidad Nightmare Eclipse",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/",
+    "story_links": [
+      "https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/",
+      "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/",
+      "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+      "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
+    ]
   }
 ]
