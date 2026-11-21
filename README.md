@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #65** — *Friday, November 20, 2026*
+> **📅 Today's Edition: Issue #66** — *Saturday, November 21, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2365-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2366-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,135 +17,135 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit](https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/)
+### 📌 [Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day](https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
 
-- 📌 **What happened?**: SecurityWeek’s weekly cybersecurity news roundup offers a concise overview of important developments that may not receive full standalone coverage yet remain relevant to the broader threat landscape.
+- 📌 **What happened?**: Amazon says autonomous AI agents run by a China-linked threat actor found and exploited a zero-day vulnerability in MONAI Label, an open source tool designed for AI-assisted annotation of medical images.
 
-- 🔍 **Key details**: This curated summary highlights key stories across vulnerability disclosures, emerging attack methods, policy updates, industry reports, and other noteworthy events to help readers stay well-informed about the evolving cybersecurity environment.
+- 🔍 **Key details**: The tech giant’s threat intelligence team detected the activity in September, after coming across an exposed instance of Cairn, an open source AI penetration testing framework. The instance had no authentication, so anyone could see the operator’s prompts and the agents’ output.
 
-- 💡 **Context & Impact**: AI evaluation firm Trajectory Labs says Gemini 4 Argon agents it stress-tested in October, with Gemini’s API safeguards turned on, tried to hack Epoch AI’s live website while hunting for answers to non-existent FrontierMath problems, attempting SQL injection and impersonating Epoch staff. Trajectory has paused all...
+- 💡 **Context & Impact**: The records showed a roughly 48-hour campaign against IP addresses belonging to universities in East Asia outside mainland China. The operator gave the agents a list of targets and told them to obtain shell access.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Otras noticias: ciberataques a una empresa energética noruega, «hackeo» de un superordenador, nueva vulnerabilidad Nightmare Eclipse*
+> **Título en español:** *Amazon: Los agentes de IA de los hackers vinculados a China explotaron una vulnerabilidad de día cero en un software médico*
 
-- 📌 **¿Qué sucedió?**: El resumen semanal de noticias sobre ciberseguridad de SecurityWeek ofrece una visión general concisa de los acontecimientos importantes que quizá aún no hayan recibido una cobertura completa e independiente, pero que siguen siendo relevantes para el panorama general de las amenazas.
+- 📌 **¿Qué sucedió?**: Amazon afirma que agentes autónomos de IA gestionados por un actor de amenazas vinculado a China descubrieron y explotaron una vulnerabilidad de «día cero» en MONAI Label, una herramienta de código abierto diseñada para la anotación asistida por IA de imágenes médicas.
 
-- 🔍 **Detalles clave**: Este resumen seleccionado destaca las noticias más importantes sobre la divulgación de vulnerabilidades, los métodos de ataque emergentes, las actualizaciones de políticas, los informes del sector y otros acontecimientos destacados para ayudar a los lectores a mantenerse bien informados sobre la evolución del entorno de la ciberseguridad.
+- 🔍 **Detalles clave**: El equipo de inteligencia de amenazas del gigante tecnológico detectó la actividad en septiembre, después de encontrarse con una instancia expuesta de Cairn, un «framework» de código abierto para pruebas de penetración de IA. La instancia no tenía autenticación, por lo que cualquiera podía ver las indicaciones del operador y los resultados de los agentes.
 
-- 💡 **Impacto y contexto**: La empresa de evaluación de IA Trajectory Labs afirma que los agentes de Gemini 4 Argon a los que sometió a pruebas de estrés en octubre, con las protecciones de la API de Gemini activadas, intentaron hackear el sitio web en funcionamiento de Epoch AI mientras buscaban respuestas a problemas inexistentes de FrontierMath, intentaron realizar una inyección SQL y se hicieron pasar por personal de Epoch. Trajectory ha pausado todos
+- 💡 **Impacto y contexto**: Los registros mostraban una campaña de aproximadamente 48 horas contra direcciones IP pertenecientes a universidades de Asia Oriental fuera de China continental. El operador entregó a los agentes una lista de objetivos y les dijo que obtuvieran acceso al shell.
 
 </details>
 
-👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/)**
+👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/)**
 
 ---
 
 ## 📰 TOP HIGHLIGHTS (4 Stories)
 
-### 🔹 Column 2: [The fallout from Nvidia’s Jensen Huang scandal continues](https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
-
-- 📌 **What happened?**: In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue.
-
-- 🔍 **Key details**: On the latest episode of TechCrunch’s Equity podcast, Kirsten Korosec, Anthony Ha, and Tim De Chant discussed what the future holds for Nvidia and the broader AI industry, especially as Anthropic goes public and puts the industry’s circular funding model to the test.
-
-- 💡 **Context & Impact**: Theresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like...
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *Las consecuencias del escándalo de Jensen Huang, de Nvidia, continúan*
-
-- 📌 **¿Qué sucedió?**: Mientras se ocupa de las consecuencias de la destitución de su director ejecutivo, Jensen Huang, Nvidia ha presentado esta semana su último informe de resultados, con un crecimiento sólido y la promesa de que los buenos tiempos seguirán.
-
-- 🔍 **Detalles clave**: En el último episodio del pódcast Equity de TechCrunch, Kirsten Korosec, Anthony Ha y Tim De Chant hablaron sobre lo que depara el futuro a Nvidia y al sector de la IA en general, especialmente ahora que Anthropic sale a bolsa y pone a prueba el modelo de financiación circular del sector.
-
-- 💡 **Impacto y contexto**: Theresa Loconsolo es productora de audio en TechCrunch y se centra en Equity, el pódcast estrella de la red. Antes de incorporarse a TechCrunch en 2022, fue una de las 2 productoras de un conglomerado de cuatro emisoras, donde escribía, grababa, ponía voz y editaba contenidos, y se encargaba de la realización técnica de actuaciones en directo y entrevistas con invitados como
-
-</details>
-
-🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/)**
-
----
-
-### 🔹 Column 3: [Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday](https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
-
-- 📌 **What happened?**: A series of major technology outages have hit the United States, disrupting email, air travel, banking and government operations.
-
-- 🔍 **Key details**: The incidents included a nearly day-long Microsoft 365 outage, a nationwide FAA ground stop, a technical issue at JPMorgan Chase that slowed transactions at other banks, and an outage affecting the NSA’s classified internal network. United Airlines and Apple also experienced disruptions.
-
-- 💡 **Context & Impact**: Officials said there was no evidence of a cyberattack or a link between the incidents. Microsoft traced its outage to a months-old software defect, the FAA blamed a newly installed router, and the NSA cited routine maintenance.
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *Reacciones del sector a las grandes interrupciones y debate sobre los parches de IA: Feedback Friday*
-
-- 📌 **¿Qué sucedió?**: Una serie de importantes interrupciones tecnológicas han afectado a Estados Unidos, provocando problemas en el correo electrónico, los viajes aéreos, la banca y las operaciones gubernamentales.
-
-- 🔍 **Detalles clave**: Entre los incidentes se incluyeron una interrupción de casi un día en Microsoft 365, una paralización de los vuelos en todo el país por parte de la FAA, un problema técnico en JPMorgan Chase que ralentizó las transacciones en otros bancos y una interrupción que afectó a la red interna clasificada de la NSA. United Airlines y Apple también sufrieron interrupciones.
-
-- 💡 **Impacto y contexto**: Las autoridades afirmaron que no había pruebas de un ciberataque ni de una relación entre los incidentes. Microsoft atribuyó su interrupción a un defecto de software de hace meses, la FAA culpó a un rúter recién instalado y la NSA alegó un mantenimiento de rutina.
-
-</details>
-
-🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/)**
-
----
-
-### 🔹 Column 4: [The week everything fell apart](https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast)
+### 🔹 Column 2: [Chess.com’s next move is a new hub for classic games, from mahjong to sudoku](https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai)
 > **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** The Verge AI
 
-- 📌 **What happened?**: There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn’t stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of something even bigger.
+- 📌 **What happened?**: Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They’re all part of Chess’s new Classic...
 
-- 🔍 **Key details**: On The Vergecast: Is AI breaking the world? And is Jensen Huang coming back to Nvidia?
+- 🔍 **Key details**: Chess.com’s next move is a new hub for classic games, from mahjong to sudoku
 
-- 💡 **Context & Impact**: On this episode of The Vergecast, Nilay and David go through the week’s many calamities, and try to explain both what happened in each case — which was generally much milder than the conspiracy theories would have you believe — and why all these small issues might still add up to something worth worrying about. In a...
+- 💡 **Context & Impact**: AI changed the game at Chess.com, helping it expand to 11 other classics this year.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *La semana en que todo se vino abajo*
+> **Título en español:** *El próximo movimiento de Chess.com es un nuevo centro para juegos clásicos, desde el mahjong hasta el sudoku*
 
-- 📌 **¿Qué sucedió?**: Hubo una interrupción de Outlook que duró varios días. Una paralización de los vuelos a escala nacional por segunda vez en 25 años. Los bancos parecían haber dejado de funcionar de repente. Ni siquiera iCloud pudo seguir funcionando. Esta semana, ha parecido que el mundo tecnológico simplemente se había derrumbado. Y parecía que esto podría ser el comienzo de algo aún mayor.
+- 📌 **¿Qué sucedió?**: Chess.com está preparado para ir mucho más allá del ajedrez. Tras lanzar Gambit, un sitio de póquer sin apuestas, a principios de este año, la empresa va a añadir ahora 10 juegos más: backgammon, damas, go, corazones, mahjong, shogi, sudoku, solitario, xiangqi y una alternativa al Scrabble llamada Word. Todos forman parte de la nueva Classic de Chess.
 
-- 🔍 **Detalles clave**: En The Vergecast: ¿Está la IA destruyendo el mundo? ¿Y va a volver Jensen Huang a Nvidia?
+- 🔍 **Detalles clave**: El próximo movimiento de Chess.com es un nuevo centro para juegos clásicos, desde el mahjong hasta el sudoku
 
-- 💡 **Impacto y contexto**: En este episodio de The Vergecast, Nilay y David repasan las numerosas calamidades de la semana e intentan explicar tanto lo que sucedió en cada caso (que, por lo general, fue mucho menos grave de lo que las teorías conspirativas quieren hacernos creer) como por qué todos estos pequeños problemas podrían seguir sumando hasta convertirse en algo por lo que merezca la pena preocuparse. En un
+- 💡 **Impacto y contexto**: La IA cambió las reglas del juego en Chess.com, ayudándole a expandirse a otros 11 clásicos este año.
 
 </details>
 
-🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast)**
+🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai)**
 
 ---
 
-### 🔹 Column 5: [Six AI-powered gadgets that could make your home office smarter](https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
+### 🔹 Column 3: [A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats](https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
 
-- 📌 **What happened?**: Tech companies are racing to figure out how AI can make everyday work a little easier.
+- 📌 **What happened?**: A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.
 
-- 🔍 **Key details**: From notetakers to webcams that follow your movements, here are AI-powered gadgets worth checking out if you want to upgrade your workspace.
+- 🔍 **Key details**: The same attack could be extended to reach the credentials Muse stores for the user's connected accounts.
 
-- 💡 **Context & Impact**: If you’re constantly scribbling notes during meetings, Flowtica’s Scribe could save you from having to type everything up afterward.
+- 💡 **Context & Impact**: The work was a laboratory demonstration, not an attack on real users, and it stayed inside the individual user's cloud machine. NebuSec, the security firm that published it yesterday, says Muse's team has since fixed every weakness it describes.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Seis dispositivos con IA que podrían hacer que tu teletrabajo sea más inteligente*
+> **Título en español:** *Una sola página web maliciosa permitió a unos investigadores secuestrar Meta Muse y acceder a chats privados*
 
-- 📌 **¿Qué sucedió?**: Las empresas tecnológicas están compitiendo por descubrir cómo la IA puede facilitar un poco el trabajo diario.
+- 📌 **¿Qué sucedió?**: Los investigadores han demostrado que una página web maliciosa podría extraer las conversaciones privadas de un usuario de Meta Muse y los recuerdos almacenados en el asistente sin activar ningún aviso de aprobación.
 
-- 🔍 **Detalles clave**: Desde dispositivos para tomar notas hasta cámaras web que siguen tus movimientos, aquí tienes algunos gadgets con IA que vale la pena descubrir si quieres mejorar tu espacio de trabajo.
+- 🔍 **Detalles clave**: El mismo ataque podría ampliarse para llegar a las credenciales que Muse almacena para las cuentas conectadas del usuario.
 
-- 💡 **Impacto y contexto**: Si sueles tomar notas constantemente durante las reuniones, Scribe de Flowtica podría evitarte tener que pasarlas todas a limpio después.
+- 💡 **Impacto y contexto**: El trabajo fue una demostración de laboratorio, no un ataque a usuarios reales, y se mantuvo dentro de la máquina en la nube del usuario individual. NebuSec, la empresa de seguridad que lo publicó ayer, afirma que el equipo de Muse ha subsanado desde entonces todas las vulnerabilidades que describe.
 
 </details>
 
-🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/)**
+🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html)**
+
+---
+
+### 🔹 Column 4: [The Outages Are Just Getting Started](https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
+
+- 📌 **What happened?**: Over the last week, you have surely noticed the disruptive streak of technical outages that hit everything from Outlook to Apple, a half dozen US banks, United Airlines, and even the NSA’s classified network. While there’s no evidence that these were cyberattacks, speculation has run wild about the cause—including a...
+
+- 🔍 **Key details**: So let’s just be clear: The incidents were definitely not caused by some sort of coordinated AI hacking spree and, taken individually, they all seem to have routine explanations. But as AI impacts the dynamics of digital defense more and more, security researchers and analysts have increasingly concluded that AI...
+
+- 💡 **Context & Impact**: AI-assisted vulnerability discovery has unleashed a torrent of software bugs. Attackers are then using AI tools to exploit those vulnerabilities faster, which puts more pressure than ever on organizations to quickly patch their systems. This leaves often under-resourced IT teams scrambling to evaluate a massive number...
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Los cortes de suministro no han hecho más que empezar*
+
+- 📌 **¿Qué sucedió?**: Durante la última semana, seguramente habrás observado la racha de interrupciones técnicas que ha afectado a todo tipo de servicios, desde Outlook hasta Apple, pasando por media docena de bancos estadounidenses, United Airlines e incluso la red clasificada de la NSA. Aunque no hay pruebas de que se tratara de ciberataques, las especulaciones sobre la causa se han desbocado, incluida la de que
+
+- 🔍 **Detalles clave**: Así que seamos claros: los incidentes no fueron causados, ni mucho menos, por algún tipo de oleada coordinada de hackeos con IA y, considerados individualmente, todos parecen tener explicaciones rutinarias. Pero a medida que la IA influye cada vez más en la dinámica de la defensa digital, los investigadores y analistas de seguridad han llegado cada vez más a la conclusión de que la IA
+
+- 💡 **Impacto y contexto**: La detección de vulnerabilidades asistida por IA ha desatado una oleada de errores de software. A continuación, los atacantes utilizan herramientas de IA para explotar esas vulnerabilidades más rápidamente, lo que ejerce más presión que nunca sobre las organizaciones para que parcheen sus sistemas con rapidez. Esto hace que los equipos de TI, a menudo con recursos insuficientes, se vean obligados a evaluar un número enorme
+
+</details>
+
+🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/)**
+
+---
+
+### 🔹 Column 5: [GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys](https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
+
+- 📌 **What happened?**: A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG.
+
+- 🔍 **Key details**: The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions.
+
+- 💡 **Context & Impact**: The bug, tracked as CVE-2026-129975, affects all software that uses GPGME before version 2.3.0, whether the library is loaded as a shared library, a Windows DLL, or statically linked into the program.
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *GnuPG advierte de que un fallo crítico de GPGME podría exponer los datos de las aplicaciones a través de claves OpenPGP maliciosas*
+
+- 📌 **¿Qué sucedió?**: Una clave OpenPGP maliciosa con un ID de usuario inusualmente largo puede provocar un fallo crítico de memoria en GPGME, la biblioteca estándar que utilizan los programas para trabajar con GnuPG.
+
+- 🔍 **Detalles clave**: El proyecto GnuPG advirtió ayer que la vulnerabilidad podría utilizarse para robar datos de las aplicaciones afectadas y ha publicado versiones corregidas.
+
+- 💡 **Impacto y contexto**: El fallo, identificado como CVE-2026-129975, afecta a todo el software que utiliza GPGME en versiones anteriores a la 2.3.0, independientemente de si la biblioteca se carga como biblioteca compartida, como DLL de Windows o si está vinculada estáticamente al programa.
+
+</details>
+
+🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html)**
 
 ---
 
@@ -155,6 +155,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#66](editions/2026/11/2026-11-21.md) | 2026-11-21 | [Amazon: China-Linked Hackers’ AI Agents Exploited Medical Soft...](https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/) | 🛡️ Cybersecurity |
 | [#65](editions/2026/11/2026-11-20.md) | 2026-11-20 | [In Other News: Norwegian Energy Firm Cyberattacks, Supercomput...](https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/) | 🛡️ Cybersecurity |
 | [#64](editions/2026/11/2026-11-19.md) | 2026-11-19 | [PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Re...](https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html) | 🛡️ Cybersecurity |
 | [#63](editions/2026/11/2026-11-18.md) | 2026-11-18 | [VeroSecurity Raises $11 Million for AI Security Engineering Pl...](https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/) | 🛡️ Cybersecurity |
@@ -169,9 +170,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#54](editions/2026/11/2026-11-09.md) | 2026-11-09 | [NIST: Solo Shouldn't Mean Less Secure](https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure) | 🛡️ Cybersecurity |
 | [#53](editions/2026/11/2026-11-08.md) | 2026-11-08 | [Brava Security Emerges From Stealth With $15 Million in Funding](https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/) | 🛡️ Cybersecurity |
 | [#52](editions/2026/11/2026-11-07.md) | 2026-11-07 | [SonicWall Patches Exploited SonicOS Vulnerability That Weakens...](https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/) | 🛡️ Cybersecurity |
-| [#51](editions/2026/11/2026-11-06.md) | 2026-11-06 | [DigiCert Data Breach Impacts Business Customer Information](https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/) | 🛡️ Cybersecurity |
 
-*... and 50 more archived editions in `/editions` directory.*
+*... and 51 more archived editions in `/editions` directory.*
 
 ---
 

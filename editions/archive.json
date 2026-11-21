@@ -1075,5 +1075,22 @@
       "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
       "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
     ]
+  },
+  {
+    "edition": 66,
+    "date": "2026-11-21",
+    "rel_path": "editions/2026/11/2026-11-21.md",
+    "title_en": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
+    "title_es": "Amazon: Los agentes de IA de los hackers vinculados a China explotaron una vulnerabilidad de día cero en un software médico",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+    "story_links": [
+      "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+      "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+      "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html"
+    ]
   }
 ]
