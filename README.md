@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #66** — *Saturday, November 21, 2026*
+> **📅 Today's Edition: Issue #67** — *Sunday, November 22, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2366-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2367-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,135 +17,135 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day](https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
+### 📌 [OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms](https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
 
-- 📌 **What happened?**: Amazon says autonomous AI agents run by a China-linked threat actor found and exploited a zero-day vulnerability in MONAI Label, an open source tool designed for AI-assisted annotation of medical images.
+- 📌 **What happened?**: Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.
 
-- 🔍 **Key details**: The tech giant’s threat intelligence team detected the activity in September, after coming across an exposed instance of Cairn, an open source AI penetration testing framework. The instance had no authentication, so anyone could see the operator’s prompts and the agents’ output.
+- 🔍 **Key details**: Some of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored.
 
-- 💡 **Context & Impact**: The records showed a roughly 48-hour campaign against IP addresses belonging to universities in East Asia outside mainland China. The operator gave the agents a list of targets and told them to obtain shell access.
+- 💡 **Context & Impact**: OpenRouter, a gateway that routes customers' AI requests to a pool of third-party providers, said today that it has removed three providers from its platform, removed 125 endpoints from eligibility for Zero Data Retention, and notified all potentially affected customers. The findings showed no breach of OpenRouter...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Amazon: Los agentes de IA de los hackers vinculados a China explotaron una vulnerabilidad de día cero en un software médico*
+> **Título en español:** *OpenRouter prescinde de 3 proveedores después de que unos investigadores descubrieran que llevaban meses robando «prompts» en empresas de alojamiento de IA*
 
-- 📌 **¿Qué sucedió?**: Amazon afirma que agentes autónomos de IA gestionados por un actor de amenazas vinculado a China descubrieron y explotaron una vulnerabilidad de «día cero» en MONAI Label, una herramienta de código abierto diseñada para la anotación asistida por IA de imágenes médicas.
+- 📌 **¿Qué sucedió?**: Los atacantes robaron datos del interior de tres proveedores de inferencia de IA durante meses, y ninguno de los tres lo supo hasta que los investigadores se lo comunicaron, afirmó esta semana la empresa de ciberseguridad industrial Dragos.
 
-- 🔍 **Detalles clave**: El equipo de inteligencia de amenazas del gigante tecnológico detectó la actividad en septiembre, después de encontrarse con una instancia expuesta de Cairn, un «framework» de código abierto para pruebas de penetración de IA. La instancia no tenía autenticación, por lo que cualquiera podía ver las indicaciones del operador y los resultados de los agentes.
+- 🔍 **Detalles clave**: Algunas de las solicitudes robadas estaban marcadas como «Sin retención de datos», el ajuste que se supone que significa que una solicitud nunca se almacena.
 
-- 💡 **Impacto y contexto**: Los registros mostraban una campaña de aproximadamente 48 horas contra direcciones IP pertenecientes a universidades de Asia Oriental fuera de China continental. El operador entregó a los agentes una lista de objetivos y les dijo que obtuvieran acceso al shell.
+- 💡 **Impacto y contexto**: OpenRouter, una pasarela que dirige las solicitudes de IA de los clientes a un grupo de proveedores externos, ha anunciado hoy que ha eliminado a tres proveedores de su plataforma, ha retirado 125 puntos finales de la lista de elegibles para la retención cero de datos y ha notificado a todos los clientes potencialmente afectados. Los resultados no revelaron ninguna vulneración de OpenRouter.
 
 </details>
 
-👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/)**
+👉 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html)**
 
 ---
 
 ## 📰 TOP HIGHLIGHTS (4 Stories)
 
-### 🔹 Column 2: [Chess.com’s next move is a new hub for classic games, from mahjong to sudoku](https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai)
+### 🔹 Column 2: [The vibe-coding revolution is coming to all the gadgets](https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera)
 > **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** The Verge AI
 
-- 📌 **What happened?**: Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They’re all part of Chess’s new Classic...
+- 📌 **What happened?**: Large language models can now redesign your TV and upgrade your camera for you. Is the physical world ready to be Claude Code-d?
 
-- 🔍 **Key details**: Chess.com’s next move is a new hub for classic games, from mahjong to sudoku
+- 🔍 **Key details**: Like so many things with AI, it’s not that large language models opened up some wholly new capability. For as long as there have been gadgets, a few users have been hacking, modding, jailbreaking, and tweaking them to their liking. What is new is that it’s easy now. People all over the world are discovering that they...
 
-- 💡 **Context & Impact**: AI changed the game at Chess.com, helping it expand to 11 other classics this year.
+- 💡 **Context & Impact**: For one developer in India who goes by Gathin T, the whole thing started almost on a whim. “One afternoon, I was fiddling with my TV, and it was just really shitty,” he tells me. His was a set made by Xiaomi and running Android TV, with so many ads and so much interface chaos it was hard to even change inputs. And he...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *El próximo movimiento de Chess.com es un nuevo centro para juegos clásicos, desde el mahjong hasta el sudoku*
+> **Título en español:** *La revolución de la codificación de sensaciones llega a todos los dispositivos*
 
-- 📌 **¿Qué sucedió?**: Chess.com está preparado para ir mucho más allá del ajedrez. Tras lanzar Gambit, un sitio de póquer sin apuestas, a principios de este año, la empresa va a añadir ahora 10 juegos más: backgammon, damas, go, corazones, mahjong, shogi, sudoku, solitario, xiangqi y una alternativa al Scrabble llamada Word. Todos forman parte de la nueva Classic de Chess.
+- 📌 **¿Qué sucedió?**: Los grandes modelos de lenguaje ahora pueden rediseñar tu televisor y mejorar tu cámara por ti. ¿Está el mundo físico preparado para que Claude lo «codee»?
 
-- 🔍 **Detalles clave**: El próximo movimiento de Chess.com es un nuevo centro para juegos clásicos, desde el mahjong hasta el sudoku
+- 🔍 **Detalles clave**: Como ocurre con tantas cosas relacionadas con la IA, no es que los grandes modelos de lenguaje hayan abierto una capacidad completamente nueva. Desde que existen los dispositivos, algunos usuarios los han hackeado, modificado, desbloqueado y ajustado a su gusto. Lo nuevo es que ahora es fácil. Personas de todo el mundo están descubriendo que
 
-- 💡 **Impacto y contexto**: La IA cambió las reglas del juego en Chess.com, ayudándole a expandirse a otros 11 clásicos este año.
+- 💡 **Impacto y contexto**: Para un desarrollador de la India que se hace llamar Gathin T, todo empezó casi por capricho. «Una tarde, estaba trasteando con mi televisor y era realmente pésimo», me cuenta. El suyo era un televisor fabricado por Xiaomi y con Android TV, con tantos anuncios y tanto caos en la interfaz que incluso resultaba difícil cambiar de entrada. Y él
 
 </details>
 
-🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai)**
+🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera)**
 
 ---
 
-### 🔹 Column 3: [A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats](https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html)
+### 🔹 Column 3: [Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps](https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
 
-- 📌 **What happened?**: A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.
+- 📌 **What happened?**: A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it.
 
-- 🔍 **Key details**: The same attack could be extended to reach the credentials Muse stores for the user's connected accounts.
+- 🔍 **Key details**: Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling it directly.
 
-- 💡 **Context & Impact**: The work was a laboratory demonstration, not an attack on real users, and it stayed inside the individual user's cloud machine. NebuSec, the security firm that published it yesterday, says Muse's team has since fixed every weakness it describes.
+- 💡 **Context & Impact**: Security firm pwn.ai showed this week that ordinary upload, preview, and print features in about ten common applications could be tricked into feeding it such a file. The flaw, tracked as CVE-2026-125396, was fixed on September 8, and there have been no reports of it being used in attacks.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Una sola página web maliciosa permitió a unos investigadores secuestrar Meta Muse y acceder a chats privados*
+> **Título en español:** *Unos investigadores demuestran una vulnerabilidad de ejecución remota de código (RCE) de evasión del «sandbox» de Ghostscript mediante la carga de archivos manipulados en aplicaciones populares*
 
-- 📌 **¿Qué sucedió?**: Los investigadores han demostrado que una página web maliciosa podría extraer las conversaciones privadas de un usuario de Meta Muse y los recuerdos almacenados en el asistente sin activar ningún aviso de aprobación.
+- 📌 **¿Qué sucedió?**: Una vulnerabilidad ya parcheada en Ghostscript permite que un archivo especialmente diseñado eluda el entorno aislado de seguridad del programa y ejecute comandos en el servidor que lo procesa.
 
-- 🔍 **Detalles clave**: El mismo ataque podría ampliarse para llegar a las credenciales que Muse almacena para las cuentas conectadas del usuario.
+- 🔍 **Detalles clave**: Ghostscript es el intérprete que muchos servidores Linux utilizan para convertir los PDF, los archivos PostScript y las imágenes subidos a otros formatos, a menudo sin que la aplicación lo invoque directamente.
 
-- 💡 **Impacto y contexto**: El trabajo fue una demostración de laboratorio, no un ataque a usuarios reales, y se mantuvo dentro de la máquina en la nube del usuario individual. NebuSec, la empresa de seguridad que lo publicó ayer, afirma que el equipo de Muse ha subsanado desde entonces todas las vulnerabilidades que describe.
+- 💡 **Impacto y contexto**: La empresa de seguridad pwn.ai demostró esta semana que las funciones habituales de subida, vista previa e impresión de unas diez aplicaciones comunes podrían verse engañadas para que aceptaran un archivo de este tipo. La vulnerabilidad, identificada como CVE-2026-125396, se solucionó el 8 de septiembre y no se ha informado de que se haya utilizado en ningún ataque.
 
 </details>
 
-🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html)**
+🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html)**
 
 ---
 
-### 🔹 Column 4: [The Outages Are Just Getting Started](https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/)
+### 🔹 Column 4: [Banks Have Had It Up to Here With Your AI Agent](https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/)
 > **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
 
-- 📌 **What happened?**: Over the last week, you have surely noticed the disruptive streak of technical outages that hit everything from Outlook to Apple, a half dozen US banks, United Airlines, and even the NSA’s classified network. While there’s no evidence that these were cyberattacks, speculation has run wild about the cause—including a...
+- 📌 **What happened?**: Wells Fargo is set to enact an updated agreement with millions of customers, specifically about AI agents, starting on Tuesday. The bank’s warning to early adopters could not be clearer. “Your use of any AI Agent is AT YOUR OWN RISK,” read Wells Fargo’s new terms.
 
-- 🔍 **Key details**: So let’s just be clear: The incidents were definitely not caused by some sort of coordinated AI hacking spree and, taken individually, they all seem to have routine explanations. But as AI impacts the dynamics of digital defense more and more, security researchers and analysts have increasingly concluded that AI...
+- 🔍 **Key details**: AI agents, which automate online tasks and click on your behalf, have stumbled through 2026. They remain nascent technology, but a growing subset of power users latched onto the personal bots this year. Sometimes these early adopters enjoyed the efficient help of automation, and other times they publicly embarrassed...
 
-- 💡 **Context & Impact**: AI-assisted vulnerability discovery has unleashed a torrent of software bugs. Attackers are then using AI tools to exploit those vulnerabilities faster, which puts more pressure than ever on organizations to quickly patch their systems. This leaves often under-resourced IT teams scrambling to evaluate a massive number...
+- 💡 **Context & Impact**: Builders of these AI tools often market agents as the ultimate tool for shopping decisions, whether that’s putting together a grocery order, finding accommodations for a vacation, or discovering specific holiday gifts for your parents. I’ve used an agent to help shop for a new couch, comparing options within a...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Los cortes de suministro no han hecho más que empezar*
+> **Título en español:** *Los bancos están hartos de tu agente de IA*
 
-- 📌 **¿Qué sucedió?**: Durante la última semana, seguramente habrás observado la racha de interrupciones técnicas que ha afectado a todo tipo de servicios, desde Outlook hasta Apple, pasando por media docena de bancos estadounidenses, United Airlines e incluso la red clasificada de la NSA. Aunque no hay pruebas de que se tratara de ciberataques, las especulaciones sobre la causa se han desbocado, incluida la de que
+- 📌 **¿Qué sucedió?**: Wells Fargo tiene previsto poner en marcha un acuerdo actualizado con millones de clientes, específicamente sobre los agentes de IA, a partir del martes. La advertencia del banco a los primeros usuarios no podría ser más clara. «El uso de cualquier agente de IA es BAJO SU PROPIA RESPONSABILIDAD», rezan las nuevas condiciones de Wells Fargo.
 
-- 🔍 **Detalles clave**: Así que seamos claros: los incidentes no fueron causados, ni mucho menos, por algún tipo de oleada coordinada de hackeos con IA y, considerados individualmente, todos parecen tener explicaciones rutinarias. Pero a medida que la IA influye cada vez más en la dinámica de la defensa digital, los investigadores y analistas de seguridad han llegado cada vez más a la conclusión de que la IA
+- 🔍 **Detalles clave**: Los agentes de IA, que automatizan tareas en línea y hacen clic en tu nombre, han ido dando tumbos a lo largo de 2026. Siguen siendo una tecnología incipiente, pero un subconjunto cada vez mayor de usuarios avanzados se ha decantado por los bots personales este año. A veces, estos primeros usuarios disfrutaron de la ayuda eficiente de la automatización, y otras veces pasaron momentos embarazosos en público.
 
-- 💡 **Impacto y contexto**: La detección de vulnerabilidades asistida por IA ha desatado una oleada de errores de software. A continuación, los atacantes utilizan herramientas de IA para explotar esas vulnerabilidades más rápidamente, lo que ejerce más presión que nunca sobre las organizaciones para que parcheen sus sistemas con rapidez. Esto hace que los equipos de TI, a menudo con recursos insuficientes, se vean obligados a evaluar un número enorme
+- 💡 **Impacto y contexto**: Los creadores de estas herramientas de IA suelen promocionar a los agentes como la herramienta definitiva para tomar decisiones de compra, ya sea para preparar un pedido de la compra, buscar alojamiento para unas vacaciones o encontrar regalos navideños específicos para tus padres. He utilizado un agente para que me ayudara a comprar un sofá nuevo, comparando opciones dentro de un
 
 </details>
 
-🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/)**
+🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/)**
 
 ---
 
-### 🔹 Column 5: [GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys](https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
+### 🔹 Column 5: [FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says](https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
 
-- 📌 **What happened?**: A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG.
+- 📌 **What happened?**: The FBI is investigating an apparent hack of a national law enforcement database that it maintains, a person familiar with the matter said Saturday.
 
-- 🔍 **Key details**: The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions.
+- 🔍 **Key details**: The National Crime Information Center, known as the NCIC, is a computerized database of criminal justice information that is available to local, state and federal law enforcement agencies and includes records on fugitives, missing persons, criminal history data, stolen property and other topics.
 
-- 💡 **Context & Impact**: The bug, tracked as CVE-2026-129975, affects all software that uses GPGME before version 2.3.0, whether the library is loaded as a shared library, a Windows DLL, or statically linked into the program.
+- 💡 **Context & Impact**: The FBI declined to comment Saturday on the apparent hack, which was first reported by CNN and confirmed to The Associated Press by a person familiar with the matter who was not authorized to speak by name and spoke on the condition of anonymity.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *GnuPG advierte de que un fallo crítico de GPGME podría exponer los datos de las aplicaciones a través de claves OpenPGP maliciosas*
+> **Título en español:** *El FBI investiga un aparente «hackeo» de su principal base de datos nacional de justicia penal, según una fuente de AP*
 
-- 📌 **¿Qué sucedió?**: Una clave OpenPGP maliciosa con un ID de usuario inusualmente largo puede provocar un fallo crítico de memoria en GPGME, la biblioteca estándar que utilizan los programas para trabajar con GnuPG.
+- 📌 **¿Qué sucedió?**: El FBI está investigando un aparente hackeo de una base de datos nacional de las fuerzas del orden que mantiene, según afirmó el sábado una persona con conocimiento del asunto.
 
-- 🔍 **Detalles clave**: El proyecto GnuPG advirtió ayer que la vulnerabilidad podría utilizarse para robar datos de las aplicaciones afectadas y ha publicado versiones corregidas.
+- 🔍 **Detalles clave**: El Centro Nacional de Información sobre Delincuencia, conocido como NCIC, es una base de datos informatizada de información sobre justicia penal a la que pueden acceder los cuerpos de seguridad locales, estatales y federales, e incluye registros sobre fugitivos, personas desaparecidas, datos de antecedentes penales, bienes robados y otros temas.
 
-- 💡 **Impacto y contexto**: El fallo, identificado como CVE-2026-129975, afecta a todo el software que utiliza GPGME en versiones anteriores a la 2.3.0, independientemente de si la biblioteca se carga como biblioteca compartida, como DLL de Windows o si está vinculada estáticamente al programa.
+- 💡 **Impacto y contexto**: El sábado, el FBI se negó a hacer comentarios sobre el aparente hackeo, del que informó por primera vez la CNN y que confirmó a The Associated Press una persona con conocimiento del asunto que no estaba autorizada a hablar con su nombre y que lo hizo bajo condición de anonimato.
 
 </details>
 
-🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html)**
+🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/)**
 
 ---
 
@@ -155,6 +155,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#67](editions/2026/11/2026-11-22.md) | 2026-11-22 | [OpenRouter Drops 3 Providers After Researchers Catch Months of...](https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html) | 🛡️ Cybersecurity |
 | [#66](editions/2026/11/2026-11-21.md) | 2026-11-21 | [Amazon: China-Linked Hackers’ AI Agents Exploited Medical Soft...](https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/) | 🛡️ Cybersecurity |
 | [#65](editions/2026/11/2026-11-20.md) | 2026-11-20 | [In Other News: Norwegian Energy Firm Cyberattacks, Supercomput...](https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/) | 🛡️ Cybersecurity |
 | [#64](editions/2026/11/2026-11-19.md) | 2026-11-19 | [PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Re...](https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html) | 🛡️ Cybersecurity |
@@ -169,9 +170,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#55](editions/2026/11/2026-11-10.md) | 2026-11-10 | [WhiteMatter Raises $20 Million in Series A Funding](https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/) | 🛡️ Cybersecurity |
 | [#54](editions/2026/11/2026-11-09.md) | 2026-11-09 | [NIST: Solo Shouldn't Mean Less Secure](https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure) | 🛡️ Cybersecurity |
 | [#53](editions/2026/11/2026-11-08.md) | 2026-11-08 | [Brava Security Emerges From Stealth With $15 Million in Funding](https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/) | 🛡️ Cybersecurity |
-| [#52](editions/2026/11/2026-11-07.md) | 2026-11-07 | [SonicWall Patches Exploited SonicOS Vulnerability That Weakens...](https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/) | 🛡️ Cybersecurity |
 
-*... and 51 more archived editions in `/editions` directory.*
+*... and 52 more archived editions in `/editions` directory.*
 
 ---
 

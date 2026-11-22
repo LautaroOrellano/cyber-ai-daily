@@ -1092,5 +1092,22 @@
       "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
       "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html"
     ]
+  },
+  {
+    "edition": 67,
+    "date": "2026-11-22",
+    "rel_path": "editions/2026/11/2026-11-22.md",
+    "title_en": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+    "title_es": "OpenRouter prescinde de 3 proveedores después de que unos investigadores descubrieran que llevaban meses robando «prompts» en empresas de alojamiento de IA",
+    "category": "cyber",
+    "source": "The Hacker News",
+    "lead_link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+    "story_links": [
+      "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+      "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+      "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/"
+    ]
   }
 ]
