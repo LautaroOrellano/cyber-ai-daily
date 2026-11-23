@@ -1109,5 +1109,22 @@
       "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
       "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/"
     ]
+  },
+  {
+    "edition": 68,
+    "date": "2026-11-23",
+    "rel_path": "editions/2026/11/2026-11-23.md",
+    "title_en": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors",
+    "title_es": "Tras el alias: cómo un investigador desenmascaró a los autores de una década de ataques de «ransomware»",
+    "category": "cyber",
+    "source": "Dark Reading",
+    "lead_link": "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors",
+    "story_links": [
+      "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors",
+      "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+      "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+      "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/"
+    ]
   }
 ]

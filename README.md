@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #67** — *Sunday, November 22, 2026*
+> **📅 Today's Edition: Issue #68** — *Monday, November 23, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2367-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2368-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,135 +17,131 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms](https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
+### 📌 [Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors](https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** Dark Reading
 
-- 📌 **What happened?**: Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.
+- 📌 **What happened?**: Ransomware isn't slowing down. A new framework gives security teams the edge to trace attackers back to their source.
 
-- 🔍 **Key details**: Some of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored.
-
-- 💡 **Context & Impact**: OpenRouter, a gateway that routes customers' AI requests to a pool of third-party providers, said today that it has removed three providers from its platform, removed 125 endpoints from eligibility for Zero Data Retention, and notified all potentially affected customers. The findings showed no breach of OpenRouter...
+- 🔍 **Key details**: Read the full original coverage in the link below.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *OpenRouter prescinde de 3 proveedores después de que unos investigadores descubrieran que llevaban meses robando «prompts» en empresas de alojamiento de IA*
+> **Título en español:** *Tras el alias: cómo un investigador desenmascaró a los autores de una década de ataques de «ransomware»*
 
-- 📌 **¿Qué sucedió?**: Los atacantes robaron datos del interior de tres proveedores de inferencia de IA durante meses, y ninguno de los tres lo supo hasta que los investigadores se lo comunicaron, afirmó esta semana la empresa de ciberseguridad industrial Dragos.
+- 📌 **¿Qué sucedió?**: El ransomware no se detiene. Un nuevo marco ofrece a los equipos de seguridad la ventaja de rastrear a los atacantes hasta su origen.
 
-- 🔍 **Detalles clave**: Algunas de las solicitudes robadas estaban marcadas como «Sin retención de datos», el ajuste que se supone que significa que una solicitud nunca se almacena.
-
-- 💡 **Impacto y contexto**: OpenRouter, una pasarela que dirige las solicitudes de IA de los clientes a un grupo de proveedores externos, ha anunciado hoy que ha eliminado a tres proveedores de su plataforma, ha retirado 125 puntos finales de la lista de elegibles para la retención cero de datos y ha notificado a todos los clientes potencialmente afectados. Los resultados no revelaron ninguna vulneración de OpenRouter.
+- 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
 
 </details>
 
-👉 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html)**
+👉 **[Read full article on Dark Reading ↗](https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors)**
 
 ---
 
 ## 📰 TOP HIGHLIGHTS (4 Stories)
 
-### 🔹 Column 2: [The vibe-coding revolution is coming to all the gadgets](https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera)
+### 🔹 Column 2: [Oregon and Virginia sue SpaceX over Grok’s porn deepfakes](https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit)
 > **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** The Verge AI
 
-- 📌 **What happened?**: Large language models can now redesign your TV and upgrade your camera for you. Is the physical world ready to be Claude Code-d?
+- 📌 **What happened?**: In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok AI features. The...
 
-- 🔍 **Key details**: Like so many things with AI, it’s not that large language models opened up some wholly new capability. For as long as there have been gadgets, a few users have been hacking, modding, jailbreaking, and tweaking them to their liking. What is new is that it’s easy now. People all over the world are discovering that they...
+- 🔍 **Key details**: State AGs called the weak safeguards built into Elon Musk’s AI image generator ‘not a failure but a feature.’
 
-- 💡 **Context & Impact**: For one developer in India who goes by Gathin T, the whole thing started almost on a whim. “One afternoon, I was fiddling with my TV, and it was just really shitty,” he tells me. His was a set made by Xiaomi and running Android TV, with so many ads and so much interface chaos it was hard to even change inputs. And he...
+- 💡 **Context & Impact**: “Time and again, xAI and X told consumers they were being protected from abuses. That was false. Instead, the tool permitted users to routinely create and circulate non-consensual intimate imagery and sexualized images, and child sexual abuse material (CSAM), causing harm to individuals and children,” Jones said in a...
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *La revolución de la codificación de sensaciones llega a todos los dispositivos*
+> **Título en español:** *Oregón y Virginia demandan a SpaceX por los «deepfakes» pornográficos de Grok*
 
-- 📌 **¿Qué sucedió?**: Los grandes modelos de lenguaje ahora pueden rediseñar tu televisor y mejorar tu cámara por ti. ¿Está el mundo físico preparado para que Claude lo «codee»?
+- 📌 **¿Qué sucedió?**: En demandas separadas pero similares presentadas el lunes, el fiscal general de Oregón, Dan Rayfield, y el fiscal general de Virginia, Jay Jones, acusaron a SpaceX de infringir las leyes estatales de protección del consumidor al ignorar las medidas de seguridad estándar del sector y promocionar de forma engañosa la seguridad de su plataforma de redes sociales X y de las funciones de IA de Grok.
 
-- 🔍 **Detalles clave**: Como ocurre con tantas cosas relacionadas con la IA, no es que los grandes modelos de lenguaje hayan abierto una capacidad completamente nueva. Desde que existen los dispositivos, algunos usuarios los han hackeado, modificado, desbloqueado y ajustado a su gusto. Lo nuevo es que ahora es fácil. Personas de todo el mundo están descubriendo que
+- 🔍 **Detalles clave**: Los fiscales generales estatales calificaron las débiles medidas de seguridad integradas en el generador de imágenes por IA de Elon Musk como «no un fallo, sino una característica».
 
-- 💡 **Impacto y contexto**: Para un desarrollador de la India que se hace llamar Gathin T, todo empezó casi por capricho. «Una tarde, estaba trasteando con mi televisor y era realmente pésimo», me cuenta. El suyo era un televisor fabricado por Xiaomi y con Android TV, con tantos anuncios y tanto caos en la interfaz que incluso resultaba difícil cambiar de entrada. Y él
+- 💡 **Impacto y contexto**: «xAI y X dijeron una y otra vez a los consumidores que estaban protegidos frente a los abusos. Eso era falso. En lugar de ello, la herramienta permitía a los usuarios crear y difundir habitualmente imágenes íntimas y sexualizadas sin consentimiento, así como material de abuso sexual infantil (CSAM), lo que causaba daños a personas y niños», afirmó Jones en una
 
 </details>
 
-🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera)**
+🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit)**
 
 ---
 
-### 🔹 Column 3: [Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps](https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html)
+### 🔹 Column 3: [Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access](https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html)
 > **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
 
-- 📌 **What happened?**: A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it.
+- 📌 **What happened?**: The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring software to establish covert remote access to compromised networks.
 
-- 🔍 **Key details**: Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling it directly.
+- 🔍 **Key details**: The modified variant "implements various tricks to hide itself from security tools," Rapid7 said in an analysis, attributing it to the adversarial collective with moderate confidence.
 
-- 💡 **Context & Impact**: Security firm pwn.ai showed this week that ordinary upload, preview, and print features in about ten common applications could be tricked into feeding it such a file. The flaw, tracked as CVE-2026-125396, was fixed on September 8, and there have been no reports of it being used in attacks.
+- 💡 **Context & Impact**: First publicly detailed by Broadcom-owned Symantec in September 2022, Webworm is the name assigned to a China-aligned nation-state group that has targeted government entities, IT services, and electric power companies across Russia, Georgia, Mongolia, and several other Asian nations.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Unos investigadores demuestran una vulnerabilidad de ejecución remota de código (RCE) de evasión del «sandbox» de Ghostscript mediante la carga de archivos manipulados en aplicaciones populares*
+> **Título en español:** *Se sospecha que el gusano Webworm ha modificado SoftEther VPN para evitar la detección y ocultar el acceso remoto*
 
-- 📌 **¿Qué sucedió?**: Una vulnerabilidad ya parcheada en Ghostscript permite que un archivo especialmente diseñado eluda el entorno aislado de seguridad del programa y ejecute comandos en el servidor que lo procesa.
+- 📌 **¿Qué sucedió?**: Se sospecha que el actor de amenazas alineado con China conocido como Webworm está utilizando una versión personalizada de la herramienta de código abierto SoftEther VPN Bridge en un intento de eliminar las huellas digitales de detección reconocibles, al tiempo que la disfraza de software de monitorización de redes para establecer un acceso remoto encubierto a redes comprometidas.
 
-- 🔍 **Detalles clave**: Ghostscript es el intérprete que muchos servidores Linux utilizan para convertir los PDF, los archivos PostScript y las imágenes subidos a otros formatos, a menudo sin que la aplicación lo invoque directamente.
+- 🔍 **Detalles clave**: La variante modificada «emplea varios trucos para ocultarse de las herramientas de seguridad», afirmó Rapid7 en un análisis, atribuyéndola al colectivo adversario con un grado de certeza moderado.
 
-- 💡 **Impacto y contexto**: La empresa de seguridad pwn.ai demostró esta semana que las funciones habituales de subida, vista previa e impresión de unas diez aplicaciones comunes podrían verse engañadas para que aceptaran un archivo de este tipo. La vulnerabilidad, identificada como CVE-2026-125396, se solucionó el 8 de septiembre y no se ha informado de que se haya utilizado en ningún ataque.
+- 💡 **Impacto y contexto**: Webworm, cuyo funcionamiento se describió públicamente por primera vez en septiembre de 2022 por Symantec, propiedad de Broadcom, es el nombre que se le ha dado a un grupo nacional-estatal afín a China que ha atacado a entidades gubernamentales, servicios informáticos y empresas eléctricas de Rusia, Georgia, Mongolia y varios otros países asiáticos.
 
 </details>
 
-🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html)**
+🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html)**
 
 ---
 
-### 🔹 Column 4: [Banks Have Had It Up to Here With Your AI Agent](https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/)
+### 🔹 Column 4: [Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO](https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
+
+- 📌 **What happened?**: Jensen Huang is scheduled to testify before the Senate Banking Committee on December 3, according to a notice on the committee’s website.
+
+- 🔍 **Key details**: The development comes just hours after Huang was reinstated as Nvidia chief executive, less than two weeks following his resignation after it was revealed that he engaged in at least two extramarital affairs, including one with a woman suspected by the U.S. government of working as a Chinese spy.
+
+- 💡 **Context & Impact**: The Senate Banking Committee has jurisdiction over export control policies that are designed to prevent sensitive U.S. technologies, such as chips capable of powering AI models, from falling into the hands of foreign governments and militaries.
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Jensen Huang tiene previsto testificar la próxima semana en el Senado tras su reincorporación como director ejecutivo de Nvidia*
+
+- 📌 **¿Qué sucedió?**: Jensen Huang tiene previsto comparecer ante el Comité Bancario del Senado el 3 de diciembre, según un comunicado publicado en el sitio web del comité.
+
+- 🔍 **Detalles clave**: Este acontecimiento se produce apenas unas horas después de que Huang volviera a ser nombrado director ejecutivo de Nvidia, menos de dos semanas después de su dimisión, tras revelarse que había mantenido al menos dos relaciones extramatrimoniales, incluida una con una mujer sospechosa, según el Gobierno estadounidense, de trabajar como espía china.
+
+- 💡 **Impacto y contexto**: El Comité Bancario del Senado tiene jurisdicción sobre las políticas de control de las exportaciones, que están diseñadas para evitar que tecnologías estadounidenses sensibles, como los chips capaces de alimentar modelos de IA, caigan en manos de gobiernos y ejércitos extranjeros.
+
+</details>
+
+🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/)**
+
+---
+
+### 🔹 Column 5: [Jensen Huang Is Back, and So Is Nvidia’s Stock](https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/)
 > **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
 
-- 📌 **What happened?**: Wells Fargo is set to enact an updated agreement with millions of customers, specifically about AI agents, starting on Tuesday. The bank’s warning to early adopters could not be clearer. “Your use of any AI Agent is AT YOUR OWN RISK,” read Wells Fargo’s new terms.
+- 📌 **What happened?**: The chipmaker’s shares have surged more than 30 percent following the board’s announcement that it was reinstating Huang as president, CEO and board member. The company’s valuation has soared by more than $1 trillion, which puts it on track to break Microsoft’s record for the greatest single-day gain in market value...
 
-- 🔍 **Key details**: AI agents, which automate online tasks and click on your behalf, have stumbled through 2026. They remain nascent technology, but a growing subset of power users latched onto the personal bots this year. Sometimes these early adopters enjoyed the efficient help of automation, and other times they publicly embarrassed...
+- 🔍 **Key details**: Huang departed the company he helped found on November 12 amid suspected asset-kissing and allegations of extramarital affairs with employees. Each report chipped away at the company’s value, until nearly $2.2 trillion was erased over the last month.
 
-- 💡 **Context & Impact**: Builders of these AI tools often market agents as the ultimate tool for shopping decisions, whether that’s putting together a grocery order, finding accommodations for a vacation, or discovering specific holiday gifts for your parents. I’ve used an agent to help shop for a new couch, comparing options within a...
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *Los bancos están hartos de tu agente de IA*
-
-- 📌 **¿Qué sucedió?**: Wells Fargo tiene previsto poner en marcha un acuerdo actualizado con millones de clientes, específicamente sobre los agentes de IA, a partir del martes. La advertencia del banco a los primeros usuarios no podría ser más clara. «El uso de cualquier agente de IA es BAJO SU PROPIA RESPONSABILIDAD», rezan las nuevas condiciones de Wells Fargo.
-
-- 🔍 **Detalles clave**: Los agentes de IA, que automatizan tareas en línea y hacen clic en tu nombre, han ido dando tumbos a lo largo de 2026. Siguen siendo una tecnología incipiente, pero un subconjunto cada vez mayor de usuarios avanzados se ha decantado por los bots personales este año. A veces, estos primeros usuarios disfrutaron de la ayuda eficiente de la automatización, y otras veces pasaron momentos embarazosos en público.
-
-- 💡 **Impacto y contexto**: Los creadores de estas herramientas de IA suelen promocionar a los agentes como la herramienta definitiva para tomar decisiones de compra, ya sea para preparar un pedido de la compra, buscar alojamiento para unas vacaciones o encontrar regalos navideños específicos para tus padres. He utilizado un agente para que me ayudara a comprar un sofá nuevo, comparando opciones dentro de un
-
-</details>
-
-🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/)**
-
----
-
-### 🔹 Column 5: [FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says](https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
-
-- 📌 **What happened?**: The FBI is investigating an apparent hack of a national law enforcement database that it maintains, a person familiar with the matter said Saturday.
-
-- 🔍 **Key details**: The National Crime Information Center, known as the NCIC, is a computerized database of criminal justice information that is available to local, state and federal law enforcement agencies and includes records on fugitives, missing persons, criminal history data, stolen property and other topics.
-
-- 💡 **Context & Impact**: The FBI declined to comment Saturday on the apparent hack, which was first reported by CNN and confirmed to The Associated Press by a person familiar with the matter who was not authorized to speak by name and spoke on the condition of anonymity.
+- 💡 **Context & Impact**: Last week, board chair Harvey Jones said during the company’s earnings call that the board did “not intend to reinstate Jensen as CEO.” WIRED also reported that Nvidia's board had been alarmed by Huang’s “lack of candor” and “lying.”
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *El FBI investiga un aparente «hackeo» de su principal base de datos nacional de justicia penal, según una fuente de AP*
+> **Título en español:** *Jensen Huang está de vuelta, al igual que las acciones de Nvidia*
 
-- 📌 **¿Qué sucedió?**: El FBI está investigando un aparente hackeo de una base de datos nacional de las fuerzas del orden que mantiene, según afirmó el sábado una persona con conocimiento del asunto.
+- 📌 **¿Qué sucedió?**: Las acciones del fabricante de chips han subido más de un 30 % tras el anuncio del consejo de administración de que iba a restablecer a Huang como presidente, director ejecutivo y miembro del consejo. La valoración de la empresa se ha disparado en más de 1 billón de dólares, lo que la sitúa en camino de batir el récord de Microsoft de mayor aumento de valor bursátil en un solo día.
 
-- 🔍 **Detalles clave**: El Centro Nacional de Información sobre Delincuencia, conocido como NCIC, es una base de datos informatizada de información sobre justicia penal a la que pueden acceder los cuerpos de seguridad locales, estatales y federales, e incluye registros sobre fugitivos, personas desaparecidas, datos de antecedentes penales, bienes robados y otros temas.
+- 🔍 **Detalles clave**: Huang abandonó la empresa que ayudó a fundar el 12 de noviembre en medio de sospechas de apropiación indebida de activos y acusaciones de relaciones extramatrimoniales con empleados. Cada informe fue mermando el valor de la empresa, hasta que se evaporaron casi 2,2 billones de dólares durante el último mes.
 
-- 💡 **Impacto y contexto**: El sábado, el FBI se negó a hacer comentarios sobre el aparente hackeo, del que informó por primera vez la CNN y que confirmó a The Associated Press una persona con conocimiento del asunto que no estaba autorizada a hablar con su nombre y que lo hizo bajo condición de anonimato.
+- 💡 **Impacto y contexto**: La semana pasada, el presidente del consejo de administración, Harvey Jones, afirmó durante la conferencia sobre resultados de la empresa que el consejo «no tenía intención de restituir a Jensen como director ejecutivo». WIRED también informó de que el consejo de administración de Nvidia se había alarmado por la «falta de sinceridad» y las «mentiras» de Huang.
 
 </details>
 
-🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/)**
+🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/)**
 
 ---
 
@@ -155,6 +151,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#68](editions/2026/11/2026-11-23.md) | 2026-11-23 | [Behind the Alias: How One Researcher Unmasked a Decade of Rans...](https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors) | 🛡️ Cybersecurity |
 | [#67](editions/2026/11/2026-11-22.md) | 2026-11-22 | [OpenRouter Drops 3 Providers After Researchers Catch Months of...](https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html) | 🛡️ Cybersecurity |
 | [#66](editions/2026/11/2026-11-21.md) | 2026-11-21 | [Amazon: China-Linked Hackers’ AI Agents Exploited Medical Soft...](https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/) | 🛡️ Cybersecurity |
 | [#65](editions/2026/11/2026-11-20.md) | 2026-11-20 | [In Other News: Norwegian Energy Firm Cyberattacks, Supercomput...](https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/) | 🛡️ Cybersecurity |
@@ -169,9 +166,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#56](editions/2026/11/2026-11-11.md) | 2026-11-11 | [Hackers Target Qlik Sense Servers With Reverse Shells, Stage A...](https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html) | 🛡️ Cybersecurity |
 | [#55](editions/2026/11/2026-11-10.md) | 2026-11-10 | [WhiteMatter Raises $20 Million in Series A Funding](https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/) | 🛡️ Cybersecurity |
 | [#54](editions/2026/11/2026-11-09.md) | 2026-11-09 | [NIST: Solo Shouldn't Mean Less Secure](https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure) | 🛡️ Cybersecurity |
-| [#53](editions/2026/11/2026-11-08.md) | 2026-11-08 | [Brava Security Emerges From Stealth With $15 Million in Funding](https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/) | 🛡️ Cybersecurity |
 
-*... and 52 more archived editions in `/editions` directory.*
+*... and 53 more archived editions in `/editions` directory.*
 
 ---
 
