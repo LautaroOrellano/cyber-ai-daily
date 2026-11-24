@@ -1126,5 +1126,22 @@
       "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
       "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/"
     ]
+  },
+  {
+    "edition": 69,
+    "date": "2026-11-24",
+    "rel_path": "editions/2026/11/2026-11-24.md",
+    "title_en": "Patel mum on FBI crime info database hack, citing ongoing investigation",
+    "title_es": "Patel guarda silencio sobre el hackeo de la base de datos de información criminal del FBI, alegando que la investigación está en curso",
+    "category": "cyber",
+    "source": "CyberScoop",
+    "lead_link": "https://cyberscoop.com/kash-patel-fbi-ncic-database-hack/",
+    "story_links": [
+      "https://cyberscoop.com/kash-patel-fbi-ncic-database-hack/",
+      "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "https://cyberscoop.com/uk-ncsc-ai-assisted-cyberattacks/",
+      "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+      "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
+    ]
   }
 ]
