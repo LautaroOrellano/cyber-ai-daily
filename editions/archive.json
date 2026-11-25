@@ -1143,5 +1143,22 @@
       "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
       "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
     ]
+  },
+  {
+    "edition": 70,
+    "date": "2026-11-25",
+    "rel_path": "editions/2026/11/2026-11-25.md",
+    "title_en": "Attackers Target .NET Developers With Poisoned Job Assessments",
+    "title_es": "Los ciberdelincuentes atacan a los desarrolladores de .NET con pruebas de trabajo infectadas",
+    "category": "cyber",
+    "source": "Dark Reading",
+    "lead_link": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments",
+    "story_links": [
+      "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments",
+      "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/",
+      "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "https://www.darkreading.com/cyber-risk/bot-world-just-living"
+    ]
   }
 ]

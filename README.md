@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #69** — *Tuesday, November 24, 2026*
+> **📅 Today's Edition: Issue #70** — *Wednesday, November 25, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2369-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2370-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,135 +17,127 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [Patel mum on FBI crime info database hack, citing ongoing investigation](https://cyberscoop.com/kash-patel-fbi-ncic-database-hack/)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** CyberScoop
+### 📌 [Attackers Target .NET Developers With Poisoned Job Assessments](https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** Dark Reading
 
-- 📌 **What happened?**: Patel mum on FBI crime info database hack, citing ongoing investigation
+- 📌 **What happened?**: Researchers discovered 13 malicious NuGet packages as part of a fake recruitment campaign that spreads malware and gives attackers access to developers' machines.
 
-- 🔍 **Key details**: There’s an active investigation into a hack of the FBI’s National Crime Information Center, bureau director Kash Patel said Tuesday, but he otherwise declined to comment on details of the breach.
-
-- 💡 **Context & Impact**: Patel said “the matter is ongoing” when asked at a new conference about who was behind the hack reported Friday and what information they obtained from the NCIC, a national database for sharing information on warrants, fugitives, missing persons and background checks.
+- 🔍 **Key details**: Read the full original coverage in the link below.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Patel guarda silencio sobre el hackeo de la base de datos de información criminal del FBI, alegando que la investigación está en curso*
+> **Título en español:** *Los ciberdelincuentes atacan a los desarrolladores de .NET con pruebas de trabajo infectadas*
 
-- 📌 **¿Qué sucedió?**: Patel guarda silencio sobre el hackeo de la base de datos de información delictiva del FBI, alegando que la investigación está en curso
+- 📌 **¿Qué sucedió?**: Unos investigadores descubrieron 13 paquetes NuGet maliciosos como parte de una campaña de contratación falsa que propaga «malware» y da a los atacantes acceso a los equipos de los desarrolladores.
 
-- 🔍 **Detalles clave**: Hay una investigación en curso sobre un ataque informático al Centro Nacional de Información sobre Delincuencia del FBI, afirmó el martes el director de la agencia, Kash Patel, pero por lo demás se negó a comentar los detalles de la brecha de seguridad.
-
-- 💡 **Impacto y contexto**: Patel dijo que «el asunto está en curso» cuando se le preguntó en una rueda de prensa sobre quién estaba detrás del hackeo del que se informó el viernes y qué información obtuvieron del NCIC, una base de datos nacional para compartir información sobre órdenes de arresto, fugitivos, personas desaparecidas y comprobaciones de antecedentes.
+- 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
 
 </details>
 
-👉 **[Read full article on CyberScoop ↗](https://cyberscoop.com/kash-patel-fbi-ncic-database-hack/)**
+👉 **[Read full article on Dark Reading ↗](https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments)**
 
 ---
 
 ## 📰 TOP HIGHLIGHTS (4 Stories)
 
-### 🔹 Column 2: [UK warns AI-driven cyberattacks are exposing years of weak security](https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
-
-- 📌 **What happened?**: The U.K. government’s cybersecurity unit says it has seen a “marked rise” in AI-driven cyberattacks in recent months, as hackers increasingly rely on autonomous hacking tools to identify and exploit simple weaknesses to break into systems and networks.
-
-- 🔍 **Key details**: The U.K. National Cyber Security Center (NCSC) said it has seen several cyber incidents since September involving autonomous hacking tools, such as penetration testing tools used by defenders to stress-test their cybersecurity defenses. These incidents have caused intrusions at organizations and resulted in downtime,...
-
-- 💡 **Context & Impact**: The NCSC says that while none of the vulnerabilities being exploited are new, the speed at which these AI tools are able to carry out simple hacks has changed.
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *El Reino Unido advierte de que los ciberataques impulsados por la IA están poniendo de manifiesto años de deficiencias en la seguridad*
-
-- 📌 **¿Qué sucedió?**: La unidad de ciberseguridad del Gobierno del Reino Unido afirma que ha observado un «aumento notable» de los ciberataques impulsados por la IA en los últimos meses, ya que los piratas informáticos recurren cada vez más a herramientas de «hacking» autónomas para identificar y explotar vulnerabilidades sencillas con el fin de irrumpir en sistemas y redes.
-
-- 🔍 **Detalles clave**: El Centro Nacional de Ciberseguridad (NCSC) del Reino Unido ha afirmado que, desde septiembre, ha detectado varios ciberincidentes relacionados con herramientas de «hacking» autónomas, como las herramientas de pruebas de penetración que utilizan los defensores para someter a «stress tests» sus defensas de ciberseguridad. Estos incidentes han provocado intrusiones en organizaciones y han ocasionado tiempos de inactividad,
-
-- 💡 **Impacto y contexto**: El NCSC afirma que, aunque ninguna de las vulnerabilidades que se están explotando es nueva, la velocidad a la que estas herramientas de IA son capaces de llevar a cabo ataques informáticos sencillos ha cambiado.
-
-</details>
-
-🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/)**
-
----
-
-### 🔹 Column 3: [UK cyber agency, threat companies tracking rise in AI-assisted hacks](https://cyberscoop.com/uk-ncsc-ai-assisted-cyberattacks/)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** CyberScoop
-
-- 📌 **What happened?**: UK cyber agency, threat companies tracking rise in AI-assisted hacks
-
-- 🔍 **Key details**: As U.S. policymakers focus on outages that appear partly caused by widespread patching of AI-identified vulnerabilities, the U.K.’s top cyber intelligence agency says it is seeing more cyberattacks carried out with AI assistance.
-
-- 💡 **Context & Impact**: On Tuesday, three officials from the National Cyber Security Centre said they had observed “a marked rise” in AI-assisted cyberattacks since September.
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *La agencia cibernética del Reino Unido y las empresas de ciberseguridad detectan un aumento de los ataques informáticos asistidos por IA*
-
-- 📌 **¿Qué sucedió?**: La agencia cibernética del Reino Unido y las empresas de ciberseguridad detectan un aumento de los ataques informáticos asistidos por IA
-
-- 🔍 **Detalles clave**: Mientras los responsables políticos estadounidenses se centran en las interrupciones que parecen deberse en parte a la aplicación generalizada de parches para vulnerabilidades identificadas por la IA, la principal agencia de ciberinteligencia del Reino Unido afirma que está observando un aumento de los ciberataques llevados a cabo con ayuda de la IA.
-
-- 💡 **Impacto y contexto**: El martes, tres funcionarios del Centro Nacional de Ciberseguridad afirmaron haber observado «un notable aumento» de los ciberataques asistidos por IA desde septiembre.
-
-</details>
-
-🔗 **[Read full article on CyberScoop ↗](https://cyberscoop.com/uk-ncsc-ai-assisted-cyberattacks/)**
-
----
-
-### 🔹 Column 4: [Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return](https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Wired AI
-
-- 📌 **What happened?**: Nvidia CEO Jensen Huang apologized to employees on Tuesday for violating the company’s code of conduct. During his first all-hands since returning to his role as CEO, Huang said he made some “very serious personal mistakes” and that’s why he submitted his resignation.
-
-- 🔍 **Key details**: “This is going to be the hardest company meeting I’ve ever done, and the second hardest meeting I have ever done,” Huang said. “The hardest meeting I’ve ever done was with my wife.”
-
-- 💡 **Context & Impact**: Nvidia board members accepted Huang’s resignation earlier this month, citing concerns about his personal behavior and lack of candor following news reports about extramarital affairs, including one with a woman accused of having ties to Chinese intelligence services. The very same board reinstated him on Monday, just...
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *Jensen Huang se disculpa ante los empleados de Nvidia en la primera reunión general desde su regreso*
-
-- 📌 **¿Qué sucedió?**: El martes, el director ejecutivo de Nvidia, Jensen Huang, se disculpó ante los empleados por haber infringido el código de conducta de la empresa. Durante su primera reunión con toda la plantilla desde que volvió a su puesto de director ejecutivo, Huang afirmó que había cometido algunos «errores personales muy graves» y que por eso había presentado su dimisión.
-
-- 🔍 **Detalles clave**: «Esta va a ser la reunión de empresa más difícil que haya celebrado nunca, y la segunda reunión más difícil que haya celebrado nunca», dijo Huang. «La reunión más difícil que he tenido fue con mi mujer».
-
-- 💡 **Impacto y contexto**: Los miembros del consejo de administración de Nvidia aceptaron la dimisión de Huang a principios de este mes, alegando su preocupación por su comportamiento personal y su falta de sinceridad tras las noticias sobre sus relaciones extramatrimoniales, incluida una con una mujer acusada de tener vínculos con los servicios de inteligencia chinos. El mismo consejo lo restituyó el lunes, justo
-
-</details>
-
-🔗 **[Read full article on Wired AI ↗](https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/)**
-
----
-
-### 🔹 Column 5: [Tidal will start banning AI-generated music next month](https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban)
+### 🔹 Column 2: [Nothing offers a full look at its AI earbuds and charging case](https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal)
 > **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** The Verge AI
 
-- 📌 **What happened?**: Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen.
+- 📌 **What happened?**: Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations.
 
-- 🔍 **Key details**: The music streaming platform estimates that it will delete 29 million songs as a result of the AI ban.
+- 🔍 **Key details**: Nothing offers a full look at its AI earbuds and charging case
 
-- 💡 **Context & Impact**: The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 percent AI-generated. In a post on X, Andersen says Tidal needed to take a more “drastic” measure, as AI music made up 43 percent of the tracks distributed to the platform in the last 90 days. “We believe this will resonate...
+- 💡 **Context & Impact**: The Ear Note buds look similar to Nothing’s previous earbuds, but now their case doubles as an AI-connected note taker for conversations.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Tidal empezará a prohibir la música generada por IA el mes que viene*
+> **Título en español:** *Nothing ofrece una visión completa de sus auriculares con IA y su estuche de carga*
 
-- 📌 **¿Qué sucedió?**: Tidal prohibirá oficialmente la música generada por IA el 9 de diciembre. Como consecuencia de este cambio, Tidal eliminará alrededor de 29 millones de canciones generadas por IA y rechazará entre 80 000 y 85 000 temas al día, según Robert Andersen, responsable de música de Tidal.
+- 📌 **¿Qué sucedió?**: Nothing está mostrando un aspecto mucho más detallado de sus próximos auriculares con IA antes de su lanzamiento el 8 de diciembre. Los auriculares Ear Note pueden grabar tus llamadas, mientras que su estuche de carga puede grabar, transcribir y resumir tus conversaciones.
 
-- 🔍 **Detalles clave**: La plataforma de «streaming» de música calcula que eliminará 29 millones de canciones como consecuencia de la prohibición de la IA.
+- 🔍 **Detalles clave**: Nothing ofrece una visión completa de sus auriculares con IA y su estuche de carga
 
-- 💡 **Impacto y contexto**: Esta medida se produce apenas unos meses después de que Tidal empezara a etiquetar y desmonetizar las canciones identificadas como generadas al 100 % por IA. En una publicación en X, Andersen afirma que Tidal necesitaba tomar una medida más «drástica», ya que la música generada por IA representaba el 43 % de las pistas distribuidas en la plataforma en los últimos 90 días. «Creemos que esto tendrá repercusión».
+- 💡 **Impacto y contexto**: Los auriculares Ear Note se parecen a los auriculares anteriores de Nothing, pero ahora su estuche también sirve como tomador de notas para conversaciones conectado a la IA.
 
 </details>
 
-🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban)**
+🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal)**
+
+---
+
+### 🔹 Column 3: [Two Newly Disclosed GeoServer Vulnerabilities Under Attack](https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
+
+- 📌 **What happened?**: Threat actors are targeting two recently disclosed GeoServer vulnerabilities that can be chained with other flaws to achieve unauthenticated remote code execution (RCE).
+
+- 🔍 **Key details**: Cybersecurity firm WatchTowr has observed attempts to exploit two high-severity GeoServer vulnerabilities tracked as CVE-2026-120705 and CVE-2026-129243. The activity appears to be aimed at identifying vulnerable servers.
+
+- 💡 **Context & Impact**: “Attackers sent error-based exploit probes to validate that the server is vulnerable by creating and invoking stored queries,” WatchTowr noted.
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Dos vulnerabilidades de GeoServer recientemente descubiertas están siendo objeto de ataques*
+
+- 📌 **¿Qué sucedió?**: Los actores de amenazas están atacando dos vulnerabilidades de GeoServer descubiertas recientemente que pueden combinarse con otros fallos para lograr la ejecución remota de código (RCE) sin autenticación.
+
+- 🔍 **Detalles clave**: La empresa de ciberseguridad WatchTowr ha observado intentos de explotar dos vulnerabilidades de GeoServer de gravedad alta, identificadas como CVE-2026-120705 y CVE-2026-129243. La actividad parece tener como objetivo identificar servidores vulnerables.
+
+- 💡 **Impacto y contexto**: «Los atacantes enviaron sondeos de vulnerabilidades basados en errores para comprobar que el servidor era vulnerable creando e invocando consultas almacenadas», señaló WatchTowr.
+
+</details>
+
+🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/)**
+
+---
+
+### 🔹 Column 4: [AI data centers are becoming harder to build, and neoclouds are feeling it](https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
+
+- 📌 **What happened?**: Nvidia has made clear it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck.
+
+- 🔍 **Key details**: Anita Verma-Lallian has been selling exactly that. Her company, Arizona Land Consulting, assembles data center sites for developers, hyperscalers, AI labs, and neoclouds, giving her a view into who’s buying, what makes a site viable, and where projects are running into trouble. She also partners with investor Chamath...
+
+- 💡 **Context & Impact**: On this episode of TechCrunch’s Equity podcast, Rebecca Bellan talks with Verma-Lallian about who bears the risk when Nvidia gets pickier, why speculative projects could be the first to fall apart, and what a 2027 shakeout might look like.
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Cada vez es más difícil construir centros de datos de IA, y las neonubes lo están notando*
+
+- 📌 **¿Qué sucedió?**: Nvidia ha dejado claro que no respaldará un centro de datos de IA hasta que esté casi listo para funcionar, y esto coincide con el momento en que las neonubes informan de retrasos en la construcción y de un endeudamiento más caro. El mensaje para los desarrolladores es que el terreno, la energía y un edificio terminado son más importantes que una presentación de ventas.
+
+- 🔍 **Detalles clave**: Anita Verma-Lallian ha estado vendiendo exactamente eso. Su empresa, Arizona Land Consulting, reúne emplazamientos para centros de datos destinados a promotores, hiperescaladores, laboratorios de IA y neoclouds, lo que le permite saber quién está comprando, qué hace que un emplazamiento sea viable y dónde están surgiendo problemas en los proyectos. También colabora con el inversor Chamath
+
+- 💡 **Impacto y contexto**: En este episodio del pódcast Equity de TechCrunch, Rebecca Bellan habla con Verma-Lallian sobre quién asume el riesgo cuando Nvidia se vuelve más exigente, por qué los proyectos especulativos podrían ser los primeros en fracasar y cómo podría ser una crisis en 2027.
+
+</details>
+
+🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/)**
+
+---
+
+### 🔹 Column 5: [It's a Bot World. We're Just Living in It](https://www.darkreading.com/cyber-risk/bot-world-just-living)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** Dark Reading
+
+- 📌 **What happened?**: Bot detection has become a losing game. Security teams need to limit privileged access for humans and their machine counterparts equally.
+
+- 🔍 **Key details**: Read the full original coverage in the link below.
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Es un mundo de bots. Nosotros solo vivimos en él*
+
+- 📌 **¿Qué sucedió?**: La detección de bots se ha convertido en una partida perdida. Los equipos de seguridad deben limitar el acceso privilegiado tanto de las personas como de sus homólogos mecánicos por igual.
+
+- 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
+
+</details>
+
+🔗 **[Read full article on Dark Reading ↗](https://www.darkreading.com/cyber-risk/bot-world-just-living)**
 
 ---
 
@@ -155,6 +147,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#70](editions/2026/11/2026-11-25.md) | 2026-11-25 | [Attackers Target .NET Developers With Poisoned Job Assessments](https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments) | 🛡️ Cybersecurity |
 | [#69](editions/2026/11/2026-11-24.md) | 2026-11-24 | [Patel mum on FBI crime info database hack, citing ongoing inve...](https://cyberscoop.com/kash-patel-fbi-ncic-database-hack/) | 🛡️ Cybersecurity |
 | [#68](editions/2026/11/2026-11-23.md) | 2026-11-23 | [Behind the Alias: How One Researcher Unmasked a Decade of Rans...](https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors) | 🛡️ Cybersecurity |
 | [#67](editions/2026/11/2026-11-22.md) | 2026-11-22 | [OpenRouter Drops 3 Providers After Researchers Catch Months of...](https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html) | 🛡️ Cybersecurity |
@@ -169,9 +162,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#58](editions/2026/11/2026-11-13.md) | 2026-11-13 | [Microsoft Struggles to Restore Email and Other Services in a G...](https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/) | 🛡️ Cybersecurity |
 | [#57](editions/2026/11/2026-11-12.md) | 2026-11-12 | [Chrome, Firefox Updates Patch Over 180 Vulnerabilities](https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/) | 🛡️ Cybersecurity |
 | [#56](editions/2026/11/2026-11-11.md) | 2026-11-11 | [Hackers Target Qlik Sense Servers With Reverse Shells, Stage A...](https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html) | 🛡️ Cybersecurity |
-| [#55](editions/2026/11/2026-11-10.md) | 2026-11-10 | [WhiteMatter Raises $20 Million in Series A Funding](https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/) | 🛡️ Cybersecurity |
 
-*... and 54 more archived editions in `/editions` directory.*
+*... and 55 more archived editions in `/editions` directory.*
 
 ---
 
