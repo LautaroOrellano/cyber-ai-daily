@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Daily Chronicles of Artificial Intelligence, Hacks & Cybersecurity*
 
-> **📅 Today's Edition: Issue #70** — *Wednesday, November 25, 2026*
+> **📅 Today's Edition: Issue #71** — *Thursday, November 26, 2026*
 >
 > 🌐 **Language:** **English (Default)** &nbsp;|&nbsp; [🇪🇸 Leer en Español (README.es.md)](README.es.md)
 
-![Edition](https://img.shields.io/badge/Edition-Issue_%2370-black?style=for-the-badge)
+![Edition](https://img.shields.io/badge/Edition-Issue_%2371-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-EN_%7C_ES-blue?style=for-the-badge)
 ![Stories](https://img.shields.io/badge/Stories-5_Daily-2088FF?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,127 +17,135 @@ Welcome to **The CyberAI Gazette**, an automated daily newspaper. Every day, a *
 
 ## 📢 LEAD STORY OF THE DAY
 
-### 📌 [Attackers Target .NET Developers With Poisoned Job Assessments](https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** Dark Reading
+### 📌 [FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’](https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
 
-- 📌 **What happened?**: Researchers discovered 13 malicious NuGet packages as part of a fake recruitment campaign that spreads malware and gives attackers access to developers' machines.
+- 📌 **What happened?**: FIFA was the victim of a cyberattack that saw hackers gain access to what soccer’s world governing body describes as a “limited set of personal and business information,” it said Thursday.
 
-- 🔍 **Key details**: Read the full original coverage in the link below.
+- 🔍 **Key details**: “FIFA is working closely with the relevant authorities, including law enforcement,” the organization said in a statement sent to The Associated Press.
+
+- 💡 **Context & Impact**: FIFA didn’t say when the cyberattack took place, or the precise nature of the hacked information.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Los ciberdelincuentes atacan a los desarrolladores de .NET con pruebas de trabajo infectadas*
+> **Título en español:** *La FIFA afirma que ha sido víctima de un ciberataque en el que se ha accedido a «información personal y comercial»*
 
-- 📌 **¿Qué sucedió?**: Unos investigadores descubrieron 13 paquetes NuGet maliciosos como parte de una campaña de contratación falsa que propaga «malware» y da a los atacantes acceso a los equipos de los desarrolladores.
+- 📌 **¿Qué sucedió?**: La FIFA fue víctima de un ciberataque en el que los piratas informáticos accedieron a lo que el organismo rector del fútbol mundial describe como un «conjunto limitado de información personal y empresarial», según afirmó el jueves.
 
-- 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
+- 🔍 **Detalles clave**: «La FIFA está colaborando estrechamente con las autoridades pertinentes, incluidas las fuerzas del orden», afirmó la organización en un comunicado enviado a The Associated Press.
+
+- 💡 **Impacto y contexto**: La FIFA no ha dicho cuándo se produjo el ciberataque ni cuál es exactamente la naturaleza de la información hackeada.
 
 </details>
 
-👉 **[Read full article on Dark Reading ↗](https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments)**
+👉 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/)**
 
 ---
 
 ## 📰 TOP HIGHLIGHTS (4 Stories)
 
-### 🔹 Column 2: [Nothing offers a full look at its AI earbuds and charging case](https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal)
-> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** The Verge AI
-
-- 📌 **What happened?**: Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations.
-
-- 🔍 **Key details**: Nothing offers a full look at its AI earbuds and charging case
-
-- 💡 **Context & Impact**: The Ear Note buds look similar to Nothing’s previous earbuds, but now their case doubles as an AI-connected note taker for conversations.
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *Nothing ofrece una visión completa de sus auriculares con IA y su estuche de carga*
-
-- 📌 **¿Qué sucedió?**: Nothing está mostrando un aspecto mucho más detallado de sus próximos auriculares con IA antes de su lanzamiento el 8 de diciembre. Los auriculares Ear Note pueden grabar tus llamadas, mientras que su estuche de carga puede grabar, transcribir y resumir tus conversaciones.
-
-- 🔍 **Detalles clave**: Nothing ofrece una visión completa de sus auriculares con IA y su estuche de carga
-
-- 💡 **Impacto y contexto**: Los auriculares Ear Note se parecen a los auriculares anteriores de Nothing, pero ahora su estuche también sirve como tomador de notas para conversaciones conectado a la IA.
-
-</details>
-
-🔗 **[Read full article on The Verge AI ↗](https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal)**
-
----
-
-### 🔹 Column 3: [Two Newly Disclosed GeoServer Vulnerabilities Under Attack](https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
-
-- 📌 **What happened?**: Threat actors are targeting two recently disclosed GeoServer vulnerabilities that can be chained with other flaws to achieve unauthenticated remote code execution (RCE).
-
-- 🔍 **Key details**: Cybersecurity firm WatchTowr has observed attempts to exploit two high-severity GeoServer vulnerabilities tracked as CVE-2026-120705 and CVE-2026-129243. The activity appears to be aimed at identifying vulnerable servers.
-
-- 💡 **Context & Impact**: “Attackers sent error-based exploit probes to validate that the server is vulnerable by creating and invoking stored queries,” WatchTowr noted.
-
-<details>
-<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
-<br>
-> **Título en español:** *Dos vulnerabilidades de GeoServer recientemente descubiertas están siendo objeto de ataques*
-
-- 📌 **¿Qué sucedió?**: Los actores de amenazas están atacando dos vulnerabilidades de GeoServer descubiertas recientemente que pueden combinarse con otros fallos para lograr la ejecución remota de código (RCE) sin autenticación.
-
-- 🔍 **Detalles clave**: La empresa de ciberseguridad WatchTowr ha observado intentos de explotar dos vulnerabilidades de GeoServer de gravedad alta, identificadas como CVE-2026-120705 y CVE-2026-129243. La actividad parece tener como objetivo identificar servidores vulnerables.
-
-- 💡 **Impacto y contexto**: «Los atacantes enviaron sondeos de vulnerabilidades basados en errores para comprobar que el servidor era vulnerable creando e invocando consultas almacenadas», señaló WatchTowr.
-
-</details>
-
-🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/)**
-
----
-
-### 🔹 Column 4: [AI data centers are becoming harder to build, and neoclouds are feeling it](https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/)
+### 🔹 Column 2: [As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue](https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/)
 > **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** TechCrunch AI
 
-- 📌 **What happened?**: Nvidia has made clear it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck.
+- 📌 **What happened?**: It should have been impossible for “Grand Theft Auto VI” (GTA VI) to live up to the hype. Fans waited 13 years for the newest installment in the crime-adventure franchise, and Rockstar Games exceeded even those inconceivable expectations when the game finally came out last week.
 
-- 🔍 **Key details**: Anita Verma-Lallian has been selling exactly that. Her company, Arizona Land Consulting, assembles data center sites for developers, hyperscalers, AI labs, and neoclouds, giving her a view into who’s buying, what makes a site viable, and where projects are running into trouble. She also partners with investor Chamath...
+- 🔍 **Key details**: GTA VI launched as the highest-rated game of all time on Metacritic and made $3.79 billion on release day to mark what could be the biggest entertainment event ever – more massive than “Avengers: Endgame” ($2.9 billion) or Taylor Swift’s Eras tour ($2 billion).
 
-- 💡 **Context & Impact**: On this episode of TechCrunch’s Equity podcast, Rebecca Bellan talks with Verma-Lallian about who bears the risk when Nvidia gets pickier, why speculative projects could be the first to fall apart, and what a 2027 shakeout might look like.
+- 💡 **Context & Impact**: The 13-year wait certainly fueled the frenzy, and sales, around GTA VI, but some fans craved GTA VI because of what it represents in the emerging era of AI.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Cada vez es más difícil construir centros de datos de IA, y las neonubes lo están notando*
+> **Título en español:** *Al igual que las salidas a bolsa de Anthropic, Grand Theft Auto VI demuestra por qué la eficiencia no es una virtud*
 
-- 📌 **¿Qué sucedió?**: Nvidia ha dejado claro que no respaldará un centro de datos de IA hasta que esté casi listo para funcionar, y esto coincide con el momento en que las neonubes informan de retrasos en la construcción y de un endeudamiento más caro. El mensaje para los desarrolladores es que el terreno, la energía y un edificio terminado son más importantes que una presentación de ventas.
+- 📌 **¿Qué sucedió?**: Debería haber sido imposible que «Grand Theft Auto VI» (GTA VI) estuviera a la altura de las expectativas. Los fans esperaron 13 años a la nueva entrega de la franquicia de aventuras y crímenes, y Rockstar Games superó incluso esas expectativas inconcebibles cuando el juego finalmente salió a la venta la semana pasada.
 
-- 🔍 **Detalles clave**: Anita Verma-Lallian ha estado vendiendo exactamente eso. Su empresa, Arizona Land Consulting, reúne emplazamientos para centros de datos destinados a promotores, hiperescaladores, laboratorios de IA y neoclouds, lo que le permite saber quién está comprando, qué hace que un emplazamiento sea viable y dónde están surgiendo problemas en los proyectos. También colabora con el inversor Chamath
+- 🔍 **Detalles clave**: GTA VI se lanzó como el juego mejor valorado de todos los tiempos en Metacritic y recaudó 3790 millones de dólares el día de su lanzamiento, lo que supuso lo que podría ser el mayor acontecimiento del mundo del entretenimiento de la historia, superando a «Vengadores: Endgame» (2900 millones de dólares) y a la gira «Eras» de Taylor Swift (2000 millones de dólares).
 
-- 💡 **Impacto y contexto**: En este episodio del pódcast Equity de TechCrunch, Rebecca Bellan habla con Verma-Lallian sobre quién asume el riesgo cuando Nvidia se vuelve más exigente, por qué los proyectos especulativos podrían ser los primeros en fracasar y cómo podría ser una crisis en 2027.
+- 💡 **Impacto y contexto**: La espera de 13 años sin duda avivó el frenesí y las ventas en torno a GTA VI, pero algunos fans anhelaban GTA VI por lo que representa en la era emergente de la IA.
 
 </details>
 
-🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/)**
+🔗 **[Read full article on TechCrunch AI ↗](https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/)**
 
 ---
 
-### 🔹 Column 5: [It's a Bot World. We're Just Living in It](https://www.darkreading.com/cyber-risk/bot-world-just-living)
-> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** Dark Reading
+### 🔹 Column 3: [North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware](https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** The Hacker News
 
-- 📌 **What happened?**: Bot detection has become a losing game. Security teams need to limit privileged access for humans and their machine counterparts equally.
+- 📌 **What happened?**: The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025.
 
-- 🔍 **Key details**: Read the full original coverage in the link below.
+- 🔍 **Key details**: "The loader hides in a small utils package or in conftest.py," SafeDep said in a report published this week. "When Python imports the file, the loader reads the newest transaction that an Ethereum wallet sent to itself. It decodes the input data of that transaction as JavaScript and runs it with Node.js."
+
+- 💡 **Context & Impact**: The JavaScript code, for its part, reads a second wallet to locate the command-and-control (C2) server and then passes the next stage to a detached interactive Node.js environment by means of a node -i process.
 
 <details>
 <summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
 <br>
-> **Título en español:** *Es un mundo de bots. Nosotros solo vivimos en él*
+> **Título en español:** *PolinRider, vinculado a Corea del Norte, infecta más de 7600 repositorios de GitHub para propagar «malware»*
 
-- 📌 **¿Qué sucedió?**: La detección de bots se ha convertido en una partida perdida. Los equipos de seguridad deben limitar el acceso privilegiado tanto de las personas como de sus homólogos mecánicos por igual.
+- 📌 **¿Qué sucedió?**: Se ha observado que los ciberdelincuentes responsables de la campaña PolinRider han estado colocando un cargador Python en repositorios de GitHub, y hay indicios de que la actividad podría haberse iniciado ya en febrero de 2025.
 
-- 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
+- 🔍 **Detalles clave**: «El cargador se esconde en un pequeño paquete de utilidades o en conftest.py», afirmó SafeDep en un informe publicado esta semana. «Cuando Python importa el archivo, el cargador lee la transacción más reciente que una cartera de Ethereum se ha enviado a sí misma. Decodifica los datos de entrada de esa transacción como JavaScript y los ejecuta con Node.js».
+
+- 💡 **Impacto y contexto**: El código JavaScript, por su parte, lee un segundo monedero para localizar el servidor de mando y control (C2) y luego pasa a la siguiente etapa a un entorno Node.js interactivo separado mediante un proceso node -i.
 
 </details>
 
-🔗 **[Read full article on Dark Reading ↗](https://www.darkreading.com/cyber-risk/bot-world-just-living)**
+🔗 **[Read full article on The Hacker News ↗](https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html)**
+
+---
+
+### 🔹 Column 4: [Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon](https://huggingface.co/blog/ggml-org/llamacpp-amd-bench)
+> **Category:** 🤖 Artificial Intelligence & ML &nbsp;|&nbsp; **Source:** Hugging Face Blog
+
+- 📌 **What happened?**: Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon
+
+- 🔍 **Key details**: The llama.cpp × AMD Benchmark dashboard is available on Hugging Face. It lets you track prompt processing and text generation performance across llama.cpp builds, models, and quantizations, so you can explore how local inference performs on AMD Ryzen and Radeon hardware.
+
+- 💡 **Context & Impact**: Local inference performance changes as models, kernels, and builds evolve. We want those changes to be easy to inspect for any AMD developer: pick a hardware, a model and a build, compare quantizations, and follow performance over time. The benchmark workflow and underlying results are public, so you can also inspect...
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Presentamos el panel de evaluación comparativa de llama.cpp para AMD Ryzen y Radeon*
+
+- 📌 **¿Qué sucedió?**: Presentamos el panel de evaluación comparativa de llama.cpp para AMD Ryzen y Radeon
+
+- 🔍 **Detalles clave**: El panel de control de los benchmarks de llama.cpp × AMD está disponible en Hugging Face. Le permite supervisar el rendimiento del procesamiento de «prompts» y de la generación de texto en las distintas compilaciones, modelos y cuantizaciones de llama.cpp, de modo que pueda analizar el rendimiento de la inferencia local en el hardware AMD Ryzen y Radeon.
+
+- 💡 **Impacto y contexto**: El rendimiento de la inferencia local cambia a medida que evolucionan los modelos, los kernels y las compilaciones. Queremos que esos cambios sean fáciles de analizar para cualquier desarrollador de AMD: elegir un hardware, un modelo y una compilación, comparar las cuantizaciones y seguir el rendimiento a lo largo del tiempo. El flujo de trabajo de «benchmarking» y los resultados subyacentes son públicos, por lo que también puede examinarlos.
+
+</details>
+
+🔗 **[Read full article on Hugging Face Blog ↗](https://huggingface.co/blog/ggml-org/llamacpp-amd-bench)**
+
+---
+
+### 🔹 Column 5: [Critical Juniper Session Smart Conductor Flaw Exploited in Attacks](https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/)
+> **Category:** 🛡️ Cybersecurity & Breaches &nbsp;|&nbsp; **Source:** SecurityWeek
+
+- 📌 **What happened?**: Juniper Networks and the US cybersecurity agency CISA this week warned that threat actors have been exploiting a critical vulnerability in Session Smart Conductor.
+
+- 🔍 **Key details**: Tracked as CVE-2026-103406 (CVSS score of 9.8), the security defect is described as a remotely exploitable OS command injection bug.
+
+- 💡 **Context & Impact**: It affects the Session Smart Conductor’s AutomatedProvisioner service and could allow attackers to execute arbitrary commands with root privileges via a specially crafted Salt minion ID.
+
+<details>
+<summary><b>🇪🇸 Ver resumen en español (Click to expand)</b></summary>
+<br>
+> **Título en español:** *Vulnerabilidad crítica de Juniper Session Smart Conductor explotada en ataques*
+
+- 📌 **¿Qué sucedió?**: Juniper Networks y la agencia estadounidense de ciberseguridad CISA advirtieron esta semana que los actores de amenazas han estado explotando una vulnerabilidad crítica en Session Smart Conductor.
+
+- 🔍 **Detalles clave**: Identificado como CVE-2026-103406 (puntuación CVSS de 9,8), el fallo de seguridad se describe como un error de inyección de comandos del sistema operativo explotable de forma remota.
+
+- 💡 **Impacto y contexto**: Afecta al servicio AutomatedProvisioner de Session Smart Conductor y podría permitir a los atacantes ejecutar comandos arbitrarios con privilegios de «root» a través de un ID de minion de Salt especialmente diseñado.
+
+</details>
+
+🔗 **[Read full article on SecurityWeek ↗](https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/)**
 
 ---
 
@@ -147,6 +155,7 @@ All previous editions are permanently preserved. Browse them here:
 
 | Issue | Date | Lead Headline | Topic |
 | :---: | :---: | :--- | :---: |
+| [#71](editions/2026/11/2026-11-26.md) | 2026-11-26 | [FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Perso...](https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/) | 🛡️ Cybersecurity |
 | [#70](editions/2026/11/2026-11-25.md) | 2026-11-25 | [Attackers Target .NET Developers With Poisoned Job Assessments](https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments) | 🛡️ Cybersecurity |
 | [#69](editions/2026/11/2026-11-24.md) | 2026-11-24 | [Patel mum on FBI crime info database hack, citing ongoing inve...](https://cyberscoop.com/kash-patel-fbi-ncic-database-hack/) | 🛡️ Cybersecurity |
 | [#68](editions/2026/11/2026-11-23.md) | 2026-11-23 | [Behind the Alias: How One Researcher Unmasked a Decade of Rans...](https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors) | 🛡️ Cybersecurity |
@@ -161,9 +170,8 @@ All previous editions are permanently preserved. Browse them here:
 | [#59](editions/2026/11/2026-11-14.md) | 2026-11-14 | [Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Co...](https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html) | 🛡️ Cybersecurity |
 | [#58](editions/2026/11/2026-11-13.md) | 2026-11-13 | [Microsoft Struggles to Restore Email and Other Services in a G...](https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/) | 🛡️ Cybersecurity |
 | [#57](editions/2026/11/2026-11-12.md) | 2026-11-12 | [Chrome, Firefox Updates Patch Over 180 Vulnerabilities](https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/) | 🛡️ Cybersecurity |
-| [#56](editions/2026/11/2026-11-11.md) | 2026-11-11 | [Hackers Target Qlik Sense Servers With Reverse Shells, Stage A...](https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html) | 🛡️ Cybersecurity |
 
-*... and 55 more archived editions in `/editions` directory.*
+*... and 56 more archived editions in `/editions` directory.*
 
 ---
 

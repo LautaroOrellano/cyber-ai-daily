@@ -1160,5 +1160,22 @@
       "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
       "https://www.darkreading.com/cyber-risk/bot-world-just-living"
     ]
+  },
+  {
+    "edition": 71,
+    "date": "2026-11-26",
+    "rel_path": "editions/2026/11/2026-11-26.md",
+    "title_en": "FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’",
+    "title_es": "La FIFA afirma que ha sido víctima de un ciberataque en el que se ha accedido a «información personal y comercial»",
+    "category": "cyber",
+    "source": "SecurityWeek",
+    "lead_link": "https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/",
+    "story_links": [
+      "https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/",
+      "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+      "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/"
+    ]
   }
 ]
