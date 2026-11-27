@@ -1177,5 +1177,22 @@
       "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
       "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/"
     ]
+  },
+  {
+    "edition": 72,
+    "date": "2026-11-27",
+    "rel_path": "editions/2026/11/2026-11-27.md",
+    "title_en": "Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks",
+    "title_es": "Matters.AI consigue la mayor ronda de financiación pre-serie A de ciberseguridad de la India para combatir los riesgos de los datos de la IA",
+    "category": "cyber",
+    "source": "Dark Reading",
+    "lead_link": "https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks",
+    "story_links": [
+      "https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks",
+      "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
+      "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+      "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html"
+    ]
   }
 ]

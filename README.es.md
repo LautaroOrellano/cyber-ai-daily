@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 71** — *Jueves, 26 de Noviembre de 2026*
+> **📅 Edición de Hoy: N° 72** — *Viernes, 27 de Noviembre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_71-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_72-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,70 +17,66 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [La FIFA afirma que ha sido víctima de un ciberataque en el que se ha accedido a «información personal y comercial»](https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’`
+### 📌 [Matters.AI consigue la mayor ronda de financiación pre-serie A de ciberseguridad de la India para combatir los riesgos de los datos de la IA](https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** Dark Reading &nbsp;|&nbsp; *Original:* `Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks`
 
-- 📌 **¿Qué sucedió?**: La FIFA fue víctima de un ciberataque en el que los piratas informáticos accedieron a lo que el organismo rector del fútbol mundial describe como un «conjunto limitado de información personal y empresarial», según afirmó el jueves.
+- 📌 **¿Qué sucedió?**: La «startup» de seguridad consolida cuatro herramientas de seguridad heredadas en una plataforma autónoma que utiliza IA sensible al contexto para rastrear el linaje de los datos confidenciales, analizar la intención de los usuarios y corregir automáticamente las amenazas en los entornos empresariales.
 
-- 🔍 **Detalles clave**: «La FIFA está colaborando estrechamente con las autoridades pertinentes, incluidas las fuerzas del orden», afirmó la organización en un comunicado enviado a The Associated Press.
+- 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
 
-- 💡 **Impacto y contexto**: La FIFA no ha dicho cuándo se produjo el ciberataque ni cuál es exactamente la naturaleza de la información hackeada.
-
-👉 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/)**
+👉 **[Ver nota original completa en Dark Reading (inglés) ↗](https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Al igual que las salidas a bolsa de Anthropic, Grand Theft Auto VI demuestra por qué la eficiencia no es una virtud](https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue`
+### 🔹 Columna 2: [Los widgets «hazlo tú mismo» de Android son una forma divertida de programar con estilo](https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Android’s DIY widgets are a bit of vibe-coding fun`
 
-- 📌 **¿Qué sucedió?**: Debería haber sido imposible que «Grand Theft Auto VI» (GTA VI) estuviera a la altura de las expectativas. Los fans esperaron 13 años a la nueva entrega de la franquicia de aventuras y crímenes, y Rockstar Games superó incluso esas expectativas inconcebibles cuando el juego finalmente salió a la venta la semana pasada.
+- 📌 **¿Qué sucedió?**: Aparte de gestionar mi calendario, hay una cosa que quiero que haga la IA: decirme si estoy a punto de perder el autobús.
 
-- 🔍 **Detalles clave**: GTA VI se lanzó como el juego mejor valorado de todos los tiempos en Metacritic y recaudó 3790 millones de dólares el día de su lanzamiento, lo que supuso lo que podría ser el mayor acontecimiento del mundo del entretenimiento de la historia, superando a «Vengadores: Endgame» (2900 millones de dólares) y a la gira «Eras» de Taylor Swift (2000 millones de dólares).
+- 🔍 **Detalles clave**: Puedes divertirte creando widgets, siempre y cuando no esperes demasiado.
 
-- 💡 **Impacto y contexto**: La espera de 13 años sin duda avivó el frenesí y las ventas en torno a GTA VI, pero algunos fans anhelaban GTA VI por lo que representa en la era emergente de la IA.
+- 💡 **Impacto y contexto**: Lo que necesito es un widget. Tiene que indicarme en tiempo real las llegadas a la parada de autobús que hay cerca de mi casa. Tocar la pantalla de mi teléfono para abrir la aplicación correcta y seleccionar mi parada me ralentizará lo suficiente como para perder un autobús. Necesito información de un vistazo, y esperaba que la función de widgets con código Vibe de Android pudiera ayudarme en este sentido.
 
-🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/)**
-
----
-
-### 🔹 Columna 3: [PolinRider, vinculado a Corea del Norte, infecta más de 7600 repositorios de GitHub para propagar «malware»](https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware`
-
-- 📌 **¿Qué sucedió?**: Se ha observado que los ciberdelincuentes responsables de la campaña PolinRider han estado colocando un cargador Python en repositorios de GitHub, y hay indicios de que la actividad podría haberse iniciado ya en febrero de 2025.
-
-- 🔍 **Detalles clave**: «El cargador se esconde en un pequeño paquete de utilidades o en conftest.py», afirmó SafeDep en un informe publicado esta semana. «Cuando Python importa el archivo, el cargador lee la transacción más reciente que una cartera de Ethereum se ha enviado a sí misma. Decodifica los datos de entrada de esa transacción como JavaScript y los ejecuta con Node.js».
-
-- 💡 **Impacto y contexto**: El código JavaScript, por su parte, lee un segundo monedero para localizar el servidor de mando y control (C2) y luego pasa a la siguiente etapa a un entorno Node.js interactivo separado mediante un proceso node -i.
-
-🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html)**
+🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini)**
 
 ---
 
-### 🔹 Columna 4: [Presentamos el panel de evaluación comparativa de llama.cpp para AMD Ryzen y Radeon](https://huggingface.co/blog/ggml-org/llamacpp-amd-bench)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Hugging Face Blog &nbsp;|&nbsp; *Original:* `Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon`
+### 🔹 Columna 3: [Los fallos del «modo Dios» podrían causar estragos en el control de fronteras](https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** Dark Reading &nbsp;|&nbsp; *Original:* `'God Mode' Flaws Could Wreak Border-Control Havoc`
 
-- 📌 **¿Qué sucedió?**: Presentamos el panel de evaluación comparativa de llama.cpp para AMD Ryzen y Radeon
+- 📌 **¿Qué sucedió?**: Los atacantes podrían haber obstaculizado la entrada de viajeros a Nigeria, Etiopía, Zambia, Sri Lanka, Fiyi y Ghana a través de varias vulnerabilidades en sus sistemas de visados e inmigración en línea.
 
-- 🔍 **Detalles clave**: El panel de control de los benchmarks de llama.cpp × AMD está disponible en Hugging Face. Le permite supervisar el rendimiento del procesamiento de «prompts» y de la generación de texto en las distintas compilaciones, modelos y cuantizaciones de llama.cpp, de modo que pueda analizar el rendimiento de la inferencia local en el hardware AMD Ryzen y Radeon.
+- 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
 
-- 💡 **Impacto y contexto**: El rendimiento de la inferencia local cambia a medida que evolucionan los modelos, los kernels y las compilaciones. Queremos que esos cambios sean fáciles de analizar para cualquier desarrollador de AMD: elegir un hardware, un modelo y una compilación, comparar las cuantizaciones y seguir el rendimiento a lo largo del tiempo. El flujo de trabajo de «benchmarking» y los resultados subyacentes son públicos, por lo que también puede examinarlos.
-
-🔗 **[Ver nota original completa en Hugging Face Blog (inglés) ↗](https://huggingface.co/blog/ggml-org/llamacpp-amd-bench)**
+🔗 **[Ver nota original completa en Dark Reading (inglés) ↗](https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc)**
 
 ---
 
-### 🔹 Columna 5: [Vulnerabilidad crítica de Juniper Session Smart Conductor explotada en ataques](https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `Critical Juniper Session Smart Conductor Flaw Exploited in Attacks`
+### 🔹 Columna 4: [Un nuevo tipo de chip ejecuta modelos de IA utilizando ondas de luz](https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `A New Breed of Chip Runs AI Models Using Waves of Light`
 
-- 📌 **¿Qué sucedió?**: Juniper Networks y la agencia estadounidense de ciberseguridad CISA advirtieron esta semana que los actores de amenazas han estado explotando una vulnerabilidad crítica en Session Smart Conductor.
+- 📌 **¿Qué sucedió?**: A medida que la inteligencia artificial se convierte en una parte ineludible de la vida cotidiana y los modelos son cada vez más sofisticados, el coste de la energía necesaria para hacer funcionar la tecnología se dispara.
 
-- 🔍 **Detalles clave**: Identificado como CVE-2026-103406 (puntuación CVSS de 9,8), el fallo de seguridad se describe como un error de inyección de comandos del sistema operativo explotable de forma remota.
+- 🔍 **Detalles clave**: Para controlar los costes desbocados, los laboratorios de IA y los proveedores de servicios en la nube están intentando construir nuevos centros de datos en lugares con energía renovable barata y abundante, como Escandinavia. Sin embargo, los problemas logísticos, la escasez de componentes clave y la oleada de protestas contra los centros de datos están obstaculizando el proceso.
 
-- 💡 **Impacto y contexto**: Afecta al servicio AutomatedProvisioner de Session Smart Conductor y podría permitir a los atacantes ejecutar comandos arbitrarios con privilegios de «root» a través de un ID de minion de Salt especialmente diseñado.
+- 💡 **Impacto y contexto**: Un creciente sector de «startups» de «hardware», entre ellas la empresa alemana Q.ANT, está abordando el problema desde una perspectiva diferente: desarrollando un nuevo tipo de chip, los procesadores fotónicos, diseñados para minimizar la cantidad de energía que consumen los modelos de IA.
 
-🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/)**
+🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/)**
+
+---
+
+### 🔹 Columna 5: [Se ha descubierto una aplicación de Microsoft Store que instala el troyano Vinci RAT, capaz de controlar sistemas de forma remota](https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control`
+
+- 📌 **¿Qué sucedió?**: Unos investigadores de ciberseguridad han revelado detalles de un ciberataque en el que un actor de amenazas se valió de una aplicación de Microsoft Store para introducir un troyano de acceso remoto (RAT) llamado Vinci RAT.
+
+- 🔍 **Detalles clave**: Según eSentire, la intrusión comienza con un redireccionamiento a un sitio falso de una herramienta de recorte («snipp.codes-team[.]com»), desde donde se descarga un instalador firmado por Microsoft llamado «Snipping-Tool.exe». La ejecución del binario da lugar a la instalación del Asistente de configuración, una aplicación basada en Electron publicada en
+
+- 💡 **Impacto y contexto**: «La aplicación estaba muy ofuscada, mantenía la comunicación con la infraestructura de C2 [comando y control], supervisaba la carpeta de descargas de la víctima y permitía la ejecución de PowerShell y JavaScript proporcionados por el C2», afirmó eSentire.
+
+🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html)**
 
 ---
 
@@ -90,6 +86,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#72](editions/2026/11/2026-11-27.md) | 2026-11-27 | [Matters.AI consigue la mayor ronda de financiación pre-se...](https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks) | 🛡️ Ciberseguridad |
 | [#71](editions/2026/11/2026-11-26.md) | 2026-11-26 | [La FIFA afirma que ha sido víctima de un ciberataque en e...](https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/) | 🛡️ Ciberseguridad |
 | [#70](editions/2026/11/2026-11-25.md) | 2026-11-25 | [Los ciberdelincuentes atacan a los desarrolladores de .NE...](https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments) | 🛡️ Ciberseguridad |
 | [#69](editions/2026/11/2026-11-24.md) | 2026-11-24 | [Patel guarda silencio sobre el hackeo de la base de datos...](https://cyberscoop.com/kash-patel-fbi-ncic-database-hack/) | 🛡️ Ciberseguridad |
@@ -104,9 +101,8 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 | [#60](editions/2026/11/2026-11-15.md) | 2026-11-15 | [El Pentágono cambia el nombre de la CDAO por «Oficina de ...](https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/) | 🛡️ Ciberseguridad |
 | [#59](editions/2026/11/2026-11-14.md) | 2026-11-14 | [Los atacantes aprovechan una vulnerabilidad de UnrealIRCd...](https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html) | 🛡️ Ciberseguridad |
 | [#58](editions/2026/11/2026-11-13.md) | 2026-11-13 | [Microsoft tiene dificultades para restablecer el correo e...](https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/) | 🛡️ Ciberseguridad |
-| [#57](editions/2026/11/2026-11-12.md) | 2026-11-12 | [Las actualizaciones de Chrome y Firefox corrigen más de 1...](https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/) | 🛡️ Ciberseguridad |
 
-*... y 56 ediciones más en la carpeta `/editions`.*
+*... y 57 ediciones más en la carpeta `/editions`.*
 
 ---
 
