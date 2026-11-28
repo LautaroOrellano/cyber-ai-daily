@@ -1,11 +1,11 @@
 # 🗞️ THE CYBER-AI GAZETTE
 ### *Crónicas Diarias de Inteligencia Artificial, Hackeos y Ciberseguridad*
 
-> **📅 Edición de Hoy: N° 72** — *Viernes, 27 de Noviembre de 2026*
+> **📅 Edición de Hoy: N° 73** — *Sábado, 28 de Noviembre de 2026*
 >
 > 🌐 **Idioma:** **Español** &nbsp;|&nbsp; [🇺🇸 Read in English (README.md)](README.md)
 
-![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_72-black?style=for-the-badge)
+![Edición](https://img.shields.io/badge/Edici%C3%B3n-N%C2%B0_73-black?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow?style=for-the-badge)
 ![Noticias](https://img.shields.io/badge/Noticias-5_Diarias-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-GitHub_Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,66 +17,70 @@ Bienvenido a **The CyberAI Gazette**, tu periódico digital automatizado. Cada d
 
 ## 📢 TITULAR PRINCIPAL (LEAD STORY)
 
-### 📌 [Matters.AI consigue la mayor ronda de financiación pre-serie A de ciberseguridad de la India para combatir los riesgos de los datos de la IA](https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** Dark Reading &nbsp;|&nbsp; *Original:* `Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks`
+### 📌 [El gestor de contraseñas pCloud sufre un ciberataque que implica la exposición de direcciones de correo electrónico e intentos de inicio de sesión](https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts`
 
-- 📌 **¿Qué sucedió?**: La «startup» de seguridad consolida cuatro herramientas de seguridad heredadas en una plataforma autónoma que utiliza IA sensible al contexto para rastrear el linaje de los datos confidenciales, analizar la intención de los usuarios y corregir automáticamente las amenazas en los entornos empresariales.
+- 📌 **¿Qué sucedió?**: El gestor de contraseñas multiplataforma pCloud Pass ha confirmado que fue víctima de un ciberataque después de que los usuarios informaran de que habían visto dispositivos desconocidos conectados a sus cuentas.
 
-- 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
+- 🔍 **Detalles clave**: «Se produjo un ciberataque dirigido contra pCloud Pass, que el equipo de pCloud contuvo de inmediato», afirmó la empresa suiza en respuesta a varias publicaciones en Reddit. «Por desgracia, se expusieron unas pocas direcciones de correo electrónico de usuarios de pCloud Pass y se produjeron intentos de inicio de sesión. Nuestro sistema envía una notificación
 
-👉 **[Ver nota original completa en Dark Reading (inglés) ↗](https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks)**
+- 💡 **Impacto y contexto**: pCloud hizo hincapié en que los datos de los usuarios no se vieron comprometidos en el ataque, y añadió que las contraseñas, las notas y otros datos almacenados en pCloud Pass están cifrados y solo se puede acceder a ellos tras proporcionar una contraseña maestra.
+
+👉 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html)**
 
 ---
 
 ## 📰 COLUMNAS DESTACADAS DEL DÍA (4 Noticias)
 
-### 🔹 Columna 2: [Los widgets «hazlo tú mismo» de Android son una forma divertida de programar con estilo](https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** The Verge AI &nbsp;|&nbsp; *Original:* `Android’s DIY widgets are a bit of vibe-coding fun`
+### 🔹 Columna 2: [El director ejecutivo de Sakana AI afirma que sus modelos propios van más allá de la seguridad nacional de Japón](https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** TechCrunch AI &nbsp;|&nbsp; *Original:* `Sakana AI’s CEO says its homegrown models are about more than Japan’s national security`
 
-- 📌 **¿Qué sucedió?**: Aparte de gestionar mi calendario, hay una cosa que quiero que haga la IA: decirme si estoy a punto de perder el autobús.
+- 📌 **¿Qué sucedió?**: Sakana AI, una «startup» japonesa de IA, reveló el mes pasado sus planes para desarrollar su propio modelo fundacional. Esta iniciativa ha llamado la atención por su posible impacto en los sectores de la defensa y la ciberseguridad de Japón, así como por la preocupación que suscita la dependencia de las tecnologías estadounidenses y chinas.
 
-- 🔍 **Detalles clave**: Puedes divertirte creando widgets, siempre y cuando no esperes demasiado.
+- 🔍 **Detalles clave**: El cofundador y director ejecutivo de Sakana AI, David Ha, ha comentado a TechCrunch que su próximo modelo fundacional, Sawara, forma parte del objetivo más amplio de la empresa de apoyar y reforzar los sectores industrial y manufacturero de Japón mediante la IA. Además, Ha señaló el aumento de las amenazas a la ciberseguridad y subrayó la necesidad de una IA nacional.
 
-- 💡 **Impacto y contexto**: Lo que necesito es un widget. Tiene que indicarme en tiempo real las llegadas a la parada de autobús que hay cerca de mi casa. Tocar la pantalla de mi teléfono para abrir la aplicación correcta y seleccionar mi parada me ralentizará lo suficiente como para perder un autobús. Necesito información de un vistazo, y esperaba que la función de widgets con código Vibe de Android pudiera ayudarme en este sentido.
+- 💡 **Impacto y contexto**: «Cuando empezamos a planificar este modelo, por supuesto, teníamos en mente la IA física, la fabricación y la industria, y seguimos teniéndolas. Esta es nuestra visión a largo plazo», afirmó Ha. «Pero a corto plazo, creo que Japón también tiene una necesidad real de capacidades relacionadas con la seguridad».
 
-🔗 **[Ver nota original completa en The Verge AI (inglés) ↗](https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini)**
-
----
-
-### 🔹 Columna 3: [Los fallos del «modo Dios» podrían causar estragos en el control de fronteras](https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** Dark Reading &nbsp;|&nbsp; *Original:* `'God Mode' Flaws Could Wreak Border-Control Havoc`
-
-- 📌 **¿Qué sucedió?**: Los atacantes podrían haber obstaculizado la entrada de viajeros a Nigeria, Etiopía, Zambia, Sri Lanka, Fiyi y Ghana a través de varias vulnerabilidades en sus sistemas de visados e inmigración en línea.
-
-- 🔍 **Detalles clave**: Consulta el enlace original para leer la cobertura completa.
-
-🔗 **[Ver nota original completa en Dark Reading (inglés) ↗](https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc)**
+🔗 **[Ver nota original completa en TechCrunch AI (inglés) ↗](https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/)**
 
 ---
 
-### 🔹 Columna 4: [Un nuevo tipo de chip ejecuta modelos de IA utilizando ondas de luz](https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/)
-> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Wired AI &nbsp;|&nbsp; *Original:* `A New Breed of Chip Runs AI Models Using Waves of Light`
+### 🔹 Columna 3: [Unos hackers presuntamente vinculados a Vietnam atacan al sudeste asiático en una campaña de espionaje en el mar de China Meridional](https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign`
 
-- 📌 **¿Qué sucedió?**: A medida que la inteligencia artificial se convierte en una parte ineludible de la vida cotidiana y los modelos son cada vez más sofisticados, el coste de la energía necesaria para hacer funcionar la tecnología se dispara.
+- 📌 **¿Qué sucedió?**: Se ha atribuido a un grupo de hackers patrocinado por Vietnam una serie de ataques dirigidos contra organizaciones militares, gubernamentales y legislativas del sudeste asiático con el objetivo de recabar información sobre la defensa del mar de China Meridional y los acuerdos militares.
 
-- 🔍 **Detalles clave**: Para controlar los costes desbocados, los laboratorios de IA y los proveedores de servicios en la nube están intentando construir nuevos centros de datos en lugares con energía renovable barata y abundante, como Escandinavia. Sin embargo, los problemas logísticos, la escasez de componentes clave y la oleada de protestas contra los centros de datos están obstaculizando el proceso.
+- 🔍 **Detalles clave**: El conjunto de incursiones, hasta ahora no documentado, que SOCRadar ha detallado, ha recibido el nombre en clave de WeaveLotus. Se estima que la actividad incluyó cinco intrusiones en Tailandia y Filipinas, así como labores de reconocimiento contra organizaciones gubernamentales de Indonesia.
 
-- 💡 **Impacto y contexto**: Un creciente sector de «startups» de «hardware», entre ellas la empresa alemana Q.ANT, está abordando el problema desde una perspectiva diferente: desarrollando un nuevo tipo de chip, los procesadores fotónicos, diseñados para minimizar la cantidad de energía que consumen los modelos de IA.
+- 💡 **Impacto y contexto**: «El acceso inicial se logró principalmente explotando vulnerabilidades de aplicaciones web y credenciales predeterminadas en software de código abierto, incluidos GeoServer, JasperReports, osTicket y configuraciones expuestas del modo de depuración de Laravel», afirmó SOCRadar en un análisis publicado el jueves.
 
-🔗 **[Ver nota original completa en Wired AI (inglés) ↗](https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/)**
+🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html)**
 
 ---
 
-### 🔹 Columna 5: [Se ha descubierto una aplicación de Microsoft Store que instala el troyano Vinci RAT, capaz de controlar sistemas de forma remota](https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html)
-> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** The Hacker News &nbsp;|&nbsp; *Original:* `Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control`
+### 🔹 Columna 4: [Trainium3 en acción: generación de vídeos con LTX-2.5](https://huggingface.co/blog/video-trainium3)
+> **Categoría:** 🤖 Inteligencia Artificial & ML &nbsp;|&nbsp; **Fuente:** Hugging Face Blog &nbsp;|&nbsp; *Original:* `Taking Trainium3 to the Track: Generating Videos with LTX-2.5`
 
-- 📌 **¿Qué sucedió?**: Unos investigadores de ciberseguridad han revelado detalles de un ciberataque en el que un actor de amenazas se valió de una aplicación de Microsoft Store para introducir un troyano de acceso remoto (RAT) llamado Vinci RAT.
+- 📌 **¿Qué sucedió?**: Trainium3 en acción: generación de vídeos con LTX-2.5
 
-- 🔍 **Detalles clave**: Según eSentire, la intrusión comienza con un redireccionamiento a un sitio falso de una herramienta de recorte («snipp.codes-team[.]com»), desde donde se descarga un instalador firmado por Microsoft llamado «Snipping-Tool.exe». La ejecución del binario da lugar a la instalación del Asistente de configuración, una aplicación basada en Electron publicada en
+- 🔍 **Detalles clave**: Gracias a nuestra colaboración con AWS, tuvimos la suerte de poder acceder a una máquina Trainium3 (trn3.48xlarge, 64 NeuronCores) durante un mes. Pasamos la mayor parte del mes probando modelos de Hugging Face en él y consiguiendo que funcionaran más.
 
-- 💡 **Impacto y contexto**: «La aplicación estaba muy ofuscada, mantenía la comunicación con la infraestructura de C2 [comando y control], supervisaba la carpeta de descargas de la víctima y permitía la ejecución de PowerShell y JavaScript proporcionados por el C2», afirmó eSentire.
+- 💡 **Impacto y contexto**: A cinco días del final, me permití un poco de diversión. Cuando tienes un Ferrari, de vez en cuando te apetece sacarlo a la pista. Así que me pregunté: ¿y si intento generar vídeos?
 
-🔗 **[Ver nota original completa en The Hacker News (inglés) ↗](https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html)**
+🔗 **[Ver nota original completa en Hugging Face Blog (inglés) ↗](https://huggingface.co/blog/video-trainium3)**
+
+---
+
+### 🔹 Columna 5: [Otras noticias: ciberataques a petroleros, Ley Cuántica de la UE, nuevas funciones de VirusTotal](https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/)
+> **Categoría:** 🛡️ Ciberseguridad & Brechas &nbsp;|&nbsp; **Fuente:** SecurityWeek &nbsp;|&nbsp; *Original:* `In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities`
+
+- 📌 **¿Qué sucedió?**: El resumen semanal de noticias de ciberseguridad de SecurityWeek ofrece una visión general concisa de los acontecimientos importantes que quizá aún no hayan recibido una cobertura exhaustiva por separado, pero que siguen siendo relevantes para el panorama general de las amenazas.
+
+- 🔍 **Detalles clave**: Este resumen seleccionado destaca las noticias más importantes sobre divulgaciones de vulnerabilidades, métodos de ataque emergentes, actualizaciones de políticas, informes del sector y otros acontecimientos dignos de mención para ayudar a los lectores a mantenerse bien informados sobre la evolución del entorno de la ciberseguridad.
+
+- 💡 **Impacto y contexto**: Los investigadores de Pluto analizaron archivos web, repositorios de código públicos, motores de búsqueda y otras fuentes y encontraron 16 666 sitios creados con ChatGPT Sites (que crea y aloja aplicaciones web para usuarios de ChatGPT y Codex), 12 830 de los cuales eran accesibles para cualquier persona. Las comprobaciones manuales confirmaron la exposición de datos confidenciales en 27
+
+🔗 **[Ver nota original completa en SecurityWeek (inglés) ↗](https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/)**
 
 ---
 
@@ -86,6 +90,7 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 
 | Edición | Fecha | Titular de Portada (Español) | Tópico |
 | :---: | :---: | :--- | :---: |
+| [#73](editions/2026/11/2026-11-28.md) | 2026-11-28 | [El gestor de contraseñas pCloud sufre un ciberataque que ...](https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html) | 🛡️ Ciberseguridad |
 | [#72](editions/2026/11/2026-11-27.md) | 2026-11-27 | [Matters.AI consigue la mayor ronda de financiación pre-se...](https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks) | 🛡️ Ciberseguridad |
 | [#71](editions/2026/11/2026-11-26.md) | 2026-11-26 | [La FIFA afirma que ha sido víctima de un ciberataque en e...](https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/) | 🛡️ Ciberseguridad |
 | [#70](editions/2026/11/2026-11-25.md) | 2026-11-25 | [Los ciberdelincuentes atacan a los desarrolladores de .NE...](https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments) | 🛡️ Ciberseguridad |
@@ -100,9 +105,8 @@ Todas las ediciones anteriores quedan archivadas de forma permanente. Puedes con
 | [#61](editions/2026/11/2026-11-16.md) | 2026-11-16 | [Ataque a la cadena de suministro de Cursor iniciado en Fi...](https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/) | 🛡️ Ciberseguridad |
 | [#60](editions/2026/11/2026-11-15.md) | 2026-11-15 | [El Pentágono cambia el nombre de la CDAO por «Oficina de ...](https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/) | 🛡️ Ciberseguridad |
 | [#59](editions/2026/11/2026-11-14.md) | 2026-11-14 | [Los atacantes aprovechan una vulnerabilidad de UnrealIRCd...](https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html) | 🛡️ Ciberseguridad |
-| [#58](editions/2026/11/2026-11-13.md) | 2026-11-13 | [Microsoft tiene dificultades para restablecer el correo e...](https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/) | 🛡️ Ciberseguridad |
 
-*... y 57 ediciones más en la carpeta `/editions`.*
+*... y 58 ediciones más en la carpeta `/editions`.*
 
 ---
 

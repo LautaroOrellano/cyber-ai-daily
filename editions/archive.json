@@ -1194,5 +1194,22 @@
       "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
       "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html"
     ]
+  },
+  {
+    "edition": 73,
+    "date": "2026-11-28",
+    "rel_path": "editions/2026/11/2026-11-28.md",
+    "title_en": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+    "title_es": "El gestor de contraseñas pCloud sufre un ciberataque que implica la exposición de direcciones de correo electrónico e intentos de inicio de sesión",
+    "category": "cyber",
+    "source": "The Hacker News",
+    "lead_link": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+    "story_links": [
+      "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+      "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+      "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
+      "https://huggingface.co/blog/video-trainium3",
+      "https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/"
+    ]
   }
 ]
